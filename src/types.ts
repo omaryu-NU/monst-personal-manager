@@ -1,0 +1,15 @@
+export type Attribute = '火' | '水' | '木' | '光' | '闇' | 'その他';
+export type Character = { id: string; name: string; attribute: Attribute; abilities: string[]; type?: string; style?: string; race?: string; image?: string; evolution?: string; friendship?: string; ss?: string; source?: string; rarity?: number; hp?: number; attack?: number; speed?: number; strikeShotTurns?: number; friendshipSub?: string; gaugeAbilities?: string[]; connectAbilities?: string[]; illustration?: string; updatedAt?: string };
+export type FruitSlot = { name: string; grade: string };
+export type OwnedHistory = { id: string; at: string; action: string; detail: string };
+export type OwnedCharacter = { id: string; characterId: string; accountId: string; luck: number; level: number; memo: string; fruits: string[]; completed: boolean; emblem?: string; soulSkills?: string[]; targetFruits?: string[]; fruitSlots?: FruitSlot[]; fruitTargets?: FruitSlot[]; heroBook?: boolean; plusValues?: { hp:number; attack:number; speed:number }; trainingStatus?: '未育成'|'育成中'|'育成済み'; favorite?: boolean; tags?: string[]; history?: OwnedHistory[]; updatedAt?: string };
+export type Account = { id: string; name: string };
+export type Quest = { id:string; accountId:string; name:string; difficulty:string; attribute:Attribute; gimmicks:string[]; memo:string; updatedAt?:string };
+export type TeamHistory = { id:string; at:string; action:string; snapshot:{name:string; quest:string; gimmicks:string; slots:(string|null)[]; questId?:string; favorite?:boolean; notes?:string} };
+export type Team = { id: string; accountId: string; name: string; quest: string; gimmicks: string; slots: (string | null)[]; questId?:string; favorite?:boolean; notes?:string; history?:TeamHistory[]; updatedAt?:string };
+export type Todo = { id: string; accountId: string; title: string; done: boolean; ownedId?:string; questId?:string; priority?:'高'|'中'|'低'; dueDate?:string };
+export type ExRun = { id: string; accountId: string; quest: string; date: string; spawned: boolean };
+export type Bond = { id: string; accountId: string; friend: string; progress: number; history?:{id:string;at:string;progress:number}[] };
+export type CalendarEvent = { id: string; accountId: string; title: string; date: string; note: string; endsAt?:string; category?:string; remind?:boolean };
+export type PlayLog = {id:string;accountId:string;questId?:string;quest:string;teamId?:string;date:string;result:'勝利'|'敗北';memo:string};
+export type AppState = { schemaVersion: 1; catalog: Character[]; accounts: Account[]; activeAccountId: string; owned: OwnedCharacter[]; teams: Team[]; quests: Quest[]; todos: Todo[]; runs: ExRun[]; bonds: Bond[]; events: CalendarEvent[]; playLogs?: PlayLog[] };

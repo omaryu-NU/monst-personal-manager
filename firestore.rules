@@ -1,0 +1,22 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function owner(uid) { return request.auth != null && request.auth.uid == uid; }
+    match /users/{uid}/data/{section} {
+      allow read: if owner(uid);
+      allow create, update: if owner(uid)
+        && section in ['catalog','accounts','activeAccountId','owned','teams','quests','todos','runs','bonds','events','playLogs']
+        && request.resource.data.keys().hasOnly(['value','revision','updatedAt'])
+        && request.resource.data.keys().hasAll(['value','revision','updatedAt'])
+        && request.resource.data.revision is int
+        && request.resource.data.revision > 0
+        && (resource == null || request.resource.data.revision == resource.data.revision + 1);
+      allow delete: if false;
+    }
+    match /users/{uid}/private/state {
+      allow read: if owner(uid);
+      allow create, update, delete: if false; // v1は保全する
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}

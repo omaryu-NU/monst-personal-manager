@@ -1,0 +1,11 @@
+{
+  "name":"Monst Personal Manager",
+  "short_name":"Monst Manager",
+  "description":"個人用ゲームキャラクター・編成管理",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#090e1c",
+  "theme_color":"#101b30",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

@@ -1,0 +1,47 @@
+name: Update Technophere catalog
+on:
+  schedule:
+    - cron: '17 */3 * * *' # UTC every 3 hours; scheduling may be delayed
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: technophere-catalog-update
+  cancel-in-progress: false
+jobs:
+  update:
+    if: vars.TECHNOPHERE_REUSE_APPROVED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install -r scripts/requirements-catalog.txt
+      - name: Run monitor
+        env:
+          TECHNOPHERE_REUSE_APPROVED: 'true'
+        run: python scripts/technophere_catalog.py --pages 5 --profiles 15 --delay 1.5
+      - name: Commit validated outputs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/catalog/manifest.json public/catalog/characters-*.json catalog-update-state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh public monster catalog'
+            git push
+          fi
+      - name: Deploy catalog to Firebase Hosting (optional)
+        if: vars.AUTO_DEPLOY_HOSTING == 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+        run: |
+          test -n "$FIREBASE_SERVICE_ACCOUNT"
+          test -n "$FIREBASE_PROJECT_ID"
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/firebase-sa.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/firebase-sa.json"
+          npm install --no-save firebase-tools
+          npx firebase-tools deploy --only hosting --project "$FIREBASE_PROJECT_ID" --non-interactive

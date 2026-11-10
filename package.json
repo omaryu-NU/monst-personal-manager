@@ -1,0 +1,30 @@
+{
+  "name": "monst-personal-manager",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/structure.test.mjs tests/catalog-v04.test.mjs tests/owned-v05.test.mjs tests/quest-v06.test.mjs tests/play-v07.test.mjs tests/analytics-v08.test.mjs tests/ux-v09.test.mjs tests/integrity-v10.test.mjs tests/backup-v10.test.mjs tests/performance-v10.test.mjs",
+    "test:emulator": "node --test tests/emulator.test.mjs",
+    "test:e2e": "playwright test",
+    "test:all": "npm test && npm run build"
+  },
+  "dependencies": {
+    "firebase": "^12.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.9.0",
+    "vite": "^7.0.0",
+    "@playwright/test": "^1.56.0"
+  }
+}

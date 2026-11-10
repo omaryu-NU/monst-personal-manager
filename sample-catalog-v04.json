@@ -1,0 +1,20 @@
+{
+  "format": "monst-personal-catalog",
+  "version": 2,
+  "provenance": {
+    "provider": "自作サンプル（実在キャラではありません）",
+    "retrievedAt": "2026-11-10T00:00:00Z",
+    "license": { "name": "自作データ", "permissionConfirmed": true }
+  },
+  "characters": [
+    {
+      "id": "demo-1", "name": "サンプル騎士", "attribute": "火",
+      "abilities": ["アンチ重力バリア", "アンチダメージウォール"],
+      "gaugeAbilities": ["アンチワープ"], "type": "反射", "style": "バランス型",
+      "race": "聖騎士", "evolution": "獣神化", "rarity": 6,
+      "hp": 24000, "attack": 26000, "speed": 320.5,
+      "friendship": "サンプル友情", "ss": "サンプルSS", "strikeShotTurns": 16,
+      "source": "自作サンプル"
+    }
+  ]
+}

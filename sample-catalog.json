@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {
+      "id": "sample-a",
+      "name": "オリジナル戦士",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ",
+        "アンチ重力バリア"
+      ],
+      "type": "反射",
+      "style": "バランス型",
+      "race": "聖騎士"
+    },
+    {
+      "id": "sample-b",
+      "name": "オリジナル術師",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "type": "貫通",
+      "style": "砲撃型",
+      "race": "魔族"
+    }
+  ]
+}
