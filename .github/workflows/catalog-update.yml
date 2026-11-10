@@ -1,30 +1,36 @@
 name: Update Technophere catalog
+
 on:
   schedule:
-    - cron: '17 */3 * * *' # UTC every 3 hours; scheduling may be delayed
+    - cron: '17 */3 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 concurrency:
   group: technophere-catalog-update
   cancel-in-progress: false
+
 jobs:
   update:
     if: vars.TECHNOPHERE_REUSE_APPROVED == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install dependencies
+      - name: Install catalog dependencies
         run: python -m pip install -r scripts/requirements-catalog.txt
-      - name: Run monitor
+      - name: Collect and verify catalog
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
         run: python scripts/technophere_catalog.py --pages 5 --profiles 15 --delay 1.5
-      - name: Commit validated outputs
+      - name: Commit validated catalog
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -33,15 +39,57 @@ jobs:
             git commit -m 'chore: refresh public monster catalog'
             git push
           fi
-      - name: Deploy catalog to Firebase Hosting (optional)
+      - name: Set up Node.js for Hosting
+        if: vars.AUTO_DEPLOY_HOSTING == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify Firebase configuration
         if: vars.AUTO_DEPLOY_HOSTING == 'true'
         env:
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          VITE_FIREBASE_API_KEY: ${{ vars.VITE_FIREBASE_API_KEY }}
+          VITE_FIREBASE_AUTH_DOMAIN: ${{ vars.VITE_FIREBASE_AUTH_DOMAIN }}
+          VITE_FIREBASE_PROJECT_ID: ${{ vars.VITE_FIREBASE_PROJECT_ID }}
+          VITE_FIREBASE_APP_ID: ${{ vars.VITE_FIREBASE_APP_ID }}
+        shell: bash
         run: |
-          test -n "$FIREBASE_SERVICE_ACCOUNT"
-          test -n "$FIREBASE_PROJECT_ID"
-          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/firebase-sa.json"
-          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/firebase-sa.json"
-          npm install --no-save firebase-tools
-          npx firebase-tools deploy --only hosting --project "$FIREBASE_PROJECT_ID" --non-interactive
+          set -euo pipefail
+          for key in FIREBASE_PROJECT_ID FIREBASE_SERVICE_ACCOUNT VITE_FIREBASE_API_KEY VITE_FIREBASE_AUTH_DOMAIN VITE_FIREBASE_PROJECT_ID VITE_FIREBASE_APP_ID; do
+            if [ -z "${!key:-}" ]; then
+              echo "Missing required setting: $key" >&2
+              exit 1
+            fi
+          done
+          if [ "$FIREBASE_PROJECT_ID" != "$VITE_FIREBASE_PROJECT_ID" ]; then
+            echo 'Hosting project and web app project differ; refusing to deploy.' >&2
+            exit 1
+          fi
+      - name: Build React app
+        if: vars.AUTO_DEPLOY_HOSTING == 'true'
+        env:
+          VITE_FIREBASE_API_KEY: ${{ vars.VITE_FIREBASE_API_KEY }}
+          VITE_FIREBASE_AUTH_DOMAIN: ${{ vars.VITE_FIREBASE_AUTH_DOMAIN }}
+          VITE_FIREBASE_PROJECT_ID: ${{ vars.VITE_FIREBASE_PROJECT_ID }}
+          VITE_FIREBASE_APP_ID: ${{ vars.VITE_FIREBASE_APP_ID }}
+          VITE_FIREBASE_STORAGE_BUCKET: ${{ vars.VITE_FIREBASE_STORAGE_BUCKET }}
+          VITE_FIREBASE_MESSAGING_SENDER_ID: ${{ vars.VITE_FIREBASE_MESSAGING_SENDER_ID }}
+          VITE_USE_FIREBASE_EMULATORS: 'false'
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          test -f dist/index.html
+          test -f dist/catalog/manifest.json
+      - name: Deploy Hosting only
+        if: vars.AUTO_DEPLOY_HOSTING == 'true'
+        env:
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/firebase-service-account.json"
+          chmod 600 "$RUNNER_TEMP/firebase-service-account.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/firebase-service-account.json"
+          npx --yes firebase-tools@latest deploy --only hosting --project "$FIREBASE_PROJECT_ID" --non-interactive
