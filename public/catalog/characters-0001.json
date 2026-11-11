@@ -174,36 +174,36 @@
       "name": "アリュール",
       "attribute": "闇",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/160.webp",
       "source": "https://game.technophere.com/monst/char/159/#f160",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/160.webp"
+      "race": "神"
     },
     {
       "id": "162",
       "name": "フェニックス",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/162.webp",
       "source": "https://game.technophere.com/monst/char/161/#f162",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/162.webp"
+      "race": "神"
     },
     {
       "id": "164",
       "name": "ケイトス",
       "attribute": "水",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/164.webp",
       "source": "https://game.technophere.com/monst/char/163/#f164",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "幻獣",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/164.webp"
+      "race": "幻獣"
     },
     {
       "id": "168",
