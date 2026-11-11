@@ -2,6 +2,69 @@
   "version": 1,
   "characters": [
     {
+      "id": "7144",
+      "name": "禰豆子",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6152/#f7144"
+    },
+    {
+      "id": "7145",
+      "name": "宇髄天元",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6154/#f7145"
+    },
+    {
+      "id": "7147",
+      "name": "神崎アオイ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7146/#f7147"
+    },
+    {
+      "id": "7155",
+      "name": "不死川玄弥",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7154/#f7155"
+    },
+    {
+      "id": "7156",
+      "name": "炭治郎＆玄弥",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7156/#f7156"
+    },
+    {
+      "id": "7158",
+      "name": "積怒",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7157/#f7158"
+    },
+    {
+      "id": "7160",
+      "name": "可楽",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7159/#f7160"
+    },
+    {
+      "id": "7162",
+      "name": "空喜",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7161/#f7162"
+    },
+    {
+      "id": "7164",
+      "name": "玉壺",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7163/#f7164"
+    },
+    {
       "id": "7166",
       "name": "哀絶",
       "attribute": "闇",
@@ -1565,73 +1628,6 @@
       "attribute": "火",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/7480/#f7482"
-    },
-    {
-      "id": "7484",
-      "name": "甲辰りゅうこ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7483/#f7484"
-    },
-    {
-      "id": "7485",
-      "name": "ミネルヴァ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4462/#f7485",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "7487",
-      "name": "ロヴァー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7486/#f7487"
-    },
-    {
-      "id": "7489",
-      "name": "シーター",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7488/#f7489"
-    },
-    {
-      "id": "7491",
-      "name": "ラーマ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7490/#f7491"
-    },
-    {
-      "id": "7493",
-      "name": "ビーマ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7492/#f7493"
-    },
-    {
-      "id": "7496",
-      "name": "ラーヴァナ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7494/#f7496"
-    },
-    {
-      "id": "7498",
-      "name": "インドラジット",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7497/#f7498"
-    },
-    {
-      "id": "7500",
-      "name": "ドゥルヨーダナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7499/#f7500"
     }
   ]
 }

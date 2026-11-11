@@ -2,6 +2,77 @@
   "version": 1,
   "characters": [
     {
+      "id": "6444",
+      "name": "東海道中膝栗毛",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6443/#f6444"
+    },
+    {
+      "id": "6446",
+      "name": "数見算四郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6445/#f6446"
+    },
+    {
+      "id": "6448",
+      "name": "カティーカドラゴン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6447/#f6448"
+    },
+    {
+      "id": "6451",
+      "name": "リカラス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6449/#f6451"
+    },
+    {
+      "id": "6452",
+      "name": "卑弥呼",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1387/#f6452",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6453",
+      "name": "ヴィレディ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6453/#f6453"
+    },
+    {
+      "id": "6454",
+      "name": "アーキレット",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6454/#f6454"
+    },
+    {
+      "id": "6457",
+      "name": "ちはや",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6455/#f6457"
+    },
+    {
+      "id": "6458",
+      "name": "アンバー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3753/#f6458",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "6459",
       "name": "ファントム",
       "attribute": "闇",
@@ -1557,73 +1628,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "6813",
-      "name": "リンヤオ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2773/#f6813",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ホムンクルス"
-    },
-    {
-      "id": "6815",
-      "name": "ホーエンハイム",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6814/#f6815"
-    },
-    {
-      "id": "6817",
-      "name": "オリヴィエ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6816/#f6817"
-    },
-    {
-      "id": "6819",
-      "name": "ヒューズ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6818/#f6819"
-    },
-    {
-      "id": "6821",
-      "name": "リザ＆ロイ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6820/#f6821"
-    },
-    {
-      "id": "6823",
-      "name": "イズミ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6822/#f6823"
-    },
-    {
-      "id": "6824",
-      "name": "エド＆ウィンリィ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6824/#f6824"
-    },
-    {
-      "id": "6826",
-      "name": "バリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6825/#f6826"
-    },
-    {
-      "id": "6828",
-      "name": "プライド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6827/#f6828"
     }
   ]
 }

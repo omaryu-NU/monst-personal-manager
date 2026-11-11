@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "112",
+      "name": "マーリック",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/111/#f112",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "114",
+      "name": "サリー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/113/#f114",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "116",
+      "name": "アーノルド",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/115/#f116",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "118",
+      "name": "クリステル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/117/#f118",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "120",
+      "name": "レイメイ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/119/#f120",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "134",
+      "name": "レチリード",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/133/#f134",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "138",
+      "name": "フリーザ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/137/#f138",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "142",
+      "name": "グリンデ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/141/#f142",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "146",
+      "name": "エアロス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/145/#f146",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "150",
       "name": "メイデス",
       "attribute": "闇",
@@ -2101,105 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "797",
-      "name": "直江兼続",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/796/#f797",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "802",
-      "name": "火車",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/801/#f802",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "804",
-      "name": "河童",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/803/#f804",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "807",
-      "name": "天狗",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/805/#f807",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "810",
-      "name": "座敷わらし",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/808/#f810",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "812",
-      "name": "がしゃどくろ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/811/#f812",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "814",
-      "name": "マジカルハスラー珠輝",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/814/#f814",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "816",
-      "name": "リオレウス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/815/#f816",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "818",
-      "name": "ジンオウガ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/817/#f818",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

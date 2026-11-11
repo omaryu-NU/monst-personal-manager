@@ -2,6 +2,77 @@
   "version": 1,
   "characters": [
     {
+      "id": "5002",
+      "name": "波動ねじれ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5002/#f5002"
+    },
+    {
+      "id": "5003",
+      "name": "通形ミリオ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5003/#f5003"
+    },
+    {
+      "id": "5004",
+      "name": "天喰環",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5004/#f5004"
+    },
+    {
+      "id": "5006",
+      "name": "増長天",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5005/#f5006"
+    },
+    {
+      "id": "5007",
+      "name": "マーリン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/286/#f5007",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "5008",
+      "name": "マーリン（夏限定）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2832/#f5008",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "5011",
+      "name": "アリア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5010/#f5011"
+    },
+    {
+      "id": "5020",
+      "name": "テントロッテ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5019/#f5020"
+    },
+    {
+      "id": "5023",
+      "name": "クィーンハーチェル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5021/#f5023"
+    },
+    {
       "id": "5025",
       "name": "ハナカンマッキリー",
       "attribute": "闇",
@@ -1469,81 +1540,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "5565",
-      "name": "真近藤勇",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5564/#f5565"
-    },
-    {
-      "id": "5578",
-      "name": "ディーヴァ/アイドル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5577/#f5578"
-    },
-    {
-      "id": "5580",
-      "name": "Two for all/アイドル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5579/#f5580"
-    },
-    {
-      "id": "5590",
-      "name": "ティップ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5588/#f5590"
-    },
-    {
-      "id": "5592",
-      "name": "ロンカ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5591/#f5592"
-    },
-    {
-      "id": "5594",
-      "name": "ザグマス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5593/#f5594"
-    },
-    {
-      "id": "5596",
-      "name": "ドットシュリンガーラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3462/#f5596",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "5597",
-      "name": "ドットニライカナイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1740/#f5597",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "5598",
-      "name": "ドット風魔小太郎",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3877/#f5598",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

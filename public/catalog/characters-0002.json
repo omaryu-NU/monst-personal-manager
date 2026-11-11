@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "797",
+      "name": "直江兼続",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/796/#f797",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "802",
+      "name": "火車",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/801/#f802",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "804",
+      "name": "河童",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/803/#f804",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "807",
+      "name": "天狗",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/805/#f807",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "810",
+      "name": "座敷わらし",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/808/#f810",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "812",
+      "name": "がしゃどくろ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/811/#f812",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "814",
+      "name": "マジカルハスラー珠輝",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/814/#f814",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "816",
+      "name": "リオレウス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/815/#f816",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "818",
+      "name": "ジンオウガ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/817/#f818",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "820",
       "name": "ティガレックス",
       "attribute": "闇",
@@ -2101,105 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "1479",
-      "name": "テルーマン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1478/#f1479",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1492",
-      "name": "ピノキオα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1491/#f1492",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "1494",
-      "name": "ジョン万次郎α",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1493/#f1494",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1496",
-      "name": "ハナビ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1495/#f1496",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "1498",
-      "name": "ぽんぽこ腹太鼓",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1497/#f1498",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "1500",
-      "name": "クワガトロン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1499/#f1500",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "1503",
-      "name": "ADWs",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1501/#f1503",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "1506",
-      "name": "西瓜頭",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1504/#f1506",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "1511",
-      "name": "くるみ割り人形",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1510/#f1511",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
     }
   ]
 }

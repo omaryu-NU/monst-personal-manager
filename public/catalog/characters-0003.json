@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "1479",
+      "name": "テルーマン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1478/#f1479",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "1492",
+      "name": "ピノキオα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1491/#f1492",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "1494",
+      "name": "ジョン万次郎α",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1493/#f1494",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "1496",
+      "name": "ハナビ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1495/#f1496",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "1498",
+      "name": "ぽんぽこ腹太鼓",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1497/#f1498",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "1500",
+      "name": "クワガトロン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1499/#f1500",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "1503",
+      "name": "ADWs",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1501/#f1503",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "1506",
+      "name": "西瓜頭",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1504/#f1506",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "1511",
+      "name": "くるみ割り人形",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1510/#f1511",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
       "id": "1513",
       "name": "青い鳥",
       "attribute": "水",
@@ -2100,105 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "マベツム"
-    },
-    {
-      "id": "2179",
-      "name": "アイアンマン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2178/#f2179",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "マベツム"
-    },
-    {
-      "id": "2181",
-      "name": "ブラックウィドウ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2180/#f2181",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "マベツム"
-    },
-    {
-      "id": "2183",
-      "name": "ハルク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2182/#f2183",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "マベツム"
-    },
-    {
-      "id": "2185",
-      "name": "ウィンターソルジャー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2184/#f2185",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "マベツム"
-    },
-    {
-      "id": "2187",
-      "name": "ロナン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2186/#f2187",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "マベツム"
-    },
-    {
-      "id": "2189",
-      "name": "グリーンゴブリン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2188/#f2189",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "マベツム"
-    },
-    {
-      "id": "2191",
-      "name": "ロキ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2190/#f2191",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "マベツム"
-    },
-    {
-      "id": "2193",
-      "name": "ウルトロン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2192/#f2193",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "マベツム"
-    },
-    {
-      "id": "2195",
-      "name": "ヴェノム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2194/#f2195",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "マベツム"
     }
   ]

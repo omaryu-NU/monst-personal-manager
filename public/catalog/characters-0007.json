@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "4376",
+      "name": "キャンディ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4375/#f4376",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4378",
+      "name": "ヴァンプキッド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4377/#f4378",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4380",
+      "name": "タピルウ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4379/#f4380",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4383",
+      "name": "メア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4381/#f4383",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "4391",
+      "name": "カヤノヒメ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4390/#f4391",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "4402",
+      "name": "芹沢鴨",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4400/#f4402",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "4404",
+      "name": "井上源三郎",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4403/#f4404",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4406",
+      "name": "伊東甲子太郎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4405/#f4406",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4408",
+      "name": "山崎丞",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4407/#f4408",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "4411",
       "name": "ウサフィーヌ",
       "attribute": "火",
@@ -2013,77 +2112,6 @@
       "attribute": "火",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/5001/#f5001"
-    },
-    {
-      "id": "5002",
-      "name": "波動ねじれ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5002/#f5002"
-    },
-    {
-      "id": "5003",
-      "name": "通形ミリオ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5003/#f5003"
-    },
-    {
-      "id": "5004",
-      "name": "天喰環",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5004/#f5004"
-    },
-    {
-      "id": "5006",
-      "name": "増長天",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5005/#f5006"
-    },
-    {
-      "id": "5007",
-      "name": "マーリン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/286/#f5007",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "5008",
-      "name": "マーリン（夏限定）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2832/#f5008",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "5011",
-      "name": "アリア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5010/#f5011"
-    },
-    {
-      "id": "5020",
-      "name": "テントロッテ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5019/#f5020"
-    },
-    {
-      "id": "5023",
-      "name": "クィーンハーチェル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5021/#f5023"
     }
   ]
 }

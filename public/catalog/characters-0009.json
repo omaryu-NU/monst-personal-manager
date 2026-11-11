@@ -2,6 +2,81 @@
   "version": 1,
   "characters": [
     {
+      "id": "5565",
+      "name": "真近藤勇",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5564/#f5565"
+    },
+    {
+      "id": "5578",
+      "name": "ディーヴァ/アイドル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5577/#f5578"
+    },
+    {
+      "id": "5580",
+      "name": "Two for all/アイドル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5579/#f5580"
+    },
+    {
+      "id": "5590",
+      "name": "ティップ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5588/#f5590"
+    },
+    {
+      "id": "5592",
+      "name": "ロンカ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5591/#f5592"
+    },
+    {
+      "id": "5594",
+      "name": "ザグマス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5593/#f5594"
+    },
+    {
+      "id": "5596",
+      "name": "ドットシュリンガーラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3462/#f5596",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "5597",
+      "name": "ドットニライカナイ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1740/#f5597",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "5598",
+      "name": "ドット風魔小太郎",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3877/#f5598",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "5599",
       "name": "ドットテレシー＆パレシー",
       "attribute": "光",
@@ -1469,81 +1544,6 @@
       "attribute": "闇",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/6043/#f6044"
-    },
-    {
-      "id": "6045",
-      "name": "スクルド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2550/#f6045",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "6047",
-      "name": "モンストローズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/512/#f6047",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6048",
-      "name": "モンストローズMCG",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3973/#f6048",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6052",
-      "name": "キェルケゴール",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6051/#f6052"
-    },
-    {
-      "id": "6056",
-      "name": "ウォフマナフ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6055/#f6056"
-    },
-    {
-      "id": "6058",
-      "name": "ハルワタート",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6057/#f6058"
-    },
-    {
-      "id": "6072",
-      "name": "ノービレ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6071/#f6072"
-    },
-    {
-      "id": "6073",
-      "name": "小南桐絵",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5305/#f6073"
-    },
-    {
-      "id": "6074",
-      "name": "迅悠一",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5307/#f6074"
     }
   ]
 }

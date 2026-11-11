@@ -2,6 +2,81 @@
   "version": 1,
   "characters": [
     {
+      "id": "6045",
+      "name": "スクルド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2550/#f6045",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6047",
+      "name": "モンストローズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/512/#f6047",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6048",
+      "name": "モンストローズMCG",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3973/#f6048",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6052",
+      "name": "キェルケゴール",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6051/#f6052"
+    },
+    {
+      "id": "6056",
+      "name": "ウォフマナフ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6055/#f6056"
+    },
+    {
+      "id": "6058",
+      "name": "ハルワタート",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6057/#f6058"
+    },
+    {
+      "id": "6072",
+      "name": "ノービレ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6071/#f6072"
+    },
+    {
+      "id": "6073",
+      "name": "小南桐絵",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5305/#f6073"
+    },
+    {
+      "id": "6074",
+      "name": "迅悠一",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5307/#f6074"
+    },
+    {
       "id": "6075",
       "name": "空閑遊真",
       "attribute": "闇",
@@ -1537,77 +1612,6 @@
       "attribute": "光",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/6441/#f6442"
-    },
-    {
-      "id": "6444",
-      "name": "東海道中膝栗毛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6443/#f6444"
-    },
-    {
-      "id": "6446",
-      "name": "数見算四郎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6445/#f6446"
-    },
-    {
-      "id": "6448",
-      "name": "カティーカドラゴン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6447/#f6448"
-    },
-    {
-      "id": "6451",
-      "name": "リカラス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6449/#f6451"
-    },
-    {
-      "id": "6452",
-      "name": "卑弥呼",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1387/#f6452",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6453",
-      "name": "ヴィレディ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6453/#f6453"
-    },
-    {
-      "id": "6454",
-      "name": "アーキレット",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6454/#f6454"
-    },
-    {
-      "id": "6457",
-      "name": "ちはや",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6455/#f6457"
-    },
-    {
-      "id": "6458",
-      "name": "アンバー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3753/#f6458",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

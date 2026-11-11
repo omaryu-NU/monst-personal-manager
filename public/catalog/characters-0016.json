@@ -2,6 +2,69 @@
   "version": 1,
   "characters": [
     {
+      "id": "8163",
+      "name": "食蜂操祈",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8162/#f8163"
+    },
+    {
+      "id": "8165",
+      "name": "白井黒子",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8164/#f8165"
+    },
+    {
+      "id": "8166",
+      "name": "上条当麻",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8166/#f8166"
+    },
+    {
+      "id": "8168",
+      "name": "フレンダ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8167/#f8168"
+    },
+    {
+      "id": "8170",
+      "name": "木山春生",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8169/#f8170"
+    },
+    {
+      "id": "8172",
+      "name": "ドッペルゲンガー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8171/#f8172"
+    },
+    {
+      "id": "8173",
+      "name": "麦野沈利",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8173/#f8173"
+    },
+    {
+      "id": "8175",
+      "name": "警策看取",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8174/#f8175"
+    },
+    {
+      "id": "8177",
+      "name": "絹旗最愛",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8176/#f8177"
+    },
+    {
       "id": "8178",
       "name": "ミサカ妹",
       "attribute": "木",
@@ -1481,73 +1544,6 @@
       "attribute": "水",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/8479/#f8480"
-    },
-    {
-      "id": "8482",
-      "name": "伊地知虹夏",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8481/#f8482"
-    },
-    {
-      "id": "8483",
-      "name": "後藤ひとり",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8483/#f8483"
-    },
-    {
-      "id": "8485",
-      "name": "廣井きくり",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8484/#f8485"
-    },
-    {
-      "id": "8486",
-      "name": "結束バンド",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8486/#f8486"
-    },
-    {
-      "id": "8487",
-      "name": "スサノオ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/193/#f8487",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "神"
-    },
-    {
-      "id": "8488",
-      "name": "梃子場亜流太",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5346/#f8488"
-    },
-    {
-      "id": "8490",
-      "name": "三途α",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8489/#f8490"
-    },
-    {
-      "id": "8492",
-      "name": "物干し竿α",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8491/#f8492"
-    },
-    {
-      "id": "8494",
-      "name": "チヨα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8493/#f8494"
     }
   ]
 }

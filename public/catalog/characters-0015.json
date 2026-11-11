@@ -2,6 +2,77 @@
   "version": 1,
   "characters": [
     {
+      "id": "7831",
+      "name": "スペラール",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7829/#f7831"
+    },
+    {
+      "id": "7833",
+      "name": "ボルカノザーラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7832/#f7833"
+    },
+    {
+      "id": "7835",
+      "name": "カジキラス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7834/#f7835"
+    },
+    {
+      "id": "7837",
+      "name": "みかしば",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7836/#f7837"
+    },
+    {
+      "id": "7838",
+      "name": "鄧艾",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4622/#f7838",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7840",
+      "name": "ネクタル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7839/#f7840"
+    },
+    {
+      "id": "7843",
+      "name": "モンテクリスト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7841/#f7843"
+    },
+    {
+      "id": "7844",
+      "name": "ファンタオラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7844/#f7844"
+    },
+    {
+      "id": "7845",
+      "name": "プロメテウス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1439/#f7845",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
       "id": "7846",
       "name": "ノイン",
       "attribute": "火",
@@ -1549,69 +1620,6 @@
       "attribute": "木",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/8160/#f8161"
-    },
-    {
-      "id": "8163",
-      "name": "食蜂操祈",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8162/#f8163"
-    },
-    {
-      "id": "8165",
-      "name": "白井黒子",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8164/#f8165"
-    },
-    {
-      "id": "8166",
-      "name": "上条当麻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8166/#f8166"
-    },
-    {
-      "id": "8168",
-      "name": "フレンダ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8167/#f8168"
-    },
-    {
-      "id": "8170",
-      "name": "木山春生",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8169/#f8170"
-    },
-    {
-      "id": "8172",
-      "name": "ドッペルゲンガー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8171/#f8172"
-    },
-    {
-      "id": "8173",
-      "name": "麦野沈利",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8173/#f8173"
-    },
-    {
-      "id": "8175",
-      "name": "警策看取",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8174/#f8175"
-    },
-    {
-      "id": "8177",
-      "name": "絹旗最愛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8176/#f8177"
     }
   ]
 }
