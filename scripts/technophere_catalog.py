@@ -269,6 +269,12 @@ def update(args, session, check_robots=True, wait=time.sleep):
     verified_incomplete={u for u in verified_urls if u not in verified_form_ids
                          or not representative_ids.get(u,set()).intersection(verified_form_ids[u])}
     verified_urls.difference_update(verified_incomplete)
+    # Prefer a previously failed / unvisited listing page instead of forgetting it.
+    # Keep the existing cursor rotation for normal work; this only uses spare slots.
+    missing_pages=[p for p in range(2,total+1) if p not in visited]
+    for missing in missing_pages:
+        if missing not in pages and len(pages)<args.pages:
+            pages.append(missing)
     rate_limited=False
     for page in pages:
         url=INDEX if page==1 else INDEX+f'page/{page}/'
@@ -294,10 +300,32 @@ def update(args, session, check_robots=True, wait=time.sleep):
         wait(args.delay)
     if not scanned:
         raise RuntimeError('No pages fetched; existing output was not touched: '+str(warnings[:3]))
-    # Fair round-robin of family URLs: never request the same completed family again.
-    pending=sorted(set(families)-verified_urls, key=lambda x:int(re.search(r'/char/(\d+)',x).group(1)),reverse=True)
+    # A failing high-number family must not starve all other families. Iterate
+    # deterministically across the full discovered family set, using a persisted
+    # cursor and a bounded per-family backoff (runs, not wall-clock seconds).
+    family_order=sorted(set(families), key=lambda x:int(re.search(r'/char/(\d+)',x).group(1)),reverse=True)
+    run_number=max(0,int(state.get('runNumber',0)))+1
+    retry_state={u:v for u,v in state.get('profileRetry',{}).items()
+                 if u in families and isinstance(v,dict)}
+    profile_cursor=int(state.get('profileCursor',0))%max(len(family_order),1)
+    selected=[]
+    for j in range(len(family_order)):
+        idx=(profile_cursor+j)%len(family_order)
+        u=family_order[idx]
+        if u in verified_urls:continue
+        if run_number<int(retry_state.get(u,{}).get('retryAfterRun',0)):continue
+        selected.append(u)
+        if len(selected)>=args.profiles:break
+    # On a single-run batch, advance past the last *selected* URL even if parsing
+    # fails. This avoids testing the same permanently broken page every run.
+    if selected and not rate_limited:
+        profile_cursor=(family_order.index(selected[-1])+1)%len(family_order)
+    def failed_profile(url):
+        prior=retry_state.get(url,{})
+        count=min(12,int(prior.get('failures',0))+1)
+        retry_state[url]={'failures':count,'retryAfterRun':run_number+min(2**min(count,5),32)}
     verified_this_run=0;forms_extracted=0;unmatched_profiles=0
-    for url in ([] if rate_limited else pending[:args.profiles]):
+    for url in ([] if rate_limited else selected):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
         try:
             r=session.get(url,timeout=25);r.raise_for_status()
@@ -305,6 +333,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
             forms=parse_family(r.text,url)
             if not forms:
                 warnings.append(f'family parse failed: {url}')
+                failed_profile(url)
                 continue
             parsed_ids={item['id'] for item in forms}
             expected=representative_ids.get(url,set())
@@ -314,6 +343,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
             if expected and not parsed_ids.intersection(expected):
                 unmatched_profiles+=1
                 warnings.append(f'representative form missing from family profile: {url}')
+                failed_profile(url)
                 continue
             for item in forms:
                 # Retain familiar short name when a listing record already exists.
@@ -323,10 +353,12 @@ def update(args, session, check_robots=True, wait=time.sleep):
                 rows[item['id']]=reconcile(old,item,verified=True)
                 forms_extracted+=1
             verified_urls.add(url)
+            retry_state.pop(url,None)
             verified_form_ids[url]=parsed_ids
             verified_this_run+=1
         except (requests.RequestException,ValueError) as e:
             warnings.append(f'family {url}: {str(e)[:90]}')
+            failed_profile(url)
             if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
                 rate_limited=True;break
         wait(args.delay)
@@ -337,6 +369,10 @@ def update(args, session, check_robots=True, wait=time.sleep):
               'profileVerifiedThisRun':verified_this_run,'formsExtractedThisRun':forms_extracted,
               'familiesDiscovered':len(families),'familiesVerified':len(verified_urls & set(families)),
               'familiesRemaining':len(set(families)-verified_urls),
+              'profilesAttemptedThisRun':len([] if rate_limited else selected),
+              'profileRetryDelayed':sum(1 for u in families if u not in verified_urls
+                                        and run_number<int(retry_state.get(u,{}).get('retryAfterRun',0))),
+              'listingPagesMissing':sorted(p for p in range(1,total+1) if p not in visited),
               'unmatchedRepresentativeProfilesThisRun':unmatched_profiles,
               'rateLimited':rate_limited,
               'imagesPresent':sum(bool(v.get('image')) for v in rows.values()),
@@ -349,7 +385,9 @@ def update(args, session, check_robots=True, wait=time.sleep):
         incomplete=[p for p in pages if p not in scanned and p!=1]
         if incomplete:next_page=incomplete[0]
     atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp,
-                  'visitedPages':sorted(visited),'verifiedFamilyURLs':sorted(verified_urls),
+                  'visitedPages':sorted(visited),'runNumber':run_number,
+                  'profileCursor':profile_cursor,'profileRetry':retry_state,
+                  'verifiedFamilyURLs':sorted(verified_urls),
                   'verifiedFamilyFormIDs':{u:sorted(v,key=int) for u,v in verified_form_ids.items()
                                             if u in verified_urls}})
     print(f'pages={scanned} families_verified={verified_this_run} forms={forms_extracted} records={manifest["count"]} nextPage={next_page} warnings={len(warnings)}')
