@@ -32,6 +32,33 @@ jobs:
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
         run: python scripts/technophere_catalog.py --pages 5 --profiles 5 --delay 2.5
+      # Phase 15: manual-only, read-only probe. Never edits catalog or evidence.
+      - name: Phase 15 optional image candidate dry run
+        if: github.event_name == 'workflow_dispatch' && vars.IMAGE_PROBE_DRY_RUN == 'true'
+        env:
+          TECHNOPHERE_REUSE_APPROVED: 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f scripts/catalog_image_backfill.py
+          find public/catalog -maxdepth 1 -type f -name '*.json' -print0 | sort -z | xargs -0 sha256sum > "$RUNNER_TEMP/catalog-before.sha256"
+          python scripts/catalog_image_backfill.py public/catalog \
+            --online-limit 3 --delay 4 \
+            --state-file local-reports/image-backfill/actions-state.json \
+            --output local-reports/image-backfill/actions-dry-run.json
+          python scripts/catalog_image_probe_gate.py \
+            local-reports/image-backfill/actions-dry-run.json \
+            --max-attempts 3 --require-dry-run
+          find public/catalog -maxdepth 1 -type f -name '*.json' -print0 | sort -z | xargs -0 sha256sum > "$RUNNER_TEMP/catalog-after.sha256"
+          diff -u "$RUNNER_TEMP/catalog-before.sha256" "$RUNNER_TEMP/catalog-after.sha256"
+      - name: Upload Phase 15 image probe report
+        if: always() && github.event_name == 'workflow_dispatch' && vars.IMAGE_PROBE_DRY_RUN == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-image-probe-dry-run
+          path: local-reports/image-backfill/actions-dry-run.json
+          if-no-files-found: warn
+          retention-days: 14
       - name: Restore HTTP-verified catalog images
         run: |
           test -f catalog-image-evidence.json
