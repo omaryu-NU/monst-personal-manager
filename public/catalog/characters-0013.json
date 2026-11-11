@@ -1384,14 +1384,22 @@
       "name": "島田魁",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7433/#f7434"
+      "source": "https://game.technophere.com/monst/char/7433/#f7434",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット"
     },
     {
       "id": "7436",
       "name": "コニッシュ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7435/#f7436"
+      "source": "https://game.technophere.com/monst/char/7435/#f7436",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "7437",
@@ -1420,14 +1428,22 @@
       "name": "ママゴアシ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7439/#f7440"
+      "source": "https://game.technophere.com/monst/char/7439/#f7440",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻妖"
     },
     {
       "id": "7443",
       "name": "ギルティ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7441/#f7443"
+      "source": "https://game.technophere.com/monst/char/7441/#f7443",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
     },
     {
       "id": "7444",
@@ -1456,49 +1472,77 @@
       "name": "アーニャα",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7446/#f7447"
+      "source": "https://game.technophere.com/monst/char/7446/#f7447",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7449",
       "name": "ロイドα",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7448/#f7449"
+      "source": "https://game.technophere.com/monst/char/7448/#f7449",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7451",
       "name": "ヨルα",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7450/#f7451"
+      "source": "https://game.technophere.com/monst/char/7450/#f7451",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "7453",
       "name": "ダミアン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7452/#f7453"
+      "source": "https://game.technophere.com/monst/char/7452/#f7453",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7455",
       "name": "フランキー",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7454/#f7455"
+      "source": "https://game.technophere.com/monst/char/7454/#f7455",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "7458",
       "name": "フィオナ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7456/#f7458"
+      "source": "https://game.technophere.com/monst/char/7456/#f7458",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "7459",
       "name": "ベッキー",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7459/#f7459"
+      "source": "https://game.technophere.com/monst/char/7459/#f7459",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7460",
@@ -1527,14 +1571,22 @@
       "name": "水戸光圀",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7462/#f7463"
+      "source": "https://game.technophere.com/monst/char/7462/#f7463",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
     },
     {
       "id": "7464",
       "name": "ユーリ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7464/#f7464"
+      "source": "https://game.technophere.com/monst/char/7464/#f7464",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7465",
@@ -1584,7 +1636,11 @@
       "name": "江間宮まよい",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7470/#f7471"
+      "source": "https://game.technophere.com/monst/char/7470/#f7471",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
     },
     {
       "id": "7472",
@@ -1620,14 +1676,22 @@
       "name": "ハレルヤ（新春）",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7477/#f7477"
+      "source": "https://game.technophere.com/monst/char/7477/#f7477",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
     },
     {
       "id": "7482",
       "name": "マサムネ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7480/#f7482"
+      "source": "https://game.technophere.com/monst/char/7480/#f7482",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "サムライ"
     }
   ]
 }

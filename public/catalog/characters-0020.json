@@ -659,59 +659,210 @@
       "race": "亜人"
     },
     {
+      "id": "9475",
+      "name": "ライ＆ロイ",
+      "attribute": "木",
+      "abilities": [
+        "ソウルスティール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9475.webp",
+      "source": "https://game.technophere.com/monst/char/9475/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "超絶破裂斬撃弾 （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17746,
+      "attack": 22253,
+      "speed": 308.87
+    },
+    {
       "id": "9476",
       "name": "ライ＆ロイ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9475/#f9476",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9476.webp",
+      "source": "https://game.technophere.com/monst/char/9475/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶破裂斬撃弾 （木）",
+      "ss": "ライとロイで駆け回る＆ライがふれた敵の防御力を吸収し、ロイがふれた敵の攻撃力を吸収する 16ターン",
+      "rarity": 6,
+      "hp": 19184,
+      "attack": 17987,
+      "speed": 331.67,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "ソウルスティール"
+      ]
+    },
+    {
+      "id": "9477",
+      "name": "シリウス",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9477.webp",
+      "source": "https://game.technophere.com/monst/char/9477/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶ホーミング6 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17538,
+      "attack": 22643,
+      "speed": 243.77
     },
     {
       "id": "9478",
       "name": "シリウス",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9477/#f9478",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ減速壁",
+        "バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9478.webp",
+      "source": "https://game.technophere.com/monst/char/9477/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "爆絶ホーミング12 （光）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を金鎖で攻撃 13ターン",
+      "rarity": 6,
+      "hp": 19511,
+      "attack": 18303,
+      "speed": 261.77,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチマルチレイヤ"
+      ]
+    },
+    {
+      "id": "9479",
+      "name": "カペラ",
+      "attribute": "闇",
+      "abilities": [
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9479.webp",
+      "source": "https://game.technophere.com/monst/char/9479/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーL （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17538,
+      "attack": 23048,
+      "speed": 236.9
     },
     {
       "id": "9480",
       "name": "カペラ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9479/#f9480",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチワープ",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9480.webp",
+      "source": "https://game.technophere.com/monst/char/9479/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ワンウェイレーザーEL （闇）",
+      "ss": "スピードとパワーがアップし、ふれた敵を一定期間、毒状態にする＆停止後に最初にふれた味方に変身 20ターン",
+      "rarity": 6,
+      "hp": 19178,
+      "attack": 18630,
+      "speed": 254.4,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "9481",
+      "name": "レグルス",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9481.webp",
+      "source": "https://game.technophere.com/monst/char/9481/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶オールレンジバレット （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16391,
+      "attack": 18686,
+      "speed": 271.13
     },
     {
       "id": "9482",
       "name": "レグルス",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9481/#f9482",
+      "abilities": [
+        "アンチワープ",
+        "ロングパワーモード ロングシールドモード ロングバブリーモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9482.webp",
+      "source": "https://game.technophere.com/monst/char/9481/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "爆絶オールレンジバレット （光）",
+      "ss": "スピードとパワーがアップ＆停止後にすべての敵を水滴の弾丸で攻撃 22ターン",
+      "rarity": 6,
+      "hp": 16391,
+      "attack": 18686,
+      "speed": 271.13,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "アンチ転送壁"
+      ]
     },
     {
       "id": "9483",
       "name": "リリアナ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9483/#f9483",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチブロック",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9483.webp",
+      "source": "https://game.technophere.com/monst/char/9483/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "回復拡大爆破弾 （無）",
+      "ss": "ふれた味方を一定期間、バブリー状態にする 12ターン",
+      "rarity": 6,
+      "hp": 19023,
+      "attack": 17907,
+      "speed": 306.13,
+      "gaugeAbilities": [
+        "状態異常回復 バリア付与"
+      ]
     },
     {
       "id": "9484",

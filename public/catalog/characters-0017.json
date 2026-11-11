@@ -503,7 +503,11 @@
       "name": "ドゥームズデイ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8063/#f8558"
+      "source": "https://game.technophere.com/monst/char/8063/#f8558",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
     },
     {
       "id": "8559",
@@ -517,7 +521,11 @@
       "name": "クラフト",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7657/#f8560"
+      "source": "https://game.technophere.com/monst/char/7657/#f8560",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8563",

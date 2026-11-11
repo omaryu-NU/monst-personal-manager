@@ -1439,7 +1439,11 @@
       "name": "ラブ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7474/#f9287"
+      "source": "https://game.technophere.com/monst/char/7474/#f9287",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "9288",
@@ -1557,7 +1561,11 @@
       "attribute": "闇",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9305.webp",
-      "source": "https://game.technophere.com/monst/char/7478/#f9305"
+      "source": "https://game.technophere.com/monst/char/7478/#f9305",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "亜人"
     },
     {
       "id": "9306",
@@ -1604,7 +1612,11 @@
       "attribute": "火",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9311.webp",
-      "source": "https://game.technophere.com/monst/char/7510/#f9311"
+      "source": "https://game.technophere.com/monst/char/7510/#f9311",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "9312",
@@ -1612,7 +1624,11 @@
       "attribute": "水",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9312.webp",
-      "source": "https://game.technophere.com/monst/char/7512/#f9312"
+      "source": "https://game.technophere.com/monst/char/7512/#f9312",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9313",
@@ -1620,7 +1636,11 @@
       "attribute": "木",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9313.webp",
-      "source": "https://game.technophere.com/monst/char/7514/#f9313"
+      "source": "https://game.technophere.com/monst/char/7514/#f9313",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9315",

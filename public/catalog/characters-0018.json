@@ -1222,21 +1222,33 @@
       "name": "シュタルク",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7659/#f8955"
+      "source": "https://game.technophere.com/monst/char/7659/#f8955",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "亜人"
     },
     {
       "id": "8956",
       "name": "フェルン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7661/#f8956"
+      "source": "https://game.technophere.com/monst/char/7661/#f8956",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8957",
       "name": "フリーレン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7663/#f8957"
+      "source": "https://game.technophere.com/monst/char/7663/#f8957",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
     },
     {
       "id": "8959",
@@ -1572,21 +1584,33 @@
       "name": "ルビー",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7865/#f9007"
+      "source": "https://game.technophere.com/monst/char/7865/#f9007",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9008",
       "name": "有馬かな",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7869/#f9008"
+      "source": "https://game.technophere.com/monst/char/7869/#f9008",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9009",
       "name": "アクア",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7873/#f9009"
+      "source": "https://game.technophere.com/monst/char/7873/#f9009",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "9011",
@@ -1787,7 +1811,11 @@
       "name": "B小町",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7899/#f9039"
+      "source": "https://game.technophere.com/monst/char/7899/#f9039",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "9041",
