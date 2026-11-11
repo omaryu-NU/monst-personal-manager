@@ -10,7 +10,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/112.webp"
     },
     {
       "id": "114",
@@ -21,7 +22,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/114.webp"
     },
     {
       "id": "116",
@@ -32,7 +34,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/116.webp"
     },
     {
       "id": "118",

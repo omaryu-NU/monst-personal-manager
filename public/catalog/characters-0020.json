@@ -233,59 +233,245 @@
       "race": "亜人"
     },
     {
-      "id": "9408",
-      "name": "音ノ木坂2年",
+      "id": "9407",
+      "name": "音ノ木坂2年 高坂穂乃果＆南 ことり＆園⽥海未",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9406/#f9408",
+      "abilities": [
+        "超アンチワープ",
+        "アンチウィンド",
+        "超アンチ減速壁",
+        "木属性キラー ドレインM ゲージ倍率保持"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9407.webp",
+      "source": "https://game.technophere.com/monst/char/9406/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "トライデントスパイラルレイ （火） 副友情 乱回復弾 （無）",
+      "ss": "みんなで叶える力で味方を動かし敵へ撃ちこみ、ふれた敵の弱点倍率を一定期間アップさせる＆停止後に再度味方を動かし敵へ撃ちこむ 16+8ターン",
+      "rarity": 6,
+      "hp": 20565,
+      "attack": 24329,
+      "speed": 352.57,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "9408",
+      "name": "音ノ木坂2年",
+      "attribute": "火",
+      "abilities": [
+        "超アンチワープ",
+        "アンチウィンド",
+        "超アンチ減速壁",
+        "木属性キラー ドレインM ゲージ倍率保持"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9408.webp",
+      "source": "https://game.technophere.com/monst/char/9406/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "トライデントスパイラルレイ （火） 副友情 乱回復弾 （無）",
+      "ss": "みんなで叶える力で味方を動かし敵へ撃ちこみ、ふれた敵の弱点倍率を一定期間アップさせる＆停止後に再度味方を動かし敵へ撃ちこむ 16+8ターン",
+      "rarity": 6,
+      "hp": 20565,
+      "attack": 24329,
+      "speed": 352.57,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "9410",
+      "name": "音ノ木坂1年 小泉花陽＆⻄木野真姫＆星空 凛",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチ魔法陣",
+        "超アンチ転送壁",
+        "アンチ減速床",
+        "アウトポジションキラーM 幻竜封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9410.webp",
+      "source": "https://game.technophere.com/monst/char/9409/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "バーストスピナー （水） 副友情 バブリーギフト （無）",
+      "ss": "一定期間、スピードとパワーがアップし、無敵状態になる＆ふれた敵を一定期間、アクセラレータ状態にする 16+8ターン",
+      "rarity": 6,
+      "hp": 21041,
+      "attack": 26976,
+      "speed": 339.67
     },
     {
       "id": "9411",
       "name": "音ノ木坂1年",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9409/#f9411",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチ魔法陣",
+        "超アンチ転送壁",
+        "アンチ減速床",
+        "アウトポジションキラーM 幻竜封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9411.webp",
+      "source": "https://game.technophere.com/monst/char/9409/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "バーストスピナー （水） 副友情 バブリーギフト （無）",
+      "ss": "一定期間、スピードとパワーがアップし、無敵状態になる＆ふれた敵を一定期間、アクセラレータ状態にする 16+8ターン",
+      "rarity": 6,
+      "hp": 21041,
+      "attack": 26976,
+      "speed": 339.67
+    },
+    {
+      "id": "9412",
+      "name": "鹿角聖良＆鹿角理亞",
+      "attribute": "木",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9412.webp",
+      "source": "https://game.technophere.com/monst/char/9412/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "SS短縮拡大爆破弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8598,
+      "attack": 9675,
+      "speed": 300.27
     },
     {
       "id": "9413",
       "name": "Saint Snow",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9412/#f9413",
+      "abilities": [
+        "アンチワープ",
+        "超マインスイーパーM",
+        "ロングシールドモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9413.webp",
+      "source": "https://game.technophere.com/monst/char/9412/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "SS短縮拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップ＆一定期間、ふれた敵をアクセラレータ状態にし、防御力をダウン 18ターン",
+      "rarity": 5,
+      "hp": 14650,
+      "attack": 14066,
+      "speed": 382.83,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "ボスキラー"
+      ]
+    },
+    {
+      "id": "9414",
+      "name": "綺羅ツバサ＆統堂英玲奈＆優木あんじゅ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9414.webp",
+      "source": "https://game.technophere.com/monst/char/9414/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "8方向爆撃 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 10652,
+      "attack": 11176,
+      "speed": 212.6
     },
     {
       "id": "9415",
       "name": "A-RISE",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9414/#f9415",
+      "abilities": [
+        "超アンチワープ",
+        "アンチ魔法陣",
+        "アンチ減速床",
+        "友情ブーストL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9415.webp",
+      "source": "https://game.technophere.com/monst/char/9414/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "8方向爆撃 （無）",
+      "ss": "スピードとパワーがアップし、ふれた味方のパワーと友情コンボ威力を一定期間アップ＆ガイドを付与する 16ターン",
+      "rarity": 5,
+      "hp": 14782,
+      "attack": 16369,
+      "speed": 283.3
+    },
+    {
+      "id": "9417",
+      "name": "音ノ木坂3年 矢澤にこ＆絢瀬絵里＆東條 希",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチウィンド",
+        "友情コンボ×2 超レーザーストップM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9417.webp",
+      "source": "https://game.technophere.com/monst/char/9416/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "友スピアップ （無） 副友情 超絶状態異常回復ブラスト （無）",
+      "ss": "スピードとパワーがアップ＆一定期間、ふれた味方のパワーをアップし、バブリー状態にする＆停止後にすべての敵を攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 21623,
+      "attack": 22871,
+      "speed": 318.3,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ザコキラーL 幻妖キラー"
+      ]
     },
     {
       "id": "9418",
       "name": "音ノ木坂3年",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9416/#f9418",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチウィンド",
+        "友情コンボ×2 超レーザーストップM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9418.webp",
+      "source": "https://game.technophere.com/monst/char/9416/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "友スピアップ （無） 副友情 超絶状態異常回復ブラスト （無）",
+      "ss": "スピードとパワーがアップ＆一定期間、ふれた味方のパワーをアップし、バブリー状態にする＆停止後にすべての敵を攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 21623,
+      "attack": 22871,
+      "speed": 318.3,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ザコキラーL 幻妖キラー"
+      ]
     },
     {
       "id": "9419",
