@@ -34,6 +34,16 @@ jobs:
         run: python scripts/technophere_catalog.py --pages 5 --profiles 5 --delay 2.5
       - name: Audit local catalog
         run: python scripts/catalog_progress.py public/catalog --output catalog-audit-summary.json
+      - name: Phase 5 catalog structural integrity gate
+        run: python scripts/catalog_integrity.py public/catalog --output catalog-integrity-report
+      - name: Upload catalog integrity report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-integrity-report
+          path: catalog-integrity-report/
+          if-no-files-found: warn
+          retention-days: 14
       - name: Commit validated catalog
         run: |
           git config user.name 'github-actions[bot]'
