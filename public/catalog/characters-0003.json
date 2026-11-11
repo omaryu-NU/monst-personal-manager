@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1475",
+      "name": "さなぱっちょ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1474/#f1475",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "1477",
       "name": "ぱなえ",
       "attribute": "木",
@@ -2188,17 +2199,6 @@
       "evolution": "神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "マベツム"
-    },
-    {
-      "id": "2175",
-      "name": "キャプテンアメリカ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2174/#f2175",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "マベツム"
     }
   ]

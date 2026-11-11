@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2903",
+      "name": "ヘンドリクセン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2901/#f2903",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔神"
+    },
+    {
+      "id": "2906",
+      "name": "ヤマトタケル廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/757/#f2906",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
       "id": "2909",
       "name": "ラグナロク",
       "attribute": "火",
@@ -2175,28 +2197,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "3639",
-      "name": "センジュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3637/#f3639",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "3641",
-      "name": "ラゴラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3640/#f3641",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
     }
   ]
 }

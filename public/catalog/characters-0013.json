@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7135",
+      "name": "ラプラス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4942/#f7135",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "7136",
+      "name": "タージマハル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3924/#f7136",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7137",
+      "name": "天草四郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1249/#f7137",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "7138",
       "name": "天草四郎MV",
       "attribute": "水",
@@ -2021,15 +2054,56 @@
       "speed": 273.9
     },
     {
+      "id": "7442",
+      "name": "sinギルティ：断罪",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチ減速壁",
+        "アンチ転送壁",
+        "超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7442.webp",
+      "source": "https://game.technophere.com/monst/char/7441/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン",
+      "friendship": "攻スピアップ （無） 副友情 防友アップ （無）",
+      "ss": "狙った方向にヒットした敵の弱点をすべて出現させ、弱点倍率をアップさせる攻撃を放つ 22+8ターン",
+      "rarity": 6,
+      "hp": 22630,
+      "attack": 36217,
+      "speed": 323.1,
+      "gaugeAbilities": [
+        "渾身"
+      ]
+    },
+    {
       "id": "7443",
       "name": "ギルティ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7441/#f7443",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール",
+        "超アンチウィンド",
+        "超アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7443.webp",
+      "source": "https://game.technophere.com/monst/char/7441/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ドラゴン"
+      "race": "ドラゴン",
+      "friendship": "バウンドチャージ （無） 副友情 爆絶爆発 （無）",
+      "ss": "ふれた味方のパワーと友情コンボ威力を一定期間アップ 20+4ターン",
+      "rarity": 6,
+      "hp": 18795,
+      "attack": 22635,
+      "speed": 326.1,
+      "gaugeAbilities": [
+        "連撃キラーL SSターンチャージ"
+      ]
     },
     {
       "id": "7444",
@@ -2057,12 +2131,27 @@
       "id": "7447",
       "name": "アーニャα",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7446/#f7447",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチワープ",
+        "無属性耐性M 超レーザーストップM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7447.webp",
+      "source": "https://game.technophere.com/monst/char/7446/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "乱回復弾 （無） 副友情 バウンドチャージ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の状態異常回復と魔法陣効果を解除し、一定期間、無敵状態にする＆ヒットした敵の弱点倍率をアップさせる 14+8ターン",
+      "rarity": 6,
+      "hp": 16323,
+      "attack": 21160,
+      "speed": 345.33,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "超アンチ減速壁"
+      ]
     },
     {
       "id": "7449",
@@ -2184,50 +2273,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "7466",
-      "name": "フォーミュラα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5231/#f7466",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7467",
-      "name": "アロンズロッドα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5233/#f7467",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7468",
-      "name": "ミロク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2941/#f7468",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "7469",
-      "name": "ミロク（クリスマス）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3772/#f7469",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
     }
   ]
 }

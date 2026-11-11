@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9072",
+      "name": "ルビカンテ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9072/#f9072",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "9074",
+      "name": "めぐみん",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9073/#f9074",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9076",
+      "name": "アクア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9075/#f9076",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "9078",
+      "name": "カズマ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9077/#f9078",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "9080",
       "name": "ダクネス",
       "attribute": "光",
@@ -2167,50 +2211,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "妖精"
-    },
-    {
-      "id": "9363",
-      "name": "佐宗リザ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9362/#f9363",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "9366",
-      "name": "チルサマーナ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9364/#f9366",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9368",
-      "name": "ダルマツリン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9367/#f9368",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "9369",
-      "name": "ペリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3059/#f9369",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
     }
   ]
 }

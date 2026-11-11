@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4356",
+      "name": "コマさん",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4356/#f4356",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4358",
+      "name": "ふぶき姫",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4357/#f4358",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
       "id": "4360",
       "name": "キュウビ",
       "attribute": "光",
@@ -2176,28 +2198,6 @@
       "source": "https://game.technophere.com/monst/char/4990/#f4992",
       "evolution": "進化",
       "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4994",
-      "name": "乱波肩動",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4993/#f4994",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4996",
-      "name": "クロノスタシス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4995/#f4996",
-      "evolution": "進化",
-      "type": "貫通",
       "style": "バランス",
       "race": "亜人"
     }

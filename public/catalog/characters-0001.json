@@ -210,36 +210,36 @@
       "name": "ユニコーン",
       "attribute": "光",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/168.webp",
       "source": "https://game.technophere.com/monst/char/167/#f168",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "妖精",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/168.webp"
+      "race": "妖精"
     },
     {
       "id": "170",
       "name": "ケルベロス",
       "attribute": "闇",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/170.webp",
       "source": "https://game.technophere.com/monst/char/169/#f170",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "魔族",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/170.webp"
+      "race": "魔族"
     },
     {
       "id": "172",
       "name": "アスラ",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/172.webp",
       "source": "https://game.technophere.com/monst/char/171/#f172",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/172.webp"
+      "race": "魔人"
     },
     {
       "id": "174",
@@ -250,7 +250,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "妖精"
+      "race": "妖精",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/174.webp"
     },
     {
       "id": "176",
@@ -261,7 +262,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/176.webp"
     },
     {
       "id": "177",
@@ -300,15 +302,40 @@
       "speed": 131.5
     },
     {
+      "id": "179",
+      "name": "ヴァンパイア",
+      "attribute": "闇",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/179.webp",
+      "source": "https://game.technophere.com/monst/char/179/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "拡散弾L2 （闇）",
+      "ss": "ふれた敵に、一定ダメージ 10ターン",
+      "rarity": 4,
+      "hp": 6842,
+      "attack": 4428,
+      "speed": 224.43
+    },
+    {
       "id": "180",
       "name": "ヴァンパイア",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/179/#f180",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/180.webp",
+      "source": "https://game.technophere.com/monst/char/179/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "拡散弾EL3 （闇）",
+      "ss": "ふれた敵に、大ダメージ 12ターン",
+      "rarity": 5,
+      "hp": 11966,
+      "attack": 6201,
+      "speed": 209.83
     },
     {
       "id": "182",
@@ -319,7 +346,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/182.webp"
     },
     {
       "id": "184",
@@ -2223,17 +2251,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "784",
-      "name": "ダヴィンチ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/782/#f784",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ユニバース"
     }
   ]
 }

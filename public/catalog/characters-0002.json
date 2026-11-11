@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "784",
+      "name": "ダヴィンチ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/782/#f784",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
       "id": "795",
       "name": "北条氏康",
       "attribute": "木",
@@ -2188,17 +2199,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1475",
-      "name": "さなぱっちょ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1474/#f1475",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

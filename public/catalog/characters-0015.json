@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7815",
+      "name": "葵＆ハルイチ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7815/#f7815",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7816",
+      "name": "カフカ＆レノ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7816/#f7816",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7817",
+      "name": "ラベンダー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5013/#f7817",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7818",
+      "name": "怪獣10号",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7818/#f7818",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "怪獣"
+    },
+    {
       "id": "7819",
       "name": "アロンズロッド",
       "attribute": "光",
@@ -2156,50 +2200,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ユニバース"
-    },
-    {
-      "id": "8146",
-      "name": "クワイアック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8145/#f8146",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "8147",
-      "name": "ウンディーネ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1105/#f8147",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "8148",
-      "name": "牡丹",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5017/#f8148",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "8150",
-      "name": "ディスモルフォ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8149/#f8150",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻妖"
     }
   ]
 }

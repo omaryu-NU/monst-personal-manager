@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T15:08:05.104315+00:00",
+  "generatedAt": "2026-11-11T15:21:10.879710+00:00",
   "source": "https://game.technophere.com/monst/characters/",
-  "count": 3959,
+  "count": 3963,
   "chunks": [
     {
       "path": "characters-0001.json",
@@ -82,16 +82,16 @@
     },
     {
       "path": "characters-0020.json",
-      "count": 159
+      "count": 163
     }
   ],
   "scan": {
     "pages": [
       1,
-      8,
-      9,
-      10,
-      11
+      12,
+      13,
+      14,
+      15
     ],
     "warnings": []
   },
@@ -152,10 +152,10 @@
     "listingPagesVisited": 50,
     "listingPagesRemaining": 0,
     "profileVerifiedThisRun": 5,
-    "formsExtractedThisRun": 11,
+    "formsExtractedThisRun": 9,
     "familiesDiscovered": 3918,
-    "familiesVerified": 95,
-    "familiesRemaining": 3823,
+    "familiesVerified": 100,
+    "familiesRemaining": 3818,
     "profilesAttemptedThisRun": 5,
     "profileSelectionStrategy": "stratified",
     "profileRetryDelayed": 0,
@@ -163,9 +163,9 @@
     "unmatchedRepresentativeProfilesThisRun": 0,
     "incompleteFormSectionsThisRun": 0,
     "rateLimited": false,
-    "imagesPresent": 173,
-    "abilitiesPresent": 134,
-    "representativeRecords": 3959,
+    "imagesPresent": 185,
+    "abilitiesPresent": 141,
+    "representativeRecords": 3963,
     "complete": false
   }
 }

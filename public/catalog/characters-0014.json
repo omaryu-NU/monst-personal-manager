@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7466",
+      "name": "フォーミュラα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5231/#f7466",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7467",
+      "name": "アロンズロッドα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5233/#f7467",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7468",
+      "name": "ミロク",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2941/#f7468",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "7469",
+      "name": "ミロク（クリスマス）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3772/#f7469",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
       "id": "7471",
       "name": "江間宮まよい",
       "attribute": "水",
@@ -2155,50 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "7815",
-      "name": "葵＆ハルイチ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7815/#f7815",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7816",
-      "name": "カフカ＆レノ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7816/#f7816",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7817",
-      "name": "ラベンダー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5013/#f7817",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7818",
-      "name": "怪獣10号",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7818/#f7818",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
       "race": "怪獣"
     }
   ]

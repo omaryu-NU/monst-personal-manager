@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2175",
+      "name": "キャプテンアメリカ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2174/#f2175",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "マベツム"
+    },
+    {
       "id": "2177",
       "name": "ロケットラクーン",
       "attribute": "木",
@@ -1342,15 +1353,48 @@
       ]
     },
     {
+      "id": "2616",
+      "name": "プー",
+      "attribute": "闇",
+      "abilities": [
+        "飛行"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2616.webp",
+      "source": "https://game.technophere.com/monst/char/2616/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻獣",
+      "friendship": "超強貫通拡散弾L2 （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7678,
+      "attack": 9396,
+      "speed": 318.53
+    },
+    {
       "id": "2617",
       "name": "プー",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2616/#f2617",
+      "abilities": [
+        "飛行",
+        "アンチブロック"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2617.webp",
+      "source": "https://game.technophere.com/monst/char/2616/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "幻獣"
+      "race": "幻獣",
+      "friendship": "超強貫通拡散弾EL3 （闇）",
+      "ss": "巨大化＆貫通タイプになり敵を貫く 16ターン",
+      "rarity": 5,
+      "hp": 13303,
+      "attack": 12016,
+      "speed": 373.53,
+      "gaugeAbilities": [
+        "回復S"
+      ]
     },
     {
       "id": "2619",
@@ -2208,28 +2252,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2903",
-      "name": "ヘンドリクセン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2901/#f2903",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔神"
-    },
-    {
-      "id": "2906",
-      "name": "ヤマトタケル廻",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/757/#f2906",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
       "race": "聖騎士"
     }
   ]

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5528",
+      "name": "コクウ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5527/#f5528",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5537",
+      "name": "胡木",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5536/#f5537",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5539",
+      "name": "ピスター",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5538/#f5539",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "5542",
       "name": "ダミア",
       "attribute": "光",
@@ -2167,39 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "6027",
-      "name": "餅突鬼＆練鬼",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6025/#f6027",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "6029",
-      "name": "モチカ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6028/#f6029",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "6031",
-      "name": "カドマティ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6030/#f6031",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
     }
   ]
 }
