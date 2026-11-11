@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7138",
+      "name": "天草四郎MV",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2357/#f7138",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7139",
+      "name": "華佗",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3829/#f7139",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7140",
+      "name": "テキーラα",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1482/#f7140",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "7141",
+      "name": "ノンノα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1485/#f7141",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7142",
+      "name": "サタンα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1488/#f7142",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "7143",
+      "name": "煉獄杏寿郎",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6148/#f7143",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7144",
       "name": "禰豆子",
       "attribute": "木",
@@ -1094,12 +1160,28 @@
       "id": "7316",
       "name": "閻魔",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5093/#f7316",
+      "abilities": [
+        "アンチ重力バリア",
+        "超マインスイーパーL",
+        "アンチ減速壁",
+        "超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7316.webp",
+      "source": "https://game.technophere.com/monst/char/5093/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "超強グリッターボール （闇） 副友情 攻防アップ （無）",
+      "ss": "自身を一定期間バブリー状態にする 16+8ターン",
+      "rarity": 6,
+      "hp": 14546,
+      "attack": 36932,
+      "speed": 370.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ソウルスティールL ダッシュM"
+      ]
     },
     {
       "id": "7317",
@@ -1919,12 +2001,24 @@
       "id": "7440",
       "name": "ママゴアシ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7439/#f7440",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチ魔法陣",
+        "レフトポジションキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7440.webp",
+      "source": "https://game.technophere.com/monst/char/7439/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "幻妖"
+      "race": "幻妖",
+      "friendship": "コピー （無） 副友情 回復拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを一定ターン短縮する 12+8ターン",
+      "rarity": 6,
+      "hp": 21261,
+      "attack": 18449,
+      "speed": 273.9
     },
     {
       "id": "7443",
@@ -2134,72 +2228,6 @@
       "type": "反射",
       "style": "超バランス",
       "race": "神"
-    },
-    {
-      "id": "7471",
-      "name": "江間宮まよい",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7470/#f7471",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "7472",
-      "name": "大和",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2666/#f7472",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "アクシス"
-    },
-    {
-      "id": "7473",
-      "name": "ワトソン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4220/#f7473",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7476",
-      "name": "アナスタシア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5727/#f7476",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7477",
-      "name": "ハレルヤ（新春）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7477/#f7477",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7482",
-      "name": "マサムネ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7480/#f7482",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "サムライ"
     }
   ]
 }

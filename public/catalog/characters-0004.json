@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2177",
+      "name": "ロケットラクーン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2176/#f2177",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "マベツム"
+    },
+    {
       "id": "2179",
       "name": "アイアンマン",
       "attribute": "光",
@@ -1267,15 +1278,68 @@
       "race": "魔族"
     },
     {
+      "id": "2613",
+      "name": "雷禅",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2613.webp",
+      "source": "https://game.technophere.com/monst/char/2613/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強メテオ （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13441,
+      "attack": 15597,
+      "speed": 237.17
+    },
+    {
+      "id": "2614",
+      "name": "雷禅&幽助",
+      "attribute": "光",
+      "abilities": [
+        "超アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2614.webp",
+      "source": "https://game.technophere.com/monst/char/2613/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強メテオ （無）",
+      "ss": "雷禅と幽助で駆け回り、近くの敵に妖丸を放つ 22ターン",
+      "rarity": 6,
+      "hp": 19599,
+      "attack": 20031,
+      "speed": 275.47
+    },
+    {
       "id": "2615",
       "name": "雷禅",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2613/#f2615",
+      "abilities": [
+        "アンチダメージウォール",
+        "魔族キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2615.webp",
+      "source": "https://game.technophere.com/monst/char/2613/",
       "evolution": "神化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "バラージショットガン （光） 副友情 超強メテオ （無）",
+      "ss": "多数の拳を放ち敵を攻撃し、狙った方向の敵1体を追撃 21ターン",
+      "rarity": 6,
+      "hp": 20500,
+      "attack": 25625,
+      "speed": 214.5,
+      "gaugeAbilities": [
+        "闇属性キラー"
+      ]
     },
     {
       "id": "2617",
@@ -2167,39 +2231,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "聖騎士"
-    },
-    {
-      "id": "2909",
-      "name": "ラグナロク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2908/#f2909",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "2910",
-      "name": "カイ（ストア）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1789/#f2910",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2921",
-      "name": "バートリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2920/#f2921",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

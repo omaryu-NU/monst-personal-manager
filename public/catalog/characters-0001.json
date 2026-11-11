@@ -214,7 +214,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "妖精"
+      "race": "妖精",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/168.webp"
     },
     {
       "id": "170",
@@ -225,7 +226,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "魔族"
+      "race": "魔族",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/170.webp"
     },
     {
       "id": "172",
@@ -236,7 +238,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/172.webp"
     },
     {
       "id": "174",
@@ -261,15 +264,40 @@
       "race": "ロボット"
     },
     {
+      "id": "177",
+      "name": "ティターン",
+      "attribute": "光",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/177.webp",
+      "source": "https://game.technophere.com/monst/char/177/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ホーミング4 （光）",
+      "ss": "ふれた敵に、一定ダメージ 12ターン",
+      "rarity": 4,
+      "hp": 7548,
+      "attack": 10311,
+      "speed": 187.7
+    },
+    {
       "id": "178",
       "name": "ティターン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/177/#f178",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/178.webp",
+      "source": "https://game.technophere.com/monst/char/177/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "神"
+      "race": "神",
+      "friendship": "ホーミング6 （光）",
+      "ss": "ふれた敵に、特大ダメージ 15ターン",
+      "rarity": 5,
+      "hp": 13203,
+      "attack": 25276,
+      "speed": 131.5
     },
     {
       "id": "180",
@@ -2206,17 +2234,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ユニバース"
-    },
-    {
-      "id": "795",
-      "name": "北条氏康",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/794/#f795",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

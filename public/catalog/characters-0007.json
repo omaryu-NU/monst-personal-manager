@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4360",
+      "name": "キュウビ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4359/#f4360",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4362",
+      "name": "オロチ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4361/#f4362",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4363",
+      "name": "エンマ大王",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4363/#f4363",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
       "id": "4376",
       "name": "キャンディ",
       "attribute": "火",
@@ -2165,39 +2198,6 @@
       "source": "https://game.technophere.com/monst/char/4995/#f4996",
       "evolution": "進化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4998",
-      "name": "ジェントル＆ラブラバ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4997/#f4998",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5000",
-      "name": "ハイエンド脳無",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4999/#f5000",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5001",
-      "name": "エンデヴァー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5001/#f5001",
-      "evolution": "進化",
-      "type": "反射",
       "style": "バランス",
       "race": "亜人"
     }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1477",
+      "name": "ぱなえ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1476/#f1477",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "1479",
       "name": "テルーマン",
       "attribute": "闇",
@@ -2185,17 +2196,6 @@
       "attribute": "水",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/2174/#f2175",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "マベツム"
-    },
-    {
-      "id": "2177",
-      "name": "ロケットラクーン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2176/#f2177",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",

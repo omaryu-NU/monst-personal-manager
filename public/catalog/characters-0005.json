@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2909",
+      "name": "ラグナロク",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2908/#f2909",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "2910",
+      "name": "カイ（ストア）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1789/#f2910",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2921",
+      "name": "バートリー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2920/#f2921",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2923",
       "name": "コンモドゥス",
       "attribute": "水",
@@ -2164,39 +2197,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ロボット"
-    },
-    {
-      "id": "3643",
-      "name": "ネクロハウンド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3642/#f3643",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "3651",
-      "name": "ニギミタマ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3650/#f3651",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3655",
-      "name": "Mオラゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3654/#f3655",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3643",
+      "name": "ネクロハウンド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3642/#f3643",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "3651",
+      "name": "ニギミタマ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3650/#f3651",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3655",
+      "name": "Mオラゴン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3654/#f3655",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
       "id": "3658",
       "name": "Mあんこ",
       "attribute": "闇",
@@ -2165,39 +2198,6 @@
       "source": "https://game.technophere.com/monst/char/4357/#f4358",
       "evolution": "進化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4360",
-      "name": "キュウビ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4359/#f4360",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4362",
-      "name": "オロチ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4361/#f4362",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4363",
-      "name": "エンマ大王",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4363/#f4363",
-      "evolution": "進化",
-      "type": "反射",
       "style": "バランス",
       "race": "妖怪"
     }

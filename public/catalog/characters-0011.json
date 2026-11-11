@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6434",
+      "name": "屋敷幽霊の3人",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6434/#f6434",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6436",
+      "name": "アハト",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6435/#f6436",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "6437",
+      "name": "太公望",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2033/#f6437",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "6438",
+      "name": "ヒュプノス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3784/#f6438",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6440",
+      "name": "死者の書",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6439/#f6440",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "6442",
+      "name": "マビノギオン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6441/#f6442",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "6444",
       "name": "東海道中膝栗毛",
       "attribute": "闇",
@@ -2134,72 +2200,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "6802",
-      "name": "鰯富士",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6801/#f6802",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "6805",
-      "name": "竜宮ノツカ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6803/#f6805",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "6808",
-      "name": "グングニル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4021/#f6808",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "6809",
-      "name": "ダマスカス廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4835/#f6809",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "6810",
-      "name": "ロイマスタング",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2764/#f6810",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6812",
-      "name": "エルリック兄弟",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2768/#f6812",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

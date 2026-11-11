@@ -2,6 +2,143 @@
   "version": 1,
   "characters": [
     {
+      "id": "9370",
+      "name": "麗夏映夢",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9370.webp",
+      "source": "https://game.technophere.com/monst/char/9370/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "SS短縮弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15463,
+      "attack": 21844,
+      "speed": 299.93
+    },
+    {
+      "id": "9371",
+      "name": "麗夏映夢",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール（ラック）",
+        "マインスイーパーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9371.webp",
+      "source": "https://game.technophere.com/monst/char/9370/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "超強SS短縮弾 （無）",
+      "ss": "壁をすり抜け反対側から出現する＆ふれた味方のスピードと友情コンボ威力を一定期間アップ 16ターン",
+      "rarity": 6,
+      "hp": 19947,
+      "attack": 17408,
+      "speed": 320.9,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "ソウルスティール"
+      ]
+    },
+    {
+      "id": "9372",
+      "name": "カーミラ",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9372.webp",
+      "source": "https://game.technophere.com/monst/char/9372/",
+      "evolution": "真獣神化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族",
+      "friendship": "超強全敵ロックオンレーザーEL （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 21900,
+      "attack": 26305,
+      "speed": 329.53
+    },
+    {
+      "id": "9373",
+      "name": "カーミラ",
+      "attribute": "火",
+      "abilities": [
+        "超アンチワープ",
+        "アンチブロック",
+        "アンチ魔法陣",
+        "アンチ減速床",
+        "プロテクション 超SSターン短縮 ロングシールドモードM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9373.webp",
+      "source": "https://game.technophere.com/monst/char/9372/",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔族",
+      "friendship": "超強全敵ロックオンレーザーEL （火） 副友情 白爆発EL （無）",
+      "ss": "スピードとパワーがアップ&ふれた味方の友情コンボ威力を一定期間アップ 16+8ターン",
+      "rarity": 6,
+      "hp": 23340,
+      "attack": 27490,
+      "speed": 346.6
+    },
+    {
+      "id": "9374",
+      "name": "ツクモ",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9374.webp",
+      "source": "https://game.technophere.com/monst/char/9374/",
+      "evolution": "真獣神化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人",
+      "friendship": "コピー （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 21839,
+      "attack": 24449,
+      "speed": 235.23
+    },
+    {
+      "id": "9375",
+      "name": "ツクモ",
+      "attribute": "木",
+      "abilities": [
+        "超アンチワープ",
+        "超マインスイーパーL",
+        "アンチ魔法陣",
+        "超アンチ減速壁",
+        "全属性耐性M 無属性耐性M"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9375.webp",
+      "source": "https://game.technophere.com/monst/char/9374/",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔人",
+      "friendship": "コピー （無） 副友情 全敵超絶毒メテオ （無）",
+      "ss": "スピードがアップ＆減速壁か加速壁にふれる毎にパワーがアップ 8+8ターン",
+      "rarity": 6,
+      "hp": 23278,
+      "attack": 22074,
+      "speed": 252.2,
+      "gaugeAbilities": [
+        "敵多底力EL"
+      ]
+    },
+    {
       "id": "9376",
       "name": "アラミス",
       "attribute": "木",

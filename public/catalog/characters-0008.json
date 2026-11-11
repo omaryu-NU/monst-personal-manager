@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4998",
+      "name": "ジェントル＆ラブラバ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4997/#f4998",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5000",
+      "name": "ハイエンド脳無",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4999/#f5000",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "5001",
+      "name": "エンデヴァー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5001/#f5001",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "5002",
       "name": "波動ねじれ",
       "attribute": "水",
@@ -335,12 +368,25 @@
       "id": "5085",
       "name": "ハンジ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5085/#f5085",
+      "abilities": [
+        "アンチウィンド",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5085.webp",
+      "source": "https://game.technophere.com/monst/char/5085/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強分裂貫通衝撃波3 （闇）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵に雷槍をセットし停止時に爆発させる 20ターン",
+      "rarity": 6,
+      "hp": 17298,
+      "attack": 17434,
+      "speed": 243.1,
+      "gaugeAbilities": [
+        "立体機動装置"
+      ]
     },
     {
       "id": "5086",
@@ -385,6 +431,78 @@
       "type": "貫通",
       "style": "超パワー",
       "race": "魔族"
+    },
+    {
+      "id": "5093",
+      "name": "閻魔",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5093.webp",
+      "source": "https://game.technophere.com/monst/char/5093/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "攻防アップ （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 10152,
+      "attack": 27484,
+      "speed": 273.9
+    },
+    {
+      "id": "5094",
+      "name": "悪を正す冥界の王子 閻魔",
+      "attribute": "闇",
+      "abilities": [
+        "超マインスイーパー",
+        "アンチ重力バリア",
+        "超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5094.webp",
+      "source": "https://game.technophere.com/monst/char/5093/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "攻防アップ （無）",
+      "ss": "自身の減速率を一定期間緩和する 24ターン",
+      "rarity": 6,
+      "hp": 13122,
+      "attack": 35550,
+      "speed": 355.77,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "ダッシュM ソウルスティールM"
+      ]
+    },
+    {
+      "id": "5095",
+      "name": "罪を裁く冥界の主 閻魔大王",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "レーザーバリアキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5095.webp",
+      "source": "https://game.technophere.com/monst/char/5093/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔王",
+      "friendship": "グリッターボール （闇） 副友情 超絶ホーミング12 （闇）",
+      "ss": "スピードとパワーがアップ＆ヒットした敵の弱点の効果を大アップさせる 24ターン",
+      "rarity": 6,
+      "hp": 20961,
+      "attack": 22105,
+      "speed": 331.53,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "5096",
@@ -2134,72 +2252,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "5542",
-      "name": "ダミア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5540/#f5542",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5544",
-      "name": "ピノック",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5543/#f5544",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "5557",
-      "name": "チャペリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5556/#f5557",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5559",
-      "name": "ウェンディア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5558/#f5559",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "5562",
-      "name": "マリーアンジュ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5560/#f5562",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5563",
-      "name": "ジョカ廻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4084/#f5563",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }
