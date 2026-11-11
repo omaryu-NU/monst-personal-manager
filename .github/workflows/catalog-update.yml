@@ -59,6 +59,30 @@ jobs:
           path: local-reports/image-backfill/actions-dry-run.json
           if-no-files-found: warn
           retention-days: 14
+      # Phase 16 is opt-in. On schedule, enable only after a successful manual trial.
+      # Restore evidence before selecting candidate URLs (avoids repeated probes).
+      - name: Phase 16 verified image backfill and evidence registration
+        if: vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && (github.event_name == 'workflow_dispatch' || vars.IMAGE_BACKFILL_SCHEDULED == 'true')
+        env:
+          TECHNOPHERE_REUSE_APPROVED: 'true'
+        run: |
+          python scripts/catalog_image_auto.py \
+            --catalog public/catalog \
+            --evidence catalog-image-evidence.json \
+            --state catalog-image-backfill-state.json \
+            --limit 3 --delay 4 \
+            --output local-reports/image-backfill/phase16-apply.json \
+            --summary local-reports/image-backfill/phase16-summary.json
+      - name: Upload Phase 16 image reports
+        if: always() && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && (github.event_name == 'workflow_dispatch' || vars.IMAGE_BACKFILL_SCHEDULED == 'true')
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-image-backfill-phase16
+          path: |
+            local-reports/image-backfill/phase16-apply.json
+            local-reports/image-backfill/phase16-summary.json
+          if-no-files-found: warn
+          retention-days: 14
       - name: Restore HTTP-verified catalog images
         run: |
           test -f catalog-image-evidence.json
@@ -108,6 +132,11 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add public/catalog/manifest.json public/catalog/characters-*.json catalog-update-state.json catalog-coverage.json catalog-audit-summary.json
+          # Commit the evidence and progress atomically with newly published URLs.
+          git add catalog-image-evidence.json
+          if [ -f catalog-image-backfill-state.json ]; then
+            git add catalog-image-backfill-state.json
+          fi
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh public monster catalog'
             git push
