@@ -1,7 +1,7 @@
 {
-  "nextPage": 21,
+  "nextPage": 25,
   "totalPages": 50,
-  "lastRun": "2026-11-11T07:46:21.845716+00:00",
+  "lastRun": "2026-11-11T08:04:30.692667+00:00",
   "visitedPages": [
     1,
     2,
@@ -23,6 +23,7 @@
     18,
     19,
     20,
+    21,
     22,
     23,
     24,
@@ -53,10 +54,15 @@
     49,
     50
   ],
-  "runNumber": 8,
-  "profileCursor": 45,
+  "runNumber": 9,
+  "profileCursor": 50,
   "profileRetry": {},
   "verifiedFamilyURLs": [
+    "https://game.technophere.com/monst/char/9441/",
+    "https://game.technophere.com/monst/char/9443/",
+    "https://game.technophere.com/monst/char/9445/",
+    "https://game.technophere.com/monst/char/9447/",
+    "https://game.technophere.com/monst/char/9449/",
     "https://game.technophere.com/monst/char/9451/",
     "https://game.technophere.com/monst/char/9455/",
     "https://game.technophere.com/monst/char/9460/",
@@ -258,6 +264,23 @@
       "9451",
       "9452",
       "9453"
+    ],
+    "https://game.technophere.com/monst/char/9449/": [
+      "9449",
+      "9450"
+    ],
+    "https://game.technophere.com/monst/char/9447/": [
+      "9447",
+      "9448"
+    ],
+    "https://game.technophere.com/monst/char/9445/": [
+      "9446"
+    ],
+    "https://game.technophere.com/monst/char/9443/": [
+      "9444"
+    ],
+    "https://game.technophere.com/monst/char/9441/": [
+      "9442"
     ]
   }
 }

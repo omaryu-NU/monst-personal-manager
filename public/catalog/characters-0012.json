@@ -512,7 +512,11 @@
       "name": "まほろば",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5225/#f6899"
+      "source": "https://game.technophere.com/monst/char/5225/#f6899",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
     },
     {
       "id": "6900",
@@ -1940,7 +1944,11 @@
       "name": "カイリ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5547/#f7118"
+      "source": "https://game.technophere.com/monst/char/5547/#f7118",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
     },
     {
       "id": "7119",

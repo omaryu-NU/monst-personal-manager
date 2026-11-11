@@ -204,21 +204,33 @@
       "name": "浦女3年生",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5568/#f9403"
+      "source": "https://game.technophere.com/monst/char/5568/#f9403",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9404",
       "name": "浦女1年生",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5571/#f9404"
+      "source": "https://game.technophere.com/monst/char/5571/#f9404",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "9405",
       "name": "浦女2年生",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5574/#f9405"
+      "source": "https://game.technophere.com/monst/char/5574/#f9405",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "亜人"
     },
     {
       "id": "9408",
@@ -462,56 +474,171 @@
       "id": "9442",
       "name": "平家物語",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9441/#f9442",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチ減速床",
+        "ザコキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9442.webp",
+      "source": "https://game.technophere.com/monst/char/9441/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ツインインボリュートスフィア・モア （火） 副友情 ラジアルエッジ （火）",
+      "ss": "スピードとパワーがアップ＆連撃/カウンター/ファーストキラーになる 12+8ターン",
+      "rarity": 6,
+      "hp": 21875,
+      "attack": 21678,
+      "speed": 318.1,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ソウルスティール"
+      ]
     },
     {
       "id": "9444",
       "name": "紅楼夢",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9443/#f9444",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超アンチ減速壁",
+        "アンチ減速床",
+        "ウォールブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9444.webp",
+      "source": "https://game.technophere.com/monst/char/9443/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "超強貫通ターゲットロックオン衝撃波8 （水） 副友情 爆絶爆発 （無）",
+      "ss": "スピードがアップ＆ふれた敵の防御力を一定期間ダウン 8+8ターン",
+      "rarity": 6,
+      "hp": 19275,
+      "attack": 21886,
+      "speed": 356.3,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "バブリーチャージ"
+      ]
     },
     {
       "id": "9446",
       "name": "マザーグース",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9445/#f9446",
+      "abilities": [
+        "アンチダメージウォール",
+        "超マインスイーパーM",
+        "状態異常回復 パワーオーラ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9446.webp",
+      "source": "https://game.technophere.com/monst/char/9445/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "超強チェイススフィア （光） 副友情 超絶状態異常回復ブラスト （無）",
+      "ss": "スピードとパワーがアップ＆ショット前にHPを回復する 16+8ターン",
+      "rarity": 6,
+      "hp": 23210,
+      "attack": 21992,
+      "speed": 326.1,
+      "gaugeAbilities": [
+        "超アンチ減速壁",
+        "アンチ減速床"
+      ]
+    },
+    {
+      "id": "9447",
+      "name": "猿夢",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9447.webp",
+      "source": "https://game.technophere.com/monst/char/9447/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "獣",
+      "friendship": "超強トライデントチップソー （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16589,
+      "attack": 27714,
+      "speed": 248.8
     },
     {
       "id": "9448",
       "name": "猿夢",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9447/#f9448",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ減速床"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9448.webp",
+      "source": "https://game.technophere.com/monst/char/9447/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "獣"
+      "race": "獣",
+      "friendship": "超強トライデントチップソー （無）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵に、ふれると友情コンボが発動する分身をセットする 8ターン",
+      "rarity": 6,
+      "hp": 17555,
+      "attack": 24527,
+      "speed": 254.37,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "連撃キラー"
+      ]
+    },
+    {
+      "id": "9449",
+      "name": "寺生まれのTさん",
+      "attribute": "水",
+      "abilities": [
+        "魔封じ 幻竜封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9449.webp",
+      "source": "https://game.technophere.com/monst/char/9449/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "剛落雷 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 19455,
+      "attack": 26105,
+      "speed": 356.53
     },
     {
       "id": "9450",
       "name": "Tさん",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9449/#f9450",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "魔封じ 幻竜封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9450.webp",
+      "source": "https://game.technophere.com/monst/char/9449/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "剛落雷 （無）",
+      "ss": "スピードとパワーがアップ＆敵にふれる毎に電撃を放つ 12ターン",
+      "rarity": 6,
+      "hp": 19954,
+      "attack": 18102,
+      "speed": 328.83,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "9451",
@@ -626,7 +753,11 @@
       "attribute": "火",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9457.webp",
-      "source": "https://game.technophere.com/monst/char/5819/#f9457"
+      "source": "https://game.technophere.com/monst/char/5819/#f9457",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9458",
@@ -634,7 +765,11 @@
       "attribute": "水",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9458.webp",
-      "source": "https://game.technophere.com/monst/char/5821/#f9458"
+      "source": "https://game.technophere.com/monst/char/5821/#f9458",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "9459",
@@ -642,7 +777,11 @@
       "attribute": "光",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9459.webp",
-      "source": "https://game.technophere.com/monst/char/5825/#f9459"
+      "source": "https://game.technophere.com/monst/char/5825/#f9459",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "亜人"
     },
     {
       "id": "9460",
@@ -1242,21 +1381,33 @@
       "name": "犬塚信乃α",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5550/#f9494"
+      "source": "https://game.technophere.com/monst/char/5550/#f9494",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "サムライ"
     },
     {
       "id": "9495",
       "name": "コカゲα",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5552/#f9495"
+      "source": "https://game.technophere.com/monst/char/5552/#f9495",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "ロボット"
     },
     {
       "id": "9496",
       "name": "風神雷神α",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5554/#f9496"
+      "source": "https://game.technophere.com/monst/char/5554/#f9496",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
     },
     {
       "id": "9498",
@@ -2244,7 +2395,11 @@
       "name": "レグルス",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5506/#f9547"
+      "source": "https://game.technophere.com/monst/char/5506/#f9547",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "獣"
     },
     {
       "id": "9548",

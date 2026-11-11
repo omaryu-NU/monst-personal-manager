@@ -1018,7 +1018,11 @@
       "name": "エクスカリバー（新春）",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5255/#f7308"
+      "source": "https://game.technophere.com/monst/char/5255/#f7308",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
     },
     {
       "id": "7310",
@@ -2073,21 +2077,33 @@
       "name": "カメハメハα",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5229/#f7465"
+      "source": "https://game.technophere.com/monst/char/5229/#f7465",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "7466",
       "name": "フォーミュラα",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5231/#f7466"
+      "source": "https://game.technophere.com/monst/char/5231/#f7466",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
     },
     {
       "id": "7467",
       "name": "アロンズロッドα",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5233/#f7467"
+      "source": "https://game.technophere.com/monst/char/5233/#f7467",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "聖騎士"
     },
     {
       "id": "7468",
@@ -2149,7 +2165,11 @@
       "name": "アナスタシア",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5727/#f7476"
+      "source": "https://game.technophere.com/monst/char/5727/#f7476",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "7477",

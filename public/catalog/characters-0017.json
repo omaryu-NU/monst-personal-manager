@@ -61,7 +61,11 @@
       "name": "梃子場亜流太",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5346/#f8488"
+      "source": "https://game.technophere.com/monst/char/5346/#f8488",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "サムライ"
     },
     {
       "id": "8490",
@@ -475,7 +479,11 @@
       "name": "物乃具姫",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5348/#f8553"
+      "source": "https://game.technophere.com/monst/char/5348/#f8553",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "8555",
@@ -493,7 +501,11 @@
       "name": "ディヴィジョン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5264/#f8556"
+      "source": "https://game.technophere.com/monst/char/5264/#f8556",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
     },
     {
       "id": "8557",
@@ -566,14 +578,22 @@
       "name": "ペルセウス",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5151/#f8566"
+      "source": "https://game.technophere.com/monst/char/5151/#f8566",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "神"
     },
     {
       "id": "8567",
       "name": "アルタイル",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5504/#f8567"
+      "source": "https://game.technophere.com/monst/char/5504/#f8567",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "亜人"
     },
     {
       "id": "8568",
@@ -700,7 +720,11 @@
       "name": "バサラ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5524/#f8580"
+      "source": "https://game.technophere.com/monst/char/5524/#f8580",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "8581",
@@ -883,7 +907,11 @@
       "name": "アネモネ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5786/#f8602"
+      "source": "https://game.technophere.com/monst/char/5786/#f8602",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "妖精"
     },
     {
       "id": "8603",
@@ -1055,7 +1083,11 @@
       "name": "打出の小槌",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5266/#f8626"
+      "source": "https://game.technophere.com/monst/char/5266/#f8626",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神"
     },
     {
       "id": "8628",
@@ -1249,7 +1281,11 @@
       "name": "レイデル",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5586/#f8651"
+      "source": "https://game.technophere.com/monst/char/5586/#f8651",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
     },
     {
       "id": "8653",
@@ -1300,7 +1336,11 @@
       "name": "メルクリウス",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5381/#f8660"
+      "source": "https://game.technophere.com/monst/char/5381/#f8660",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
     },
     {
       "id": "8663",
@@ -1384,7 +1424,11 @@
       "name": "エルマルー",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5582/#f8677"
+      "source": "https://game.technophere.com/monst/char/5582/#f8677",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "聖騎士"
     },
     {
       "id": "8678",
@@ -1603,7 +1647,11 @@
       "name": "王翦",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5675/#f8709"
+      "source": "https://game.technophere.com/monst/char/5675/#f8709",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "サムライ"
     },
     {
       "id": "8710",
@@ -1698,14 +1746,22 @@
       "name": "アブドゥーグ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5530/#f8722"
+      "source": "https://game.technophere.com/monst/char/5530/#f8722",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
     },
     {
       "id": "8723",
       "name": "ガリーナ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5584/#f8723"
+      "source": "https://game.technophere.com/monst/char/5584/#f8723",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "鳥"
     },
     {
       "id": "8724",

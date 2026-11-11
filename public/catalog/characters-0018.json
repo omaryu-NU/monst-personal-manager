@@ -68,7 +68,11 @@
       "name": "浜路",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5873/#f8788"
+      "source": "https://game.technophere.com/monst/char/5873/#f8788",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8790",
@@ -218,7 +222,11 @@
       "name": "李信",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5673/#f8809"
+      "source": "https://game.technophere.com/monst/char/5673/#f8809",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "サムライ"
     },
     {
       "id": "8810",
@@ -302,7 +310,11 @@
       "name": "ブラックリリー",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5790/#f8824"
+      "source": "https://game.technophere.com/monst/char/5790/#f8824",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
     },
     {
       "id": "8826",
@@ -518,7 +530,11 @@
       "name": "ベネット",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5532/#f8856"
+      "source": "https://game.technophere.com/monst/char/5532/#f8856",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
     },
     {
       "id": "8857",
@@ -921,7 +937,11 @@
       "name": "ハムレット",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5893/#f8910"
+      "source": "https://game.technophere.com/monst/char/5893/#f8910",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔王"
     },
     {
       "id": "8911",
@@ -1214,7 +1234,11 @@
       "name": "犬山道節",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5869/#f8951"
+      "source": "https://game.technophere.com/monst/char/5869/#f8951",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "8952",
@@ -1243,7 +1267,11 @@
       "name": "韓非",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5671/#f8954"
+      "source": "https://game.technophere.com/monst/char/5671/#f8954",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8955",
@@ -1547,14 +1575,22 @@
       "name": "ニュートン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5283/#f8999"
+      "source": "https://game.technophere.com/monst/char/5283/#f8999",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "9000",
       "name": "コーディリア",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5891/#f9000"
+      "source": "https://game.technophere.com/monst/char/5891/#f9000",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "魔王"
     },
     {
       "id": "9002",
@@ -1814,7 +1850,11 @@
       "name": "オフィーリア",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5889/#f9035"
+      "source": "https://game.technophere.com/monst/char/5889/#f9035",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "魔人"
     },
     {
       "id": "9036",
@@ -1987,7 +2027,11 @@
       "name": "マスターコーヴ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5447/#f9063"
+      "source": "https://game.technophere.com/monst/char/5447/#f9063",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "獣"
     },
     {
       "id": "9065",
