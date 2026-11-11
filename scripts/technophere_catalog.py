@@ -433,6 +433,31 @@ def choose_family_profiles(order, verified, retries, run_number, cursor, count):
     return selected,((last+1)%len(order) if last is not None else start)
 
 
+def choose_detail_refresh(rows, verified_urls, next_runs, run_number, limit=1):
+    """Bounded refresh of already-parsed families with missing core details.
+
+    Only current catalog rows are considered. Never infer that a blank field is
+    a source error; cooldown avoids repeatedly fetching legitimately blank forms.
+    """
+    if limit <= 0:
+        return []
+    groups={}
+    for row in rows.values():
+        url=row.get('source','').split('#',1)[0]
+        if url not in verified_urls:
+            continue
+        if not safe_url(url) or not CHAR_URL.fullmatch(urlparse(url).path):
+            continue
+        missing_stats=sum(row.get(k) is None for k in ('hp','attack','speed'))
+        missing_abilities=not bool(row.get('abilities'))
+        if missing_stats or missing_abilities:
+            groups[url]=groups.get(url,0)+missing_stats+int(missing_abilities)
+    eligible=[(url,score) for url,score in groups.items()
+              if run_number>=int(next_runs.get(url,0))]
+    eligible.sort(key=lambda x:(-x[1],int(re.search(r'/char/(\d+)',x[0]).group(1))))
+    return [url for url,_ in eligible[:limit]]
+
+
 def update(args, session, check_robots=True, wait=time.sleep):
     if os.getenv('TECHNOPHERE_REUSE_APPROVED')!='true':
         raise RuntimeError('Technophereの再利用・定期収集許可を確認し、TECHNOPHERE_REUSE_APPROVED=true を設定してください')
@@ -503,8 +528,17 @@ def update(args, session, check_robots=True, wait=time.sleep):
     retry_state={u:v for u,v in state.get('profileRetry',{}).items()
                  if u in families and isinstance(v,dict)}
     profile_cursor=int(state.get('profileCursor',0))%max(len(family_order),1)
-    selected,next_profile_cursor=choose_family_profiles(
-        family_order,verified_urls,retry_state,run_number,profile_cursor,args.profiles)
+    # Reinspect a small number of verified-but-sparse families using the latest
+    # parser, without increasing the per-run HTTP profile budget.
+    refresh_after={u:int(v) for u,v in state.get('detailRefreshAfterRun',{}).items()
+                   if isinstance(u,str) and u in verified_urls and str(v).isdigit()}
+    refresh=choose_detail_refresh(rows,verified_urls,refresh_after,run_number,
+                                  min(getattr(args,'detail_refresh',0),args.profiles))
+    selected,new_profile_cursor=choose_family_profiles(
+        family_order,verified_urls,retry_state,run_number,profile_cursor,args.profiles-len(refresh))
+    selected=refresh+selected
+    next_profile_cursor=new_profile_cursor
+    refreshed_this_run=0
     # Match the existing behavior: do not advance cursor after listing HTTP 429.
     # The next run will re-evaluate verified and retry-delayed families.
     if selected and not rate_limited:
@@ -516,6 +550,11 @@ def update(args, session, check_robots=True, wait=time.sleep):
     verified_this_run=0;forms_extracted=0;unmatched_profiles=0;incomplete_profiles=0
     for url in ([] if rate_limited else selected):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
+        if url in refresh:
+            # Defer another review even if upstream HTML legitimately omits a
+            # stat/ability. Preserve this cooldown across workflow runs.
+            refresh_after[url]=run_number+56
+            refreshed_this_run+=1
         try:
             r=session.get(url,timeout=25);r.raise_for_status()
             if len(r.content)>4_000_000:raise ValueError('profile too large')
@@ -566,6 +605,8 @@ def update(args, session, check_robots=True, wait=time.sleep):
               'familiesDiscovered':len(families),'familiesVerified':len(verified_urls & set(families)),
               'familiesRemaining':len(set(families)-verified_urls),
               'profilesAttemptedThisRun':len([] if rate_limited else selected),
+              'detailRefreshSelectedThisRun':len(refresh),
+              'detailRefreshAttemptedThisRun':refreshed_this_run,
               'profileSelectionStrategy':getattr(args,'profile_strategy','stratified'),
                'profileRetryDelayed':sum(1 for u in families if u not in verified_urls
                                         and run_number<int(retry_state.get(u,{}).get('retryAfterRun',0))),
@@ -585,6 +626,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
     atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp,
                   'visitedPages':sorted(visited),'runNumber':run_number,
                   'profileCursor':profile_cursor,'profileRetry':retry_state,
+                  'detailRefreshAfterRun':refresh_after,
                   'verifiedFamilyURLs':sorted(verified_urls),
                   'verifiedFamilyFormIDs':{u:sorted(v,key=int) for u,v in verified_form_ids.items()
                                             if u in verified_urls}})
@@ -597,6 +639,8 @@ def main():
     p.add_argument('--profiles',type=int,default=15)
     p.add_argument('--profile-strategy',choices=('stratified','newest_first'),default='stratified',
                    help='live family order; newest_first rolls back to the previous behavior')
+    p.add_argument('--detail-refresh',type=int,default=0,choices=(0,1),
+                   help='reserve one of the profile slots for a verified family with missing core fields')
     p.add_argument('--delay',type=float,default=1.5)
     args=p.parse_args()
     if not 2<=args.pages<=12 or not 0<=args.profiles<=60 or args.delay<0.5:p.error('limits exceeded')
