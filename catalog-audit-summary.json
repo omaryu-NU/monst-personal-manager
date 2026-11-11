@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-11-11T04:30:48.211484+00:00",
+  "records": 2317,
+  "manifestCount": 2317,
+  "distinctIDs": 2317,
+  "duplicateIDs": [],
+  "namePresent": 2317,
+  "imageURLPresent": 27,
+  "abilitiesPresent": 0,
+  "detailFields": {
+    "evolution": 398,
+    "type": 398,
+    "style": 398,
+    "race": 398,
+    "rarity": 0,
+    "hp": 0,
+    "attack": 0,
+    "speed": 0,
+    "friendship": 0,
+    "ss": 0
+  },
+  "coverage": {
+    "visitedPages": [
+      1,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "totalPages": 50,
+    "listingPagesVisited": 9,
+    "listingPagesRemaining": 41,
+    "profileVerifiedThisRun": 0,
+    "rateLimited": true,
+    "imagesPresent": 27,
+    "abilitiesPresent": 0,
+    "representativeRecords": 2317,
+    "complete": false
+  },
+  "errors": [],
+  "allCharactersAndFormsVerified": false,
+  "note": "Listing record counts and line coverage are not ground truth for all evolutions."
+}

@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T03:29:31.610683+00:00",
+  "generatedAt": "2026-11-11T04:30:48.211484+00:00",
   "source": "https://game.technophere.com/monst/characters/",
-  "count": 1999,
+  "count": 2317,
   "chunks": [
     {
       "path": "characters-0001.json",
@@ -42,26 +42,49 @@
     },
     {
       "path": "characters-0010.json",
-      "count": 199
+      "count": 200
+    },
+    {
+      "path": "characters-0011.json",
+      "count": 200
+    },
+    {
+      "path": "characters-0012.json",
+      "count": 117
     }
   ],
   "scan": {
     "pages": [
       1,
+      26,
+      27,
+      28,
+      29
+    ],
+    "warnings": [
+      "profile 9340: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/4248/"
+    ]
+  },
+  "coverage": {
+    "visitedPages": [
+      1,
       22,
       23,
       24,
-      25
+      25,
+      26,
+      27,
+      28,
+      29
     ],
-    "warnings": [
-      "profile 9405: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5574/",
-      "profile 9404: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5571/",
-      "profile 9403: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5568/",
-      "profile 9310: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5480/",
-      "profile 9309: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5478/",
-      "profile 9308: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5472/",
-      "profile 9304: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5259/",
-      "profile 9168: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5502/"
-    ]
+    "totalPages": 50,
+    "listingPagesVisited": 9,
+    "listingPagesRemaining": 41,
+    "profileVerifiedThisRun": 0,
+    "rateLimited": true,
+    "imagesPresent": 27,
+    "abilitiesPresent": 0,
+    "representativeRecords": 2317,
+    "complete": false
   }
 }

@@ -2,1404 +2,1448 @@
   "version": 1,
   "characters": [
     {
-      "id": "6695",
-      "name": "トクモスドラゴン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6694/#f6695"
-    },
-    {
-      "id": "6699",
-      "name": "ヴァルハラ",
+      "id": "6101",
+      "name": "玉狛第2",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6699/#f6699"
+      "source": "https://game.technophere.com/monst/char/6101/#f6101"
     },
     {
-      "id": "6702",
-      "name": "ファウスト",
+      "id": "6102",
+      "name": "三輪隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6102/#f6102"
+    },
+    {
+      "id": "6103",
+      "name": "グランディオーソ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6103/#f6103"
+    },
+    {
+      "id": "6107",
+      "name": "ヒュース",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5321/#f6107"
+    },
+    {
+      "id": "6109",
+      "name": "ピリカ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6108/#f6109"
+    },
+    {
+      "id": "6113",
+      "name": "パンキーラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6112/#f6113"
+    },
+    {
+      "id": "6114",
+      "name": "ティファレト廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4456/#f6114",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "6117",
+      "name": "ダーインスレイヴ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6700/#f6702"
+      "source": "https://game.technophere.com/monst/char/6115/#f6117"
     },
     {
-      "id": "6708",
-      "name": "ラムα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6707/#f6708"
-    },
-    {
-      "id": "6710",
-      "name": "レムα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6709/#f6710"
-    },
-    {
-      "id": "6712",
-      "name": "エミリアα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6711/#f6712"
-    },
-    {
-      "id": "6714",
-      "name": "エルザ（クリスマス）",
+      "id": "6121",
+      "name": "アポロン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6713/#f6714"
+      "source": "https://game.technophere.com/monst/char/6120/#f6121"
     },
     {
-      "id": "6716",
-      "name": "メィリィ（クリスマス）",
+      "id": "6125",
+      "name": "ヘパイストス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6124/#f6125"
+    },
+    {
+      "id": "6128",
+      "name": "ニュクス",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6715/#f6716"
+      "source": "https://game.technophere.com/monst/char/6126/#f6128"
     },
     {
-      "id": "6719",
-      "name": "ペテルギウス（クリスマス）",
+      "id": "6130",
+      "name": "アルゴス",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6717/#f6719"
+      "source": "https://game.technophere.com/monst/char/6129/#f6130"
     },
     {
-      "id": "6722",
-      "name": "エンペディオス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6720/#f6722"
-    },
-    {
-      "id": "6725",
-      "name": "エキドナ",
+      "id": "6132",
+      "name": "カロン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6724/#f6725"
+      "source": "https://game.technophere.com/monst/char/6131/#f6132"
     },
     {
-      "id": "6728",
-      "name": "メデタイッカ",
+      "id": "6138",
+      "name": "ホームズ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4146/#f6138",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6139",
+      "name": "ホームズ（新春）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5257/#f6139"
+    },
+    {
+      "id": "6141",
+      "name": "サマ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6140/#f6141"
+    },
+    {
+      "id": "6145",
+      "name": "竈門炭治郎",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6727/#f6728"
+      "source": "https://game.technophere.com/monst/char/4590/#f6145",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
-      "id": "6735",
-      "name": "アミダ（新春）",
-      "attribute": "光",
+      "id": "6146",
+      "name": "冨岡義勇",
+      "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6735/#f6735"
+      "source": "https://game.technophere.com/monst/char/4592/#f6146",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
-      "id": "6738",
-      "name": "ヤクモ",
-      "attribute": "木",
+      "id": "6147",
+      "name": "胡蝶しのぶ",
+      "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6736/#f6738"
+      "source": "https://game.technophere.com/monst/char/4598/#f6147",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
-      "id": "6740",
-      "name": "癸卯ラビコ",
-      "attribute": "木",
+      "id": "6151",
+      "name": "錆兎＆真菰",
+      "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6739/#f6740"
+      "source": "https://game.technophere.com/monst/char/6150/#f6151"
     },
     {
-      "id": "6741",
-      "name": "ガブホーク",
+      "id": "6157",
+      "name": "栗花落カナヲ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6156/#f6157"
+    },
+    {
+      "id": "6158",
+      "name": "善逸＆伊之助",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6158/#f6158"
+    },
+    {
+      "id": "6160",
+      "name": "蜘蛛の鬼",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6741/#f6741"
+      "source": "https://game.technophere.com/monst/char/6159/#f6160"
     },
     {
-      "id": "6742",
-      "name": "味見谷リョウ",
+      "id": "6164",
+      "name": "堕姫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6163/#f6164"
+    },
+    {
+      "id": "6168",
+      "name": "お堂の鬼",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6167/#f6168"
+    },
+    {
+      "id": "6170",
+      "name": "魘夢",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6742/#f6742"
+      "source": "https://game.technophere.com/monst/char/6169/#f6170"
     },
     {
-      "id": "6747",
-      "name": "浄玻璃鏡",
+      "id": "6171",
+      "name": "村田",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6171/#f6171"
+    },
+    {
+      "id": "6172",
+      "name": "珠世＆愈史郎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6172/#f6172"
+    },
+    {
+      "id": "6173",
+      "name": "炭子＆善子＆猪子",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6173/#f6173"
+    },
+    {
+      "id": "6174",
+      "name": "妓夫太郎＆堕姫",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6161/#f6174"
+    },
+    {
+      "id": "6177",
+      "name": "無量大数",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6746/#f6747"
+      "source": "https://game.technophere.com/monst/char/6177/#f6177"
     },
     {
-      "id": "6749",
-      "name": "ガラティーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6748/#f6749"
-    },
-    {
-      "id": "6751",
-      "name": "ハーメルンパイプ",
+      "id": "6180",
+      "name": "タキオン",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6750/#f6751"
+      "source": "https://game.technophere.com/monst/char/6179/#f6180"
     },
     {
-      "id": "6753",
-      "name": "中水寒泳",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6752/#f6753"
-    },
-    {
-      "id": "6755",
-      "name": "月根正",
+      "id": "6184",
+      "name": "お市",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6754/#f6755"
+      "source": "https://game.technophere.com/monst/char/6183/#f6184"
     },
     {
-      "id": "6758",
-      "name": "盤上ススム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6756/#f6758"
-    },
-    {
-      "id": "6766",
-      "name": "カミーユ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6765/#f6766"
-    },
-    {
-      "id": "6770",
-      "name": "刹那",
+      "id": "6186",
+      "name": "浅井長政",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6769/#f6770"
+      "source": "https://game.technophere.com/monst/char/6185/#f6186"
     },
     {
-      "id": "6771",
-      "name": "ヒイロユイ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6771/#f6771"
-    },
-    {
-      "id": "6775",
-      "name": "フルフロンタル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6774/#f6775"
-    },
-    {
-      "id": "6777",
-      "name": "グエル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6776/#f6777"
-    },
-    {
-      "id": "6779",
-      "name": "シロッコ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6778/#f6779"
-    },
-    {
-      "id": "6780",
-      "name": "ハマーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6780/#f6780"
-    },
-    {
-      "id": "6782",
-      "name": "マスターアジア",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6781/#f6782"
-    },
-    {
-      "id": "6783",
-      "name": "三日月",
+      "id": "6188",
+      "name": "足利義昭",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6783/#f6783"
+      "source": "https://game.technophere.com/monst/char/6187/#f6188"
     },
     {
-      "id": "6784",
-      "name": "スレッタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6784/#f6784"
-    },
-    {
-      "id": "6785",
-      "name": "アスラン",
+      "id": "6191",
+      "name": "斎藤道三",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6785/#f6785"
+      "source": "https://game.technophere.com/monst/char/6189/#f6191"
     },
     {
-      "id": "6790",
-      "name": "アインス",
+      "id": "6193",
+      "name": "果心居士",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6789/#f6790"
+      "source": "https://game.technophere.com/monst/char/6192/#f6193"
     },
     {
-      "id": "6794",
-      "name": "ネプトゥーヌス",
-      "attribute": "水",
+      "id": "6195",
+      "name": "ハイネ",
+      "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6793/#f6794"
+      "source": "https://game.technophere.com/monst/char/6194/#f6195"
     },
     {
-      "id": "6796",
-      "name": "ディアナ",
+      "id": "6197",
+      "name": "グラトニール",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6197/#f6197"
+    },
+    {
+      "id": "6199",
+      "name": "スケルツァンド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6198/#f6199"
+    },
+    {
+      "id": "6201",
+      "name": "ルナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6200/#f6201"
+    },
+    {
+      "id": "6204",
+      "name": "ケセド廻",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6795/#f6796"
+      "source": "https://game.technophere.com/monst/char/4503/#f6204",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
     },
     {
-      "id": "6798",
-      "name": "サトゥルヌス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6797/#f6798"
-    },
-    {
-      "id": "6800",
-      "name": "大央宮足之進",
+      "id": "6206",
+      "name": "李信α",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6799/#f6800"
+      "source": "https://game.technophere.com/monst/char/6205/#f6206"
     },
     {
-      "id": "6802",
-      "name": "鰯富士",
+      "id": "6208",
+      "name": "アナスタシアα",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6801/#f6802"
+      "source": "https://game.technophere.com/monst/char/6207/#f6208"
     },
     {
-      "id": "6805",
-      "name": "竜宮ノツカ",
-      "attribute": "闇",
+      "id": "6210",
+      "name": "エルマルーα",
+      "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6803/#f6805"
+      "source": "https://game.technophere.com/monst/char/6209/#f6210"
     },
     {
-      "id": "6815",
-      "name": "ホーエンハイム",
+      "id": "6212",
+      "name": "串名姫子",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6211/#f6212"
+    },
+    {
+      "id": "6214",
+      "name": "山竹尊",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6213/#f6214"
+    },
+    {
+      "id": "6217",
+      "name": "伊波美代",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6215/#f6217"
+    },
+    {
+      "id": "6221",
+      "name": "祢々切丸",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6219/#f6221"
+    },
+    {
+      "id": "6226",
+      "name": "アベル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4476/#f6226",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6228",
+      "name": "灰原哀",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6814/#f6815"
+      "source": "https://game.technophere.com/monst/char/6227/#f6228"
     },
     {
-      "id": "6817",
-      "name": "オリヴィエ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6816/#f6817"
-    },
-    {
-      "id": "6819",
-      "name": "ヒューズ",
+      "id": "6232",
+      "name": "毛利蘭",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6818/#f6819"
+      "source": "https://game.technophere.com/monst/char/6231/#f6232"
     },
     {
-      "id": "6821",
-      "name": "リザ＆ロイ",
-      "attribute": "光",
+      "id": "6237",
+      "name": "コナン＆降谷零",
+      "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6820/#f6821"
+      "source": "https://game.technophere.com/monst/char/6237/#f6237"
     },
     {
-      "id": "6823",
-      "name": "イズミ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6822/#f6823"
-    },
-    {
-      "id": "6824",
-      "name": "エド＆ウィンリィ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6824/#f6824"
-    },
-    {
-      "id": "6826",
-      "name": "バリー",
+      "id": "6239",
+      "name": "服部平次",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6825/#f6826"
+      "source": "https://game.technophere.com/monst/char/6238/#f6239"
     },
     {
-      "id": "6828",
-      "name": "プライド",
+      "id": "6241",
+      "name": "ウォッカ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6827/#f6828"
+      "source": "https://game.technophere.com/monst/char/6240/#f6241"
     },
     {
-      "id": "6830",
-      "name": "スロウス",
+      "id": "6243",
+      "name": "バーボン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6829/#f6830"
+      "source": "https://game.technophere.com/monst/char/6242/#f6243"
     },
     {
-      "id": "6832",
-      "name": "キンブリー",
+      "id": "6245",
+      "name": "ベルモット",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6831/#f6832"
+      "source": "https://game.technophere.com/monst/char/6244/#f6245"
     },
     {
-      "id": "6835",
-      "name": "バッカニア",
+      "id": "6247",
+      "name": "キャンティ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6834/#f6835"
+      "source": "https://game.technophere.com/monst/char/6246/#f6247"
     },
     {
-      "id": "6836",
-      "name": "メイ",
+      "id": "6249",
+      "name": "怪盗キッド",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6248/#f6249"
+    },
+    {
+      "id": "6250",
+      "name": "佐藤＆高木刑事",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6250/#f6250"
+    },
+    {
+      "id": "6251",
+      "name": "毛利小五郎",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6251/#f6251"
+    },
+    {
+      "id": "6253",
+      "name": "警察学校同期",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6836/#f6836"
+      "source": "https://game.technophere.com/monst/char/6253/#f6253"
     },
     {
-      "id": "6837",
-      "name": "ハボック",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6837/#f6837"
-    },
-    {
-      "id": "6838",
-      "name": "フー＆ランファン",
+      "id": "6255",
+      "name": "ジン",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6838/#f6838"
+      "source": "https://game.technophere.com/monst/char/6254/#f6255"
     },
     {
-      "id": "6842",
-      "name": "アアル",
-      "attribute": "光",
+      "id": "6262",
+      "name": "中臣鎌足",
+      "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6841/#f6842"
+      "source": "https://game.technophere.com/monst/char/6261/#f6262"
     },
     {
-      "id": "6845",
-      "name": "お父様",
-      "attribute": "水",
+      "id": "6264",
+      "name": "小野妹子",
+      "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6844/#f6845"
+      "source": "https://game.technophere.com/monst/char/6263/#f6264"
     },
     {
-      "id": "6847",
-      "name": "ルベリッタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6846/#f6847"
-    },
-    {
-      "id": "6850",
-      "name": "ジャルジメルト",
+      "id": "6266",
+      "name": "土蜘蛛",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6848/#f6850"
+      "source": "https://game.technophere.com/monst/char/6265/#f6266"
     },
     {
-      "id": "6854",
-      "name": "白蛇伝",
-      "attribute": "木",
+      "id": "6268",
+      "name": "ろくろ首",
+      "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6853/#f6854"
+      "source": "https://game.technophere.com/monst/char/6267/#f6268"
     },
     {
-      "id": "6856",
-      "name": "スノッリのエッダ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6855/#f6856"
-    },
-    {
-      "id": "6858",
-      "name": "解体新書",
+      "id": "6271",
+      "name": "ヒノエンマ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6857/#f6858"
+      "source": "https://game.technophere.com/monst/char/6269/#f6271"
     },
     {
-      "id": "6861",
-      "name": "エイゴーラ",
+      "id": "6274",
+      "name": "クシャーンティ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6273/#f6274"
+    },
+    {
+      "id": "6276",
+      "name": "聖徳太子",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6859/#f6861"
+      "source": "https://game.technophere.com/monst/char/6275/#f6276"
     },
     {
-      "id": "6863",
-      "name": "ズコウル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6862/#f6863"
-    },
-    {
-      "id": "6865",
-      "name": "タイックィー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6864/#f6865"
-    },
-    {
-      "id": "6868",
-      "name": "ホノイカヅチ",
+      "id": "6278",
+      "name": "西王母",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6867/#f6868"
+      "source": "https://game.technophere.com/monst/char/4319/#f6278",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "神"
     },
     {
-      "id": "6869",
-      "name": "マガツヒ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6869/#f6869"
-    },
-    {
-      "id": "6872",
-      "name": "メモリー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6870/#f6872"
-    },
-    {
-      "id": "6880",
-      "name": "ソウエイ",
+      "id": "6280",
+      "name": "涅槃寂静",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6879/#f6880"
+      "source": "https://game.technophere.com/monst/char/6280/#f6280"
     },
     {
-      "id": "6882",
-      "name": "ハクロウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6881/#f6882"
-    },
-    {
-      "id": "6885",
-      "name": "シュナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6885/#f6885"
-    },
-    {
-      "id": "6887",
-      "name": "ミュウラン",
+      "id": "6282",
+      "name": "ヨル",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6886/#f6887"
+      "source": "https://game.technophere.com/monst/char/6281/#f6282"
     },
     {
-      "id": "6889",
-      "name": "ガビル",
+      "id": "6284",
+      "name": "ロイド",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6888/#f6889"
+      "source": "https://game.technophere.com/monst/char/6283/#f6284"
     },
     {
-      "id": "6891",
-      "name": "ゲルド",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6890/#f6891"
-    },
-    {
-      "id": "6893",
-      "name": "ラミリス",
+      "id": "6286",
+      "name": "アーニャ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6892/#f6893"
+      "source": "https://game.technophere.com/monst/char/6285/#f6286"
     },
     {
-      "id": "6895",
-      "name": "フォビオ",
+      "id": "6289",
+      "name": "ウンエントリヒ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6894/#f6895"
+      "source": "https://game.technophere.com/monst/char/6289/#f6289"
     },
     {
-      "id": "6897",
-      "name": "ミリム",
-      "attribute": "闇",
+      "id": "6292",
+      "name": "デイゴ",
+      "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6896/#f6897"
+      "source": "https://game.technophere.com/monst/char/6291/#f6292"
     },
     {
-      "id": "6899",
-      "name": "まほろば",
+      "id": "6294",
+      "name": "プロテア",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5225/#f6899"
+      "source": "https://game.technophere.com/monst/char/6293/#f6294"
     },
     {
-      "id": "6905",
-      "name": "シズ",
+      "id": "6296",
+      "name": "ブーゲンビリア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6295/#f6296"
+    },
+    {
+      "id": "6299",
+      "name": "マゴスチーネ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6905/#f6905"
+      "source": "https://game.technophere.com/monst/char/6297/#f6299"
     },
     {
-      "id": "6906",
-      "name": "ゴブタ",
-      "attribute": "木",
+      "id": "6301",
+      "name": "ギスイッカ",
+      "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6906/#f6906"
+      "source": "https://game.technophere.com/monst/char/6300/#f6301"
     },
     {
-      "id": "6907",
-      "name": "ヴェルドラ",
+      "id": "6303",
+      "name": "ドリアンディ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6898/#f6907"
+      "source": "https://game.technophere.com/monst/char/6302/#f6303"
     },
     {
-      "id": "6911",
-      "name": "ベジテパラ",
+      "id": "6304",
+      "name": "ドランフルッツ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6304/#f6304"
+    },
+    {
+      "id": "6305",
+      "name": "ケテル廻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4542/#f6305",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6309",
+      "name": "ジャックザリッパー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6307/#f6309"
+    },
+    {
+      "id": "6311",
+      "name": "甘兎",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6310/#f6311"
+    },
+    {
+      "id": "6313",
+      "name": "サピラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6312/#f6313"
+    },
+    {
+      "id": "6315",
+      "name": "水サテライト",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6314/#f6315"
+    },
+    {
+      "id": "6317",
+      "name": "塩虎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6316/#f6317"
+    },
+    {
+      "id": "6319",
+      "name": "木ダスティル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6318/#f6319"
+    },
+    {
+      "id": "6321",
+      "name": "花辛",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6320/#f6321"
+    },
+    {
+      "id": "6323",
+      "name": "シュカブリー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6322/#f6323"
+    },
+    {
+      "id": "6325",
+      "name": "光グレイ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6324/#f6325"
+    },
+    {
+      "id": "6327",
+      "name": "イダスト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6326/#f6327"
+    },
+    {
+      "id": "6329",
+      "name": "闇ホールズ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6910/#f6911"
+      "source": "https://game.technophere.com/monst/char/6328/#f6329"
     },
     {
-      "id": "6912",
-      "name": "ファンタオラゴン",
+      "id": "6331",
+      "name": "酸牙",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6912/#f6912"
+      "source": "https://game.technophere.com/monst/char/6330/#f6331"
     },
     {
-      "id": "6914",
-      "name": "福島正則",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6913/#f6914"
-    },
-    {
-      "id": "6916",
-      "name": "ねね",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6915/#f6916"
-    },
-    {
-      "id": "6918",
-      "name": "島左近",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6917/#f6918"
-    },
-    {
-      "id": "6921",
-      "name": "狂骨",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6919/#f6921"
-    },
-    {
-      "id": "6923",
-      "name": "塗壁",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6922/#f6923"
-    },
-    {
-      "id": "6925",
-      "name": "センポクカンポク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6924/#f6925"
-    },
-    {
-      "id": "6928",
-      "name": "四宮かぐや",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6927/#f6928"
-    },
-    {
-      "id": "6930",
-      "name": "早坂愛",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6929/#f6930"
-    },
-    {
-      "id": "6932",
-      "name": "白銀御行",
+      "id": "6333",
+      "name": "フトフラス",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6931/#f6932"
+      "source": "https://game.technophere.com/monst/char/6332/#f6333"
     },
     {
-      "id": "6933",
-      "name": "藤原千花",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6933/#f6933"
-    },
-    {
-      "id": "6937",
-      "name": "ウボサスラα",
+      "id": "6334",
+      "name": "バレン＆レンツ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6936/#f6937"
+      "source": "https://game.technophere.com/monst/char/6334/#f6334"
     },
     {
-      "id": "6939",
-      "name": "アルスラーンα",
+      "id": "6335",
+      "name": "アムゼ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6938/#f6939"
+      "source": "https://game.technophere.com/monst/char/6335/#f6335"
     },
     {
-      "id": "6941",
-      "name": "ブーゲンビリアα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6940/#f6941"
-    },
-    {
-      "id": "6943",
-      "name": "スパイニャー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6942/#f6943"
-    },
-    {
-      "id": "6945",
-      "name": "間名文奈",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6944/#f6945"
-    },
-    {
-      "id": "6948",
-      "name": "羽生くすえ",
+      "id": "6336",
+      "name": "ホーツォク",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6946/#f6948"
+      "source": "https://game.technophere.com/monst/char/6336/#f6336"
     },
     {
-      "id": "6951",
-      "name": "タモアンチャン",
+      "id": "6340",
+      "name": "オニャンコポンα",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6950/#f6951"
+      "source": "https://game.technophere.com/monst/char/6339/#f6340"
     },
     {
-      "id": "6954",
-      "name": "オリハルコン廻",
+      "id": "6342",
+      "name": "フランクリンα",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4923/#f6954"
+      "source": "https://game.technophere.com/monst/char/6341/#f6342"
     },
     {
-      "id": "6957",
-      "name": "サンザルク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6955/#f6957"
-    },
-    {
-      "id": "6958",
-      "name": "エレン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5062/#f6958"
-    },
-    {
-      "id": "6959",
-      "name": "ミカサ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5066/#f6959"
-    },
-    {
-      "id": "6960",
-      "name": "リヴァイ",
+      "id": "6344",
+      "name": "オフィーリアα",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5070/#f6960"
+      "source": "https://game.technophere.com/monst/char/6343/#f6344"
     },
     {
-      "id": "6962",
-      "name": "ミカサ＆アルミン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6961/#f6962"
-    },
-    {
-      "id": "6964",
-      "name": "ジャン＆コニー",
+      "id": "6347",
+      "name": "フラーラ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6963/#f6964"
+      "source": "https://game.technophere.com/monst/char/6345/#f6347"
     },
     {
-      "id": "6966",
-      "name": "ライナー＆アニ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6965/#f6966"
-    },
-    {
-      "id": "6968",
-      "name": "ハンジ＆リヴァイ",
+      "id": "6349",
+      "name": "ヴァロドリー",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6967/#f6968"
+      "source": "https://game.technophere.com/monst/char/6348/#f6349"
     },
     {
-      "id": "6970",
-      "name": "ガビ＆ファルコ",
+      "id": "6351",
+      "name": "崑麗",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6969/#f6970"
+      "source": "https://game.technophere.com/monst/char/6350/#f6351"
     },
     {
-      "id": "6971",
-      "name": "エルヴィン",
+      "id": "6354",
+      "name": "アゾット",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6971/#f6971"
+      "source": "https://game.technophere.com/monst/char/6352/#f6354"
     },
     {
-      "id": "6973",
-      "name": "ピーク",
+      "id": "6357",
+      "name": "アジタート",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6972/#f6973"
+      "source": "https://game.technophere.com/monst/char/6356/#f6357"
     },
     {
-      "id": "6975",
-      "name": "フロック",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6974/#f6975"
-    },
-    {
-      "id": "6977",
-      "name": "エレン＆ジーク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6976/#f6977"
-    },
-    {
-      "id": "6979",
-      "name": "ポルコ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6978/#f6979"
-    },
-    {
-      "id": "6981",
-      "name": "無垢の巨人",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6980/#f6981"
-    },
-    {
-      "id": "6983",
-      "name": "ラーラ",
+      "id": "6363",
+      "name": "アビス",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6982/#f6983"
+      "source": "https://game.technophere.com/monst/char/6361/#f6363"
     },
     {
-      "id": "6984",
-      "name": "幼馴染",
+      "id": "6365",
+      "name": "イドーラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6364/#f6365"
+    },
+    {
+      "id": "6367",
+      "name": "ウボサスラ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6984/#f6984"
+      "source": "https://game.technophere.com/monst/char/6366/#f6367"
     },
     {
-      "id": "6985",
-      "name": "オニャンコポン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6985/#f6985"
-    },
-    {
-      "id": "6993",
-      "name": "テラスミス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6705/#f6993"
-    },
-    {
-      "id": "6996",
-      "name": "ブラダマンテ",
+      "id": "6369",
+      "name": "シュブニグラス",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6995/#f6996"
+      "source": "https://game.technophere.com/monst/char/6368/#f6369"
     },
     {
-      "id": "6998",
-      "name": "アストルフォ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6997/#f6998"
-    },
-    {
-      "id": "7000",
-      "name": "ローラン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6999/#f7000"
-    },
-    {
-      "id": "7002",
-      "name": "ウォルーナ",
+      "id": "6371",
+      "name": "ダゴン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7001/#f7002"
+      "source": "https://game.technophere.com/monst/char/6370/#f6371"
     },
     {
-      "id": "7004",
-      "name": "トロジャノク",
+      "id": "6374",
+      "name": "クティーラ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7003/#f7004"
+      "source": "https://game.technophere.com/monst/char/6372/#f6374"
     },
     {
-      "id": "7007",
-      "name": "ロジーB",
+      "id": "6376",
+      "name": "ツァトゥグア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6375/#f6376"
+    },
+    {
+      "id": "6379",
+      "name": "フラパゲヘナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4864/#f6379",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "6381",
+      "name": "フラパガロン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5732/#f6381"
+    },
+    {
+      "id": "6382",
+      "name": "フラパイグノー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5390/#f6382"
+    },
+    {
+      "id": "6383",
+      "name": "フラパアフラマズダー",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7005/#f7007"
+      "source": "https://game.technophere.com/monst/char/6059/#f6383"
     },
     {
-      "id": "7009",
-      "name": "プリノラ",
+      "id": "6386",
+      "name": "トロピール",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7008/#f7009"
+      "source": "https://game.technophere.com/monst/char/6385/#f6386"
     },
     {
-      "id": "7011",
-      "name": "火本多忠勝",
+      "id": "6388",
+      "name": "ムラクシャ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6387/#f6388"
+    },
+    {
+      "id": "6390",
+      "name": "えび天娘",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6389/#f6390"
+    },
+    {
+      "id": "6406",
+      "name": "フォレミス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6104/#f6406"
+    },
+    {
+      "id": "6410",
+      "name": "エルメェス",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7010/#f7011"
+      "source": "https://game.technophere.com/monst/char/6409/#f6410"
     },
     {
-      "id": "7013",
-      "name": "ロイナード",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7012/#f7013"
-    },
-    {
-      "id": "7015",
-      "name": "ラガリ",
+      "id": "6412",
+      "name": "FF",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7014/#f7015"
+      "source": "https://game.technophere.com/monst/char/6411/#f6412"
     },
     {
-      "id": "7017",
-      "name": "ロンギーグ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7016/#f7017"
-    },
-    {
-      "id": "7019",
-      "name": "木小早川秀秋",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7018/#f7019"
-    },
-    {
-      "id": "7021",
-      "name": "ゴヴィン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7020/#f7021"
-    },
-    {
-      "id": "7023",
-      "name": "ロシラタ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7022/#f7023"
-    },
-    {
-      "id": "7025",
-      "name": "光仙石秀久",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7024/#f7025"
-    },
-    {
-      "id": "7027",
-      "name": "エニエニル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7026/#f7027"
-    },
-    {
-      "id": "7029",
-      "name": "ジョビーロップ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7028/#f7029"
-    },
-    {
-      "id": "7031",
-      "name": "闇明智光秀",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7030/#f7031"
-    },
-    {
-      "id": "7033",
-      "name": "ダクラマ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7032/#f7033"
-    },
-    {
-      "id": "7034",
-      "name": "ウェルデ",
+      "id": "6419",
+      "name": "徐倫＆承太郎",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7034/#f7034"
+      "source": "https://game.technophere.com/monst/char/6419/#f6419"
     },
     {
-      "id": "7035",
-      "name": "ダズマン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7035/#f7035"
-    },
-    {
-      "id": "7036",
-      "name": "バフィック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7036/#f7036"
-    },
-    {
-      "id": "7038",
-      "name": "アメノサギリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7037/#f7038"
-    },
-    {
-      "id": "7040",
-      "name": "シャルルマーニュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7039/#f7040"
-    },
-    {
-      "id": "7041",
-      "name": "サーラサ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7041/#f7041"
-    },
-    {
-      "id": "7046",
-      "name": "ディクエクス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7045/#f7046"
-    },
-    {
-      "id": "7051",
-      "name": "キリンジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7049/#f7051"
-    },
-    {
-      "id": "7053",
-      "name": "小桐さくのα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7052/#f7053"
-    },
-    {
-      "id": "7055",
-      "name": "アルセーヌα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7054/#f7055"
-    },
-    {
-      "id": "7057",
-      "name": "ローレライα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7056/#f7057"
-    },
-    {
-      "id": "7059",
-      "name": "フラーシャ",
+      "id": "6421",
+      "name": "ラングラングラー",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7058/#f7059"
+      "source": "https://game.technophere.com/monst/char/6420/#f6421"
     },
     {
-      "id": "7062",
-      "name": "ヒノウェデ",
+      "id": "6423",
+      "name": "マックイイーン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6422/#f6423"
+    },
+    {
+      "id": "6425",
+      "name": "グェス",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7060/#f7062"
+      "source": "https://game.technophere.com/monst/char/6424/#f6425"
     },
     {
-      "id": "7064",
-      "name": "ブライセーナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7063/#f7064"
-    },
-    {
-      "id": "7066",
-      "name": "セイラム",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7066/#f7066"
-    },
-    {
-      "id": "7069",
-      "name": "ミューズ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7067/#f7069"
-    },
-    {
-      "id": "7072",
-      "name": "ヒヒイロカネ廻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4950/#f7072"
-    },
-    {
-      "id": "7074",
-      "name": "タルウィ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7073/#f7074"
-    },
-    {
-      "id": "7076",
-      "name": "アンラマンユ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7075/#f7076"
-    },
-    {
-      "id": "7078",
-      "name": "アカマナフ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7077/#f7078"
-    },
-    {
-      "id": "7081",
-      "name": "ウルスラグナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7079/#f7081"
-    },
-    {
-      "id": "7083",
-      "name": "スプンタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7082/#f7083"
-    },
-    {
-      "id": "7085",
-      "name": "アムルタート",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7084/#f7085"
-    },
-    {
-      "id": "7089",
-      "name": "エンプレイラ",
+      "id": "6427",
+      "name": "ジョンガリA",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7087/#f7089"
+      "source": "https://game.technophere.com/monst/char/6426/#f6427"
     },
     {
-      "id": "7090",
-      "name": "不可思議",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7090/#f7090"
-    },
-    {
-      "id": "7092",
-      "name": "パライソ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7091/#f7092"
-    },
-    {
-      "id": "7094",
-      "name": "画眉丸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7093/#f7094"
-    },
-    {
-      "id": "7096",
-      "name": "佐切",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7095/#f7096"
-    },
-    {
-      "id": "7098",
-      "name": "亜左弔兵衛",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7097/#f7098"
-    },
-    {
-      "id": "7099",
-      "name": "牡丹",
+      "id": "6429",
+      "name": "ミラション",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7099/#f7099"
+      "source": "https://game.technophere.com/monst/char/6428/#f6429"
     },
     {
-      "id": "7100",
-      "name": "桐馬",
+      "id": "6431",
+      "name": "プッチ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7100/#f7100"
+      "source": "https://game.technophere.com/monst/char/6430/#f6431"
     },
     {
-      "id": "7104",
-      "name": "アルデバラン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7103/#f7104"
-    },
-    {
-      "id": "7106",
-      "name": "アルビレオ",
+      "id": "6432",
+      "name": "女囚3人組",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7105/#f7106"
+      "source": "https://game.technophere.com/monst/char/6432/#f6432"
     },
     {
-      "id": "7108",
-      "name": "プロキオン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7107/#f7108"
-    },
-    {
-      "id": "7111",
-      "name": "ホアジャオリン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7109/#f7111"
-    },
-    {
-      "id": "7113",
-      "name": "マズリーロ",
+      "id": "6434",
+      "name": "屋敷幽霊の3人",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7112/#f7113"
+      "source": "https://game.technophere.com/monst/char/6434/#f6434"
     },
     {
-      "id": "7115",
-      "name": "ドクミン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7114/#f7115"
-    },
-    {
-      "id": "7117",
-      "name": "朧木ロウラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6612/#f7117"
-    },
-    {
-      "id": "7118",
-      "name": "カイリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5547/#f7118"
-    },
-    {
-      "id": "7119",
-      "name": "カウシーディヤ",
+      "id": "6436",
+      "name": "アハト",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5907/#f7119"
+      "source": "https://game.technophere.com/monst/char/6435/#f6436"
     },
     {
-      "id": "7120",
-      "name": "ゼクス",
+      "id": "6440",
+      "name": "死者の書",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6439/#f6440"
+    },
+    {
+      "id": "6442",
+      "name": "マビノギオン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6549/#f7120"
+      "source": "https://game.technophere.com/monst/char/6441/#f6442"
     },
     {
-      "id": "7121",
-      "name": "極楽浄土",
+      "id": "6444",
+      "name": "東海道中膝栗毛",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6697/#f7121"
+      "source": "https://game.technophere.com/monst/char/6443/#f6444"
     },
     {
-      "id": "7124",
-      "name": "ドリスタァル",
+      "id": "6446",
+      "name": "数見算四郎",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7123/#f7124"
+      "source": "https://game.technophere.com/monst/char/6445/#f6446"
     },
     {
-      "id": "7126",
-      "name": "ハナレコグニ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7125/#f7126"
-    },
-    {
-      "id": "7128",
-      "name": "キルユアアイドル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7127/#f7128"
-    },
-    {
-      "id": "7135",
-      "name": "ラプラス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4942/#f7135"
-    },
-    {
-      "id": "7143",
-      "name": "煉獄杏寿郎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6148/#f7143"
-    },
-    {
-      "id": "7144",
-      "name": "禰豆子",
+      "id": "6448",
+      "name": "カティーカドラゴン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6152/#f7144"
+      "source": "https://game.technophere.com/monst/char/6447/#f6448"
     },
     {
-      "id": "7145",
-      "name": "宇髄天元",
+      "id": "6451",
+      "name": "リカラス",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6154/#f7145"
+      "source": "https://game.technophere.com/monst/char/6449/#f6451"
     },
     {
-      "id": "7147",
-      "name": "神崎アオイ",
+      "id": "6453",
+      "name": "ヴィレディ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6453/#f6453"
+    },
+    {
+      "id": "6454",
+      "name": "アーキレット",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7146/#f7147"
+      "source": "https://game.technophere.com/monst/char/6454/#f6454"
     },
     {
-      "id": "7155",
-      "name": "不死川玄弥",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7154/#f7155"
-    },
-    {
-      "id": "7156",
-      "name": "炭治郎＆玄弥",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7156/#f7156"
-    },
-    {
-      "id": "7158",
-      "name": "積怒",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7157/#f7158"
-    },
-    {
-      "id": "7160",
-      "name": "可楽",
+      "id": "6457",
+      "name": "ちはや",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7159/#f7160"
+      "source": "https://game.technophere.com/monst/char/6455/#f6457"
     },
     {
-      "id": "7162",
-      "name": "空喜",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7161/#f7162"
-    },
-    {
-      "id": "7164",
-      "name": "玉壺",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7163/#f7164"
-    },
-    {
-      "id": "7166",
-      "name": "哀絶",
+      "id": "6464",
+      "name": "イェソド廻",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7165/#f7166"
+      "source": "https://game.technophere.com/monst/char/4620/#f6464",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人"
     },
     {
-      "id": "7167",
-      "name": "きよ＆すみ＆なほ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7167/#f7167"
-    },
-    {
-      "id": "7168",
-      "name": "鋼鐵塚蛍",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7168/#f7168"
-    },
-    {
-      "id": "7171",
-      "name": "憎珀天",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7171/#f7171"
-    },
-    {
-      "id": "7178",
-      "name": "泡盛",
+      "id": "6466",
+      "name": "ルフィ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7177/#f7178"
+      "source": "https://game.technophere.com/monst/char/6465/#f6466"
+    },
+    {
+      "id": "6468",
+      "name": "エース",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6467/#f6468"
+    },
+    {
+      "id": "6470",
+      "name": "ジンベエ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6469/#f6470"
+    },
+    {
+      "id": "6472",
+      "name": "ヤマト",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6471/#f6472"
+    },
+    {
+      "id": "6474",
+      "name": "ゾロ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6473/#f6474"
+    },
+    {
+      "id": "6476",
+      "name": "ウソップ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6475/#f6476"
+    },
+    {
+      "id": "6478",
+      "name": "フランキー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6477/#f6478"
+    },
+    {
+      "id": "6480",
+      "name": "サボ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6479/#f6480"
+    },
+    {
+      "id": "6482",
+      "name": "サンジ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6481/#f6482"
+    },
+    {
+      "id": "6484",
+      "name": "ブルック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6483/#f6484"
+    },
+    {
+      "id": "6485",
+      "name": "ナミ＆ロビン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6485/#f6485"
+    },
+    {
+      "id": "6486",
+      "name": "クロコダイル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6486/#f6486"
+    },
+    {
+      "id": "6487",
+      "name": "ビッグマム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6487/#f6487"
+    },
+    {
+      "id": "6488",
+      "name": "ハンコック",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6488/#f6488"
+    },
+    {
+      "id": "6489",
+      "name": "ドフラミンゴ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6489/#f6489"
+    },
+    {
+      "id": "6490",
+      "name": "ミホーク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6490/#f6490"
+    },
+    {
+      "id": "6491",
+      "name": "ウタ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6491/#f6491"
+    },
+    {
+      "id": "6494",
+      "name": "カイドウ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6494/#f6494"
+    },
+    {
+      "id": "6495",
+      "name": "ロー＆キッド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6495/#f6495"
+    },
+    {
+      "id": "6497",
+      "name": "磨千夜姫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6496/#f6497"
+    },
+    {
+      "id": "6500",
+      "name": "ティルヴィング",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6498/#f6500"
+    },
+    {
+      "id": "6503",
+      "name": "ファイヤーエンブレム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6502/#f6503"
+    },
+    {
+      "id": "6505",
+      "name": "ブルーローズ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6504/#f6505"
+    },
+    {
+      "id": "6507",
+      "name": "ワイルドタイガー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6506/#f6507"
+    },
+    {
+      "id": "6509",
+      "name": "ドラゴンキッド",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6508/#f6509"
+    },
+    {
+      "id": "6511",
+      "name": "折紙サイクロン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6510/#f6511"
+    },
+    {
+      "id": "6512",
+      "name": "バーナビー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6512/#f6512"
+    },
+    {
+      "id": "6514",
+      "name": "H01",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6513/#f6514"
+    },
+    {
+      "id": "6516",
+      "name": "ルナティック",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6515/#f6516"
+    },
+    {
+      "id": "6518",
+      "name": "フガン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6517/#f6518"
+    },
+    {
+      "id": "6520",
+      "name": "クリーム",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6519/#f6520"
+    },
+    {
+      "id": "6524",
+      "name": "ジェイク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6523/#f6524"
+    },
+    {
+      "id": "6525",
+      "name": "鏑木楓",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6525/#f6525"
+    },
+    {
+      "id": "6527",
+      "name": "ブラック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6526/#f6527"
+    },
+    {
+      "id": "6529",
+      "name": "フガン＆ムガン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6521/#f6529"
+    },
+    {
+      "id": "6531",
+      "name": "プレデビオル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6530/#f6531"
+    },
+    {
+      "id": "6535",
+      "name": "ピニャコラーダ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6534/#f6535"
+    },
+    {
+      "id": "6537",
+      "name": "プルケ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6536/#f6537"
+    },
+    {
+      "id": "6539",
+      "name": "スピリタス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6538/#f6539"
+    },
+    {
+      "id": "6541",
+      "name": "アセナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6540/#f6541"
+    },
+    {
+      "id": "6543",
+      "name": "ミズチ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6542/#f6543"
+    },
+    {
+      "id": "6546",
+      "name": "アバドン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6544/#f6546"
+    },
+    {
+      "id": "6547",
+      "name": "パンデモニウム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6547/#f6547"
+    },
+    {
+      "id": "6555",
+      "name": "アルスラーン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6553/#f6555"
+    },
+    {
+      "id": "6557",
+      "name": "キュウト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6556/#f6557"
+    },
+    {
+      "id": "6559",
+      "name": "テンペストーソ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6558/#f6559"
+    },
+    {
+      "id": "6561",
+      "name": "佐倉杏子",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6560/#f6561"
+    },
+    {
+      "id": "6563",
+      "name": "美樹さやか",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6562/#f6563"
+    },
+    {
+      "id": "6565",
+      "name": "巴マミ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6564/#f6565"
+    },
+    {
+      "id": "6568",
+      "name": "鹿目まどか",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6566/#f6568"
+    },
+    {
+      "id": "6570",
+      "name": "暁美ほむら",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6569/#f6570"
+    },
+    {
+      "id": "6571",
+      "name": "さやか＆杏子",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6571/#f6571"
+    },
+    {
+      "id": "6573",
+      "name": "ハコの魔女",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6572/#f6573"
+    },
+    {
+      "id": "6575",
+      "name": "委員長の魔女",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6574/#f6575"
+    },
+    {
+      "id": "6577",
+      "name": "薔薇園の魔女",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6576/#f6577"
     }
   ]
 }
