@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7131",
+      "name": "ルシファー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1030/#f7131",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7132",
+      "name": "ルシファー（新春）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2400/#f7132",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7133",
+      "name": "ルシファーMV",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3648/#f7133",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7134",
+      "name": "加藤清正",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3864/#f7134",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "7135",
       "name": "ラプラス",
       "attribute": "火",
@@ -2157,12 +2201,28 @@
       "id": "7449",
       "name": "ロイドα",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7448/#f7449",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "マインスイーパーM",
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7449.webp",
+      "source": "https://game.technophere.com/monst/char/7448/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "エナジーボール （木） 副友情 ヘキサゴンボム （無）",
+      "ss": "スピードがアップし、壁にふれる毎にパワーがアップ＆自身とふれた味方を一定期間バブリー状態にする＆ふれた敵の攻撃ターンを稀に増加させる 20+8ターン",
+      "rarity": 6,
+      "hp": 18670,
+      "attack": 22995,
+      "speed": 346.77,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "SSターンチャージ"
+      ]
     },
     {
       "id": "7451",
@@ -2229,50 +2289,6 @@
       "type": "貫通",
       "style": "超スピード",
       "race": "ユニオン"
-    },
-    {
-      "id": "7461",
-      "name": "コルセア（クリスマス）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2391/#f7461",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "ユニオン"
-    },
-    {
-      "id": "7463",
-      "name": "水戸光圀",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7462/#f7463",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "7464",
-      "name": "ユーリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7464/#f7464",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7465",
-      "name": "カメハメハα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5229/#f7465",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
     }
   ]
 }

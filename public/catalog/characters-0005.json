@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2896",
+      "name": "ジェリコ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2895/#f2896",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "2898",
+      "name": "ヘルブラム",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2897/#f2898",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "2900",
+      "name": "ギルサンダー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2899/#f2900",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
       "id": "2903",
       "name": "ヘンドリクセン",
       "attribute": "闇",
@@ -2164,39 +2197,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "3632",
-      "name": "ユウナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3631/#f3632",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3634",
-      "name": "トウヤ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3633/#f3634",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3636",
-      "name": "ウバリ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3635/#f3636",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

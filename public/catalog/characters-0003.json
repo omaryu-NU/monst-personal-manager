@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1471",
+      "name": "マルチバーストビクトリー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1471/#f1471",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "1473",
+      "name": "ちゃす",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1472/#f1473",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "1475",
       "name": "さなぱっちょ",
       "attribute": "水",
@@ -2178,28 +2200,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "2168",
-      "name": "サブナック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2167/#f2168",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "2173",
-      "name": "スパイダーマン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2171/#f2173",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "マベツム"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3632",
+      "name": "ユウナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3631/#f3632",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3634",
+      "name": "トウヤ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3633/#f3634",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3636",
+      "name": "ウバリ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3635/#f3636",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "3639",
       "name": "センジュ",
       "attribute": "水",
@@ -2167,39 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "4353",
-      "name": "ティルナノーグ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4352/#f4353",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4354",
-      "name": "ジバニャン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4354/#f4354",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4355",
-      "name": "フユニャン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4355/#f4355",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖怪"
     }
   ]
 }

@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2168",
+      "name": "サブナック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2167/#f2168",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "2173",
+      "name": "スパイダーマン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2171/#f2173",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "マベツム"
+    },
+    {
       "id": "2175",
       "name": "キャプテンアメリカ",
       "attribute": "水",
@@ -1397,15 +1419,47 @@
       ]
     },
     {
+      "id": "2618",
+      "name": "刃霧要",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2618.webp",
+      "source": "https://game.technophere.com/monst/char/2618/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17519,
+      "attack": 13214,
+      "speed": 262.27
+    },
+    {
       "id": "2619",
       "name": "刃霧要",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2618/#f2619",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2619.webp",
+      "source": "https://game.technophere.com/monst/char/2618/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "ふれた敵に気を込めた弾で追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 18904,
+      "attack": 13942,
+      "speed": 305.07,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2621",
@@ -2219,39 +2273,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2896",
-      "name": "ジェリコ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2895/#f2896",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2898",
-      "name": "ヘルブラム",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2897/#f2898",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "2900",
-      "name": "ギルサンダー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2899/#f2900",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "聖騎士"
     }
   ]

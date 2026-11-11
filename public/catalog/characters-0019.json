@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9066",
+      "name": "コーヒーブレイクオラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9066/#f9066",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "9069",
+      "name": "ミライ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9067/#f9069",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9070",
+      "name": "モグディガー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2428/#f9070",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "9071",
+      "name": "ジークフリート",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/984/#f9071",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "9072",
       "name": "ルビカンテ",
       "attribute": "水",
@@ -2167,50 +2211,6 @@
       "type": "貫通",
       "style": "超パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "9355",
-      "name": "ヴェイン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9354/#f9355",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻妖"
-    },
-    {
-      "id": "9357",
-      "name": "アンドロイドダイナーα",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9356/#f9357",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "9359",
-      "name": "風火輪α",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9358/#f9359",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "9361",
-      "name": "ユグドラシルα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9360/#f9361",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

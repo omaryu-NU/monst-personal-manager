@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "779",
+      "name": "ロダン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/778/#f779",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物"
+    },
+    {
+      "id": "781",
+      "name": "ラファエロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/780/#f781",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "784",
       "name": "ダヴィンチ",
       "attribute": "闇",
@@ -2178,28 +2200,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ドラゴン"
-    },
-    {
-      "id": "1471",
-      "name": "マルチバーストビクトリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1471/#f1471",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1473",
-      "name": "ちゃす",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1472/#f1473",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

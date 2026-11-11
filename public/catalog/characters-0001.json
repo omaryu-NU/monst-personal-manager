@@ -246,24 +246,24 @@
       "name": "ジン",
       "attribute": "水",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/174.webp",
       "source": "https://game.technophere.com/monst/char/173/#f174",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "妖精",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/174.webp"
+      "race": "妖精"
     },
     {
       "id": "176",
       "name": "アビド",
       "attribute": "木",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/176.webp",
       "source": "https://game.technophere.com/monst/char/175/#f176",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/176.webp"
+      "race": "ロボット"
     },
     {
       "id": "177",
@@ -338,27 +338,84 @@
       "speed": 209.83
     },
     {
+      "id": "181",
+      "name": "スザク",
+      "attribute": "火",
+      "abilities": [
+        "鉱物キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/181.webp",
+      "source": "https://game.technophere.com/monst/char/181/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "大爆発 （無）",
+      "ss": "ふれた敵にメテオで追い討ち 24ターン",
+      "rarity": 4,
+      "hp": 7210,
+      "attack": 6652,
+      "speed": 164.77
+    },
+    {
       "id": "182",
       "name": "スザク",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/181/#f182",
+      "abilities": [
+        "鉱物キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/182.webp",
+      "source": "https://game.technophere.com/monst/char/181/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
       "race": "亜人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/182.webp"
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた敵にメテオで追い討ち 28ターン",
+      "rarity": 5,
+      "hp": 12620,
+      "attack": 11644,
+      "speed": 192.7
+    },
+    {
+      "id": "183",
+      "name": "セイリュウ",
+      "attribute": "水",
+      "abilities": [
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/183.webp",
+      "source": "https://game.technophere.com/monst/char/183/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ドラゴン",
+      "friendship": "クロスレーザーS （水）",
+      "ss": "聖獣の力でスピード＆パワーが中アップ 12ターン",
+      "rarity": 4,
+      "hp": 7312,
+      "attack": 5033,
+      "speed": 160.07
     },
     {
       "id": "184",
       "name": "セイリュウ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/183/#f184",
+      "abilities": [
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/184.webp",
+      "source": "https://game.technophere.com/monst/char/183/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "ドラゴン"
+      "race": "ドラゴン",
+      "friendship": "クロスレーザーM （水）",
+      "ss": "聖獣の力でスピード＆パワーが特大アップ 19ターン",
+      "rarity": 5,
+      "hp": 12784,
+      "attack": 8804,
+      "speed": 186.97
     },
     {
       "id": "186",
@@ -2229,28 +2286,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "779",
-      "name": "ロダン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/778/#f779",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "781",
-      "name": "ラファエロ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/780/#f781",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7461",
+      "name": "コルセア（クリスマス）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2391/#f7461",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "ユニオン"
+    },
+    {
+      "id": "7463",
+      "name": "水戸光圀",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7462/#f7463",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7464",
+      "name": "ユーリ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7464/#f7464",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7465",
+      "name": "カメハメハα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5229/#f7465",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "7466",
       "name": "フォーミュラα",
       "attribute": "光",
@@ -2155,50 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "怪獣"
-    },
-    {
-      "id": "7809",
-      "name": "ミクソガステロ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7808/#f7809",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "怪獣"
-    },
-    {
-      "id": "7811",
-      "name": "トリコネフィラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7810/#f7811",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "7813",
-      "name": "プレオンダクティル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7812/#f7813",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "7814",
-      "name": "怪獣9号",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7814/#f7814",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "怪獣"
     }
   ]

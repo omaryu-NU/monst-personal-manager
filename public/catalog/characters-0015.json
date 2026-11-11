@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7809",
+      "name": "ミクソガステロ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7808/#f7809",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "怪獣"
+    },
+    {
+      "id": "7811",
+      "name": "トリコネフィラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7810/#f7811",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "7813",
+      "name": "プレオンダクティル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7812/#f7813",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "7814",
+      "name": "怪獣9号",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7814/#f7814",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
       "id": "7815",
       "name": "葵＆ハルイチ",
       "attribute": "火",
@@ -676,12 +720,28 @@
       "id": "7915",
       "name": "ミソラ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5099/#f7915",
+      "abilities": [
+        "マインスイーパーM",
+        "アンチ魔法陣",
+        "アンチ減速壁",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7915.webp",
+      "source": "https://game.technophere.com/monst/char/5099/",
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "超強十字レーザーEL （水） 副友情 6方向爆撃 （無）",
+      "ss": "スピードとパワーがアップ＆敵を倒せば倒すほど、パワーがアップする 16+8ターン",
+      "rarity": 6,
+      "hp": 16064,
+      "attack": 31989,
+      "speed": 281.77,
+      "connectAbilities": [
+        "超アンチダメージウォール",
+        "カウンターキラー 条件: ロボット以外が2体以上／バランス型以外が2体以上"
+      ]
     },
     {
       "id": "7917",
@@ -2156,50 +2216,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "8137",
-      "name": "オデュッセイアα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8136/#f8137",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8139",
-      "name": "塚原卜伝α",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8138/#f8139",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8142",
-      "name": "赤馬乃もみ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8140/#f8142",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8144",
-      "name": "プレビット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8143/#f8144",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ユニバース"
     }
   ]
 }

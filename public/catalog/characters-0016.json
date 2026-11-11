@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8137",
+      "name": "オデュッセイアα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8136/#f8137",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8139",
+      "name": "塚原卜伝α",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8138/#f8139",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8142",
+      "name": "赤馬乃もみ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8140/#f8142",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "8144",
+      "name": "プレビット",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8143/#f8144",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
       "id": "8146",
       "name": "クワイアック",
       "attribute": "闇",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "超スピード",
       "race": "神"
-    },
-    {
-      "id": "8453",
-      "name": "森蘭丸",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2797/#f8453",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8455",
-      "name": "コディエゴス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8454/#f8455",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "8457",
-      "name": "ネブカドネザル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8456/#f8457",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8459",
-      "name": "カストル＆ポルックス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8458/#f8459",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

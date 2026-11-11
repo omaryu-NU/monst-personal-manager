@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5512",
+      "name": "チュパカブラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5510/#f5512",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ユニバース"
+    },
+    {
+      "id": "5514",
+      "name": "ニャミニャミ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5513/#f5514",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ユニバース"
+    },
+    {
+      "id": "5517",
+      "name": "月麗",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4323/#f5517",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "5523",
+      "name": "降三世明王",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5522/#f5523",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
       "id": "5528",
       "name": "コクウ",
       "attribute": "闇",
@@ -2156,50 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "6015",
-      "name": "吉田松陽",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6014/#f6015",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6020",
-      "name": "ベネットα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6019/#f6020",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "6022",
-      "name": "ラプラスα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6021/#f6022",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "6024",
-      "name": "ヴォーパルソードα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6023/#f6024",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖騎士"
     }
   ]
 }

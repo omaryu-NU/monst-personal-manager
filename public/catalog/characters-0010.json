@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6015",
+      "name": "吉田松陽",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6014/#f6015",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6020",
+      "name": "ベネットα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6019/#f6020",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "6022",
+      "name": "ラプラスα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6021/#f6022",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "6024",
+      "name": "ヴォーパルソードα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6023/#f6024",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
       "id": "6027",
       "name": "餅突鬼＆練鬼",
       "attribute": "火",
@@ -2152,50 +2196,6 @@
       "attribute": "火",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/6420/#f6421",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6423",
-      "name": "マックイイーン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6422/#f6423",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6425",
-      "name": "グェス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6424/#f6425",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6427",
-      "name": "ジョンガリA",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6426/#f6427",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6429",
-      "name": "ミラション",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6428/#f6429",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",

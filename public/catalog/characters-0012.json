@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6788",
+      "name": "清少納言",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3994/#f6788",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6790",
+      "name": "アインス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6789/#f6790",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "6791",
+      "name": "プルメリア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4149/#f6791",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6794",
+      "name": "ネプトゥーヌス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6793/#f6794",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "6796",
       "name": "ディアナ",
       "attribute": "木",
@@ -2154,50 +2198,6 @@
       "source": "https://game.technophere.com/monst/char/4886/#f7130",
       "evolution": "獣神化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7131",
-      "name": "ルシファー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1030/#f7131",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7132",
-      "name": "ルシファー（新春）",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2400/#f7132",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7133",
-      "name": "ルシファーMV",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3648/#f7133",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7134",
-      "name": "加藤清正",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3864/#f7134",
-      "evolution": "獣神化",
-      "type": "反射",
       "style": "バランス",
       "race": "サムライ"
     }
