@@ -61,7 +61,11 @@
       "name": "コカゲ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5101/#f8787"
+      "source": "https://game.technophere.com/monst/char/5101/#f8787",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "ロボット"
     },
     {
       "id": "8788",

@@ -699,21 +699,33 @@
       "name": "ワトソンα",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4952/#f8577"
+      "source": "https://game.technophere.com/monst/char/4952/#f8577",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "ロボット"
     },
     {
       "id": "8578",
       "name": "大和α",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4954/#f8578"
+      "source": "https://game.technophere.com/monst/char/4954/#f8578",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "アクシス"
     },
     {
       "id": "8579",
       "name": "孫悟空α",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4956/#f8579"
+      "source": "https://game.technophere.com/monst/char/4956/#f8579",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
     },
     {
       "id": "8580",
@@ -1878,7 +1890,11 @@
       "name": "ヒナタ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5097/#f8734"
+      "source": "https://game.technophere.com/monst/char/5097/#f8734",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "ロボット"
     },
     {
       "id": "8735",

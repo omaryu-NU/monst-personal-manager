@@ -1370,7 +1370,11 @@
       "name": "マチュピチュ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4926/#f8364"
+      "source": "https://game.technophere.com/monst/char/4926/#f8364",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "魔人"
     },
     {
       "id": "8365",

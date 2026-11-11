@@ -401,12 +401,27 @@
       "id": "9429",
       "name": "A-RISE",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9429/#f9429",
+      "abilities": [
+        "アンチ重力バリア（ラック）",
+        "アンチダメージウォール",
+        "超レーザーストップ パワーオーラ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9429.webp",
+      "source": "https://game.technophere.com/monst/char/9429/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "8方向ウィンドミル （闇）",
+      "ss": "スピードとパワーがアップ＆ふれた敵の攻撃ターンを増加させ、防御力を一定期間ダウン 20ターン",
+      "rarity": 6,
+      "hp": 18894,
+      "attack": 18298,
+      "speed": 332.47,
+      "gaugeAbilities": [
+        "超アンチ転送壁",
+        "アンチ減速床"
+      ]
     },
     {
       "id": "9430",
@@ -420,55 +435,180 @@
       "race": "亜人"
     },
     {
+      "id": "9432",
+      "name": "サクリファイス：復讐代行",
+      "attribute": "水",
+      "abilities": [
+        "超アンチダメージウォール",
+        "アンチブロック",
+        "超アンチ減速壁",
+        "超アンチ転送壁",
+        "攻撃力チャージ 友情コンボチャージS"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9432.webp",
+      "source": "https://game.technophere.com/monst/char/9431/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "乱SS短縮弾 （無） 副友情 爆絶爆発 （無）",
+      "ss": "華麗な鞭さばきで味方を動かし敵へ撃ちこむ＆ふれた敵の弱点を一定期間、すべて出現させる 20+8ターン",
+      "rarity": 6,
+      "hp": 20549,
+      "attack": 45571,
+      "speed": 268.27
+    },
+    {
       "id": "9433",
       "name": "サクリファイス",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9431/#f9433",
+      "abilities": [
+        "超マインスイーパーEL",
+        "アンチブロック",
+        "超アンチ減速壁",
+        "アンチ減速床",
+        "ドレインL 壁SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9433.webp",
+      "source": "https://game.technophere.com/monst/char/9431/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "超絶アタッチボム6 （無） 副友情 防スピアップ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵の攻撃ターンを増加させる 24+4ターン",
+      "rarity": 6,
+      "hp": 17243,
+      "attack": 41118,
+      "speed": 361.47
     },
     {
       "id": "9434",
       "name": "ジャスミン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5015/#f9434"
+      "source": "https://game.technophere.com/monst/char/5015/#f9434",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "妖精"
     },
     {
       "id": "9436",
       "name": "ララバイ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9435/#f9436",
+      "abilities": [
+        "アンチワープ",
+        "アンチブロック",
+        "アンチ減速壁",
+        "アンチ減速床",
+        "メダルアップ（ラック）"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9436.webp",
+      "source": "https://game.technophere.com/monst/char/9435/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強全敵貫通ロックオン衝撃波3 （水） 副友情 白爆発EL （無）",
+      "ss": "ダメージウォール/重力バリア/ワープ/地雷を無効化する 8+4ターン",
+      "rarity": 6,
+      "hp": 18621,
+      "attack": 21758,
+      "speed": 307.87
+    },
+    {
+      "id": "9437",
+      "name": "セレボラ",
+      "attribute": "火",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9437.webp",
+      "source": "https://game.technophere.com/monst/char/9437/",
+      "evolution": "真獣神化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "超強3方向追従型貫通弾 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 19697,
+      "attack": 21781,
+      "speed": 260.53
     },
     {
       "id": "9438",
       "name": "セレボラ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9437/#f9438",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチウィンド",
+        "アンチ減速壁",
+        "木属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9438.webp",
+      "source": "https://game.technophere.com/monst/char/9437/",
       "evolution": "真獣神化",
       "type": "反射",
       "style": "超バランス",
-      "race": "幻妖"
+      "race": "幻妖",
+      "friendship": "超強3方向追従型貫通弾 （火） 副友情 超絶SS短縮弾 （無）",
+      "ss": "ふれた敵の攻撃ターンを増加させる 16+8ターン",
+      "rarity": 6,
+      "hp": 20914,
+      "attack": 17138,
+      "speed": 259.1,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "防御力チャージ"
+      ]
+    },
+    {
+      "id": "9439",
+      "name": "テンシュリー",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9439.webp",
+      "source": "https://game.technophere.com/monst/char/9439/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "白爆発M （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17013,
+      "attack": 16813,
+      "speed": 320.13
     },
     {
       "id": "9440",
       "name": "テンシュリー",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9439/#f9440",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチウィンド",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9440.webp",
+      "source": "https://game.technophere.com/monst/char/9439/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "白爆発EL （無）",
+      "ss": "スピードとパワーがアップ＆停止後にHPを範囲回復 13ターン",
+      "rarity": 6,
+      "hp": 20113,
+      "attack": 17511,
+      "speed": 349.03,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "アンチ減速床"
+      ]
     },
     {
       "id": "9442",
@@ -1311,14 +1451,22 @@
       "name": "大典太光世",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4971/#f9487"
+      "source": "https://game.technophere.com/monst/char/4971/#f9487",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "9488",
       "name": "数珠丸恒次",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5028/#f9488"
+      "source": "https://game.technophere.com/monst/char/5028/#f9488",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "9489",

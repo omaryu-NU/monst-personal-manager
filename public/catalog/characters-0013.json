@@ -1062,7 +1062,11 @@
       "name": "ハレルヤ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5033/#f7313"
+      "source": "https://game.technophere.com/monst/char/5033/#f7313",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
     },
     {
       "id": "7314",
@@ -1091,7 +1095,11 @@
       "name": "閻魔",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5093/#f7316"
+      "source": "https://game.technophere.com/monst/char/5093/#f7316",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
     },
     {
       "id": "7317",

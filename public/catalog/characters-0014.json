@@ -314,7 +314,11 @@
       "name": "モヘンジョダロ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4928/#f7537"
+      "source": "https://game.technophere.com/monst/char/4928/#f7537",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔王"
     },
     {
       "id": "7538",
@@ -783,7 +787,11 @@
       "name": "アユタヤ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4930/#f7604"
+      "source": "https://game.technophere.com/monst/char/4930/#f7604",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "コスモ"
     },
     {
       "id": "7606",
@@ -2110,7 +2118,11 @@
       "name": "ラベンダー",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5013/#f7817"
+      "source": "https://game.technophere.com/monst/char/5013/#f7817",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "妖精"
     },
     {
       "id": "7818",
