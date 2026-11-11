@@ -232,6 +232,32 @@ def make_outputs(rows,stamp,source_pages,warnings,coverage=None):
     atomic(OUT/'manifest.json',manifest)
     return manifest
 
+def plan_listing_pages(total, visited, cursor, budget):
+    """Keep page 1 fresh, then fill slots with unseen pages before revisits.
+
+    Rotation from persisted cursor prevents a repeatedly failing page from
+    permanently blocking unseen pages farther around the index.
+    """
+    if total < 1 or budget < 1:
+        return []
+    if total == 1 or budget == 1:
+        return [1]
+    start = (max(2, int(cursor)) - 2) % (total - 1)
+    cycle = list(range(2, total + 1))
+    rotated = cycle[start:] + cycle[:start]
+    unseen = [p for p in rotated if p not in visited]
+    seen = [p for p in rotated if p in visited]
+    return [1] + (unseen + seen)[:budget - 1]
+
+
+def next_listing_cursor(total, planned, fallback):
+    """Advance past the last scheduled non-index page, not just a fixed count."""
+    last = next((p for p in reversed(planned) if p != 1), None)
+    if last is None or total <= 1:
+        return max(2, int(fallback))
+    return last + 1 if last < total else 2
+
+
 def update(args, session, check_robots=True, wait=time.sleep):
     if os.getenv('TECHNOPHERE_REUSE_APPROVED')!='true':
         raise RuntimeError('Technophereの再利用・定期収集許可を確認し、TECHNOPHERE_REUSE_APPROVED=true を設定してください')
@@ -245,11 +271,11 @@ def update(args, session, check_robots=True, wait=time.sleep):
     state=read(STATE,{'nextPage':2,'totalPages':50})
     total=max(1,int(state.get('totalPages',50)))
     cursor=max(2,int(state.get('nextPage',2)))
-    pages=[1]+[((cursor-2+i)%max(total-1,1))+2 for i in range(args.pages-1)]
+    visited=set(int(x) for x in state.get('visitedPages',old_manifest.get('scan',{}).get('pages',[])) if str(x).isdigit() and 1<=int(x)<=total)
+    pages=plan_listing_pages(total, visited, cursor, args.pages)
     robots=RobotFileParser()
     if check_robots:robots.set_url(BASE+'/robots.txt');robots.read()
     scanned=[];warnings=[]
-    visited=set(int(x) for x in state.get('visitedPages',old_manifest.get('scan',{}).get('pages',[])) if str(x).isdigit() and 1<=int(x)<=total)
     # Source page URL identifies a family; representative ID is NOT the family ID.
     families={}
     for item in rows.values():
@@ -269,12 +295,6 @@ def update(args, session, check_robots=True, wait=time.sleep):
     verified_incomplete={u for u in verified_urls if u not in verified_form_ids
                          or not representative_ids.get(u,set()).intersection(verified_form_ids[u])}
     verified_urls.difference_update(verified_incomplete)
-    # Prefer a previously failed / unvisited listing page instead of forgetting it.
-    # Keep the existing cursor rotation for normal work; this only uses spare slots.
-    missing_pages=[p for p in range(2,total+1) if p not in visited]
-    for missing in missing_pages:
-        if missing not in pages and len(pages)<args.pages:
-            pages.append(missing)
     rate_limited=False
     for page in pages:
         url=INDEX if page==1 else INDEX+f'page/{page}/'
@@ -380,7 +400,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
               'representativeRecords':len(rows),'complete':False}
     manifest=make_outputs(rows,stamp,scanned,warnings,coverage)
     atomic(ROOT/'catalog-coverage.json',{'generatedAt':stamp,**coverage})
-    next_page=((cursor-2+max(args.pages-1,0))%max(total-1,1))+2
+    next_page=next_listing_cursor(total,pages,cursor)
     if rate_limited:
         incomplete=[p for p in pages if p not in scanned and p!=1]
         if incomplete:next_page=incomplete[0]
