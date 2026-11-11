@@ -42,24 +42,24 @@
       "name": "クリステル",
       "attribute": "光",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/118.webp",
       "source": "https://game.technophere.com/monst/char/117/#f118",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/118.webp"
+      "race": "魔人"
     },
     {
       "id": "120",
       "name": "レイメイ",
       "attribute": "闇",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/120.webp",
       "source": "https://game.technophere.com/monst/char/119/#f120",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/120.webp"
+      "race": "魔人"
     },
     {
       "id": "134",
@@ -126,12 +126,12 @@
       "name": "ベイビードール",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/152.webp",
       "source": "https://game.technophere.com/monst/char/151/#f152",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/152.webp"
+      "race": "神"
     },
     {
       "id": "154",
@@ -142,7 +142,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/154.webp"
     },
     {
       "id": "156",
@@ -153,7 +154,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/156.webp"
     },
     {
       "id": "158",
@@ -164,7 +166,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/158.webp"
     },
     {
       "id": "160",

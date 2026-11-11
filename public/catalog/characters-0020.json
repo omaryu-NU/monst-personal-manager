@@ -60,56 +60,129 @@
       "id": "9389",
       "name": "烏旅人",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9389/#f9389",
+      "abilities": [
+        "アンチワープ",
+        "アンチウィンド",
+        "アンチ転送壁",
+        "亜侍封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9389.webp",
+      "source": "https://game.technophere.com/monst/char/9389/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "爆絶貫通ロックオン衝撃波6 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に狙撃する 12ターン",
+      "rarity": 6,
+      "hp": 19915,
+      "attack": 18418,
+      "speed": 253.97,
+      "gaugeAbilities": [
+        "SSターンチャージ"
+      ]
     },
     {
       "id": "9390",
       "name": "蟻生十兵衛",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9390/#f9390",
+      "abilities": [
+        "アンチワープ",
+        "マインスイーパーM",
+        "バイタルキラーM レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9390.webp",
+      "source": "https://game.technophere.com/monst/char/9390/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ラウンドスパーク （木）",
+      "ss": "スピードとパワーがアップ＆停止後に自身の防御力を一定期間アップ 12ターン",
+      "rarity": 6,
+      "hp": 21213,
+      "attack": 18167,
+      "speed": 285.07,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ転送壁"
+      ]
     },
     {
       "id": "9391",
       "name": "剣城斬鉄",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9391/#f9391",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9391.webp",
+      "source": "https://game.technophere.com/monst/char/9391/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ラウンドバースト （無）",
+      "ss": "スピードとパワーがアップ＆最初にふれた壁に一定期間、加速壁を張る 10ターン",
+      "rarity": 5,
+      "hp": 13550,
+      "attack": 9959,
+      "speed": 302.7,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "ダッシュ"
+      ]
     },
     {
       "id": "9392",
       "name": "二子一揮",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9392/#f9392",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ減速床"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9392.webp",
+      "source": "https://game.technophere.com/monst/char/9392/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "タッチ貫通弾 （闇）",
+      "ss": "ふれた味方を一定期間、バブリー状態にする 12ターン",
+      "rarity": 5,
+      "hp": 13745,
+      "attack": 10076,
+      "speed": 256.2,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ転送壁"
+      ]
     },
     {
       "id": "9393",
       "name": "國神錬介",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9393/#f9393",
+      "abilities": [
+        "アンチダメージウォール",
+        "マインスイーパーM",
+        "アンチ魔法陣",
+        "レフトポジションキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9393.webp",
+      "source": "https://game.technophere.com/monst/char/9393/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "クイックチャージショット （火）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の数に応じてパワーがアップする 16ターン",
+      "rarity": 6,
+      "hp": 20411,
+      "attack": 18671,
+      "speed": 264.17,
+      "gaugeAbilities": [
+        "アンチ転送壁"
+      ]
     },
     {
       "id": "9394",
