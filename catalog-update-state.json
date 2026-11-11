@@ -1,7 +1,7 @@
 {
-  "nextPage": 30,
+  "nextPage": 34,
   "totalPages": 50,
-  "lastRun": "2026-11-11T04:30:48.211484+00:00",
+  "lastRun": "2026-11-11T04:59:49.511748+00:00",
   "visitedPages": [
     1,
     22,
@@ -11,6 +11,17 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "verifiedFamilyURLs": [
+    "https://game.technophere.com/monst/char/9538/",
+    "https://game.technophere.com/monst/char/9540/",
+    "https://game.technophere.com/monst/char/9543/",
+    "https://game.technophere.com/monst/char/9545/",
+    "https://game.technophere.com/monst/char/9548/"
   ]
 }

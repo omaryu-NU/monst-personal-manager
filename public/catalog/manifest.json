@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T04:30:48.211484+00:00",
+  "generatedAt": "2026-11-11T04:59:49.511748+00:00",
   "source": "https://game.technophere.com/monst/characters/",
-  "count": 2317,
+  "count": 2640,
   "chunks": [
     {
       "path": "characters-0001.json",
@@ -50,20 +50,26 @@
     },
     {
       "path": "characters-0012.json",
-      "count": 117
+      "count": 200
+    },
+    {
+      "path": "characters-0013.json",
+      "count": 200
+    },
+    {
+      "path": "characters-0014.json",
+      "count": 40
     }
   ],
   "scan": {
     "pages": [
       1,
-      26,
-      27,
-      28,
-      29
+      30,
+      31,
+      32,
+      33
     ],
-    "warnings": [
-      "profile 9340: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/4248/"
-    ]
+    "warnings": []
   },
   "coverage": {
     "visitedPages": [
@@ -75,16 +81,24 @@
       26,
       27,
       28,
-      29
+      29,
+      30,
+      31,
+      32,
+      33
     ],
     "totalPages": 50,
-    "listingPagesVisited": 9,
-    "listingPagesRemaining": 41,
-    "profileVerifiedThisRun": 0,
-    "rateLimited": true,
-    "imagesPresent": 27,
-    "abilitiesPresent": 0,
-    "representativeRecords": 2317,
+    "listingPagesVisited": 13,
+    "listingPagesRemaining": 37,
+    "profileVerifiedThisRun": 5,
+    "formsExtractedThisRun": 10,
+    "familiesDiscovered": 2635,
+    "familiesVerified": 5,
+    "familiesRemaining": 2630,
+    "rateLimited": false,
+    "imagesPresent": 32,
+    "abilitiesPresent": 10,
+    "representativeRecords": 2640,
     "complete": false
   }
 }

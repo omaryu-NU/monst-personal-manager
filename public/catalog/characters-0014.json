@@ -1,0 +1,552 @@
+{
+  "version": 1,
+  "characters": [
+    {
+      "id": "9495",
+      "name": "コカゲα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5552/#f9495"
+    },
+    {
+      "id": "9496",
+      "name": "風神雷神α",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5554/#f9496"
+    },
+    {
+      "id": "9498",
+      "name": "ルーズリップス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9497/#f9498",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "9499",
+      "name": "レイド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9499/#f9499",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9500",
+      "name": "シャウラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9500/#f9500",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9503",
+      "name": "ベアトリス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9503/#f9503",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "9506",
+      "name": "ガブちゃん",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9505/#f9506",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9508",
+      "name": "ハナ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9507/#f9508",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9510",
+      "name": "デラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9509/#f9510",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9512",
+      "name": "アサ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9511/#f9512",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9514",
+      "name": "ユル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9513/#f9514",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9515",
+      "name": "ジン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9515/#f9515",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9516",
+      "name": "ハルオ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9516/#f9516",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9517",
+      "name": "手長足長",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9517/#f9517",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "9518",
+      "name": "アスマ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9518/#f9518",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9519",
+      "name": "立川マコト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9519/#f9519",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9520",
+      "name": "羽村ケンイチ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9520/#f9520",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "9521",
+      "name": "新郷ハヤト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9521/#f9521",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9522",
+      "name": "ダンジ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9522/#f9522",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "9523",
+      "name": "オシラサマ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9523/#f9523",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "9524",
+      "name": "偽アサ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9524/#f9524",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "9525",
+      "name": "ルイスフロイス",
+      "attribute": "水",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9525.webp",
+      "source": "https://game.technophere.com/monst/char/6181/#f9525"
+    },
+    {
+      "id": "9526",
+      "name": "イワン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9526/#f9526",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9527",
+      "name": "三千院ホトリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3363/#f9527",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9528",
+      "name": "ミザリー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9528/#f9528",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "9530",
+      "name": "フィロソフィア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9529/#f9530",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9533",
+      "name": "カグヤ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9531/#f9533",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9535",
+      "name": "鄭和",
+      "attribute": "水",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9535.webp",
+      "source": "https://game.technophere.com/monst/char/9534/#f9535",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "コスモ"
+    },
+    {
+      "id": "9537",
+      "name": "伊能忠敬",
+      "attribute": "木",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9537.webp",
+      "source": "https://game.technophere.com/monst/char/9536/#f9537",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "コスモ"
+    },
+    {
+      "id": "9539",
+      "name": "ヴァスコダガマ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ",
+        "超マインスイーパーM",
+        "超アンチウィンド",
+        "光属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9539.webp",
+      "source": "https://game.technophere.com/monst/char/9538/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "爆絶オールレンジバレット （闇） 副友情 超強反射衝撃波18 （闇）",
+      "ss": "スピードとパワーがアップ＆シールドンとビットンに大ダメージ 8+8ターン",
+      "rarity": 6,
+      "hp": 19552,
+      "attack": 21517,
+      "speed": 329.03,
+      "gaugeAbilities": [
+        "バイタルキラーM 状態異常回復"
+      ]
+    },
+    {
+      "id": "9540",
+      "name": "平蜘蛛",
+      "attribute": "水",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9540.webp",
+      "source": "https://game.technophere.com/monst/char/9540/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "超強中距離貫通毒拡散弾5 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18648,
+      "attack": 25980,
+      "speed": 272.23
+    },
+    {
+      "id": "9541",
+      "name": "茶釜に宿りし妖怪 平蜘蛛",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド",
+        "バイタルキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9541.webp",
+      "source": "https://game.technophere.com/monst/char/9540/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "超強中距離貫通毒拡散弾5 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に一定期間、スピードフィールドを展開する 12ターン",
+      "rarity": 6,
+      "hp": 19125,
+      "attack": 17534,
+      "speed": 251.1,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "アンチ減速床"
+      ]
+    },
+    {
+      "id": "9542",
+      "name": "平蜘蛛",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9542.webp",
+      "source": "https://game.technophere.com/monst/char/9540/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人",
+      "friendship": "超強全敵反射衝撃波 （水） 副友情 ヘキサゴンボム （無）",
+      "ss": "スピードとパワーがアップ＆停止後に一定期間、回復フィールドを展開する 16ターン",
+      "rarity": 6,
+      "hp": 21505,
+      "attack": 17171,
+      "speed": 269.3,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "バリア付与"
+      ]
+    },
+    {
+      "id": "9543",
+      "name": "ウルフバート",
+      "attribute": "木",
+      "abilities": [
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9543.webp",
+      "source": "https://game.technophere.com/monst/char/9543/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "超強エナジーソード （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18968,
+      "attack": 25634,
+      "speed": 360.8
+    },
+    {
+      "id": "9544",
+      "name": "ウルフバート",
+      "attribute": "木",
+      "abilities": [
+        "アンチ減速壁",
+        "アンチ減速床",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9544.webp",
+      "source": "https://game.technophere.com/monst/char/9543/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "超強エナジーソード （木）",
+      "ss": "スピードとパワーがアップ＆最初にふれた壁に一定期間、加速壁を張る 16ターン",
+      "rarity": 6,
+      "hp": 19455,
+      "attack": 18021,
+      "speed": 332.8,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチマルチレイヤ"
+      ]
+    },
+    {
+      "id": "9545",
+      "name": "黄金マスク",
+      "attribute": "光",
+      "abilities": [
+        "亜侍封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9545.webp",
+      "source": "https://game.technophere.com/monst/char/9545/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖",
+      "friendship": "爆絶乱気弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 22056,
+      "attack": 27656,
+      "speed": 213.7
+    },
+    {
+      "id": "9546",
+      "name": "黄金マスク",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "亜侍封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9546.webp",
+      "source": "https://game.technophere.com/monst/char/9545/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖",
+      "friendship": "爆絶乱気弾 （光）",
+      "ss": "スピードとパワーがアップ＆壁にふれると反射タイプに変化する 16ターン",
+      "rarity": 6,
+      "hp": 22135,
+      "attack": 24092,
+      "speed": 200.1,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "アンチ減速床"
+      ]
+    },
+    {
+      "id": "9547",
+      "name": "レグルス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5506/#f9547"
+    },
+    {
+      "id": "9548",
+      "name": "マクスウェル",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9548.webp",
+      "source": "https://game.technophere.com/monst/char/9548/",
+      "evolution": "真獣神化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶貫通拡散弾EL5 （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 17280,
+      "attack": 24615,
+      "speed": 281.57
+    },
+    {
+      "id": "9549",
+      "name": "マクスウェル",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチワープ",
+        "超マインスイーパーEL",
+        "超アンチウィンド",
+        "アンチ転送壁",
+        "ソウルスティールM バリアM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9549.webp",
+      "source": "https://game.technophere.com/monst/char/9548/",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人",
+      "friendship": "爆絶貫通拡散弾EL5 （闇） 副友情 超強全敵貫通ロックオン衝撃波3 （闇）",
+      "ss": "スピードとパワーがアップ＆ふれた味方を一定期間、アクセラレータ状態にする 12+8ターン",
+      "rarity": 6
+    }
+  ]
+}
