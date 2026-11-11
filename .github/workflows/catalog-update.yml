@@ -31,7 +31,7 @@ jobs:
       - name: Collect and verify catalog
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
-        run: python scripts/technophere_catalog.py --pages 5 --profiles 5 --delay 2.5
+        run: python scripts/technophere_catalog.py --pages 5 --profiles 5 --delay 2.5 --profile-strategy stratified
       # Phase 15: manual-only, read-only probe. Never edits catalog or evidence.
       - name: Phase 15 optional image candidate dry run
         if: github.event_name == 'workflow_dispatch' && vars.IMAGE_PROBE_DRY_RUN == 'true'
