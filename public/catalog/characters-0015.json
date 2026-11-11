@@ -105,7 +105,11 @@
       "name": "ノイン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6287/#f7846"
+      "source": "https://game.technophere.com/monst/char/6287/#f7846",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
     },
     {
       "id": "7847",
@@ -134,7 +138,11 @@
       "name": "ラルガメンテ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6460/#f7849"
+      "source": "https://game.technophere.com/monst/char/6460/#f7849",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "7850",

@@ -6,14 +6,22 @@
       "name": "禰豆子",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6152/#f7144"
+      "source": "https://game.technophere.com/monst/char/6152/#f7144",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "魔族"
     },
     {
       "id": "7145",
       "name": "宇髄天元",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6154/#f7145"
+      "source": "https://game.technophere.com/monst/char/6154/#f7145",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "7147",
@@ -1196,21 +1204,33 @@
       "name": "空条徐倫",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6413/#f7330"
+      "source": "https://game.technophere.com/monst/char/6413/#f7330",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "7331",
       "name": "空条承太郎SO",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6415/#f7331"
+      "source": "https://game.technophere.com/monst/char/6415/#f7331",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "7332",
       "name": "ウェザーリポート",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6417/#f7332"
+      "source": "https://game.technophere.com/monst/char/6417/#f7332",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "7334",

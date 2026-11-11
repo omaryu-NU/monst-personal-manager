@@ -145,7 +145,11 @@
       "name": "包青天",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6062/#f8503"
+      "source": "https://game.technophere.com/monst/char/6062/#f8503",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8504",
@@ -496,7 +500,11 @@
       "name": "オド",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5939/#f8557"
+      "source": "https://game.technophere.com/monst/char/5939/#f8557",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース"
     },
     {
       "id": "8558",
@@ -594,7 +602,11 @@
       "name": "ネオ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5989/#f8570"
+      "source": "https://game.technophere.com/monst/char/5989/#f8570",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8571",
@@ -900,7 +912,11 @@
       "name": "ハリケーン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5942/#f8605"
+      "source": "https://game.technophere.com/monst/char/5942/#f8605",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "8606",

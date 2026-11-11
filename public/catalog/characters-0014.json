@@ -1599,7 +1599,11 @@
       "name": "劉邦",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6064/#f7738"
+      "source": "https://game.technophere.com/monst/char/6064/#f7738",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "7740",
