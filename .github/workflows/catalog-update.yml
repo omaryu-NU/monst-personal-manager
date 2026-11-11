@@ -48,6 +48,22 @@ jobs:
           path: local-reports/image-evidence/actions-replay.json
           if-no-files-found: warn
           retention-days: 14
+      - name: Phase 14 image integration gate
+        run: |
+          python scripts/catalog_image_integration_audit.py \
+            --catalog public/catalog \
+            --evidence catalog-image-evidence.json \
+            --min-evidence 1 \
+            --strict \
+            --output local-reports/image-integration/actions-report.json
+      - name: Upload image integration report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-image-integration-report
+          path: local-reports/image-integration/actions-report.json
+          if-no-files-found: warn
+          retention-days: 14
       - name: Audit local catalog
         run: python scripts/catalog_progress.py public/catalog --output catalog-audit-summary.json
       - name: Phase 5 catalog structural integrity gate
