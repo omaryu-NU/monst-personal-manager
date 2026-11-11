@@ -160,30 +160,86 @@ def _field_label(text):
     return _clean(text).replace(' ', '').replace('：', '').replace(':','')
 
 
+def _stat_column_keys(table):
+    """Use explicit per-table headings where available; no assumed order then."""
+    for tr in table.find_all('tr'):
+        cells=tr.find_all(['th', 'td'], recursive=False)
+        if len(cells)<4:
+            continue
+        labels=[_field_label(c.get_text(' ',strip=True)).lower() for c in cells[1:]]
+        mapping=[]
+        for label in labels:
+            if label in ('hp','ＨＰ','ｈｐ'):
+                mapping.append('hp')
+            elif label in ('攻撃力','攻撃'):
+                mapping.append('attack')
+            elif label in ('スピード','速度'):
+                mapping.append('speed')
+            else:
+                mapping.append(None)
+        if set(k for k in mapping if k) == {'hp','attack','speed'} and len(set(mapping)) == len(mapping):
+            return mapping
+        if any(k is not None for k in mapping):
+            # If a column header is recognized but ambiguous, avoid guessing.
+            return []
+    return None
+
+
 def _parse_stats_table(block, item):
-    for tr in block.find_all('tr'):
-        cells=tr.find_all(['th','td'],recursive=False)
-        if not cells:continue
-        label=_field_label(cells[0].get_text(' ',strip=True))
-        if label in ('Lv極','Lv120','レベル極') and len(cells)>=4:
-            for key,cell in zip(('hp','attack','speed'),cells[1:4]):
-                num=_stats_number(cell.get_text(' ',strip=True))
-                if num is not None:item[key]=num
-        elif len(cells)>=2:
+    """Parse only labeled form-local cells. Prefer Lv極 over Lv120 regardless of DOM order."""
+    stats_by_level={}
+    for table in block.find_all('table'):
+        keys=_stat_column_keys(table)
+        for tr in table.find_all('tr'):
+            cells=tr.find_all(['th','td'],recursive=False)
+            if not cells:
+                continue
+            label=_field_label(cells[0].get_text(' ',strip=True))
+            if label in ('Lv極','Lv120','レベル極'):
+                if keys == [] or len(cells)<4:
+                    continue
+                columns=keys if keys is not None else ['hp','attack','speed']
+                if len(columns)>len(cells)-1:
+                    continue
+                values={}
+                for key, cell in zip(columns,cells[1:]):
+                    if key is None:
+                        continue
+                    raw=_clean(cell.get_text(' ',strip=True))
+                    # Parse a strictly numeric cell; never take part of a label or formula.
+                    if not re.fullmatch(r'\d[\d,]*(?:\.\d+)?',raw):
+                        continue
+                    num=_stats_number(raw)
+                    if num is not None:
+                        values[key]=num
+                if values:
+                    level='Lv極' if label in ('Lv極','レベル極') else 'Lv120'
+                    stats_by_level.setdefault(level,{}).update(values)
+                continue
+            if len(cells)<2:
+                continue
             val=_clean(' '.join(c.get_text(' ',strip=True) for c in cells[1:]))
-            value_cell=cells[1]
-            if label in ('アビリティ','アビリティー'):
-                item['abilities']=_split_abilities(value_cell)
-            elif label in ('ゲージショット','ゲージ','ゲージアビリティ'):
-                item['gaugeAbilities']=_split_abilities(value_cell)
-            elif label in ('コネクトスキル','コネクト'):
-                item['connectAbilities']=_split_abilities(value_cell)
+            if label in ('アビリティ','アビリティー','ゲージショット','ゲージ','ゲージアビリティ','コネクトスキル','コネクト'):
+                name= ('abilities' if label in ('アビリティ','アビリティー') else
+                       'gaugeAbilities' if label in ('ゲージショット','ゲージ','ゲージアビリティ') else
+                       'connectAbilities')
+                abilities=[]
+                for cell in cells[1:]:
+                    abilities.extend(_split_abilities(cell))
+                abilities=list(dict.fromkeys(abilities))
+                if abilities:
+                    item[name]=list(dict.fromkeys(item.get(name,[])+abilities))
             elif label in ('ストライクショット','SS') and val:
                 item['ss']=val
             elif label in ('友情コンボ','友情') and val:
                 item['friendship']=val
-    # Support layouts with 'HP/攻撃力/スピード' headings and Lv極 row
-    # without inventing values if the table structure cannot be identified.
+    # Lv極 is used as the single published level; Lv120 only fills missing cells.
+    for key in ('hp','attack','speed'):
+        value=stats_by_level.get('Lv極',{}).get(key)
+        if value is None:
+            value=stats_by_level.get('Lv120',{}).get(key)
+        if value is not None:
+            item[key]=value
 
 
 def parse_family(html,page_url):
