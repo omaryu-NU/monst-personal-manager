@@ -90,10 +90,10 @@ def parse_profile(html, page_url):
     # Image links must be validated as a concrete asset, not fabricated by ID.
     icon=''
     for img in soup.find_all('img'):
-        if 'アイコン' not in (img.get('alt') or ''):continue
-        url=urljoin(page_url,img.get('data-src') or img.get('src') or '')
-        if safe_url(url) and urlparse(url).path.lower().endswith(('.webp','.png','.jpg','.jpeg')):
-            icon=url;break
+        for url in _image_candidates(img,page_url):
+            if Path(urlparse(url).path).stem==str(no) and '/icon/' in urlparse(url).path.lower():
+                icon=url;break
+        if icon:break
     return {'id':str(no),'name':name,'attribute':attr,'source':page_url,
             **({'acquisition':acq} if acq else {}), **({'image':icon} if icon else {})}
 
@@ -121,6 +121,69 @@ def _split_abilities(cell):
         suffix=_clean(rest)
         return list(dict.fromkeys(anchors + ([suffix] if suffix else [])))
     return [text]
+
+
+
+def _image_candidates(tag, page_url):
+    """Only real image URLs appearing in markup; no fabricated No. -> URL paths."""
+    raw=[]
+    for key in ('data-src','data-lazy-src','data-original','src'):
+        v=tag.get(key)
+        if v: raw.append(v)
+    for key in ('data-srcset','srcset'):
+        value=tag.get(key) or ''
+        raw.extend(x.strip().split()[0] for x in value.split(',') if x.strip())
+    for value in raw:
+        url=urljoin(page_url,value)
+        path=urlparse(url).path.lower()
+        if safe_url(url) and path.endswith(('.webp','.png','.jpg','.jpeg')):
+            yield url
+
+
+def _form_icon(block, page_url, form_no):
+    """Avoid unrelated images: prefer an explicit icon path ending in the form No."""
+    numbered=[]
+    for img in block.find_all('img'):
+        alt=_clean(img.get('alt') or '')
+        for url in _image_candidates(img,page_url):
+            path=urlparse(url).path
+            # Exact numeric stem, never a substring (954 vs 1954).
+            stem=Path(path).stem
+            if stem==str(form_no):
+                numbered.append(url)
+    if numbered:return numbered[0]
+    # Do not guess which image belongs to this form if no No.-matched asset.
+    return ''
+
+
+def _field_label(text):
+    return _clean(text).replace(' ', '').replace('：', '').replace(':','')
+
+
+def _parse_stats_table(block, item):
+    for tr in block.find_all('tr'):
+        cells=tr.find_all(['th','td'],recursive=False)
+        if not cells:continue
+        label=_field_label(cells[0].get_text(' ',strip=True))
+        if label in ('Lv極','Lv120','レベル極') and len(cells)>=4:
+            for key,cell in zip(('hp','attack','speed'),cells[1:4]):
+                num=_stats_number(cell.get_text(' ',strip=True))
+                if num is not None:item[key]=num
+        elif len(cells)>=2:
+            val=_clean(' '.join(c.get_text(' ',strip=True) for c in cells[1:]))
+            value_cell=cells[1]
+            if label in ('アビリティ','アビリティー'):
+                item['abilities']=_split_abilities(value_cell)
+            elif label in ('ゲージショット','ゲージ','ゲージアビリティ'):
+                item['gaugeAbilities']=_split_abilities(value_cell)
+            elif label in ('コネクトスキル','コネクト'):
+                item['connectAbilities']=_split_abilities(value_cell)
+            elif label in ('ストライクショット','SS') and val:
+                item['ss']=val
+            elif label in ('友情コンボ','友情') and val:
+                item['friendship']=val
+    # Support layouts with 'HP/攻撃力/スピード' headings and Lv極 row
+    # without inventing values if the table structure cannot be identified.
 
 
 def parse_family(html,page_url):
@@ -160,29 +223,10 @@ def parse_family(html,page_url):
         if m:item['style']=m.group(1)
         m=re.search(r'★\s*(\d)',meta)
         if m:item['rarity']=int(m.group(1))
-        for img in block.find_all('img'):
-            src=img.get('data-src') or img.get('src') or ''
-            u=urljoin(page_url,src)
-            if safe_url(u) and urlparse(u).path.lower().endswith(('.png','.webp','.jpg','.jpeg')):
-                item['image']=u;break
-        # Distinguish Lv極 from タス最大値; do not add them together.
-        for tr in block.find_all('tr'):
-            cells=tr.find_all(['th','td'])
-            if not cells:continue
-            label=_clean(cells[0].get_text(' ',strip=True))
-            if label=='Lv極' and len(cells)>=4:
-                for key,cell in zip(('hp','attack','speed'),cells[1:4]):
-                    num=_stats_number(cell.get_text(' ',strip=True))
-                    if num is not None:item[key]=num
-            elif len(cells)>=2:
-                val=_clean(cells[1].get_text(' ',strip=True))
-                if label=='アビリティ':item['abilities']=_split_abilities(cells[1])
-                elif label in ('ゲージショット','ゲージ'):
-                    item['gaugeAbilities']=_split_abilities(cells[1])
-                elif label in ('コネクトスキル','コネクト'):
-                    item['connectAbilities']=_split_abilities(cells[1])
-                elif label=='ストライクショット' and val:item['ss']=val
-                elif label=='友情コンボ' and val:item['friendship']=val
+        icon=_form_icon(block,page_url,no)
+        if icon:item['image']=icon
+        # Stats use Lv極/Lv120, not タス最大値, and data comes from this form only.
+        _parse_stats_table(block,item)
         result[item['id']]=item
     return list(result.values())
 
