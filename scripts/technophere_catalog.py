@@ -328,6 +328,55 @@ def next_listing_cursor(total, planned, fallback):
     return last + 1 if last < total else 2
 
 
+def order_family_profiles(families, strategy='stratified'):
+    """Stable ordering of *all known* families across four historic ID bands.
+
+    This operates on live discovered families, not an old audit CSV. Quartiles
+    are interleaved in numeric ascending order; filtering out verified and
+    retry-delayed entries happens later, so profileCursor stays anchored to
+    the full universe instead of an ever-shrinking eligible list.
+    """
+    numbered=[]
+    for url in set(families):
+        if not isinstance(url,str) or not safe_url(url):continue
+        match=CHAR_URL.fullmatch(urlparse(url).path)
+        if match:
+            numbered.append((int(re.search(r'/char/(\d+)',urlparse(url).path).group(1)),url))
+    numbered.sort(key=lambda pair:(pair[0],pair[1]))
+    if strategy=='newest_first':
+        return [url for _,url in reversed(numbered)]
+    if strategy!='stratified':
+        raise ValueError('unknown profile strategy')
+    size=len(numbered)
+    bands=[numbered[(band*size)//4:((band+1)*size)//4] for band in range(4)]
+    ordered=[]
+    for offset in range(max((len(band) for band in bands),default=0)):
+        for band in bands:
+            if offset<len(band):ordered.append(band[offset][1])
+    return ordered
+
+
+def choose_family_profiles(order, verified, retries, run_number, cursor, count):
+    """Pick at most count new URLs while preserving retry delays/cursor.
+
+    Returned cursor is an index in the full ordering and only moves past the
+    final selected URL; it does not claim the URL was fetched successfully.
+    """
+    if count < 0:raise ValueError('count must be nonnegative')
+    if not order or count==0:return [],(cursor%len(order) if order else 0)
+    start=cursor%len(order)
+    selected=[];last=None
+    for offset in range(len(order)):
+        idx=(start+offset)%len(order)
+        url=order[idx]
+        if url in verified:continue
+        delay=retries.get(url,{})
+        if run_number<int(delay.get('retryAfterRun',0)):continue
+        selected.append(url);last=idx
+        if len(selected)>=count:break
+    return selected,((last+1)%len(order) if last is not None else start)
+
+
 def update(args, session, check_robots=True, wait=time.sleep):
     if os.getenv('TECHNOPHERE_REUSE_APPROVED')!='true':
         raise RuntimeError('Technophereの再利用・定期収集許可を確認し、TECHNOPHERE_REUSE_APPROVED=true を設定してください')
@@ -393,23 +442,17 @@ def update(args, session, check_robots=True, wait=time.sleep):
     # A failing high-number family must not starve all other families. Iterate
     # deterministically across the full discovered family set, using a persisted
     # cursor and a bounded per-family backoff (runs, not wall-clock seconds).
-    family_order=sorted(set(families), key=lambda x:int(re.search(r'/char/(\d+)',x).group(1)),reverse=True)
+    family_order=order_family_profiles(families, strategy=getattr(args,'profile_strategy','newest_first'))
     run_number=max(0,int(state.get('runNumber',0)))+1
     retry_state={u:v for u,v in state.get('profileRetry',{}).items()
                  if u in families and isinstance(v,dict)}
     profile_cursor=int(state.get('profileCursor',0))%max(len(family_order),1)
-    selected=[]
-    for j in range(len(family_order)):
-        idx=(profile_cursor+j)%len(family_order)
-        u=family_order[idx]
-        if u in verified_urls:continue
-        if run_number<int(retry_state.get(u,{}).get('retryAfterRun',0)):continue
-        selected.append(u)
-        if len(selected)>=args.profiles:break
-    # On a single-run batch, advance past the last *selected* URL even if parsing
-    # fails. This avoids testing the same permanently broken page every run.
+    selected,next_profile_cursor=choose_family_profiles(
+        family_order,verified_urls,retry_state,run_number,profile_cursor,args.profiles)
+    # Match the existing behavior: do not advance cursor after listing HTTP 429.
+    # The next run will re-evaluate verified and retry-delayed families.
     if selected and not rate_limited:
-        profile_cursor=(family_order.index(selected[-1])+1)%len(family_order)
+        profile_cursor=next_profile_cursor
     def failed_profile(url):
         prior=retry_state.get(url,{})
         count=min(12,int(prior.get('failures',0))+1)
@@ -467,7 +510,8 @@ def update(args, session, check_robots=True, wait=time.sleep):
               'familiesDiscovered':len(families),'familiesVerified':len(verified_urls & set(families)),
               'familiesRemaining':len(set(families)-verified_urls),
               'profilesAttemptedThisRun':len([] if rate_limited else selected),
-              'profileRetryDelayed':sum(1 for u in families if u not in verified_urls
+              'profileSelectionStrategy':getattr(args,'profile_strategy','stratified'),
+               'profileRetryDelayed':sum(1 for u in families if u not in verified_urls
                                         and run_number<int(retry_state.get(u,{}).get('retryAfterRun',0))),
               'listingPagesMissing':sorted(p for p in range(1,total+1) if p not in visited),
               'unmatchedRepresentativeProfilesThisRun':unmatched_profiles,
@@ -495,6 +539,8 @@ def main():
     p=argparse.ArgumentParser()
     p.add_argument('--pages',type=int,default=5)
     p.add_argument('--profiles',type=int,default=15)
+    p.add_argument('--profile-strategy',choices=('stratified','newest_first'),default='stratified',
+                   help='live family order; newest_first rolls back to the previous behavior')
     p.add_argument('--delay',type=float,default=1.5)
     args=p.parse_args()
     if not 2<=args.pages<=12 or not 0<=args.profiles<=60 or args.delay<0.5:p.error('limits exceeded')
