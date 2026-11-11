@@ -346,56 +346,128 @@
       "id": "9424",
       "name": "⻄木野真姫",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9424/#f9424",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9424.webp",
+      "source": "https://game.technophere.com/monst/char/9424/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "連気弾 （火）",
+      "ss": "スピードとパワーがアップ＆停止後に一定期間、アクセラレータ状態になる 12ターン",
+      "rarity": 6,
+      "hp": 20278,
+      "attack": 18701,
+      "speed": 266.13,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "9425",
       "name": "園⽥海未",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9425/#f9425",
+      "abilities": [
+        "マインスイーパーM",
+        "アンチウィンド",
+        "アンチ減速床",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9425.webp",
+      "source": "https://game.technophere.com/monst/char/9425/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "3方向追撃貫通弾 （水）",
+      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを一定ターン短縮する 16ターン",
+      "rarity": 6,
+      "hp": 20580,
+      "attack": 17954,
+      "speed": 302.67,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "9426",
       "name": "南ことり",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9426/#f9426",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチウィンド",
+        "回復M"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9426.webp",
+      "source": "https://game.technophere.com/monst/char/9426/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "爆絶爆発 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の友情コンボ威力を一定期間アップ 20ターン",
+      "rarity": 6,
+      "hp": 20161,
+      "attack": 18013,
+      "speed": 262.9,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "9427",
       "name": "星空凛",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9427/#f9427",
+      "abilities": [
+        "アンチワープ",
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9427.webp",
+      "source": "https://game.technophere.com/monst/char/9427/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ランページレーザーEL （光）",
+      "ss": "スピードとパワーがアップ＆ふれた壁すべてに一定期間、加速壁を張る 12ターン",
+      "rarity": 6,
+      "hp": 20526,
+      "attack": 17922,
+      "speed": 323.53,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "ダッシュ"
+      ]
     },
     {
       "id": "9428",
       "name": "東條希",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9428/#f9428",
+      "abilities": [
+        "アンチワープ",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9428.webp",
+      "source": "https://game.technophere.com/monst/char/9428/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強グロウスフィア （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方を一定期間、リジェネ状態にする 12ターン",
+      "rarity": 6,
+      "hp": 18497,
+      "attack": 18082,
+      "speed": 256.83,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "アンチマルチレイヤ"
+      ]
     },
     {
       "id": "9429",
