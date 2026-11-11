@@ -1,7 +1,7 @@
 {
-  "nextPage": 34,
+  "nextPage": 38,
   "totalPages": 50,
-  "lastRun": "2026-11-11T04:59:49.511748+00:00",
+  "lastRun": "2026-11-11T05:08:22.571839+00:00",
   "visitedPages": [
     1,
     22,
@@ -15,7 +15,11 @@
     30,
     31,
     32,
-    33
+    33,
+    34,
+    35,
+    36,
+    37
   ],
   "verifiedFamilyURLs": [
     "https://game.technophere.com/monst/char/9538/",
@@ -23,5 +27,27 @@
     "https://game.technophere.com/monst/char/9543/",
     "https://game.technophere.com/monst/char/9545/",
     "https://game.technophere.com/monst/char/9548/"
-  ]
+  ],
+  "verifiedFamilyFormIDs": {
+    "https://game.technophere.com/monst/char/9548/": [
+      "9548",
+      "9549"
+    ],
+    "https://game.technophere.com/monst/char/9545/": [
+      "9545",
+      "9546"
+    ],
+    "https://game.technophere.com/monst/char/9543/": [
+      "9543",
+      "9544"
+    ],
+    "https://game.technophere.com/monst/char/9540/": [
+      "9540",
+      "9541",
+      "9542"
+    ],
+    "https://game.technophere.com/monst/char/9538/": [
+      "9539"
+    ]
+  }
 }
