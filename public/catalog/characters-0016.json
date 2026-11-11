@@ -20,63 +20,99 @@
       "name": "上条当麻",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8166/#f8166"
+      "source": "https://game.technophere.com/monst/char/8166/#f8166",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8168",
       "name": "フレンダ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8167/#f8168"
+      "source": "https://game.technophere.com/monst/char/8167/#f8168",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8170",
       "name": "木山春生",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8169/#f8170"
+      "source": "https://game.technophere.com/monst/char/8169/#f8170",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8172",
       "name": "ドッペルゲンガー",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8171/#f8172"
+      "source": "https://game.technophere.com/monst/char/8171/#f8172",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8173",
       "name": "麦野沈利",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8173/#f8173"
+      "source": "https://game.technophere.com/monst/char/8173/#f8173",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8175",
       "name": "警策看取",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8174/#f8175"
+      "source": "https://game.technophere.com/monst/char/8174/#f8175",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8177",
       "name": "絹旗最愛",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8176/#f8177"
+      "source": "https://game.technophere.com/monst/char/8176/#f8177",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8178",
       "name": "ミサカ妹",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8178/#f8178"
+      "source": "https://game.technophere.com/monst/char/8178/#f8178",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8179",
       "name": "婚后光子",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8179/#f8179"
+      "source": "https://game.technophere.com/monst/char/8179/#f8179",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8180",
@@ -105,14 +141,22 @@
       "name": "アクセラレータ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8182/#f8182"
+      "source": "https://game.technophere.com/monst/char/8182/#f8182",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8184",
       "name": "マジカルメルルンず",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8183/#f8184"
+      "source": "https://game.technophere.com/monst/char/8183/#f8184",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8185",
@@ -159,14 +203,22 @@
       "name": "トシノセ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8189/#f8190"
+      "source": "https://game.technophere.com/monst/char/8189/#f8190",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
     },
     {
       "id": "8192",
       "name": "末法",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8191/#f8192"
+      "source": "https://game.technophere.com/monst/char/8191/#f8192",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
     },
     {
       "id": "8193",
@@ -195,70 +247,110 @@
       "name": "エル",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8196/#f8198"
+      "source": "https://game.technophere.com/monst/char/8196/#f8198",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
     },
     {
       "id": "8200",
       "name": "アビス(新春)",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8200/#f8200"
+      "source": "https://game.technophere.com/monst/char/8200/#f8200",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
     },
     {
       "id": "8202",
       "name": "乙巳にょろん",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8201/#f8202"
+      "source": "https://game.technophere.com/monst/char/8201/#f8202",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻獣"
     },
     {
       "id": "8204",
       "name": "ペグイル",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8203/#f8204"
+      "source": "https://game.technophere.com/monst/char/8203/#f8204",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "幻妖"
     },
     {
       "id": "8206",
       "name": "物干し竿",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8205/#f8206"
+      "source": "https://game.technophere.com/monst/char/8205/#f8206",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8208",
       "name": "アダマスハルパー",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8207/#f8208"
+      "source": "https://game.technophere.com/monst/char/8207/#f8208",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "8210",
       "name": "アンキレー",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8209/#f8210"
+      "source": "https://game.technophere.com/monst/char/8209/#f8210",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8213",
       "name": "鈍堂燃吉郎",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8211/#f8213"
+      "source": "https://game.technophere.com/monst/char/8211/#f8213",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8215",
       "name": "七草ゆか",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8214/#f8215"
+      "source": "https://game.technophere.com/monst/char/8214/#f8215",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8217",
       "name": "はつゆめんばーず",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8216/#f8217"
+      "source": "https://game.technophere.com/monst/char/8216/#f8217",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
     },
     {
       "id": "8218",
@@ -297,91 +389,143 @@
       "name": "ミスタ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8222/#f8223"
+      "source": "https://game.technophere.com/monst/char/8222/#f8223",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8225",
       "name": "ブチャラティ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8224/#f8225"
+      "source": "https://game.technophere.com/monst/char/8224/#f8225",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8227",
       "name": "ナランチャ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8226/#f8227"
+      "source": "https://game.technophere.com/monst/char/8226/#f8227",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8229",
       "name": "アバッキオ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8228/#f8229"
+      "source": "https://game.technophere.com/monst/char/8228/#f8229",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8231",
       "name": "ジョルノ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8230/#f8231"
+      "source": "https://game.technophere.com/monst/char/8230/#f8231",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8232",
       "name": "フーゴ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8232/#f8232"
+      "source": "https://game.technophere.com/monst/char/8232/#f8232",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8234",
       "name": "ホルマジオ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8233/#f8234"
+      "source": "https://game.technophere.com/monst/char/8233/#f8234",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8236",
       "name": "ギアッチョ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8235/#f8236"
+      "source": "https://game.technophere.com/monst/char/8235/#f8236",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8238",
       "name": "メローネ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8237/#f8238"
+      "source": "https://game.technophere.com/monst/char/8237/#f8238",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8240",
       "name": "プロシュート",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8239/#f8240"
+      "source": "https://game.technophere.com/monst/char/8239/#f8240",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8242",
       "name": "イルーゾォ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8241/#f8242"
+      "source": "https://game.technophere.com/monst/char/8241/#f8242",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8243",
       "name": "リゾット",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8243/#f8243"
+      "source": "https://game.technophere.com/monst/char/8243/#f8243",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8244",
       "name": "トリッシュ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8244/#f8244"
+      "source": "https://game.technophere.com/monst/char/8244/#f8244",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8245",
@@ -402,7 +546,11 @@
       "name": "チョコラータ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8247/#f8247"
+      "source": "https://game.technophere.com/monst/char/8247/#f8247",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8248",
@@ -431,7 +579,11 @@
       "name": "ディアボロ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8250/#f8251"
+      "source": "https://game.technophere.com/monst/char/8250/#f8251",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "8252",
@@ -460,14 +612,22 @@
       "name": "ズィーベン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8254/#f8255"
+      "source": "https://game.technophere.com/monst/char/8254/#f8255",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8257",
       "name": "盤古",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8256/#f8257"
+      "source": "https://game.technophere.com/monst/char/8256/#f8257",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8258",
@@ -481,63 +641,99 @@
       "name": "フッキ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8259/#f8260"
+      "source": "https://game.technophere.com/monst/char/8259/#f8260",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
     },
     {
       "id": "8262",
       "name": "ラムゼー",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8261/#f8262"
+      "source": "https://game.technophere.com/monst/char/8261/#f8262",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8264",
       "name": "セルシウス",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8263/#f8264"
+      "source": "https://game.technophere.com/monst/char/8263/#f8264",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8266",
       "name": "レントゲン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8265/#f8266"
+      "source": "https://game.technophere.com/monst/char/8265/#f8266",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8268",
       "name": "ポアッタ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8267/#f8268"
+      "source": "https://game.technophere.com/monst/char/8267/#f8268",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
     },
     {
       "id": "8271",
       "name": "ヒトミヨ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8269/#f8271"
+      "source": "https://game.technophere.com/monst/char/8269/#f8271",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人"
     },
     {
       "id": "8273",
       "name": "ラミチ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8272/#f8273"
+      "source": "https://game.technophere.com/monst/char/8272/#f8273",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
     },
     {
       "id": "8275",
       "name": "ボクワイア",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8274/#f8275"
+      "source": "https://game.technophere.com/monst/char/8274/#f8275",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8277",
       "name": "ジャーム",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8276/#f8277"
+      "source": "https://game.technophere.com/monst/char/8276/#f8277",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
     },
     {
       "id": "8278",
@@ -631,91 +827,143 @@
       "name": "ソーカ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8287/#f8288"
+      "source": "https://game.technophere.com/monst/char/8287/#f8288",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
     },
     {
       "id": "8290",
       "name": "ランガ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8289/#f8290"
+      "source": "https://game.technophere.com/monst/char/8289/#f8290",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "獣"
     },
     {
       "id": "8292",
       "name": "ヴェルドラ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8291/#f8292"
+      "source": "https://game.technophere.com/monst/char/8291/#f8292",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
     },
     {
       "id": "8294",
       "name": "ミリム",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8293/#f8294"
+      "source": "https://game.technophere.com/monst/char/8293/#f8294",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔王"
     },
     {
       "id": "8296",
       "name": "ディアブロ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8295/#f8296"
+      "source": "https://game.technophere.com/monst/char/8295/#f8296",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
     },
     {
       "id": "8297",
       "name": "ルミナス",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8297/#f8297"
+      "source": "https://game.technophere.com/monst/char/8297/#f8297",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
     },
     {
       "id": "8299",
       "name": "グレンダ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8298/#f8299"
+      "source": "https://game.technophere.com/monst/char/8298/#f8299",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8301",
       "name": "グレゴリー",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8300/#f8301"
+      "source": "https://game.technophere.com/monst/char/8300/#f8301",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "8303",
       "name": "クレイマン",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8302/#f8303"
+      "source": "https://game.technophere.com/monst/char/8302/#f8303",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
     },
     {
       "id": "8305",
       "name": "サーレ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8304/#f8305"
+      "source": "https://game.technophere.com/monst/char/8304/#f8305",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8306",
       "name": "ヒナタ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8306/#f8306"
+      "source": "https://game.technophere.com/monst/char/8306/#f8306",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8308",
       "name": "アダルマン",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8307/#f8308"
+      "source": "https://game.technophere.com/monst/char/8307/#f8308",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
     },
     {
       "id": "8309",
       "name": "アルビス",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8309/#f8309"
+      "source": "https://game.technophere.com/monst/char/8309/#f8309",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
     },
     {
       "id": "8310",
@@ -733,21 +981,33 @@
       "name": "マサユキ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8311/#f8311"
+      "source": "https://game.technophere.com/monst/char/8311/#f8311",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8312",
       "name": "カリオン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8312/#f8312"
+      "source": "https://game.technophere.com/monst/char/8312/#f8312",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
     },
     {
       "id": "8314",
       "name": "サンディッツ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8313/#f8314"
+      "source": "https://game.technophere.com/monst/char/8313/#f8314",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8315",
@@ -765,49 +1025,77 @@
       "name": "カリユガ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8316/#f8317"
+      "source": "https://game.technophere.com/monst/char/8316/#f8317",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
     },
     {
       "id": "8319",
       "name": "島津豊久",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8318/#f8319"
+      "source": "https://game.technophere.com/monst/char/8318/#f8319",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
     },
     {
       "id": "8321",
       "name": "大友宗麟",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8320/#f8321"
+      "source": "https://game.technophere.com/monst/char/8320/#f8321",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8323",
       "name": "立花道雪",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8322/#f8323"
+      "source": "https://game.technophere.com/monst/char/8322/#f8323",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
     },
     {
       "id": "8325",
       "name": "磯撫",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8324/#f8325"
+      "source": "https://game.technophere.com/monst/char/8324/#f8325",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
     },
     {
       "id": "8327",
       "name": "天火",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8326/#f8327"
+      "source": "https://game.technophere.com/monst/char/8326/#f8327",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻獣"
     },
     {
       "id": "8330",
       "name": "のっぺらぼう",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8328/#f8330"
+      "source": "https://game.technophere.com/monst/char/8328/#f8330",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
     },
     {
       "id": "8331",
@@ -832,7 +1120,11 @@
       "name": "ルネサンス",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8333/#f8335"
+      "source": "https://game.technophere.com/monst/char/8333/#f8335",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8336",
@@ -861,105 +1153,165 @@
       "name": "デティアカル",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8338/#f8339"
+      "source": "https://game.technophere.com/monst/char/8338/#f8339",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "幻妖"
     },
     {
       "id": "8341",
       "name": "紅月カレン",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8340/#f8341"
+      "source": "https://game.technophere.com/monst/char/8340/#f8341",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8343",
       "name": "枢木スザク",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8342/#f8343"
+      "source": "https://game.technophere.com/monst/char/8342/#f8343",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8345",
       "name": "藤堂鏡志朗",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8344/#f8345"
+      "source": "https://game.technophere.com/monst/char/8344/#f8345",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8347",
       "name": "ロロ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8346/#f8347"
+      "source": "https://game.technophere.com/monst/char/8346/#f8347",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
     },
     {
       "id": "8349",
       "name": "ルルーシュ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8348/#f8349"
+      "source": "https://game.technophere.com/monst/char/8348/#f8349",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8350",
       "name": "C.C.",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8350/#f8350"
+      "source": "https://game.technophere.com/monst/char/8350/#f8350",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
     },
     {
       "id": "8352",
       "name": "アーニャ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8351/#f8352"
+      "source": "https://game.technophere.com/monst/char/8351/#f8352",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
     },
     {
       "id": "8354",
       "name": "ビスマルク",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8353/#f8354"
+      "source": "https://game.technophere.com/monst/char/8353/#f8354",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
     },
     {
       "id": "8356",
       "name": "ジノ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8355/#f8356"
+      "source": "https://game.technophere.com/monst/char/8355/#f8356",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
     },
     {
       "id": "8358",
       "name": "ジェレミア",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8357/#f8358"
+      "source": "https://game.technophere.com/monst/char/8357/#f8358",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
     },
     {
       "id": "8360",
       "name": "コーネリア",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8359/#f8360"
+      "source": "https://game.technophere.com/monst/char/8359/#f8360",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8361",
       "name": "黎星刻",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8361/#f8361"
+      "source": "https://game.technophere.com/monst/char/8361/#f8361",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8362",
       "name": "生徒会",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8362/#f8362"
+      "source": "https://game.technophere.com/monst/char/8362/#f8362",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8363",
       "name": "黒の騎士団",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8363/#f8363"
+      "source": "https://game.technophere.com/monst/char/8363/#f8363",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8364",
@@ -980,7 +1332,11 @@
       "name": "シュナイゼル＆ナナリー",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8366/#f8366"
+      "source": "https://game.technophere.com/monst/char/8366/#f8366",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8367",
@@ -994,7 +1350,11 @@
       "name": "フュンフ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8368/#f8369"
+      "source": "https://game.technophere.com/monst/char/8368/#f8369",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
     },
     {
       "id": "8370",
@@ -1023,49 +1383,77 @@
       "name": "源為朝α",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8372/#f8373"
+      "source": "https://game.technophere.com/monst/char/8372/#f8373",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
     },
     {
       "id": "8375",
       "name": "フーコーα",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8374/#f8375"
+      "source": "https://game.technophere.com/monst/char/8374/#f8375",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8377",
       "name": "ラファエルα",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8376/#f8377"
+      "source": "https://game.technophere.com/monst/char/8376/#f8377",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
     },
     {
       "id": "8380",
       "name": "西井原つるみ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8378/#f8380"
+      "source": "https://game.technophere.com/monst/char/8378/#f8380",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
     },
     {
       "id": "8382",
       "name": "逢坂関丸",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8381/#f8382"
+      "source": "https://game.technophere.com/monst/char/8381/#f8382",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "8384",
       "name": "加乃サラ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8383/#f8384"
+      "source": "https://game.technophere.com/monst/char/8383/#f8384",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
     },
     {
       "id": "8385",
       "name": "トロイメライ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8385/#f8385"
+      "source": "https://game.technophere.com/monst/char/8385/#f8385",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "妖精"
     },
     {
       "id": "8386",
@@ -1083,98 +1471,154 @@
       "name": "オーポレン",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8387/#f8388"
+      "source": "https://game.technophere.com/monst/char/8387/#f8388",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
     },
     {
       "id": "8390",
       "name": "アリエル",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8389/#f8390"
+      "source": "https://game.technophere.com/monst/char/8389/#f8390",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8392",
       "name": "ノキエル",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8391/#f8392"
+      "source": "https://game.technophere.com/monst/char/8391/#f8392",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8394",
       "name": "アシュフォード",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8393/#f8394"
+      "source": "https://game.technophere.com/monst/char/8393/#f8394",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8396",
       "name": "リリエル",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8395/#f8396"
+      "source": "https://game.technophere.com/monst/char/8395/#f8396",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8398",
       "name": "ミリエラ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8397/#f8398"
+      "source": "https://game.technophere.com/monst/char/8397/#f8398",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8399",
       "name": "ラスタロッテ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8399/#f8399"
+      "source": "https://game.technophere.com/monst/char/8399/#f8399",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8400",
       "name": "フォロッソ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8400/#f8400"
+      "source": "https://game.technophere.com/monst/char/8400/#f8400",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8401",
       "name": "クーリア",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8401/#f8401"
+      "source": "https://game.technophere.com/monst/char/8401/#f8401",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8402",
       "name": "オギノ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8402/#f8402"
+      "source": "https://game.technophere.com/monst/char/8402/#f8402",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
     },
     {
       "id": "8403",
       "name": "シロ＆クロ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8403/#f8403"
+      "source": "https://game.technophere.com/monst/char/8403/#f8403",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8404",
       "name": "リリエル＆ミリエラ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8404/#f8404"
+      "source": "https://game.technophere.com/monst/char/8404/#f8404",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8406",
       "name": "753",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8405/#f8406"
+      "source": "https://game.technophere.com/monst/char/8405/#f8406",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8407",
       "name": "リリエル",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8407/#f8407"
+      "source": "https://game.technophere.com/monst/char/8407/#f8407",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8408",
@@ -1203,7 +1647,11 @@
       "name": "メリア",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8411/#f8411"
+      "source": "https://game.technophere.com/monst/char/8411/#f8411",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8412",
@@ -1221,14 +1669,22 @@
       "name": "天使空挺隊",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8410/#f8413"
+      "source": "https://game.technophere.com/monst/char/8410/#f8413",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8415",
       "name": "ビッグクランチ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8414/#f8415"
+      "source": "https://game.technophere.com/monst/char/8414/#f8415",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔王"
     },
     {
       "id": "8416",
@@ -1310,91 +1766,143 @@
       "name": "新一＆蘭",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8425/#f8426"
+      "source": "https://game.technophere.com/monst/char/8425/#f8426",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8428",
       "name": "鈴木園子",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8427/#f8428"
+      "source": "https://game.technophere.com/monst/char/8427/#f8428",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8430",
       "name": "平次＆和葉",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8429/#f8430"
+      "source": "https://game.technophere.com/monst/char/8429/#f8430",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8432",
       "name": "阿笠博士",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8431/#f8432"
+      "source": "https://game.technophere.com/monst/char/8431/#f8432",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8434",
       "name": "コナン＆キッド",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8433/#f8434"
+      "source": "https://game.technophere.com/monst/char/8433/#f8434",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8435",
       "name": "コナン＆灰原",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8435/#f8435"
+      "source": "https://game.technophere.com/monst/char/8435/#f8435",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8437",
       "name": "ライ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8436/#f8437"
+      "source": "https://game.technophere.com/monst/char/8436/#f8437",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8439",
       "name": "バーボン＆ベルモット",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8438/#f8439"
+      "source": "https://game.technophere.com/monst/char/8438/#f8439",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8441",
       "name": "メアリー＆世良真純",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8440/#f8441"
+      "source": "https://game.technophere.com/monst/char/8440/#f8441",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8443",
       "name": "紅葉＆伊織",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8442/#f8443"
+      "source": "https://game.technophere.com/monst/char/8442/#f8443",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8445",
       "name": "沖田総司",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8444/#f8445"
+      "source": "https://game.technophere.com/monst/char/8444/#f8445",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8446",
       "name": "大和＆諸伏＆上原",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8446/#f8446"
+      "source": "https://game.technophere.com/monst/char/8446/#f8446",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8447",
       "name": "ジン＆ウォッカ",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8447/#f8447"
+      "source": "https://game.technophere.com/monst/char/8447/#f8447",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8448",
@@ -1412,21 +1920,33 @@
       "name": "少年探偵団",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8449/#f8449"
+      "source": "https://game.technophere.com/monst/char/8449/#f8449",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8450",
       "name": "京極真",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8450/#f8450"
+      "source": "https://game.technophere.com/monst/char/8450/#f8450",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8451",
       "name": "黄金＆白金",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8451/#f8451"
+      "source": "https://game.technophere.com/monst/char/8451/#f8451",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "コスモ"
     },
     {
       "id": "8452",
@@ -1451,63 +1971,99 @@
       "name": "コディエゴス",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8454/#f8455"
+      "source": "https://game.technophere.com/monst/char/8454/#f8455",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "幻妖"
     },
     {
       "id": "8457",
       "name": "ネブカドネザル",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8456/#f8457"
+      "source": "https://game.technophere.com/monst/char/8456/#f8457",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
     },
     {
       "id": "8459",
       "name": "カストル＆ポルックス",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8458/#f8459"
+      "source": "https://game.technophere.com/monst/char/8458/#f8459",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8461",
       "name": "フォーマルハウト",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8460/#f8461"
+      "source": "https://game.technophere.com/monst/char/8460/#f8461",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8463",
       "name": "アルファルド",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8462/#f8463"
+      "source": "https://game.technophere.com/monst/char/8462/#f8463",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8465",
       "name": "メリタック",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8464/#f8465"
+      "source": "https://game.technophere.com/monst/char/8464/#f8465",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
     },
     {
       "id": "8467",
       "name": "クチィパ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8466/#f8467"
+      "source": "https://game.technophere.com/monst/char/8466/#f8467",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
     },
     {
       "id": "8470",
       "name": "モニシナ",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8468/#f8470"
+      "source": "https://game.technophere.com/monst/char/8468/#f8470",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
     },
     {
       "id": "8472",
       "name": "エトワール",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8471/#f8472"
+      "source": "https://game.technophere.com/monst/char/8471/#f8472",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "コスモ"
     },
     {
       "id": "8473",
@@ -1536,14 +2092,22 @@
       "name": "喜多郁代",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8477/#f8478"
+      "source": "https://game.technophere.com/monst/char/8477/#f8478",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "8480",
       "name": "山田リョウ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8479/#f8480"
+      "source": "https://game.technophere.com/monst/char/8479/#f8480",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     }
   ]
 }

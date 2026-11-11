@@ -1428,7 +1428,11 @@
       "name": "ホラー",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8661/#f9286"
+      "source": "https://game.technophere.com/monst/char/8661/#f9286",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
     },
     {
       "id": "9287",
@@ -1443,7 +1447,11 @@
       "attribute": "闇",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9288.webp",
-      "source": "https://game.technophere.com/monst/char/8475/#f9288"
+      "source": "https://game.technophere.com/monst/char/8475/#f9288",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
     },
     {
       "id": "9291",
