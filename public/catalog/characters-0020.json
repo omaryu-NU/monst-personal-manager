@@ -115,12 +115,28 @@
       "id": "9394",
       "name": "士道龍聖",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9394/#f9394",
+      "abilities": [
+        "アンチワープ",
+        "超マインスイーパーM",
+        "アンチ転送壁",
+        "アップポジションキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9394.webp",
+      "source": "https://game.technophere.com/monst/char/9394/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "オートジャベリンバースト （光）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を大爆発直下蹴弾で攻撃 21ターン",
+      "rarity": 6,
+      "hp": 16807,
+      "attack": 24967,
+      "speed": 210.4,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ダッシュL（ラック）"
+      ]
     },
     {
       "id": "9395",
@@ -137,45 +153,107 @@
       "id": "9396",
       "name": "我牙丸吟",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9396/#f9396",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチワープ",
+        "アンチ減速壁",
+        "カウンターキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9396.webp",
+      "source": "https://game.technophere.com/monst/char/9396/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶ウォールスルーバレット （闇）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵に、ふれると友情コンボが発動する分身をセットする 8ターン",
+      "rarity": 6,
+      "hp": 20202,
+      "attack": 18050,
+      "speed": 270.27,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "9397",
       "name": "糸師冴",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9397/#f9397",
+      "abilities": [
+        "マインスイーパーL",
+        "アンチウィンド",
+        "超アンチ転送壁",
+        "アタックターンキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9397.webp",
+      "source": "https://game.technophere.com/monst/char/9397/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ハイクロススティンガー （火）",
+      "ss": "一定期間、スピードとパワーがアップ/減速率が緩和し、味方を動かし敵へ撃ちこむ 20ターン",
+      "rarity": 6,
+      "hp": 21004,
+      "attack": 19267,
+      "speed": 287.87,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "SSターンチャージM"
+      ]
     },
     {
       "id": "9398",
       "name": "グノーシス",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9398/#f9398",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール",
+        "ロングシールドモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9398.webp",
+      "source": "https://game.technophere.com/monst/char/9398/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "超強3方向追従型貫通弾 （木） 副友情 超絶状態異常回復ブラスト （無）",
+      "ss": "スピードとパワーがアップ＆一定期間、無敵状態になる 8+8ターン",
+      "rarity": 6,
+      "hp": 20632,
+      "attack": 17867,
+      "speed": 233.4,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速床"
+      ]
     },
     {
       "id": "9400",
       "name": "キリエ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9399/#f9400",
+      "abilities": [
+        "超アンチ重力バリア",
+        "マインスイーパーM",
+        "弱点キラー（ラック） 神王封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9400.webp",
+      "source": "https://game.technophere.com/monst/char/9399/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "バーストスピナー （火） 副友情 超強全敵貫通ロックオン衝撃波3 （火）",
+      "ss": "味方を動かし敵へ撃ち込む 16+8ターン",
+      "rarity": 6,
+      "hp": 20587,
+      "attack": 18779,
+      "speed": 294.57,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ転送壁（運極）",
+        "回復M"
+      ]
     },
     {
       "id": "9401",

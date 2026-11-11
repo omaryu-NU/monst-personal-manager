@@ -6,36 +6,36 @@
       "name": "マーリック",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/112.webp",
       "source": "https://game.technophere.com/monst/char/111/#f112",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/112.webp"
+      "race": "魔人"
     },
     {
       "id": "114",
       "name": "サリー",
       "attribute": "水",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/114.webp",
       "source": "https://game.technophere.com/monst/char/113/#f114",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/114.webp"
+      "race": "魔人"
     },
     {
       "id": "116",
       "name": "アーノルド",
       "attribute": "木",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/116.webp",
       "source": "https://game.technophere.com/monst/char/115/#f116",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/116.webp"
+      "race": "魔人"
     },
     {
       "id": "118",
@@ -46,7 +46,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/118.webp"
     },
     {
       "id": "120",
@@ -57,7 +58,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/120.webp"
     },
     {
       "id": "134",
@@ -128,7 +130,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/152.webp"
     },
     {
       "id": "154",
