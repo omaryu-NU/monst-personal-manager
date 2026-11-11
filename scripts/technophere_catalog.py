@@ -187,6 +187,32 @@ def parse_family(html,page_url):
     return list(result.values())
 
 
+
+def audit_profile_forms(html, extracted):
+    """Return local structural evidence, NOT proof of global form completeness.
+
+    Check that every *recognized* form heading in the target section yielded an
+    extracted unique form. If the DOM changes or a heading lacks its No., leave
+    the family eligible for a later retry instead of sealing it as verified.
+    """
+    soup=BeautifulSoup(html,'html.parser')
+    h2=next((h for h in soup.find_all('h2') if '形態ごとのステータスとアビリティ' in h.get_text(' ',strip=True)),None)
+    if not h2:
+        return {'headings':0,'parsed':len(extracted),'incomplete':True,'reason':'section_missing'}
+    recognized=[]
+    for element in h2.next_elements:
+        if getattr(element,'name',None)=='h2':break
+        if getattr(element,'name',None)!='h3':continue
+        heading=_clean(element.get_text(' ',strip=True))
+        if re.match(r'^(進化前|真獣神化前|獣神化・改|獣神化改|真獣神化|獣神化|神化|進化|未進化)\s*[：:]',heading):
+            recognized.append(heading)
+    parsed_ids=[str(r['id']) for r in extracted]
+    complete=bool(recognized) and len(recognized)==len(parsed_ids)==len(set(parsed_ids))
+    return {'headings':len(recognized),'parsed':len(parsed_ids),
+            'incomplete':not complete,
+            'reason':('ok' if complete else 'heading_form_mismatch')}
+
+
 def normalize_old(record):
     if not isinstance(record,dict):return None
     # Keep only safe, additive fields from the previous run.
@@ -344,7 +370,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
         prior=retry_state.get(url,{})
         count=min(12,int(prior.get('failures',0))+1)
         retry_state[url]={'failures':count,'retryAfterRun':run_number+min(2**min(count,5),32)}
-    verified_this_run=0;forms_extracted=0;unmatched_profiles=0
+    verified_this_run=0;forms_extracted=0;unmatched_profiles=0;incomplete_profiles=0
     for url in ([] if rate_limited else selected):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
         try:
@@ -356,6 +382,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
                 failed_profile(url)
                 continue
             parsed_ids={item['id'] for item in forms}
+            audit=audit_profile_forms(r.text, forms)
             expected=representative_ids.get(url,set())
             # The listing's representative form must be among the profile forms.
             # Otherwise the parser may have captured an unrelated subset; retry
@@ -372,6 +399,12 @@ def update(args, session, check_robots=True, wait=time.sleep):
                     item['name']=old['name']
                 rows[item['id']]=reconcile(old,item,verified=True)
                 forms_extracted+=1
+            # Partial pages contribute confirmed records but must be retried.
+            if audit['incomplete']:
+                incomplete_profiles+=1
+                warnings.append(f'incomplete profile forms {url}: {audit["parsed"]}/{audit["headings"]} ({audit["reason"]})')
+                failed_profile(url)
+                continue
             verified_urls.add(url)
             retry_state.pop(url,None)
             verified_form_ids[url]=parsed_ids
@@ -394,6 +427,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
                                         and run_number<int(retry_state.get(u,{}).get('retryAfterRun',0))),
               'listingPagesMissing':sorted(p for p in range(1,total+1) if p not in visited),
               'unmatchedRepresentativeProfilesThisRun':unmatched_profiles,
+               'incompleteFormSectionsThisRun':incomplete_profiles,
               'rateLimited':rate_limited,
               'imagesPresent':sum(bool(v.get('image')) for v in rows.values()),
               'abilitiesPresent':sum(bool(v.get('abilities')) for v in rows.values()),
