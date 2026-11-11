@@ -97,6 +97,96 @@ def parse_profile(html, page_url):
     return {'id':str(no),'name':name,'attribute':attr,'source':page_url,
             **({'acquisition':acq} if acq else {}), **({'image':icon} if icon else {})}
 
+def _clean(value):
+    return ' '.join(value.split()).strip()
+
+
+def _stats_number(value):
+    value=value.replace(',', '').strip()
+    match=re.search(r'\d+(?:\.\d+)?', value)
+    if not match:return None
+    return float(match.group(0)) if '.' in match.group(0) else int(match.group(0))
+
+
+def _split_abilities(cell):
+    # Anchor boundaries are reliable. For plain concatenated text, do not invent splits.
+    anchors=[_clean(a.get_text(' ',strip=True)) for a in cell.find_all('a')]
+    anchors=[a for a in anchors if a]
+    text=_clean(cell.get_text(' ',strip=True))
+    if not text:return []
+    if anchors:
+        # Keep any unlinked suffix (e.g. killer abilities) instead of losing it.
+        rest=text
+        for a in anchors:rest=rest.replace(a,' ',1)
+        suffix=_clean(rest)
+        return list(dict.fromkeys(anchors + ([suffix] if suffix else [])))
+    return [text]
+
+
+def parse_family(html,page_url):
+    """Extract only forms explicitly shown under the profile's forms section.
+
+    Never infer missing IDs or icon paths. A family can yield zero rows if the
+    upstream HTML structure differs. In that case the existing catalog is kept.
+    """
+    soup=BeautifulSoup(html,'html.parser')
+    h2=next((h for h in soup.find_all('h2') if '形態ごとのステータスとアビリティ' in h.get_text(' ',strip=True)),None)
+    if not h2:return []
+    result={}
+    for element in h2.next_elements:
+        if getattr(element,'name',None)=='h2':break
+        if getattr(element,'name',None)!='h3':continue
+        heading=_clean(element.get_text(' ',strip=True))
+        head=re.match(r'^(進化前|真獣神化前|獣神化・改|獣神化改|真獣神化|獣神化|神化|進化|未進化)\s*[：:]\s*(.+)$',heading)
+        if not head:continue
+        evolution,full_name=head.group(1),head.group(2)
+        nodes=[]
+        for sibling in element.next_siblings:
+            if getattr(sibling,'name',None) in ('h2','h3'):break
+            nodes.append(sibling)
+        block=BeautifulSoup(''.join(str(x) for x in nodes),'html.parser')
+        content=_clean(block.get_text(' ',strip=True))
+        match=re.search(r'No[.．]\s*(\d{1,6})\s*([火水木光闇])',content)
+        if not match:continue
+        no,attr=match.group(1),match.group(2)
+        item={'id':str(int(no)),'name':full_name,'fullName':full_name,'attribute':attr,'evolution':evolution,'source':page_url}
+        # These metadata fields are copied only if explicitly present.
+        meta=content[match.end():match.end()+90]
+        m=re.search(r'(亜人|魔人|神|妖精|魔族|獣|幻獣|ドラゴン|ロボット|サムライ|ユニバース|コスモ|聖騎士|鳥|鉱物|魔王|幻妖|ユニバース族)',meta)
+        if m:item['race']=m.group(1)
+        m=re.search(r'(反射|貫通)',meta)
+        if m:item['type']=m.group(1)
+        m=re.search(r'(超バランス|超砲撃|超パワー|超スピード|バランス|砲撃|パワー|スピード)',meta)
+        if m:item['style']=m.group(1)
+        m=re.search(r'★\s*(\d)',meta)
+        if m:item['rarity']=int(m.group(1))
+        for img in block.find_all('img'):
+            src=img.get('data-src') or img.get('src') or ''
+            u=urljoin(page_url,src)
+            if safe_url(u) and urlparse(u).path.lower().endswith(('.png','.webp','.jpg','.jpeg')):
+                item['image']=u;break
+        # Distinguish Lv極 from タス最大値; do not add them together.
+        for tr in block.find_all('tr'):
+            cells=tr.find_all(['th','td'])
+            if not cells:continue
+            label=_clean(cells[0].get_text(' ',strip=True))
+            if label=='Lv極' and len(cells)>=4:
+                for key,cell in zip(('hp','attack','speed'),cells[1:4]):
+                    num=_stats_number(cell.get_text(' ',strip=True))
+                    if num is not None:item[key]=num
+            elif len(cells)>=2:
+                val=_clean(cells[1].get_text(' ',strip=True))
+                if label=='アビリティ':item['abilities']=_split_abilities(cells[1])
+                elif label in ('ゲージショット','ゲージ'):
+                    item['gaugeAbilities']=_split_abilities(cells[1])
+                elif label in ('コネクトスキル','コネクト'):
+                    item['connectAbilities']=_split_abilities(cells[1])
+                elif label=='ストライクショット' and val:item['ss']=val
+                elif label=='友情コンボ' and val:item['friendship']=val
+        result[item['id']]=item
+    return list(result.values())
+
+
 def normalize_old(record):
     if not isinstance(record,dict):return None
     # Keep only safe, additive fields from the previous run.
@@ -104,7 +194,7 @@ def normalize_old(record):
         id=str(int(record['id'])); name=str(record['name']).strip(); attr=record['attribute']
         if not name or attr not in ELEMENTS: return None
         item={'id':id,'name':name,'attribute':attr}
-        for k in ('source','image','acquisition','evolution','type','style','race','friendship','ss'):
+        for k in ('source','image','acquisition','evolution','type','style','race','friendship','ss','fullName','fullName'):
             v=record.get(k)
             if isinstance(v,str) and v and (k not in ('source','image') or safe_url(v)):item[k]=v
         for k in ('rarity','hp','attack','speed'):
@@ -122,7 +212,7 @@ def reconcile(old,new,verified=False):
     # Preserve existing data if the current page has partial or missing fields.
     for key in ('name','attribute','source','evolution','type','style','race'):
         if new.get(key) and (not result.get(key) or verified):result[key]=new[key]
-    for key in ('image','acquisition','friendship','ss','rarity','hp','attack','speed','abilities','gaugeAbilities','connectAbilities'):
+    for key in ('image','acquisition','friendship','ss','fullName','acquisition','rarity','hp','attack','speed','abilities','gaugeAbilities','connectAbilities'):
         if new.get(key) and (not result.get(key) or verified):result[key]=new[key]
     return result
 
@@ -157,11 +247,15 @@ def update(args, session, check_robots=True, wait=time.sleep):
     cursor=max(2,int(state.get('nextPage',2)))
     pages=[1]+[((cursor-2+i)%max(total-1,1))+2 for i in range(args.pages-1)]
     robots=RobotFileParser()
-    if check_robots:
-        robots.set_url(BASE+'/robots.txt');robots.read()
-    scanned=[]; warnings=[]; profile_candidates=[]
-    # Remember the pages actually visited; the cursor alone is not proof of coverage.
+    if check_robots:robots.set_url(BASE+'/robots.txt');robots.read()
+    scanned=[];warnings=[]
     visited=set(int(x) for x in state.get('visitedPages',old_manifest.get('scan',{}).get('pages',[])) if str(x).isdigit() and 1<=int(x)<=total)
+    # Source page URL identifies a family; representative ID is NOT the family ID.
+    families={}
+    for item in rows.values():
+        u=item.get('source','').split('#',1)[0]
+        if safe_url(u) and CHAR_URL.match(urlparse(u).path):families[u]=True
+    verified_urls=set(u for u in state.get('verifiedFamilyURLs',[]) if isinstance(u,str) and safe_url(u))
     rate_limited=False
     for page in pages:
         url=INDEX if page==1 else INDEX+f'page/{page}/'
@@ -175,56 +269,61 @@ def update(args, session, check_robots=True, wait=time.sleep):
             scanned.append(page);visited.add(page)
             if pg and 1<=pg<=500:total=pg
             for key,entry in found.items():
-                existed=key in rows
                 rows[key]=reconcile(rows.get(key),entry)
-                if not existed or not rows[key].get('image') or not rows[key].get('acquisition'):
-                    profile_candidates.append((not existed,int(key),entry['source']))
+                source=entry['source'].split('#',1)[0]
+                if safe_url(source):families[source]=True
         except (requests.RequestException,ValueError) as e:
             warnings.append(f'page {page}: {str(e)[:110]}')
             if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
                 rate_limited=True;break
         wait(args.delay)
-    seen=set(); candidates=[]
-    for is_new,no,url in sorted(profile_candidates,key=lambda x:(not x[0],-x[1])):
-        if no not in seen:seen.add(no);candidates.append((no,url))
     if not scanned:
         raise RuntimeError('No pages fetched; existing output was not touched: '+str(warnings[:3]))
-    verified=0
-    # On 429 stop requesting more pages/profiles for this run; do not evade throttling.
-    for no,url in ([] if rate_limited else candidates[:args.profiles]):
+    # Fair round-robin of family URLs: never request the same completed family again.
+    pending=sorted(set(families)-verified_urls, key=lambda x:int(re.search(r'/char/(\d+)',x).group(1)),reverse=True)
+    verified_this_run=0;forms_extracted=0
+    for url in ([] if rate_limited else pending[:args.profiles]):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
         try:
             r=session.get(url,timeout=25);r.raise_for_status()
             if len(r.content)>4_000_000:raise ValueError('profile too large')
-            item=parse_profile(r.text,url)
-            if item and int(item['id'])==no:
-                rows[str(no)]=reconcile(rows.get(str(no)),item,verified=True)
-                verified+=1
+            forms=parse_family(r.text,url)
+            if not forms:
+                warnings.append(f'family parse failed: {url}')
+                continue
+            for item in forms:
+                # Retain familiar short name when a listing record already exists.
+                old=rows.get(item['id'])
+                if old and old.get('name'):
+                    item['name']=old['name']
+                rows[item['id']]=reconcile(old,item,verified=True)
+                forms_extracted+=1
+            verified_urls.add(url)
+            verified_this_run+=1
         except (requests.RequestException,ValueError) as e:
-            warnings.append(f'profile {no}: {str(e)[:90]}')
+            warnings.append(f'family {url}: {str(e)[:90]}')
             if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
                 rate_limited=True;break
         wait(args.delay)
     stamp=datetime.now(timezone.utc).isoformat()
-    # Guard against catastrophic shrink (also no deletion at all).
     assert len(rows)>=len(previous)
-    # Coverage here means listing pages visited at least once, NOT complete forms/data.
     coverage={'visitedPages':sorted(visited),'totalPages':total,
               'listingPagesVisited':len(visited),'listingPagesRemaining':max(0,total-len(visited)),
-              'profileVerifiedThisRun':verified,'rateLimited':rate_limited,
+              'profileVerifiedThisRun':verified_this_run,'formsExtractedThisRun':forms_extracted,
+              'familiesDiscovered':len(families),'familiesVerified':len(verified_urls & set(families)),
+              'familiesRemaining':len(set(families)-verified_urls),'rateLimited':rate_limited,
               'imagesPresent':sum(bool(v.get('image')) for v in rows.values()),
               'abilitiesPresent':sum(bool(v.get('abilities')) for v in rows.values()),
               'representativeRecords':len(rows),'complete':False}
     manifest=make_outputs(rows,stamp,scanned,warnings,coverage)
     atomic(ROOT/'catalog-coverage.json',{'generatedAt':stamp,**coverage})
-    # Retry interrupted page after a 429 instead of silently marking it complete.
     next_page=((cursor-2+max(args.pages-1,0))%max(total-1,1))+2
     if rate_limited:
         incomplete=[p for p in pages if p not in scanned and p!=1]
         if incomplete:next_page=incomplete[0]
     atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp,
-                  'visitedPages':sorted(visited)})
-    print(f'pages={scanned} profile_verified={verified} records={manifest["count"]} nextPage={next_page} warnings={len(warnings)}')
+                  'visitedPages':sorted(visited),'verifiedFamilyURLs':sorted(verified_urls)})
+    print(f'pages={scanned} families_verified={verified_this_run} forms={forms_extracted} records={manifest["count"]} nextPage={next_page} warnings={len(warnings)}')
     return manifest
 
 def main():

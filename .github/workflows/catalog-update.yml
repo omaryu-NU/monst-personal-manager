@@ -27,11 +27,11 @@ jobs:
       - name: Install catalog dependencies
         run: python -m pip install -r scripts/requirements-catalog.txt
       - name: Test catalog parser
-        run: python -m unittest discover -s scripts -p "test_catalog_quality.py"
+        run: python -m unittest discover -s scripts -p "test_catalog_*.py"
       - name: Collect and verify catalog
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
-        run: python scripts/technophere_catalog.py --pages 5 --profiles 15 --delay 1.5
+        run: python scripts/technophere_catalog.py --pages 5 --profiles 5 --delay 2.5
       - name: Audit local catalog
         run: python scripts/catalog_progress.py public/catalog --output catalog-audit-summary.json
       - name: Commit validated catalog
