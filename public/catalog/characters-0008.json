@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4978",
+      "name": "轟焦凍",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4190/#f4978",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4979",
+      "name": "緑谷出久",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4194/#f4979",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "亜人"
+    },
+    {
       "id": "4981",
       "name": "切島鋭児郎",
       "attribute": "火",
@@ -674,26 +696,89 @@
       "speed": 393.8
     },
     {
+      "id": "5103",
+      "name": "アムール・ソワン",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5103.webp",
+      "source": "https://game.technophere.com/monst/char/5103/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット",
+      "friendship": "バラージショットガン （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17830,
+      "attack": 15664,
+      "speed": 235.33
+    },
+    {
       "id": "5104",
       "name": "アムールソワン",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5103/#f5104",
+      "abilities": [
+        "アンチダメージウォール",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5104.webp",
+      "source": "https://game.technophere.com/monst/char/5103/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "バラージショットガン （水）",
+      "ss": "スピードがアップ＆敵にふれる毎に固定砲台から攻撃 20ターン",
+      "rarity": 6,
+      "hp": 19624,
+      "attack": 16712,
+      "speed": 243.8,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "5105",
+      "name": "ピキュール・ドラゴン",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5105.webp",
+      "source": "https://game.technophere.com/monst/char/5105/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット",
+      "friendship": "貫通毒ロックオン衝撃波6 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18171,
+      "attack": 21095,
+      "speed": 151.1
     },
     {
       "id": "5106",
       "name": "ピキュールドラゴン",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5105/#f5106",
+      "abilities": [
+        "アンチワープ",
+        "ロボットキラーM 魔族キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5106.webp",
+      "source": "https://game.technophere.com/monst/char/5105/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "貫通毒ロックオン衝撃波6 （無）",
+      "ss": "狙った方向に全ての敵に波動砲を放つ 20ターン",
+      "rarity": 6,
+      "hp": 21593,
+      "attack": 25879,
+      "speed": 152.67
     },
     {
       "id": "5109",
@@ -2244,50 +2329,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5487",
-      "name": "花御",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5486/#f5487",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5489",
-      "name": "メカ丸",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5488/#f5489",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5493",
-      "name": "東堂葵",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5492/#f5493",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5494",
-      "name": "パンダ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5494/#f5494",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

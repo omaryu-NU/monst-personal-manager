@@ -2,6 +2,129 @@
   "version": 1,
   "characters": [
     {
+      "id": "7447",
+      "name": "アーニャα",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチワープ",
+        "無属性耐性M 超レーザーストップM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7447.webp",
+      "source": "https://game.technophere.com/monst/char/7446/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "乱回復弾 （無） 副友情 バウンドチャージ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の状態異常回復と魔法陣効果を解除し、一定期間、無敵状態にする＆ヒットした敵の弱点倍率をアップさせる 14+8ターン",
+      "rarity": 6,
+      "hp": 16323,
+      "attack": 21160,
+      "speed": 345.33,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "超アンチ減速壁"
+      ]
+    },
+    {
+      "id": "7449",
+      "name": "ロイドα",
+      "attribute": "木",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "マインスイーパーM",
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7449.webp",
+      "source": "https://game.technophere.com/monst/char/7448/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "エナジーボール （木） 副友情 ヘキサゴンボム （無）",
+      "ss": "スピードがアップし、壁にふれる毎にパワーがアップ＆自身とふれた味方を一定期間バブリー状態にする＆ふれた敵の攻撃ターンを稀に増加させる 20+8ターン",
+      "rarity": 6,
+      "hp": 18670,
+      "attack": 22995,
+      "speed": 346.77,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "SSターンチャージ"
+      ]
+    },
+    {
+      "id": "7451",
+      "name": "ヨルα",
+      "attribute": "光",
+      "abilities": [
+        "超アンチワープ",
+        "マインスイーパーM",
+        "超アンチ減速壁",
+        "毒無効"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7451.webp",
+      "source": "https://game.technophere.com/monst/char/7450/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "ハイプラズマ （光） 副友情 超絶爆破拡散弾 （光）",
+      "ss": "スピードとパワーがアップし、壁にふれると稀にスピードがアップ＆停止後にスティレットで攻撃 8+16ターン",
+      "rarity": 6,
+      "hp": 18289,
+      "attack": 23218,
+      "speed": 374,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "ウォールブースト"
+      ]
+    },
+    {
+      "id": "7452",
+      "name": "イーデン校生 ダミアン・デズモンド",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7452.webp",
+      "source": "https://game.technophere.com/monst/char/7452/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強ヨーヨー弾 （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18461,
+      "attack": 21434,
+      "speed": 280.23
+    },
+    {
+      "id": "7453",
+      "name": "ダミアン",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチワープ",
+        "マインスイーパーM",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7453.webp",
+      "source": "https://game.technophere.com/monst/char/7452/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強ヨーヨー弾 （木）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の状態異常を回復し、防御力を一定期間アップ 14ターン",
+      "rarity": 6,
+      "hp": 18828,
+      "attack": 20514,
+      "speed": 268.23
+    },
+    {
       "id": "7455",
       "name": "フランキー",
       "attribute": "光",
@@ -2145,61 +2268,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "神"
-    },
-    {
-      "id": "7792",
-      "name": "ワールド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/199/#f7792",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "7794",
-      "name": "日比野カフカ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7793/#f7794",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "怪獣"
-    },
-    {
-      "id": "7796",
-      "name": "市川レノ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7795/#f7796",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7798",
-      "name": "古橋伊春",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7797/#f7798",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7800",
-      "name": "四ノ宮キコル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7799/#f7800",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "774",
+      "name": "ドナテッロ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/773/#f774",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
       "id": "777",
       "name": "ミケランジェロ",
       "attribute": "水",
@@ -2189,17 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "1467",
-      "name": "夏ネロ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1467/#f1467",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }

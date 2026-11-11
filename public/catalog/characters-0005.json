@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2878",
+      "name": "ナーガ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2877/#f2878",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "2880",
+      "name": "ピシャーチャ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2879/#f2880",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "2885",
       "name": "ディアンヌ",
       "attribute": "水",
@@ -2172,28 +2194,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/3614/#f3615",
       "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "3617",
-      "name": "ヒューイ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3616/#f3617",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3620",
-      "name": "アヴァロンSP",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1614/#f3620",
-      "evolution": "神化",
       "type": "貫通",
       "style": "スピード",
       "race": "聖騎士"

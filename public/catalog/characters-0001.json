@@ -458,40 +458,68 @@
       "speed": 352.1
     },
     {
+      "id": "187",
+      "name": "キリン",
+      "attribute": "光",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/187.webp",
+      "source": "https://game.technophere.com/monst/char/187/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン",
+      "friendship": "ホーミング4 （光）",
+      "ss": "ふれた敵に雷で追い討ち 24ターン",
+      "rarity": 4,
+      "hp": 7486,
+      "attack": 9461,
+      "speed": 116.27
+    },
+    {
       "id": "188",
       "name": "キリン",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/187/#f188",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/188.webp",
+      "source": "https://game.technophere.com/monst/char/187/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
       "race": "ドラゴン",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/188.webp"
+      "friendship": "ホーミング6 （光）",
+      "ss": "ふれた敵に雷で追い討ち 27ターン",
+      "rarity": 5,
+      "hp": 13101,
+      "attack": 16554,
+      "speed": 135.87
     },
     {
       "id": "190",
       "name": "タートルアサシン",
       "attribute": "闇",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/190.webp",
       "source": "https://game.technophere.com/monst/char/189/#f190",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔王",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/190.webp"
+      "race": "魔王"
     },
     {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/202.webp",
       "source": "https://game.technophere.com/monst/char/201/#f202",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/202.webp"
+      "race": "魔王"
     },
     {
       "id": "206",
@@ -2296,17 +2324,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "774",
-      "name": "ドナテッロ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/773/#f774",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
     }
   ]
 }

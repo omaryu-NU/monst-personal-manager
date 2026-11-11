@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "8443",
+      "name": "紅葉＆伊織",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8442/#f8443",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8445",
+      "name": "沖田総司",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8444/#f8445",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8446",
+      "name": "大和＆諸伏＆上原",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8446/#f8446",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8447",
+      "name": "ジン＆ウォッカ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8447/#f8447",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8448",
+      "name": "マゼラン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2578/#f8448",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
       "id": "8449",
       "name": "少年探偵団",
       "attribute": "木",
@@ -2164,61 +2219,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "8743",
-      "name": "モモ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8742/#f8743",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8745",
-      "name": "金太",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8744/#f8745",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8747",
-      "name": "ジジ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8746/#f8747",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8748",
-      "name": "ターボババア＆星子",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8748/#f8748",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8750",
-      "name": "モンゴリアンデスワーム",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8749/#f8750",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

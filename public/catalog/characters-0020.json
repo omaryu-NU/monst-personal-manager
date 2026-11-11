@@ -2,6 +2,62 @@
   "version": 1,
   "characters": [
     {
+      "id": "9345",
+      "name": "ランスロット",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2831/#f9345",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "9346",
+      "name": "プラトン",
+      "attribute": "火",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9346.webp",
+      "source": "https://game.technophere.com/monst/char/6049/#f9346",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9347",
+      "name": "石流龍",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9347/#f9347",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9348",
+      "name": "リウイン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9348/#f9348",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖域の狩人"
+    },
+    {
+      "id": "9349",
+      "name": "ラシード",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9349/#f9349",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "9350",
       "name": "ミュア",
       "attribute": "木",

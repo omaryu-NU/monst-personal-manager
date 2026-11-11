@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6777",
+      "name": "グエル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6776/#f6777",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "6779",
+      "name": "シロッコ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6778/#f6779",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "6780",
+      "name": "ハマーン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6780/#f6780",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "6782",
+      "name": "マスターアジア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6781/#f6782",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "6783",
       "name": "三日月",
       "attribute": "火",
@@ -2156,50 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻獣"
-    },
-    {
-      "id": "7119",
-      "name": "カウシーディヤ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5907/#f7119",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻妖"
-    },
-    {
-      "id": "7120",
-      "name": "ゼクス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6549/#f7120",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7121",
-      "name": "極楽浄土",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6697/#f7121",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "7124",
-      "name": "ドリスタァル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7123/#f7124",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

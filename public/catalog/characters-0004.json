@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2164",
+      "name": "バルバトス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2163/#f2164",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "2166",
       "name": "デカラビア",
       "attribute": "光",
@@ -1556,15 +1567,47 @@
       ]
     },
     {
+      "id": "2624",
+      "name": "巻原定男",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2624.webp",
+      "source": "https://game.technophere.com/monst/char/2624/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "大爆発 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8837,
+      "attack": 13542,
+      "speed": 168.87
+    },
+    {
       "id": "2625",
       "name": "巻原定男",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2624/#f2625",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2625.webp",
+      "source": "https://game.technophere.com/monst/char/2624/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "斬撃 （無）",
+      "ss": "狙った方向に、爪を伸ばして攻撃 16ターン",
+      "rarity": 5,
+      "hp": 13552,
+      "attack": 8976,
+      "speed": 194.03,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "2629",
@@ -2291,28 +2334,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "2878",
-      "name": "ナーガ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2877/#f2878",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "2880",
-      "name": "ピシャーチャ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2879/#f2880",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

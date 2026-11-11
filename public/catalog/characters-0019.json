@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "9049",
+      "name": "カード",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9048/#f9049",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9051",
+      "name": "久坂玄瑞",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9050/#f9051",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "9053",
+      "name": "岡田以蔵",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9052/#f9053",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "9055",
+      "name": "佐久間象山",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9054/#f9055",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9057",
+      "name": "榎本武揚",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9056/#f9057",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
       "id": "9059",
       "name": "徳川家定",
       "attribute": "水",
@@ -2155,62 +2210,6 @@
       "type": "反射",
       "style": "超バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "9345",
-      "name": "ランスロット",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2831/#f9345",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "9346",
-      "name": "プラトン",
-      "attribute": "火",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9346.webp",
-      "source": "https://game.technophere.com/monst/char/6049/#f9346",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9347",
-      "name": "石流龍",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9347/#f9347",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9348",
-      "name": "リウイン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9348/#f9348",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "9349",
-      "name": "ラシード",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9349/#f9349",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖域の狩人"
     }
   ]
 }

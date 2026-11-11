@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4339",
+      "name": "ジュジュアロメロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4337/#f4339",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4341",
+      "name": "ルーチー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4340/#f4341",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "4342",
       "name": "メメントモリ廻",
       "attribute": "木",
@@ -2177,28 +2199,6 @@
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4978",
-      "name": "轟焦凍",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4190/#f4978",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4979",
-      "name": "緑谷出久",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4194/#f4979",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
       "race": "亜人"
     }
   ]
