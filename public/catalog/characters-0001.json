@@ -138,36 +138,36 @@
       "name": "マリーミー",
       "attribute": "水",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/154.webp",
       "source": "https://game.technophere.com/monst/char/153/#f154",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/154.webp"
+      "race": "神"
     },
     {
       "id": "156",
       "name": "チャンス",
       "attribute": "木",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/156.webp",
       "source": "https://game.technophere.com/monst/char/155/#f156",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/156.webp"
+      "race": "神"
     },
     {
       "id": "158",
       "name": "エタニティ",
       "attribute": "光",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/158.webp",
       "source": "https://game.technophere.com/monst/char/157/#f158",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "神",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/158.webp"
+      "race": "神"
     },
     {
       "id": "160",
@@ -178,7 +178,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/160.webp"
     },
     {
       "id": "162",
@@ -189,7 +190,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "神"
+      "race": "神",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/162.webp"
     },
     {
       "id": "164",
@@ -200,7 +202,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "幻獣"
+      "race": "幻獣",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/164.webp"
     },
     {
       "id": "168",

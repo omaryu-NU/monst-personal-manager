@@ -5,56 +5,152 @@
       "id": "9382",
       "name": "潔世一",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9381/#f9382",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "超アンチウィンド",
+        "ファーストキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9382.webp",
+      "source": "https://game.technophere.com/monst/char/9381/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ツインインボリュートスフィア・ナロー （木） 副友情 ヒーリングボムスロー （無）",
+      "ss": "スピードとパワーがアップ＆停止後に一定期間、弱点/全属性キラーになり、近くの敵に向かって再度走り出す 16+8ターン",
+      "rarity": 6,
+      "hp": 19141,
+      "attack": 25068,
+      "speed": 364.67,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "シールドブレイカー 攻撃力チャージ"
+      ]
+    },
+    {
+      "id": "9383",
+      "name": "蜂楽 廻",
+      "attribute": "光",
+      "abilities": [
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9383.webp",
+      "source": "https://game.technophere.com/monst/char/9383/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ヘキサゴンボム （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7457,
+      "attack": 9259,
+      "speed": 255.53
     },
     {
       "id": "9384",
       "name": "蜂楽廻",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9383/#f9384",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチワープ",
+        "アンチ魔法陣",
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9384.webp",
+      "source": "https://game.technophere.com/monst/char/9383/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ヘキサゴンボム （無）",
+      "ss": "スピードとパワーがアップし、減速率が緩和する 12ターン",
+      "rarity": 5,
+      "hp": 14348,
+      "attack": 13942,
+      "speed": 331.67,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "連撃キラーM"
+      ]
     },
     {
       "id": "9386",
       "name": "凪誠士郎",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9385/#f9386",
+      "abilities": [
+        "アンチ重力バリア",
+        "超マインスイーパーEL",
+        "アンチ減速壁",
+        "弱点キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9386.webp",
+      "source": "https://game.technophere.com/monst/char/9385/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶貫通ホーミング18 （闇） 副友情 バーストスフィア （無）",
+      "ss": "スピードとパワーがアップ＆停止後に跳躍回転して攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 18606,
+      "attack": 24412,
+      "speed": 327.43,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "ドレインM"
+      ]
     },
     {
       "id": "9387",
       "name": "御影玲王",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9387/#f9387",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチダメージウォール",
+        "アンチ魔法陣",
+        "フェイタルキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9387.webp",
+      "source": "https://game.technophere.com/monst/char/9387/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強反射衝撃波18 （水） 副友情 超絶貫通ホーミング18 （水）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた味方を変幻守備でコピー 20+4ターン",
+      "rarity": 6,
+      "hp": 19912,
+      "attack": 23518,
+      "speed": 342.5,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターンチャージM"
+      ]
     },
     {
       "id": "9388",
       "name": "馬狼照英",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9388/#f9388",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチブロック",
+        "超アンチ減速壁（ラック）",
+        "ボスキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9388.webp",
+      "source": "https://game.technophere.com/monst/char/9388/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "爆絶電撃 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を攻撃 16ターン",
+      "rarity": 6,
+      "hp": 20727,
+      "attack": 22596,
+      "speed": 261.53
     },
     {
       "id": "9389",
