@@ -59,22 +59,53 @@ jobs:
           path: local-reports/image-backfill/actions-dry-run.json
           if-no-files-found: warn
           retention-days: 14
-      # Phase 16 is opt-in. On schedule, enable only after a successful manual trial.
-      # Restore evidence before selecting candidate URLs (avoids repeated probes).
+      # Phase 17: scheduled image requests require a prior manual trial and a
+      # >=6-hour cooldown. This guard does not make any HTTP requests.
+      - name: Phase 17 scheduled image safety guard
+        id: image_schedule_guard
+        if: github.event_name == 'schedule' && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_BACKFILL_SCHEDULED == 'true'
+        env:
+          AUTO_DEPLOY_HOSTING: ${{ vars.AUTO_DEPLOY_HOSTING }}
+        run: |
+          python scripts/catalog_image_schedule_guard.py \
+            --state catalog-image-backfill-state.json \
+            --evidence catalog-image-evidence.json \
+            --min-hours 6 \
+            --github-output "$GITHUB_OUTPUT" \
+            --report local-reports/image-backfill/phase17-schedule-guard.json
+      - name: Upload Phase 17 scheduled guard report
+        if: always() && github.event_name == 'schedule' && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_BACKFILL_SCHEDULED == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-image-phase17-schedule-guard
+          path: local-reports/image-backfill/phase17-schedule-guard.json
+          if-no-files-found: warn
+          retention-days: 14
+      # Hosting enabled => no unreviewed image backfill in the same run.
+      # Manual: up to 3; scheduled: at most 1 after a successful gate.
       - name: Phase 16 verified image backfill and evidence registration
-        if: vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && (github.event_name == 'workflow_dispatch' || vars.IMAGE_BACKFILL_SCHEDULED == 'true')
+        if: vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true'))
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
+        shell: bash
         run: |
+          set -euo pipefail
+          if [ "$GITHUB_EVENT_NAME" = 'schedule' ]; then
+            LIMIT=1
+            DELAY=6
+          else
+            LIMIT=3
+            DELAY=4
+          fi
           python scripts/catalog_image_auto.py \
             --catalog public/catalog \
             --evidence catalog-image-evidence.json \
             --state catalog-image-backfill-state.json \
-            --limit 3 --delay 4 \
+            --limit "$LIMIT" --delay "$DELAY" \
             --output local-reports/image-backfill/phase16-apply.json \
             --summary local-reports/image-backfill/phase16-summary.json
       - name: Upload Phase 16 image reports
-        if: always() && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && (github.event_name == 'workflow_dispatch' || vars.IMAGE_BACKFILL_SCHEDULED == 'true')
+        if: always() && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true'))
         uses: actions/upload-artifact@v4
         with:
           name: catalog-image-backfill-phase16
