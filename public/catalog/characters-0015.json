@@ -112,14 +112,22 @@
       "name": "桃源郷",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7198/#f7847"
+      "source": "https://game.technophere.com/monst/char/7198/#f7847",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
     },
     {
       "id": "7848",
       "name": "立烏帽子",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6691/#f7848"
+      "source": "https://game.technophere.com/monst/char/6691/#f7848",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
     },
     {
       "id": "7849",
@@ -1247,21 +1255,33 @@
       "name": "バナージ",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6761/#f8015"
+      "source": "https://game.technophere.com/monst/char/6761/#f8015",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "ロボット"
     },
     {
       "id": "8016",
       "name": "キラ",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6763/#f8016"
+      "source": "https://game.technophere.com/monst/char/6763/#f8016",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "ロボット"
     },
     {
       "id": "8017",
       "name": "アムロ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6767/#f8017"
+      "source": "https://game.technophere.com/monst/char/6767/#f8017",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "ロボット"
     },
     {
       "id": "8019",
@@ -1455,7 +1475,11 @@
       "name": "シャア",
       "attribute": "火",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6772/#f8045"
+      "source": "https://game.technophere.com/monst/char/6772/#f8045",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
     },
     {
       "id": "8048",

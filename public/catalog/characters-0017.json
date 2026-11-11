@@ -514,7 +514,11 @@
       "name": "オオクチノマカミ",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7174/#f8559"
+      "source": "https://game.technophere.com/monst/char/7174/#f8559",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
     },
     {
       "id": "8560",

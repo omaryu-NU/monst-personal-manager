@@ -1414,14 +1414,22 @@
       "attribute": "火",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9284.webp",
-      "source": "https://game.technophere.com/monst/char/7270/#f9284"
+      "source": "https://game.technophere.com/monst/char/7270/#f9284",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
     },
     {
       "id": "9285",
       "name": "ハービセル",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6743/#f9285"
+      "source": "https://game.technophere.com/monst/char/6743/#f9285",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
     },
     {
       "id": "9286",

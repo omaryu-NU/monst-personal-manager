@@ -822,7 +822,11 @@
       "name": "クララミス",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7327/#f7612"
+      "source": "https://game.technophere.com/monst/char/7327/#f7612",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神"
     },
     {
       "id": "7614",

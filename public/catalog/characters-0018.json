@@ -86,21 +86,33 @@
       "name": "時透無一郎",
       "attribute": "水",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7148/#f8791"
+      "source": "https://game.technophere.com/monst/char/7148/#f8791",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "8792",
       "name": "甘露寺蜜璃",
       "attribute": "木",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7150/#f8792"
+      "source": "https://game.technophere.com/monst/char/7150/#f8792",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "亜人"
     },
     {
       "id": "8793",
       "name": "炭治郎＆禰豆子",
       "attribute": "光",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7152/#f8793"
+      "source": "https://game.technophere.com/monst/char/7152/#f8793",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
     },
     {
       "id": "8795",
@@ -1834,7 +1846,11 @@
       "attribute": "光",
       "abilities": [],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9042.webp",
-      "source": "https://game.technophere.com/monst/char/6806/#f9042"
+      "source": "https://game.technophere.com/monst/char/6806/#f9042",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
     },
     {
       "id": "9044",
