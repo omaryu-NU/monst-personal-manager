@@ -81,10 +81,20 @@ jobs:
           path: local-reports/image-backfill/phase17-schedule-guard.json
           if-no-files-found: warn
           retention-days: 14
+      # Phase 18 persists HTTP 429 cooldown across Actions runs. Fail-closed
+      # for corrupt state; absent state means no earlier image-specific 429.
+      - name: Phase 18 persistent image pause guard
+        id: image_pause_guard
+        if: vars.IMAGE_BACKFILL_ENABLED == 'true'
+        run: |
+          python scripts/catalog_image_rate_limit.py check \
+            --state catalog-image-rate-limit.json \
+            --github-output "$GITHUB_OUTPUT"
       # Hosting enabled => no unreviewed image backfill in the same run.
       # Manual: up to 3; scheduled: at most 1 after a successful gate.
       - name: Phase 16 verified image backfill and evidence registration
-        if: vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true'))
+        id: image_backfill
+        if: vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true')) && steps.image_pause_guard.outputs.allowed == 'true'
         env:
           TECHNOPHERE_REUSE_APPROVED: 'true'
         shell: bash
@@ -97,6 +107,7 @@ jobs:
             LIMIT=3
             DELAY=4
           fi
+          set +e
           python scripts/catalog_image_auto.py \
             --catalog public/catalog \
             --evidence catalog-image-evidence.json \
@@ -104,8 +115,21 @@ jobs:
             --limit "$LIMIT" --delay "$DELAY" \
             --output local-reports/image-backfill/phase16-apply.json \
             --summary local-reports/image-backfill/phase16-summary.json
+          rc=$?
+          set -e
+          if [ "$rc" -ne 0 ]; then
+            # A report explicitly indicating HTTP 429 is the ONLY reason
+            # to commit a pause record. All other failures remain failures.
+            if python scripts/catalog_image_rate_limit.py record \
+              --state catalog-image-rate-limit.json \
+              --report local-reports/image-backfill/phase16-apply.json --hours 24; then
+              echo 'rate_limited=true' >> "$GITHUB_OUTPUT"
+            else
+              exit "$rc"
+            fi
+          fi
       - name: Upload Phase 16 image reports
-        if: always() && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true'))
+        if: always() && vars.IMAGE_BACKFILL_ENABLED == 'true' && vars.IMAGE_PROBE_DRY_RUN != 'true' && vars.AUTO_DEPLOY_HOSTING != 'true' && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && steps.image_schedule_guard.outputs.run_backfill == 'true')) && steps.image_pause_guard.outputs.allowed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: catalog-image-backfill-phase16
@@ -114,6 +138,24 @@ jobs:
             local-reports/image-backfill/phase16-summary.json
           if-no-files-found: warn
           retention-days: 14
+      - name: Persist only image HTTP 429 cooldown
+        if: steps.image_backfill.outputs.rate_limited == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          # Stage ONLY the pause marker, not partially updated catalog files.
+          git add -- catalog-image-rate-limit.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'ci: pause image probes for 24 hours after HTTP 429'
+            git push
+          fi
+      - name: Stop catalog publication after image HTTP 429
+        if: steps.image_backfill.outputs.rate_limited == 'true'
+        run: |
+          echo 'Image request returned 429; pause committed. No catalog commit/deploy.' >&2
+          exit 1
       - name: Restore HTTP-verified catalog images
         run: |
           test -f catalog-image-evidence.json
