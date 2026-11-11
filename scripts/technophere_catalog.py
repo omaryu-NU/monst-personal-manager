@@ -60,7 +60,15 @@ def parse_listing(html, base=INDEX):
         after=prefix[form.end():].strip()
         elem=after[0] if after[:1] in ELEMENTS else ''
         if not name or len(name)>120 or not elem:continue
-        result[str(no)]={'id':str(no),'name':name,'attribute':elem,'source':u}
+        detail=after[1:].strip()
+        # Listing cards expose only a representative form, never the full family.
+        # Parse defensively: no inferred values from IDs or neighboring cards.
+        traits=re.search(r'(反射|貫通)・([^・]+)・([^・]+)・?', detail)
+        item={'id':str(no),'name':name,'attribute':elem,'source':u,
+              'evolution':form.group(0).strip()}
+        if traits:
+            item.update(type=traits.group(1),style=traits.group(2),race=traits.group(3))
+        result[str(no)]=item
     return result,page_count
 
 def parse_profile(html, page_url):
@@ -96,9 +104,15 @@ def normalize_old(record):
         id=str(int(record['id'])); name=str(record['name']).strip(); attr=record['attribute']
         if not name or attr not in ELEMENTS: return None
         item={'id':id,'name':name,'attribute':attr}
-        for k in ('source','image','acquisition'):
+        for k in ('source','image','acquisition','evolution','type','style','race','friendship','ss'):
             v=record.get(k)
-            if isinstance(v,str) and v and (k=='acquisition' or safe_url(v)):item[k]=v
+            if isinstance(v,str) and v and (k not in ('source','image') or safe_url(v)):item[k]=v
+        for k in ('rarity','hp','attack','speed'):
+            v=record.get(k)
+            if isinstance(v,(int,float)) and not isinstance(v,bool) and 0<=v<1e9:item[k]=v
+        for k in ('abilities','gaugeAbilities','connectAbilities'):
+            v=record.get(k)
+            if isinstance(v,list) and all(isinstance(x,str) and x for x in v):item[k]=v
         return item
     except (TypeError,ValueError,KeyError):return None
 
@@ -106,17 +120,17 @@ def reconcile(old,new,verified=False):
     if old is None: return dict(new)
     result=dict(old)
     # Preserve existing data if the current page has partial or missing fields.
-    for key in ('name','attribute','source'):
+    for key in ('name','attribute','source','evolution','type','style','race'):
         if new.get(key) and (not result.get(key) or verified):result[key]=new[key]
-    for key in ('image','acquisition'):
+    for key in ('image','acquisition','friendship','ss','rarity','hp','attack','speed','abilities','gaugeAbilities','connectAbilities'):
         if new.get(key) and (not result.get(key) or verified):result[key]=new[key]
     return result
 
-def make_outputs(rows,stamp,source_pages,warnings):
+def make_outputs(rows,stamp,source_pages,warnings,coverage=None):
     # Exclude internal-only fields from public catalog.
     items=[{'id':r['id'],'name':r['name'],'attribute':r['attribute'],
-            'abilities':[], **({'image':r['image']} if r.get('image') else {}),
-            **({'source':r['source']} if r.get('source') else {})}
+            'abilities':r.get('abilities',[]),
+            **{k:r[k] for k in ('image','source','evolution','type','style','race','friendship','ss','rarity','hp','attack','speed','gaugeAbilities','connectAbilities') if r.get(k) is not None and r.get(k)!=''} }
            for r in sorted(rows.values(),key=lambda x:int(x['id']))]
     chunks=[]
     for i in range(0,len(items),200):
@@ -124,7 +138,7 @@ def make_outputs(rows,stamp,source_pages,warnings):
         chunks.append({'path':filename,'count':len(items[i:i+200])})
         atomic(OUT/filename,{'version':1,'characters':items[i:i+200]})
     manifest={'schema':1,'generatedAt':stamp,'source':INDEX,'count':len(items),'chunks':chunks,
-              'scan':{'pages':source_pages,'warnings':warnings[:30]}}
+              'scan':{'pages':source_pages,'warnings':warnings[:30]}, 'coverage':coverage or {}}
     atomic(OUT/'manifest.json',manifest)
     return manifest
 
@@ -146,6 +160,9 @@ def update(args, session, check_robots=True, wait=time.sleep):
     if check_robots:
         robots.set_url(BASE+'/robots.txt');robots.read()
     scanned=[]; warnings=[]; profile_candidates=[]
+    # Remember the pages actually visited; the cursor alone is not proof of coverage.
+    visited=set(int(x) for x in state.get('visitedPages',old_manifest.get('scan',{}).get('pages',[])) if str(x).isdigit() and 1<=int(x)<=total)
+    rate_limited=False
     for page in pages:
         url=INDEX if page==1 else INDEX+f'page/{page}/'
         if check_robots and not robots.can_fetch(USER_AGENT,url):
@@ -155,14 +172,17 @@ def update(args, session, check_robots=True, wait=time.sleep):
             if len(r.content)>4_000_000:raise ValueError('response too large')
             found,pg=parse_listing(r.text,url)
             if not found:raise ValueError('0 recognizable cards; refusing update of this page')
-            scanned.append(page)
+            scanned.append(page);visited.add(page)
             if pg and 1<=pg<=500:total=pg
             for key,entry in found.items():
                 existed=key in rows
                 rows[key]=reconcile(rows.get(key),entry)
                 if not existed or not rows[key].get('image') or not rows[key].get('acquisition'):
                     profile_candidates.append((not existed,int(key),entry['source']))
-        except (requests.RequestException,ValueError) as e:warnings.append(f'page {page}: {str(e)[:110]}')
+        except (requests.RequestException,ValueError) as e:
+            warnings.append(f'page {page}: {str(e)[:110]}')
+            if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
+                rate_limited=True;break
         wait(args.delay)
     seen=set(); candidates=[]
     for is_new,no,url in sorted(profile_candidates,key=lambda x:(not x[0],-x[1])):
@@ -170,7 +190,8 @@ def update(args, session, check_robots=True, wait=time.sleep):
     if not scanned:
         raise RuntimeError('No pages fetched; existing output was not touched: '+str(warnings[:3]))
     verified=0
-    for no,url in candidates[:args.profiles]:
+    # On 429 stop requesting more pages/profiles for this run; do not evade throttling.
+    for no,url in ([] if rate_limited else candidates[:args.profiles]):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
         try:
             r=session.get(url,timeout=25);r.raise_for_status()
@@ -179,14 +200,30 @@ def update(args, session, check_robots=True, wait=time.sleep):
             if item and int(item['id'])==no:
                 rows[str(no)]=reconcile(rows.get(str(no)),item,verified=True)
                 verified+=1
-        except (requests.RequestException,ValueError) as e:warnings.append(f'profile {no}: {str(e)[:90]}')
+        except (requests.RequestException,ValueError) as e:
+            warnings.append(f'profile {no}: {str(e)[:90]}')
+            if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
+                rate_limited=True;break
         wait(args.delay)
     stamp=datetime.now(timezone.utc).isoformat()
     # Guard against catastrophic shrink (also no deletion at all).
     assert len(rows)>=len(previous)
-    manifest=make_outputs(rows,stamp,scanned,warnings)
+    # Coverage here means listing pages visited at least once, NOT complete forms/data.
+    coverage={'visitedPages':sorted(visited),'totalPages':total,
+              'listingPagesVisited':len(visited),'listingPagesRemaining':max(0,total-len(visited)),
+              'profileVerifiedThisRun':verified,'rateLimited':rate_limited,
+              'imagesPresent':sum(bool(v.get('image')) for v in rows.values()),
+              'abilitiesPresent':sum(bool(v.get('abilities')) for v in rows.values()),
+              'representativeRecords':len(rows),'complete':False}
+    manifest=make_outputs(rows,stamp,scanned,warnings,coverage)
+    atomic(ROOT/'catalog-coverage.json',{'generatedAt':stamp,**coverage})
+    # Retry interrupted page after a 429 instead of silently marking it complete.
     next_page=((cursor-2+max(args.pages-1,0))%max(total-1,1))+2
-    atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp})
+    if rate_limited:
+        incomplete=[p for p in pages if p not in scanned and p!=1]
+        if incomplete:next_page=incomplete[0]
+    atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp,
+                  'visitedPages':sorted(visited)})
     print(f'pages={scanned} profile_verified={verified} records={manifest["count"]} nextPage={next_page} warnings={len(warnings)}')
     return manifest
 
