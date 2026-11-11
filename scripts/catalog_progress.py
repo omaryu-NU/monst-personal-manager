@@ -26,6 +26,12 @@ def audit(folder: Path) -> dict:
         errors.append('manifest count differs from chunk count')
     if duplicates:
         errors.append(f'{len(duplicates)} duplicate IDs')
+    coverage=manifest.get('coverage',{})
+    total_pages=coverage.get('totalPages') or 0
+    visited_pages=coverage.get('listingPagesVisited') or 0
+    total_families=coverage.get('familiesDiscovered') or 0
+    verified_families=coverage.get('familiesVerified') or 0
+    def share(a,b):return round(a/b*100,2) if b else 0.0
     summary={'generatedAt':manifest.get('generatedAt'),
         'records':len(rows),'manifestCount':manifest.get('count'),
         'distinctIDs':len(counts),'duplicateIDs':duplicates[:50],
@@ -34,7 +40,13 @@ def audit(folder: Path) -> dict:
         'abilitiesPresent':sum(bool(r.get('abilities')) for r in rows),
         'detailFields':{k:sum(r.get(k) is not None and r.get(k)!='' for r in rows)
                         for k in ('evolution','type','style','race','rarity','hp','attack','speed','friendship','ss')},
-        'coverage':manifest.get('coverage',{}), 'errors':errors,
+        'coverage':coverage,
+        'progress':{'listingVisitedPercent':share(visited_pages,total_pages),
+                    'familyProfilesVerifiedPercent':share(verified_families,total_families),
+                    'imagesPresentPercent':share(sum(bool(r.get('image')) for r in rows),len(rows)),
+                    'abilitiesPresentPercent':share(sum(bool(r.get('abilities')) for r in rows),len(rows)),
+                    'familyVerificationPending':max(0,total_families-verified_families)},
+        'errors':errors,
         'allCharactersAndFormsVerified':False,
         'note':'Listing record counts and line coverage are not ground truth for all evolutions.'}
     return summary

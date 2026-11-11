@@ -256,6 +256,19 @@ def update(args, session, check_robots=True, wait=time.sleep):
         u=item.get('source','').split('#',1)[0]
         if safe_url(u) and CHAR_URL.match(urlparse(u).path):families[u]=True
     verified_urls=set(u for u in state.get('verifiedFamilyURLs',[]) if isinstance(u,str) and safe_url(u))
+    # Backfill: a prior 'verified' result could contain only one recognized form.
+    # Re-check families whose known representative IDs are not present in their
+    # own profile extraction. Never count an unverified family as complete.
+    representative_ids={}
+    for item in rows.values():
+        u=item.get('source','').split('#',1)[0]
+        if safe_url(u) and CHAR_URL.match(urlparse(u).path) and item.get('id'):
+            representative_ids.setdefault(u,set()).add(str(item['id']))
+    verified_form_ids={u:set(map(str,ids)) for u,ids in state.get('verifiedFamilyFormIDs',{}).items()
+                       if isinstance(u,str) and safe_url(u) and isinstance(ids,list)}
+    verified_incomplete={u for u in verified_urls if u not in verified_form_ids
+                         or not representative_ids.get(u,set()).intersection(verified_form_ids[u])}
+    verified_urls.difference_update(verified_incomplete)
     rate_limited=False
     for page in pages:
         url=INDEX if page==1 else INDEX+f'page/{page}/'
@@ -271,7 +284,9 @@ def update(args, session, check_robots=True, wait=time.sleep):
             for key,entry in found.items():
                 rows[key]=reconcile(rows.get(key),entry)
                 source=entry['source'].split('#',1)[0]
-                if safe_url(source):families[source]=True
+                if safe_url(source):
+                    families[source]=True
+                    representative_ids.setdefault(source,set()).add(key)
         except (requests.RequestException,ValueError) as e:
             warnings.append(f'page {page}: {str(e)[:110]}')
             if isinstance(e,requests.HTTPError) and e.response is not None and e.response.status_code==429:
@@ -281,7 +296,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
         raise RuntimeError('No pages fetched; existing output was not touched: '+str(warnings[:3]))
     # Fair round-robin of family URLs: never request the same completed family again.
     pending=sorted(set(families)-verified_urls, key=lambda x:int(re.search(r'/char/(\d+)',x).group(1)),reverse=True)
-    verified_this_run=0;forms_extracted=0
+    verified_this_run=0;forms_extracted=0;unmatched_profiles=0
     for url in ([] if rate_limited else pending[:args.profiles]):
         if check_robots and not robots.can_fetch(USER_AGENT,url):continue
         try:
@@ -291,6 +306,15 @@ def update(args, session, check_robots=True, wait=time.sleep):
             if not forms:
                 warnings.append(f'family parse failed: {url}')
                 continue
+            parsed_ids={item['id'] for item in forms}
+            expected=representative_ids.get(url,set())
+            # The listing's representative form must be among the profile forms.
+            # Otherwise the parser may have captured an unrelated subset; retry
+            # in a later run rather than permanently marking the family verified.
+            if expected and not parsed_ids.intersection(expected):
+                unmatched_profiles+=1
+                warnings.append(f'representative form missing from family profile: {url}')
+                continue
             for item in forms:
                 # Retain familiar short name when a listing record already exists.
                 old=rows.get(item['id'])
@@ -299,6 +323,7 @@ def update(args, session, check_robots=True, wait=time.sleep):
                 rows[item['id']]=reconcile(old,item,verified=True)
                 forms_extracted+=1
             verified_urls.add(url)
+            verified_form_ids[url]=parsed_ids
             verified_this_run+=1
         except (requests.RequestException,ValueError) as e:
             warnings.append(f'family {url}: {str(e)[:90]}')
@@ -311,7 +336,9 @@ def update(args, session, check_robots=True, wait=time.sleep):
               'listingPagesVisited':len(visited),'listingPagesRemaining':max(0,total-len(visited)),
               'profileVerifiedThisRun':verified_this_run,'formsExtractedThisRun':forms_extracted,
               'familiesDiscovered':len(families),'familiesVerified':len(verified_urls & set(families)),
-              'familiesRemaining':len(set(families)-verified_urls),'rateLimited':rate_limited,
+              'familiesRemaining':len(set(families)-verified_urls),
+              'unmatchedRepresentativeProfilesThisRun':unmatched_profiles,
+              'rateLimited':rate_limited,
               'imagesPresent':sum(bool(v.get('image')) for v in rows.values()),
               'abilitiesPresent':sum(bool(v.get('abilities')) for v in rows.values()),
               'representativeRecords':len(rows),'complete':False}
@@ -322,7 +349,9 @@ def update(args, session, check_robots=True, wait=time.sleep):
         incomplete=[p for p in pages if p not in scanned and p!=1]
         if incomplete:next_page=incomplete[0]
     atomic(STATE,{'nextPage':next_page,'totalPages':total,'lastRun':stamp,
-                  'visitedPages':sorted(visited),'verifiedFamilyURLs':sorted(verified_urls)})
+                  'visitedPages':sorted(visited),'verifiedFamilyURLs':sorted(verified_urls),
+                  'verifiedFamilyFormIDs':{u:sorted(v,key=int) for u,v in verified_form_ids.items()
+                                            if u in verified_urls}})
     print(f'pages={scanned} families_verified={verified_this_run} forms={forms_extracted} records={manifest["count"]} nextPage={next_page} warnings={len(warnings)}')
     return manifest
 
