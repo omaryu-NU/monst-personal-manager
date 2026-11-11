@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8449",
+      "name": "少年探偵団",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8449/#f8449",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8450",
+      "name": "京極真",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8450/#f8450",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8451",
+      "name": "黄金＆白金",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8451/#f8451",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "コスモ"
+    },
+    {
+      "id": "8452",
+      "name": "フォルトゥナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5379/#f8452",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
       "id": "8453",
       "name": "森蘭丸",
       "attribute": "光",
@@ -2174,50 +2218,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "8752",
-      "name": "ドーバーデーモン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8751/#f8752",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "8754",
-      "name": "鬼頭ナキ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8753/#f8754",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "8756",
-      "name": "フラットウッズモンスター",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8755/#f8756",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "8758",
-      "name": "セルポ星人",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8757/#f8758",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "魔族"
     }
   ]

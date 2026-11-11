@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2885",
+      "name": "ディアンヌ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2884/#f2885",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "巨人"
+    },
+    {
+      "id": "2889",
+      "name": "ゴウセル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2888/#f2889",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "人形"
+    },
+    {
+      "id": "2894",
+      "name": "ギーラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2893/#f2894",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "2896",
       "name": "ジェリコ",
       "attribute": "水",
@@ -2164,39 +2197,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "聖騎士"
-    },
-    {
-      "id": "3625",
-      "name": "ヴィクトリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3624/#f3625",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3628",
-      "name": "カナタ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3627/#f3628",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "3630",
-      "name": "ソラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3629/#f3630",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2166",
+      "name": "デカラビア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2165/#f2166",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "2168",
       "name": "サブナック",
       "attribute": "闇",
@@ -1462,26 +1473,87 @@
       ]
     },
     {
+      "id": "2620",
+      "name": "天沼月人",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2620.webp",
+      "source": "https://game.technophere.com/monst/char/2620/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーM （水）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 5599,
+      "attack": 7670,
+      "speed": 192.9
+    },
+    {
       "id": "2621",
       "name": "天沼月人",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2620/#f2621",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2621.webp",
+      "source": "https://game.technophere.com/monst/char/2620/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーL （水）",
+      "ss": "味方を動かし敵へ撃ちこむ 24ターン",
+      "rarity": 5,
+      "hp": 9799,
+      "attack": 9401,
+      "speed": 225.4
+    },
+    {
+      "id": "2622",
+      "name": "樹",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2622.webp",
+      "source": "https://game.technophere.com/monst/char/2622/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "貫通ホーミング6 （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13475,
+      "attack": 13600,
+      "speed": 257.73
     },
     {
       "id": "2623",
       "name": "樹",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2622/#f2623",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2623.webp",
+      "source": "https://game.technophere.com/monst/char/2622/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "貫通ホーミング8 （木）",
+      "ss": "狙った方向に影の手を放ち、当たった敵に裏男で攻撃 24ターン",
+      "rarity": 6,
+      "hp": 15770,
+      "attack": 15112,
+      "speed": 270.37,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2625",
@@ -2241,39 +2313,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2885",
-      "name": "ディアンヌ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2884/#f2885",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "巨人"
-    },
-    {
-      "id": "2889",
-      "name": "ゴウセル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2888/#f2889",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "人形"
-    },
-    {
-      "id": "2894",
-      "name": "ギーラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2893/#f2894",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

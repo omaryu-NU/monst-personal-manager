@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5495",
+      "name": "狗巻棘",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5495/#f5495",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5496",
+      "name": "禪院真希",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5496/#f5496",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5501",
+      "name": "エリミネイター",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5500/#f5501",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "5509",
+      "name": "モスマン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5508/#f5509",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
       "id": "5512",
       "name": "チュパカブラ",
       "attribute": "木",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "6009",
-      "name": "御門シメナ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6007/#f6009",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6011",
-      "name": "コマンダーT",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6010/#f6011",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "6012",
-      "name": "サタン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/629/#f6012",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "6013",
-      "name": "銀時＆高杉＆桂",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6013/#f6013",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

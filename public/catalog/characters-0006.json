@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3625",
+      "name": "ヴィクトリー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3624/#f3625",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3628",
+      "name": "カナタ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3627/#f3628",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "3630",
+      "name": "ソラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3629/#f3630",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "3632",
       "name": "ユウナ",
       "attribute": "光",
@@ -2167,39 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "4342",
-      "name": "メメントモリ廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2298/#f4342",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "闘神"
-    },
-    {
-      "id": "4347",
-      "name": "ヘックス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4346/#f4347",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4350",
-      "name": "ニクレンジャーオラゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4349/#f4350",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

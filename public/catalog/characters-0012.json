@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6783",
+      "name": "三日月",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6783/#f6783",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "6784",
+      "name": "スレッタ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6784/#f6784",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "6785",
+      "name": "アスラン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6785/#f6785",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "6786",
+      "name": "おりょう",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/489/#f6786",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "6788",
       "name": "清少納言",
       "attribute": "光",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "7126",
-      "name": "ハナレコグニ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7125/#f7126",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "7128",
-      "name": "キルユアアイドル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7127/#f7128",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "7129",
-      "name": "ディーヴァ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4175/#f7129",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7130",
-      "name": "幕末リザレクション",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4886/#f7130",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

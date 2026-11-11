@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4981",
+      "name": "切島鋭児郎",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4980/#f4981",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4983",
+      "name": "蛙吹梅雨",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4982/#f4983",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4985",
+      "name": "八百万百",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4984/#f4985",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4987",
       "name": "上鳴電気",
       "attribute": "光",
@@ -618,6 +651,27 @@
         "アンチ魔法陣",
         "アンチ減速壁"
       ]
+    },
+    {
+      "id": "5102",
+      "name": "星原の機巧忍姫 コカゲ",
+      "attribute": "木",
+      "abilities": [
+        "超アンチウィンド",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5102.webp",
+      "source": "https://game.technophere.com/monst/char/5101/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "トライデントレーザーEL （木） 副友情 超強防御ダウンブラスト （無）",
+      "ss": "ふれた最初の敵を乱打し、反撃モードになる 8+16ターン",
+      "rarity": 6,
+      "hp": 16117,
+      "attack": 24453,
+      "speed": 393.8
     },
     {
       "id": "5104",
@@ -2235,50 +2289,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5495",
-      "name": "狗巻棘",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5495/#f5495",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5496",
-      "name": "禪院真希",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5496/#f5496",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5501",
-      "name": "エリミネイター",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5500/#f5501",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "5509",
-      "name": "モスマン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5508/#f5509",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
     }
   ]
 }

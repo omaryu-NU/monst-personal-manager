@@ -418,15 +418,44 @@
       "speed": 186.97
     },
     {
+      "id": "185",
+      "name": "ビャッコ",
+      "attribute": "木",
+      "abilities": [
+        "幻獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/185.webp",
+      "source": "https://game.technophere.com/monst/char/185/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "拡散弾L2 （木）",
+      "ss": "ふれた敵にどんぐりメテオで追い討ち 24ターン",
+      "rarity": 4,
+      "hp": 6944,
+      "attack": 5494,
+      "speed": 301.6
+    },
+    {
       "id": "186",
       "name": "ビャッコ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/185/#f186",
+      "abilities": [
+        "幻獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/186.webp",
+      "source": "https://game.technophere.com/monst/char/185/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "拡散弾EL3 （木）",
+      "ss": "ふれた敵にどんぐりメテオで追い討ち 30ターン",
+      "rarity": 5,
+      "hp": 12150,
+      "attack": 9614,
+      "speed": 352.1
     },
     {
       "id": "188",
@@ -437,7 +466,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "ドラゴン"
+      "race": "ドラゴン",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/188.webp"
     },
     {
       "id": "190",
@@ -448,7 +478,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/190.webp"
     },
     {
       "id": "202",
@@ -459,7 +490,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/202.webp"
     },
     {
       "id": "206",
@@ -2275,17 +2307,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ロボット"
-    },
-    {
-      "id": "777",
-      "name": "ミケランジェロ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/775/#f777",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

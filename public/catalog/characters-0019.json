@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9059",
+      "name": "徳川家定",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9058/#f9059",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "9062",
+      "name": "井伊直弼",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9060/#f9062",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "9063",
+      "name": "マスターコーヴ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5447/#f9063",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "獣"
+    },
+    {
+      "id": "9065",
+      "name": "アフェレデイン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9064/#f9065",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "幻妖"
+    },
+    {
       "id": "9066",
       "name": "コーヒーブレイクオラゴン",
       "attribute": "光",
@@ -2167,50 +2211,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "聖域の狩人"
-    },
-    {
-      "id": "9350",
-      "name": "ミュア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9350/#f9350",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "9351",
-      "name": "エシカル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9351/#f9351",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "9352",
-      "name": "テンリン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9352/#f9352",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神獣"
-    },
-    {
-      "id": "9353",
-      "name": "竹中半兵衛",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2794/#f9353",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "サムライ"
     }
   ]
 }
