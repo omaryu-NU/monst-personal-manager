@@ -291,56 +291,124 @@
       "id": "9419",
       "name": "高坂穂乃果＆高海千歌",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9419/#f9419",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチダメージウォール",
+        "マインスイーパーM",
+        "アンチ転送壁",
+        "火属性キラー SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9419.webp",
+      "source": "https://game.technophere.com/monst/char/9419/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "スピニングブレイド （水） 副友情 超絶防御ダウンブラスト （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵の攻撃力を吸収し、味方全員のパワーが一定期間アップする＆ふれた敵の攻撃ターンを増加させる 20+8ターン",
+      "rarity": 6,
+      "hp": 19544,
+      "attack": 26682,
+      "speed": 451.9
     },
     {
       "id": "9420",
       "name": "矢澤にこ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9420/#f9420",
+      "abilities": [
+        "アンチワープ",
+        "アンチ魔法陣",
+        "バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9420.webp",
+      "source": "https://game.technophere.com/monst/char/9420/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "リフレクションリング （火）",
+      "ss": "スピードとパワーがアップ＆壁にふれると稀にスピードがアップ 16ターン",
+      "rarity": 6,
+      "hp": 19015,
+      "attack": 18155,
+      "speed": 276.3,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "アンチマルチレイヤ"
+      ]
     },
     {
       "id": "9421",
       "name": "絢瀬絵里",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9421/#f9421",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9421.webp",
+      "source": "https://game.technophere.com/monst/char/9421/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ラピッドボムスロー （無）",
+      "ss": "味方を率いて敵へ撃ちこむ 16ターン",
+      "rarity": 6,
+      "hp": 20461,
+      "attack": 18112,
+      "speed": 283.27,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "攻撃力チャージ"
+      ]
     },
     {
       "id": "9422",
       "name": "小泉花陽",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9422/#f9422",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチワープ",
+        "マインスイーパー",
+        "状態異常回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9422.webp",
+      "source": "https://game.technophere.com/monst/char/9422/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶四反射分裂弾 （木）",
+      "ss": "スピードとパワーがアップ＆ふれた味方を一定期間、バブリー状態にする 16ターン",
+      "rarity": 6,
+      "hp": 20440,
+      "attack": 21130,
+      "speed": 263.9
     },
     {
       "id": "9423",
       "name": "高坂穂乃果",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9423/#f9423",
+      "abilities": [
+        "アンチ重力バリア",
+        "マインスイーパーM",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9423.webp",
+      "source": "https://game.technophere.com/monst/char/9423/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "スピードアップ （無）",
+      "ss": "スピードとパワーがアップ＆敵にふれる毎にHPが回復 12ターン",
+      "rarity": 6,
+      "hp": 19521,
+      "attack": 17663,
+      "speed": 295.77,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "9424",
