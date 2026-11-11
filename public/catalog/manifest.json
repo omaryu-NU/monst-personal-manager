@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-11T01:15:37.491868+00:00",
+  "generatedAt": "2026-11-11T03:29:31.610683+00:00",
   "source": "https://game.technophere.com/monst/characters/",
-  "count": 1680,
+  "count": 1999,
   "chunks": [
     {
       "path": "characters-0001.json",
@@ -38,26 +38,30 @@
     },
     {
       "path": "characters-0009.json",
-      "count": 80
+      "count": 200
+    },
+    {
+      "path": "characters-0010.json",
+      "count": 199
     }
   ],
   "scan": {
     "pages": [
       1,
-      18,
-      19,
-      20,
-      21
+      22,
+      23,
+      24,
+      25
     ],
     "warnings": [
-      "profile 9307: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/6133/",
-      "profile 9300: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5982/",
-      "profile 9295: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/6001/",
-      "profile 9261: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5788/",
-      "profile 9169: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/6259/",
-      "profile 9123: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/6122/",
-      "profile 9106: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5862/",
-      "profile 9045: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5999/"
+      "profile 9405: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5574/",
+      "profile 9404: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5571/",
+      "profile 9403: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5568/",
+      "profile 9310: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5480/",
+      "profile 9309: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5478/",
+      "profile 9308: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5472/",
+      "profile 9304: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5259/",
+      "profile 9168: 429 Client Error: Too Many Requests for url: https://game.technophere.com/monst/char/5502/"
     ]
   }
 }
