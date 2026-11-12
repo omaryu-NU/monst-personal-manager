@@ -498,16 +498,44 @@
       "speed": 135.87
     },
     {
+      "id": "189",
+      "name": "タートルアサシン",
+      "attribute": "闇",
+      "abilities": [
+        "ロボットキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/189.webp",
+      "source": "https://game.technophere.com/monst/char/189/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "ホーミング4 （闇）",
+      "ss": "聖獣の力でパワーが大アップ 13ターン",
+      "rarity": 4,
+      "hp": 7138,
+      "attack": 7831,
+      "speed": 125.37
+    },
+    {
       "id": "190",
       "name": "タートルアサシン",
       "attribute": "闇",
-      "abilities": [],
+      "abilities": [
+        "ロボットキラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/190.webp",
-      "source": "https://game.technophere.com/monst/char/189/#f190",
+      "source": "https://game.technophere.com/monst/char/189/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ホーミング6 （闇）",
+      "ss": "聖獣の力でパワーが特大アップ 18ターン",
+      "rarity": 5,
+      "hp": 12497,
+      "attack": 13694,
+      "speed": 146.63
     },
     {
       "id": "202",
@@ -2309,17 +2337,6 @@
       "attribute": "水",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/763/#f764",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "772",
-      "name": "ショパン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/771/#f772",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",

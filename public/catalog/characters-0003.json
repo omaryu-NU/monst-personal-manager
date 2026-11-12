@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1466",
+      "name": "夏ケーキ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1466/#f1466",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "1467",
       "name": "夏ネロ",
       "attribute": "光",
@@ -2189,17 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2162",
-      "name": "バアル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2160/#f2162",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

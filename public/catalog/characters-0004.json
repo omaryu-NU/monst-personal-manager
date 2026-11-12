@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2162",
+      "name": "バアル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2160/#f2162",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "2164",
       "name": "バルバトス",
       "attribute": "木",
@@ -1610,15 +1621,94 @@
       ]
     },
     {
-      "id": "2629",
-      "name": "仙水忍",
+      "id": "2626",
+      "name": "仙水ミノル",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2626/#f2629",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2626.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "全方位ショットガン （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12876,
+      "attack": 10042,
+      "speed": 309.73
+    },
+    {
+      "id": "2627",
+      "name": "霊光裂蹴拳の使い手 仙水ミノル",
+      "attribute": "闇",
+      "abilities": [
+        "魔人キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2627.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "全方位ショットガン （闇）",
+      "ss": "裂蹴紫炎弾を放ち敵を攻撃する 20ターン",
+      "rarity": 6,
+      "hp": 16703,
+      "attack": 12838,
+      "speed": 311.67,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
+      "id": "2628",
+      "name": "気硬銃の使い手 仙水カズヤ",
+      "attribute": "闇",
+      "abilities": [
+        "魔人キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2628.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "反射レーザーL4 （闇）",
+      "ss": "狙った方向に気硬銃を放つ 16ターン",
+      "rarity": 6,
+      "hp": 19467,
+      "attack": 11967,
+      "speed": 212.1,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
+      "id": "2629",
+      "name": "仙水忍",
+      "attribute": "闇",
+      "abilities": [
+        "神キラー 妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2629.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "リワインドブラスター （闇）",
+      "ss": "一定期間、自身の攻撃力と防御力がアップ 24ターン",
+      "rarity": 6,
+      "hp": 19682,
+      "attack": 15069,
+      "speed": 224.73,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "魔族キラー"
+      ]
     },
     {
       "id": "2630",
@@ -2290,50 +2380,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2858",
-      "name": "クシナダ廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/686/#f2858",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2860",
-      "name": "マリーダ（ストア）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1410/#f2860",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "2862",
-      "name": "ブルーベリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2861/#f2862",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "2876",
-      "name": "ヴリトラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2874/#f2876",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "2858",
+      "name": "クシナダ廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/686/#f2858",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2860",
+      "name": "マリーダ（ストア）",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1410/#f2860",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "2862",
+      "name": "ブルーベリー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2861/#f2862",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "2876",
+      "name": "ヴリトラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2874/#f2876",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
       "id": "2878",
       "name": "ナーガ",
       "attribute": "光",
@@ -2153,50 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "3609",
-      "name": "ヴィランキスキルリラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3608/#f3609",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "3611",
-      "name": "ヴィランパンドラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3610/#f3611",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3613",
-      "name": "ヴィランバッハ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3612/#f3613",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3615",
-      "name": "ヴィランディルロッテ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3614/#f3615",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
     }
   ]
 }

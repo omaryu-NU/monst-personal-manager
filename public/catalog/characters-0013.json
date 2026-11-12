@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7111",
+      "name": "ホアジャオリン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7109/#f7111",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "7113",
+      "name": "マズリーロ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7112/#f7113",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "7115",
+      "name": "ドクミン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7114/#f7115",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "7116",
+      "name": "ギャラルホルン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4025/#f7116",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7117",
+      "name": "朧木ロウラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6612/#f7117",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7118",
+      "name": "カイリ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5547/#f7118",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
       "id": "7119",
       "name": "カウシーディヤ",
       "attribute": "木",
@@ -2150,114 +2216,6 @@
       "type": "反射",
       "style": "超バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "7438",
-      "name": "真田幸村",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/303/#f7438",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "7440",
-      "name": "ママゴアシ",
-      "attribute": "火",
-      "abilities": [
-        "超アンチダメージウォール",
-        "超マインスイーパーM",
-        "アンチ魔法陣",
-        "レフトポジションキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7440.webp",
-      "source": "https://game.technophere.com/monst/char/7439/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖",
-      "friendship": "コピー （無） 副友情 回復拡大爆破弾 （無）",
-      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを一定ターン短縮する 12+8ターン",
-      "rarity": 6,
-      "hp": 21261,
-      "attack": 18449,
-      "speed": 273.9
-    },
-    {
-      "id": "7442",
-      "name": "sinギルティ：断罪",
-      "attribute": "水",
-      "abilities": [
-        "超アンチ重力バリア",
-        "超アンチ減速壁",
-        "アンチ転送壁",
-        "超SSターンアクセル"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7442.webp",
-      "source": "https://game.technophere.com/monst/char/7441/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ドラゴン",
-      "friendship": "攻スピアップ （無） 副友情 防友アップ （無）",
-      "ss": "狙った方向にヒットした敵の弱点をすべて出現させ、弱点倍率をアップさせる攻撃を放つ 22+8ターン",
-      "rarity": 6,
-      "hp": 22630,
-      "attack": 36217,
-      "speed": 323.1,
-      "gaugeAbilities": [
-        "渾身"
-      ]
-    },
-    {
-      "id": "7443",
-      "name": "ギルティ",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチダメージウォール",
-        "超アンチウィンド",
-        "超アンチ減速壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7443.webp",
-      "source": "https://game.technophere.com/monst/char/7441/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン",
-      "friendship": "バウンドチャージ （無） 副友情 爆絶爆発 （無）",
-      "ss": "ふれた味方のパワーと友情コンボ威力を一定期間アップ 20+4ターン",
-      "rarity": 6,
-      "hp": 18795,
-      "attack": 22635,
-      "speed": 326.1,
-      "gaugeAbilities": [
-        "連撃キラーL SSターンチャージ"
-      ]
-    },
-    {
-      "id": "7444",
-      "name": "サラスヴァティ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2863/#f7444",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "神"
-    },
-    {
-      "id": "7445",
-      "name": "クロノス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1449/#f7445",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
     }
   ]
 }

@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6759",
+      "name": "ガリレオ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1632/#f6759",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "コスモ"
+    },
+    {
+      "id": "6760",
+      "name": "リゲル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3849/#f6760",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6766",
+      "name": "カミーユ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6765/#f6766",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "6770",
+      "name": "刹那",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6769/#f6770",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "6771",
+      "name": "ヒイロユイ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6771/#f6771",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "6775",
+      "name": "フルフロンタル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6774/#f6775",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
       "id": "6777",
       "name": "グエル",
       "attribute": "木",
@@ -2134,72 +2200,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "7111",
-      "name": "ホアジャオリン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7109/#f7111",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "7113",
-      "name": "マズリーロ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7112/#f7113",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "7115",
-      "name": "ドクミン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7114/#f7115",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7116",
-      "name": "ギャラルホルン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4025/#f7116",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7117",
-      "name": "朧木ロウラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6612/#f7117",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7118",
-      "name": "カイリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5547/#f7118",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
     }
   ]
 }

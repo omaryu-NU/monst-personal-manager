@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "772",
+      "name": "ショパン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/771/#f772",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "774",
       "name": "ドナテッロ",
       "attribute": "火",
@@ -2189,17 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "1466",
-      "name": "夏ケーキ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1466/#f1466",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,114 @@
   "version": 1,
   "characters": [
     {
+      "id": "7438",
+      "name": "真田幸村",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/303/#f7438",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "7440",
+      "name": "ママゴアシ",
+      "attribute": "火",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチ魔法陣",
+        "レフトポジションキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7440.webp",
+      "source": "https://game.technophere.com/monst/char/7439/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻妖",
+      "friendship": "コピー （無） 副友情 回復拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを一定ターン短縮する 12+8ターン",
+      "rarity": 6,
+      "hp": 21261,
+      "attack": 18449,
+      "speed": 273.9
+    },
+    {
+      "id": "7442",
+      "name": "sinギルティ：断罪",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチ減速壁",
+        "アンチ転送壁",
+        "超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7442.webp",
+      "source": "https://game.technophere.com/monst/char/7441/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン",
+      "friendship": "攻スピアップ （無） 副友情 防友アップ （無）",
+      "ss": "狙った方向にヒットした敵の弱点をすべて出現させ、弱点倍率をアップさせる攻撃を放つ 22+8ターン",
+      "rarity": 6,
+      "hp": 22630,
+      "attack": 36217,
+      "speed": 323.1,
+      "gaugeAbilities": [
+        "渾身"
+      ]
+    },
+    {
+      "id": "7443",
+      "name": "ギルティ",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール",
+        "超アンチウィンド",
+        "超アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7443.webp",
+      "source": "https://game.technophere.com/monst/char/7441/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン",
+      "friendship": "バウンドチャージ （無） 副友情 爆絶爆発 （無）",
+      "ss": "ふれた味方のパワーと友情コンボ威力を一定期間アップ 20+4ターン",
+      "rarity": 6,
+      "hp": 18795,
+      "attack": 22635,
+      "speed": 326.1,
+      "gaugeAbilities": [
+        "連撃キラーL SSターンチャージ"
+      ]
+    },
+    {
+      "id": "7444",
+      "name": "サラスヴァティ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2863/#f7444",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "神"
+    },
+    {
+      "id": "7445",
+      "name": "クロノス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1449/#f7445",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
       "id": "7447",
       "name": "アーニャα",
       "attribute": "火",
@@ -125,26 +233,121 @@
       "speed": 268.23
     },
     {
+      "id": "7454",
+      "name": "情報屋 フランキー・フランクリン",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7454.webp",
+      "source": "https://game.technophere.com/monst/char/7454/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "超強壁バウンド弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14806,
+      "attack": 12391,
+      "speed": 243.93
+    },
+    {
       "id": "7455",
       "name": "フランキー",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7454/#f7455",
+      "abilities": [
+        "アンチウィンド",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7455.webp",
+      "source": "https://game.technophere.com/monst/char/7454/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強壁バウンド弾 （光）",
+      "ss": "スピードとパワーがアップ＆停止後に近くの敵にクラッカーで攻撃 8ターン",
+      "rarity": 6,
+      "hp": 19394,
+      "attack": 14830,
+      "speed": 261.57,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "神王封じM 機鉱封じM"
+      ]
+    },
+    {
+      "id": "7456",
+      "name": "ロイドの同僚 フィオナ・フロスト",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7456.webp",
+      "source": "https://game.technophere.com/monst/char/7456/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "ウォールボム （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16556,
+      "attack": 26608,
+      "speed": 161.93
+    },
+    {
+      "id": "7457",
+      "name": "パーティへの列席 フィオナ・フロスト",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "マインスイーパーM",
+        "アンチ魔法陣",
+        "ビットンブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7457.webp",
+      "source": "https://game.technophere.com/monst/char/7456/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "ウォールボム （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵をアクセラレータ状態にする 18ターン",
+      "rarity": 6,
+      "hp": 20619,
+      "attack": 24456,
+      "speed": 206.97,
+      "gaugeAbilities": [
+        "ダッシュM（ラック）"
+      ]
     },
     {
       "id": "7458",
       "name": "フィオナ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7456/#f7458",
+      "abilities": [
+        "アンチ重力バリア",
+        "マインスイーパーM",
+        "アンチ魔法陣",
+        "ビットンブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7458.webp",
+      "source": "https://game.technophere.com/monst/char/7456/",
       "evolution": "神化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ウォールボム （無） 副友情 グロウスフィア （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵をアクセラレータ状態にする 18ターン",
+      "rarity": 6,
+      "hp": 20619,
+      "attack": 24456,
+      "speed": 206.97,
+      "gaugeAbilities": [
+        "ダッシュM（ラック）"
+      ]
     },
     {
       "id": "7459",
@@ -2169,105 +2372,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "7776",
-      "name": "ダルタニャンα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7775/#f7776",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7778",
-      "name": "モスコミュールα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7777/#f7778",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "7780",
-      "name": "モンゴルフィエ姉妹α",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7779/#f7780",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7782",
-      "name": "ダルーズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7781/#f7782",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "7784",
-      "name": "ネルウェレス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7783/#f7784",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7787",
-      "name": "絹高ゆいな",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7785/#f7787",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7788",
-      "name": "ギルガメッシュ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/974/#f7788",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "神"
-    },
-    {
-      "id": "7790",
-      "name": "ストラテジー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7789/#f7790",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7791",
-      "name": "伏姫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4071/#f7791",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
     }
   ]
 }

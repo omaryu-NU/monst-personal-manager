@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "8426",
+      "name": "新一＆蘭",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8425/#f8426",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8428",
+      "name": "鈴木園子",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8427/#f8428",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8430",
+      "name": "平次＆和葉",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8429/#f8430",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8432",
+      "name": "阿笠博士",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8431/#f8432",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8434",
+      "name": "コナン＆キッド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8433/#f8434",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8435",
+      "name": "コナン＆灰原",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8435/#f8435",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8437",
+      "name": "ライ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8436/#f8437",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8439",
+      "name": "バーボン＆ベルモット",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8438/#f8439",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8441",
+      "name": "メアリー＆世良真純",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8440/#f8441",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "8443",
       "name": "紅葉＆伊織",
       "attribute": "光",
@@ -2104,121 +2203,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "妖精"
-    },
-    {
-      "id": "8731",
-      "name": "ザドキエル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4012/#f8731",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8732",
-      "name": "サンダルフォン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3280/#f8732",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8733",
-      "name": "メタトロン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3294/#f8733",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "8734",
-      "name": "ヒナタ",
-      "attribute": "火",
-      "abilities": [
-        "アンチワープ",
-        "超マインスイーパー",
-        "アンチ減速壁",
-        "状態異常回復"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8734.webp",
-      "source": "https://game.technophere.com/monst/char/5097/",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "ロボット",
-      "friendship": "超絶貫通ホーミング18 （火） 副友情 超強チップソー （無）",
-      "ss": "スピードとパワーがアップ＆ふれた敵の攻撃力を吸収する 12+8ターン",
-      "rarity": 6,
-      "hp": 20560,
-      "attack": 24154,
-      "speed": 460.87,
-      "connectAbilities": [
-        "超アンチ重力バリア",
-        "バリア付与 条件: ロボット以外が2体以上／反射が1体以上"
-      ]
-    },
-    {
-      "id": "8735",
-      "name": "オニキス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2990/#f8735",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8736",
-      "name": "ロビンフッド",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1936/#f8736",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8737",
-      "name": "ゼウス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/389/#f8737",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "8739",
-      "name": "オカルン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8738/#f8739",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8741",
-      "name": "アイラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8740/#f8741",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }
