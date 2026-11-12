@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "3564",
+      "name": "斎藤一",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3563/#f3564",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3565",
+      "name": "神谷薫",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3565/#f3565",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3567",
+      "name": "カシス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3566/#f3567",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "3573",
+      "name": "ヤクシニー（ストア）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2872/#f3573",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "3584",
+      "name": "燐銅少佐",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3583/#f3584",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
+      "id": "3586",
+      "name": "鉄整備兵長",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3585/#f3586",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物"
+    },
+    {
+      "id": "3589",
+      "name": "白金大将",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3587/#f3589",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物"
+    },
+    {
       "id": "3591",
       "name": "銀中佐",
       "attribute": "闇",
@@ -2123,83 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "4274",
-      "name": "高杉晋助＆鬼兵隊",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4273/#f4274",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "4276",
-      "name": "ハタ皇子",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4275/#f4276",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4278",
-      "name": "柳生九兵衛",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4277/#f4278",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "4281",
-      "name": "神威",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4279/#f4281",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4283",
-      "name": "お登勢",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4282/#f4283",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4285",
-      "name": "坂田金時",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4284/#f4285",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "4287",
-      "name": "佐々木異三郎＆今井信女",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4286/#f4287",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "4274",
+      "name": "高杉晋助＆鬼兵隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4273/#f4274",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "4276",
+      "name": "ハタ皇子",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4275/#f4276",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4278",
+      "name": "柳生九兵衛",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4277/#f4278",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "4281",
+      "name": "神威",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4279/#f4281",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4283",
+      "name": "お登勢",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4282/#f4283",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4285",
+      "name": "坂田金時",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4284/#f4285",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4287",
+      "name": "佐々木異三郎＆今井信女",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4286/#f4287",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "4290",
       "name": "ニルヴァーナ廻",
       "attribute": "火",
@@ -684,6 +761,32 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
+    },
+    {
+      "id": "4480",
+      "name": "霊王獲神 ハンターキング",
+      "attribute": "木",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチウィンド",
+        "ダウンポジションキラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4480.webp",
+      "source": "https://game.technophere.com/monst/char/195/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神",
+      "friendship": "ツインバーティカルレーザーEL （木） 副友情 超強中距離毒拡散弾9 （無）",
+      "ss": "壁にふれる毎にパワーがアップ 16+4ターン",
+      "rarity": 6,
+      "hp": 19744,
+      "attack": 23765,
+      "speed": 277.27,
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "条件: 砲撃型以外が2体以上／合計ラック100以上"
+      ]
     },
     {
       "id": "4481",
@@ -2141,94 +2244,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "4907",
-      "name": "アリス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4906/#f4907",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4909",
-      "name": "カーディナル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4908/#f4909",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4911",
-      "name": "チュデルキン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4910/#f4911",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4913",
-      "name": "ヴァサゴ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4912/#f4913",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4915",
-      "name": "イスカーン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4914/#f4915",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4917",
-      "name": "アドミニストレータ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4916/#f4917",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4919",
-      "name": "ベクタ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4918/#f4919",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4920",
-      "name": "テラリア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4920/#f4920",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "2804",
+      "name": "猫又",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2803/#f2804",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻獣"
+    },
+    {
+      "id": "2807",
+      "name": "こゆき",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2805/#f2807",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "2809",
+      "name": "山姥",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2808/#f2809",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "2811",
+      "name": "小豆あらい",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2810/#f2811",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "2814",
+      "name": "マツリ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2813/#f2814",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "2816",
+      "name": "クィーンスプラティア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2815/#f2816",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2818",
+      "name": "サーティワンオラゴン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2817/#f2818",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
       "id": "2820",
       "name": "戦場ヶ原ひたぎ",
       "attribute": "火",
@@ -2120,83 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "3564",
-      "name": "斎藤一",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3563/#f3564",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3565",
-      "name": "神谷薫",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3565/#f3565",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3567",
-      "name": "カシス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3566/#f3567",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "3573",
-      "name": "ヤクシニー（ストア）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2872/#f3573",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3584",
-      "name": "燐銅少佐",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3583/#f3584",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "3586",
-      "name": "鉄整備兵長",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3585/#f3586",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "3589",
-      "name": "白金大将",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3587/#f3589",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
     }
   ]
 }

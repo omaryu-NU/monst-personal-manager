@@ -618,6 +618,46 @@
       "speed": 375.57
     },
     {
+      "id": "195",
+      "name": "ハンターキング",
+      "attribute": "木",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/195.webp",
+      "source": "https://game.technophere.com/monst/char/195/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "拡散弾EL3 （木）",
+      "ss": "壁にバウンドすればするほど、攻撃力がアップする 22ターン",
+      "rarity": 5,
+      "hp": 11970,
+      "attack": 11872,
+      "speed": 321.73
+    },
+    {
+      "id": "196",
+      "name": "モンスターハンター",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/196.webp",
+      "source": "https://game.technophere.com/monst/char/195/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "拡散弾EL3 （木）",
+      "ss": "壁にバウンドすればするほど、攻撃力がアップする 22ターン",
+      "rarity": 6,
+      "hp": 18768,
+      "attack": 18067,
+      "speed": 356.77
+    },
+    {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
@@ -2375,28 +2415,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "741",
-      "name": "翠龍",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/740/#f741",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "744",
-      "name": "テュポーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/742/#f744",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
       "race": "ドラゴン"
     }
   ]

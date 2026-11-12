@@ -2,6 +2,116 @@
   "version": 1,
   "characters": [
     {
+      "id": "6725",
+      "name": "エキドナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6724/#f6725",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6726",
+      "name": "ミスリル廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4805/#f6726",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "鉱物"
+    },
+    {
+      "id": "6728",
+      "name": "メデタイッカ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6727/#f6728",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6729",
+      "name": "ミカエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/890/#f6729",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6730",
+      "name": "ミカエル（クリスマス）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3079/#f6730",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6731",
+      "name": "シンドバッド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1392/#f6731",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6732",
+      "name": "シンドバッド（ハロウィン）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2274/#f6732",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6733",
+      "name": "藤園イチト",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3369/#f6733",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6734",
+      "name": "アミダ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4811/#f6734",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6735",
+      "name": "アミダ（新春）",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6735/#f6735",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "6738",
       "name": "ヤクモ",
       "attribute": "木",
@@ -2090,116 +2200,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "7072",
-      "name": "ヒヒイロカネ廻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4950/#f7072",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "7074",
-      "name": "タルウィ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7073/#f7074",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "7076",
-      "name": "アンラマンユ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7075/#f7076",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "7078",
-      "name": "アカマナフ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7077/#f7078",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "7081",
-      "name": "ウルスラグナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7079/#f7081",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "7083",
-      "name": "スプンタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7082/#f7083",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "7085",
-      "name": "アムルタート",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7084/#f7085",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "7086",
-      "name": "ディルムッド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4296/#f7086",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7089",
-      "name": "エンプレイラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7087/#f7089",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "7090",
-      "name": "不可思議",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7090/#f7090",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔人"
     }
   ]
 }

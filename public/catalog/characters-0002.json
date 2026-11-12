@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "741",
+      "name": "翠龍",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/740/#f741",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "744",
+      "name": "テュポーン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/742/#f744",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
       "id": "746",
       "name": "シャドウドラゴン",
       "attribute": "闇",
@@ -44,6 +66,26 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔王"
+    },
+    {
+      "id": "756",
+      "name": "乱獲神 ハンターキング",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/756.webp",
+      "source": "https://game.technophere.com/monst/char/195/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （木） 副友情 拡散弾L2 （闇）",
+      "ss": "壁にバウンドすればするほど、攻撃力がアップする 22ターン",
+      "rarity": 6,
+      "hp": 14976,
+      "attack": 18283,
+      "speed": 264.37
     },
     {
       "id": "759",
@@ -2167,39 +2209,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "ファイター"
-    },
-    {
-      "id": "1443",
-      "name": "キルケー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1442/#f1443",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "1445",
-      "name": "ケンタウロス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1444/#f1445",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "1453",
-      "name": "アラクネ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1452/#f1453",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

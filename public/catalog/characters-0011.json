@@ -2,6 +2,116 @@
   "version": 1,
   "characters": [
     {
+      "id": "6349",
+      "name": "ヴァロドリー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6348/#f6349",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6351",
+      "name": "崑麗",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6350/#f6351",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "6354",
+      "name": "アゾット",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6352/#f6354",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "6357",
+      "name": "アジタート",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6356/#f6357",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6358",
+      "name": "ヴェルダンディ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/566/#f6358",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神"
+    },
+    {
+      "id": "6359",
+      "name": "ヴェルダンディ（イースター）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4010/#f6359",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神"
+    },
+    {
+      "id": "6360",
+      "name": "向日葵",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3577/#f6360",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "6363",
+      "name": "アビス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6361/#f6363",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "6365",
+      "name": "イドーラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6364/#f6365",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "6367",
+      "name": "ウボサスラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6366/#f6367",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
       "id": "6369",
       "name": "シュブニグラス",
       "attribute": "木",
@@ -2090,116 +2200,6 @@
       "type": "貫通",
       "style": "超スピード",
       "race": "神"
-    },
-    {
-      "id": "6725",
-      "name": "エキドナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6724/#f6725",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6726",
-      "name": "ミスリル廻",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4805/#f6726",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "鉱物"
-    },
-    {
-      "id": "6728",
-      "name": "メデタイッカ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6727/#f6728",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6729",
-      "name": "ミカエル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/890/#f6729",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "6730",
-      "name": "ミカエル（クリスマス）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3079/#f6730",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "6731",
-      "name": "シンドバッド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1392/#f6731",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6732",
-      "name": "シンドバッド（ハロウィン）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2274/#f6732",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6733",
-      "name": "藤園イチト",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3369/#f6733",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6734",
-      "name": "アミダ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4811/#f6734",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6735",
-      "name": "アミダ（新春）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6735/#f6735",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

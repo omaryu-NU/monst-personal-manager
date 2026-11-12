@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "2105",
+      "name": "帰ってきたウルトラマンとリドラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2105/#f2105",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ウルトラ兄弟"
+    },
+    {
+      "id": "2113",
+      "name": "ゴジラ×13号機",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2112/#f2113",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ゴジエヴァ"
+    },
+    {
+      "id": "2115",
+      "name": "ゴジラ&覚醒初号機",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2114/#f2115",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ゴジエヴァ"
+    },
+    {
+      "id": "2116",
+      "name": "ゴジラVS初号機",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2116/#f2116",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ゴジエヴァ"
+    },
+    {
       "id": "2129",
       "name": "井伊直虎",
       "attribute": "火",
@@ -1825,12 +1869,95 @@
       "id": "2631",
       "name": "ストアルイ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2631/#f2631",
+      "abilities": [
+        "アンチ減速壁",
+        "火属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2631.webp",
+      "source": "https://game.technophere.com/monst/char/2631/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "ホーミング18 （水）",
+      "ss": "狙った方向に、波動砲を放つ 18ターン",
+      "rarity": 6,
+      "hp": 19086,
+      "attack": 15143,
+      "speed": 242.67,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2633",
+      "name": "パック",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2633.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "十字レーザーM （水）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
+      "rarity": 5,
+      "hp": 14585,
+      "attack": 13399,
+      "speed": 391.43,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2634",
+      "name": "妖精斥候 パック",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2634.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "十字レーザーEL （水）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
+      "rarity": 6,
+      "hp": 18924,
+      "attack": 18270,
+      "speed": 398.87,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2635",
+      "name": "いたずら妖精 パック",
+      "attribute": "水",
+      "abilities": [
+        "飛行",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2635.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "十字レーザーEL （水） 副友情 大爆発 （無）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
+      "rarity": 6,
+      "hp": 18110,
+      "attack": 17516,
+      "speed": 400.63,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "2643",
@@ -2315,83 +2442,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ホムンクルス"
-    },
-    {
-      "id": "2804",
-      "name": "猫又",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2803/#f2804",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻獣"
-    },
-    {
-      "id": "2807",
-      "name": "こゆき",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2805/#f2807",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "2809",
-      "name": "山姥",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2808/#f2809",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "2811",
-      "name": "小豆あらい",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2810/#f2811",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "2814",
-      "name": "マツリ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2813/#f2814",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "2816",
-      "name": "クィーンスプラティア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2815/#f2816",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2818",
-      "name": "サーティワンオラゴン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2817/#f2818",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
     }
   ]
 }
