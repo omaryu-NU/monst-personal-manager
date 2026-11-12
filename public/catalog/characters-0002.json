@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "746",
+      "name": "シャドウドラゴン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/745/#f746",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "749",
+      "name": "イナリX",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/748/#f749",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "751",
+      "name": "バハムートX",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/750/#f751",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "753",
+      "name": "ぬらりひょんX",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/752/#f753",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "759",
+      "name": "八木君",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/759/#f759",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "764",
+      "name": "チャイコフスキー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/763/#f764",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "772",
       "name": "ショパン",
       "attribute": "闇",
@@ -2131,72 +2197,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/1452/#f1453",
       "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "1456",
-      "name": "クラーケン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1454/#f1456",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "1459",
-      "name": "セイレーン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1457/#f1459",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "鳥"
-    },
-    {
-      "id": "1461",
-      "name": "スプリガン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1460/#f1461",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "1463",
-      "name": "ミミック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1462/#f1463",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "1464",
-      "name": "夏スルト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1464/#f1464",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "1465",
-      "name": "夏クイバタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1465/#f1465",
-      "evolution": "神化",
       "type": "反射",
       "style": "バランス",
       "race": "魔族"

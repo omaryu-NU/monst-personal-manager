@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "5442",
+      "name": "ヨツバ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5442/#f5442",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5443",
+      "name": "はつね",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5443/#f5443",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "鳥"
+    },
+    {
+      "id": "5444",
+      "name": "春山爛太郎",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5444/#f5444",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5453",
+      "name": "アヴァランチ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5451/#f5453",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5455",
+      "name": "ウェットランド",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5454/#f5455",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "獣"
+    },
+    {
+      "id": "5457",
+      "name": "ビュー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5456/#f5457",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5460",
+      "name": "アムリタ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5459/#f5460",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5461",
+      "name": "奈落",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3409/#f5461",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5462",
+      "name": "阿頼耶",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5462/#f5462",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "5466",
+      "name": "リボン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/836/#f5466",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5467",
+      "name": "リボンMV",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2358/#f5467",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "5468",
       "name": "リボン（フラパ）",
       "attribute": "木",
@@ -2079,127 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "5955",
-      "name": "ストーム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5955/#f5955",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5956",
-      "name": "クリスタル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2987/#f5956",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5958",
-      "name": "フェムト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5957/#f5958",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "5961",
-      "name": "帰蝶",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5959/#f5961",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "5962",
-      "name": "茨木童子",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1132/#f5962",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "5963",
-      "name": "ムソルグスキー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3430/#f5963",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5971",
-      "name": "ユキダルミャ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5970/#f5971",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5973",
-      "name": "リースルック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5972/#f5973",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5976",
-      "name": "ブシェルノ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5974/#f5976",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5977",
-      "name": "宮本武蔵",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1860/#f5977",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "5978",
-      "name": "宮本武蔵（クリスマス）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2392/#f5978",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "1456",
+      "name": "クラーケン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1454/#f1456",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "1459",
+      "name": "セイレーン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1457/#f1459",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "鳥"
+    },
+    {
+      "id": "1461",
+      "name": "スプリガン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1460/#f1461",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "1463",
+      "name": "ミミック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1462/#f1463",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "1464",
+      "name": "夏スルト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1464/#f1464",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "1465",
+      "name": "夏クイバタ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1465/#f1465",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "1466",
       "name": "夏ケーキ",
       "attribute": "木",
@@ -519,6 +585,30 @@
       "race": "魔族"
     },
     {
+      "id": "1628",
+      "name": "聖炎の女神 アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "ロボットキラーM 魔封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1628.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神",
+      "friendship": "超絶ホーミング6 （火） 副友情 白爆発L （無）",
+      "ss": "触れた敵に、炎の流星群で追撃 20+4ターン",
+      "rarity": 6,
+      "hp": 20583,
+      "attack": 24898,
+      "speed": 248.3,
+      "gaugeAbilities": [
+        "超アンチダメージウォール",
+        "ダッシュ"
+      ]
+    },
+    {
       "id": "1642",
       "name": "ボルタ",
       "attribute": "光",
@@ -825,6 +915,26 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻獣"
+    },
+    {
+      "id": "1736",
+      "name": "天降荒神スサノオノミコト",
+      "attribute": "水",
+      "abilities": [
+        "超アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1736.webp",
+      "source": "https://game.technophere.com/monst/char/193/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （水） 副友情 超強次元斬 （無）",
+      "ss": "敵にバウンドする毎に、貫通する天叢雲の刃を周囲に放つ 20+4ターン",
+      "rarity": 6,
+      "hp": 20546,
+      "attack": 24138,
+      "speed": 396.8
     },
     {
       "id": "1739",
@@ -2112,94 +2222,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "ゴジエヴァ"
-    },
-    {
-      "id": "2129",
-      "name": "井伊直虎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2128/#f2129",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "2131",
-      "name": "今川義元",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2130/#f2131",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2133",
-      "name": "柴田勝家",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2132/#f2133",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "2136",
-      "name": "明智光秀",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2134/#f2136",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2139",
-      "name": "本多忠勝",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2137/#f2139",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "2141",
-      "name": "オリーブ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2140/#f2141",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "2147",
-      "name": "ツクヨミ零",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2146/#f2147",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "2159",
-      "name": "グレモリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2157/#f2159",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

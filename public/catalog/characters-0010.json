@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "5955",
+      "name": "ストーム",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5955/#f5955",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5956",
+      "name": "クリスタル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2987/#f5956",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "5958",
+      "name": "フェムト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5957/#f5958",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "5961",
+      "name": "帰蝶",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5959/#f5961",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "5962",
+      "name": "茨木童子",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1132/#f5962",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "5963",
+      "name": "ムソルグスキー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3430/#f5963",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5971",
+      "name": "ユキダルミャ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5970/#f5971",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ユニバース"
+    },
+    {
+      "id": "5973",
+      "name": "リースルック",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5972/#f5973",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5976",
+      "name": "ブシェルノ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5974/#f5976",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5977",
+      "name": "宮本武蔵",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1860/#f5977",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "5978",
+      "name": "宮本武蔵（クリスマス）",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2392/#f5978",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "5981",
       "name": "マルクト廻",
       "attribute": "火",
@@ -2079,127 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻妖"
-    },
-    {
-      "id": "6369",
-      "name": "シュブニグラス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6368/#f6369",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "6371",
-      "name": "ダゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6370/#f6371",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "6374",
-      "name": "クティーラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6372/#f6374",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻妖"
-    },
-    {
-      "id": "6376",
-      "name": "ツァトゥグア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6375/#f6376",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "6377",
-      "name": "ヘラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1446/#f6377",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "6378",
-      "name": "アロンダイト",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3255/#f6378",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "6379",
-      "name": "フラパゲヘナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4864/#f6379",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "6380",
-      "name": "フラパ毘沙門天",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1150/#f6380",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "6381",
-      "name": "フラパガロン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5732/#f6381",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "6382",
-      "name": "フラパイグノー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5390/#f6382",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻妖"
-    },
-    {
-      "id": "6383",
-      "name": "フラパアフラマズダー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6059/#f6383",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

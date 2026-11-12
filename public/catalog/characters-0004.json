@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "2129",
+      "name": "井伊直虎",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2128/#f2129",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "2131",
+      "name": "今川義元",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2130/#f2131",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2133",
+      "name": "柴田勝家",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2132/#f2133",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "獣"
+    },
+    {
+      "id": "2136",
+      "name": "明智光秀",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2134/#f2136",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2139",
+      "name": "本多忠勝",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2137/#f2139",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "2141",
+      "name": "オリーブ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2140/#f2141",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "2147",
+      "name": "ツクヨミ零",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2146/#f2147",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "2159",
+      "name": "グレモリー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2157/#f2159",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "2162",
       "name": "バアル",
       "attribute": "水",
@@ -1714,12 +1802,24 @@
       "id": "2630",
       "name": "雪菜",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2630/#f2630",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2630.webp",
+      "source": "https://game.technophere.com/monst/char/2630/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "氷塊 （無）",
+      "ss": "ふれた敵に氷メテオで追い討ち 24ターン",
+      "rarity": 5,
+      "hp": 12084,
+      "attack": 9930,
+      "speed": 218.17,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "2631",
@@ -2292,94 +2392,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ドラゴン"
-    },
-    {
-      "id": "2820",
-      "name": "戦場ヶ原ひたぎ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2819/#f2820",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2822",
-      "name": "羽川翼",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2821/#f2822",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "怪異"
-    },
-    {
-      "id": "2824",
-      "name": "八九寺真宵",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2823/#f2824",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "怪異"
-    },
-    {
-      "id": "2827",
-      "name": "忍野忍",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2825/#f2827",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "怪異"
-    },
-    {
-      "id": "2848",
-      "name": "サンカモメーノ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2847/#f2848",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "2850",
-      "name": "リーベ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2849/#f2850",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2853",
-      "name": "カレン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2851/#f2853",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2855",
-      "name": "キャリック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2854/#f2855",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

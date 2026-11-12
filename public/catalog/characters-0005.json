@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "2820",
+      "name": "戦場ヶ原ひたぎ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2819/#f2820",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2822",
+      "name": "羽川翼",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2821/#f2822",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "怪異"
+    },
+    {
+      "id": "2824",
+      "name": "八九寺真宵",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2823/#f2824",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "怪異"
+    },
+    {
+      "id": "2827",
+      "name": "忍野忍",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2825/#f2827",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "怪異"
+    },
+    {
+      "id": "2848",
+      "name": "サンカモメーノ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2847/#f2848",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鳥"
+    },
+    {
+      "id": "2850",
+      "name": "リーベ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2849/#f2850",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2853",
+      "name": "カレン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2851/#f2853",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "2855",
+      "name": "キャリック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2854/#f2855",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2858",
       "name": "クシナダ廻",
       "attribute": "木",
@@ -2109,94 +2197,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "鉱物"
-    },
-    {
-      "id": "3591",
-      "name": "銀中佐",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3590/#f3591",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "鉱物"
-    },
-    {
-      "id": "3593",
-      "name": "カルナ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3592/#f3593",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "3596",
-      "name": "プルート",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3595/#f3596",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3598",
-      "name": "ドナルド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3597/#f3598",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3600",
-      "name": "チップ＆デール",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3599/#f3600",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3603",
-      "name": "ミッキー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3601/#f3603",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3605",
-      "name": "グーフィー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3604/#f3605",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ミッキー&フレンズ"
-    },
-    {
-      "id": "3607",
-      "name": "ヴィランジョン万次郎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3606/#f3607",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

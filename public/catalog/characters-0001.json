@@ -538,6 +538,86 @@
       "speed": 146.63
     },
     {
+      "id": "191",
+      "name": "アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/191.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "大々爆発 （無）",
+      "ss": "神の力でパワーが特大アップ 20ターン",
+      "rarity": 5,
+      "hp": 12477,
+      "attack": 9522,
+      "speed": 246.83
+    },
+    {
+      "id": "192",
+      "name": "炎神アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/192.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神",
+      "friendship": "超爆発 （無）",
+      "ss": "スピードで幻惑し、一定ターン、敵の弾を無効化する 23ターン",
+      "rarity": 6,
+      "hp": 19716,
+      "attack": 22700,
+      "speed": 163.97
+    },
+    {
+      "id": "193",
+      "name": "スサノオ",
+      "attribute": "水",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/193.webp",
+      "source": "https://game.technophere.com/monst/char/193/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "バーティカルレーザーL （水）",
+      "ss": "神の力でスピードが特大アップ 20ターン",
+      "rarity": 5,
+      "hp": 12497,
+      "attack": 13971,
+      "speed": 244.47
+    },
+    {
+      "id": "194",
+      "name": "神須佐能袁命",
+      "attribute": "水",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/194.webp",
+      "source": "https://game.technophere.com/monst/char/193/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "クロスレーザーL （水）",
+      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 24ターン",
+      "rarity": 6,
+      "hp": 19756,
+      "attack": 16425,
+      "speed": 375.57
+    },
+    {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
@@ -1419,6 +1499,26 @@
       "race": "亜人"
     },
     {
+      "id": "454",
+      "name": "大荒神 建速須佐之男命",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/454.webp",
+      "source": "https://game.technophere.com/monst/char/193/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （水） 副友情 バーティカルレーザーS （水）",
+      "ss": "敵にバウンドする毎に、天叢雲の刃を周囲に放つ 24ターン",
+      "rarity": 6,
+      "hp": 20546,
+      "attack": 18888,
+      "speed": 379.3
+    },
+    {
       "id": "456",
       "name": "エメラルドドラゴン",
       "attribute": "光",
@@ -2211,6 +2311,29 @@
       "race": "LINE"
     },
     {
+      "id": "721",
+      "name": "炎輝神 アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "ロボットキラーM 魔族キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/721.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神",
+      "friendship": "白爆発L （無） 副友情 ホーミング12 （光）",
+      "ss": "触れた敵に、炎の流星群で強力な追撃 30ターン",
+      "rarity": 6,
+      "hp": 20583,
+      "attack": 22273,
+      "speed": 213.3,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
       "id": "723",
       "name": "アフロディーテ",
       "attribute": "火",
@@ -2275,72 +2398,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ドラゴン"
-    },
-    {
-      "id": "746",
-      "name": "シャドウドラゴン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/745/#f746",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "749",
-      "name": "イナリX",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/748/#f749",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "751",
-      "name": "バハムートX",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/750/#f751",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "753",
-      "name": "ぬらりひょんX",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/752/#f753",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "759",
-      "name": "八木君",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/759/#f759",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "764",
-      "name": "チャイコフスキー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/763/#f764",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

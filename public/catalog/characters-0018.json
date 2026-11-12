@@ -2,6 +2,143 @@
   "version": 1,
   "characters": [
     {
+      "id": "8719",
+      "name": "イッチーニ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8718/#f8719",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "8721",
+      "name": "アンドロイドダイナー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8720/#f8721",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "8722",
+      "name": "アブドゥーグ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5530/#f8722",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "8723",
+      "name": "ガリーナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5584/#f8723",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "鳥"
+    },
+    {
+      "id": "8724",
+      "name": "アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "超アンチダメージウォール",
+        "魔封じL 幻竜封じL 機鉱封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8724.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "神",
+      "friendship": "爆絶ホーミング6 （火） 副友情 超絶拡大爆破弾 （無）",
+      "ss": "パワーがアップ＆停止後にふれた敵を炎の流星群で強力な追撃 16+8ターン",
+      "rarity": 6,
+      "hp": 23271,
+      "attack": 25785,
+      "speed": 268.6,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "アンチ魔法陣",
+        "アンチ減速床",
+        "ダッシュL"
+      ]
+    },
+    {
+      "id": "8725",
+      "name": "アグナムートX",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/280/#f8725",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "8726",
+      "name": "カマエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3329/#f8726",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "8727",
+      "name": "カマエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3803/#f8727",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "8728",
+      "name": "ラミエル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3316/#f8728",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "8729",
+      "name": "ラミエル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3805/#f8729",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "8730",
+      "name": "ザドキエル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3299/#f8730",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
       "id": "8731",
       "name": "ザドキエル",
       "attribute": "木",
@@ -2109,127 +2246,6 @@
       "evolution": "獣神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9019",
-      "name": "MEMちょ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9018/#f9019",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9020",
-      "name": "ルビー＆アクア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9020/#f9020",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9022",
-      "name": "MEMちょ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9021/#f9022",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9024",
-      "name": "有馬かな",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9023/#f9024",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9026",
-      "name": "ルビー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9025/#f9026",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9028",
-      "name": "アクア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9027/#f9028",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9030",
-      "name": "黒川あかね",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9029/#f9030",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9031",
-      "name": "有馬かな",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9031/#f9031",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9032",
-      "name": "新宿クラスタ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9032/#f9032",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9033",
-      "name": "アクア＆黒川あかね",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9033/#f9033",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9034",
-      "name": "渋谷クラスタ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9034/#f9034",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

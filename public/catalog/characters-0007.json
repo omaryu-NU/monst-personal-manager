@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "4290",
+      "name": "ニルヴァーナ廻",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2235/#f4290",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "闘神"
+    },
+    {
+      "id": "4292",
+      "name": "マダオ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4288/#f4292",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4293",
+      "name": "神楽",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3335/#f4293",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4294",
+      "name": "坂田銀時",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3337/#f4294",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "4295",
+      "name": "桂小太郎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3342/#f4295",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "4303",
+      "name": "シャーヴァン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4302/#f4303",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "4305",
+      "name": "ブルベン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4304/#f4305",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4308",
+      "name": "ケアブリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4306/#f4308",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "4310",
       "name": "ミダク",
       "attribute": "闇",
@@ -352,6 +440,30 @@
       "type": "反射",
       "style": "バランス",
       "race": "闘神"
+    },
+    {
+      "id": "4425",
+      "name": "海原を治めし大荒神 スサノオノミコト",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ",
+        "リジェネ 友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4425.webp",
+      "source": "https://game.technophere.com/monst/char/193/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （水） 副友情 超強次元斬 （無）",
+      "ss": "敵にふれる毎に、貫通する天叢雲の刃を周囲に放つ 20+4ターン",
+      "rarity": 6,
+      "hp": 21539,
+      "attack": 24811,
+      "speed": 408.53,
+      "connectAbilities": [
+        "超アンチダメージウォール"
+      ]
     },
     {
       "id": "4428",
@@ -737,6 +849,33 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
+    },
+    {
+      "id": "4540",
+      "name": "真炎の女神 アグナムート",
+      "attribute": "火",
+      "abilities": [
+        "ロボットキラーM 魔封じM 幻竜封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4540.webp",
+      "source": "https://game.technophere.com/monst/char/191/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "神",
+      "friendship": "超絶ホーミング6 （火） 副友情 拡大爆破弾 （無）",
+      "ss": "ふれた敵に炎の流星群で強力な追撃 20+4ターン",
+      "rarity": 6,
+      "hp": 21576,
+      "attack": 25503,
+      "speed": 262.87,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "ダッシュM"
+      ],
+      "connectAbilities": [
+        "アンチ魔法陣"
+      ]
     },
     {
       "id": "4551",
@@ -2090,116 +2229,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "4921",
-      "name": "ユージオ＆キリト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2962/#f4921",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4934",
-      "name": "キャスケイト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4932/#f4934",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4936",
-      "name": "チューストン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4935/#f4936",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "4938",
-      "name": "トレザード",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4937/#f4938",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "4939",
-      "name": "はじめしゃちょー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4939/#f4939",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4940",
-      "name": "クキータ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4940/#f4940",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4946",
-      "name": "真シヴァ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4945/#f4946",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "4960",
-      "name": "煙花",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4958/#f4960",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4962",
-      "name": "ペンペンファイターズ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4961/#f4962",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "鳥"
-    },
-    {
-      "id": "4964",
-      "name": "ケモミミガールズ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4963/#f4964",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

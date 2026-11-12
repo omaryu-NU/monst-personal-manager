@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "6738",
+      "name": "ヤクモ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6736/#f6738",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "6740",
+      "name": "癸卯ラビコ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6739/#f6740",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "6741",
+      "name": "ガブホーク",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6741/#f6741",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "鳥"
+    },
+    {
+      "id": "6742",
+      "name": "味見谷リョウ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6742/#f6742",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6745",
+      "name": "アリババ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1400/#f6745",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6747",
+      "name": "浄玻璃鏡",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6746/#f6747",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6749",
+      "name": "ガラティーン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6748/#f6749",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6751",
+      "name": "ハーメルンパイプ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6750/#f6751",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6753",
+      "name": "中水寒泳",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6752/#f6753",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6755",
+      "name": "月根正",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6754/#f6755",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6758",
+      "name": "盤上ススム",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6756/#f6758",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "6759",
       "name": "ガリレオ",
       "attribute": "火",
@@ -2079,127 +2200,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔人"
-    },
-    {
-      "id": "7092",
-      "name": "パライソ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7091/#f7092",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "鉱物"
-    },
-    {
-      "id": "7094",
-      "name": "画眉丸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7093/#f7094",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7096",
-      "name": "佐切",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7095/#f7096",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7098",
-      "name": "亜左弔兵衛",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7097/#f7098",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7099",
-      "name": "牡丹",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7099/#f7099",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7100",
-      "name": "桐馬",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7100/#f7100",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7101",
-      "name": "ノイシュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3464/#f7101",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7102",
-      "name": "ケラウノス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4023/#f7102",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7104",
-      "name": "アルデバラン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7103/#f7104",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7106",
-      "name": "アルビレオ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7105/#f7106",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7108",
-      "name": "プロキオン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7107/#f7108",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }
