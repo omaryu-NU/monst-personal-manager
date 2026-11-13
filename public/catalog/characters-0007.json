@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4211",
+      "name": "頑張れって感じのデク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4211/#f4211",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4217",
+      "name": "ネオン（ストア）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3047/#f4217",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4228",
       "name": "ジョンクレイ",
       "attribute": "木",
@@ -2267,28 +2289,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "4846",
-      "name": "アーサー&ソロモン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4845/#f4846",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "4848",
-      "name": "ルシファー＆カエサル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4847/#f4848",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
     }
   ]
 }

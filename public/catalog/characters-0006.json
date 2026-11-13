@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "3514",
+      "name": "デスガン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3513/#f3514",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3516",
+      "name": "ユウキ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3515/#f3516",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "3529",
       "name": "ストロング志賀井",
       "attribute": "火",
@@ -2176,28 +2198,6 @@
       "source": "https://game.technophere.com/monst/char/4210/#f4210",
       "evolution": "進化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4211",
-      "name": "頑張れって感じのデク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4211/#f4211",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4217",
-      "name": "ネオン（ストア）",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3047/#f4217",
-      "evolution": "進化",
-      "type": "反射",
       "style": "バランス",
       "race": "亜人"
     }

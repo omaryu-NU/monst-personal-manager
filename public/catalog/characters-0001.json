@@ -741,52 +741,80 @@
       "speed": 268.27
     },
     {
+      "id": "201",
+      "name": "ズーマー",
+      "attribute": "火",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/201.webp",
+      "source": "https://game.technophere.com/monst/char/201/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王",
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 15080,
+      "attack": 16911,
+      "speed": 294.87
+    },
+    {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
-      "abilities": [],
+      "abilities": [
+        "神キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/202.webp",
-      "source": "https://game.technophere.com/monst/char/201/#f202",
+      "source": "https://game.technophere.com/monst/char/201/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "超爆発 （無）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 13ターン",
+      "rarity": 6,
+      "hp": 19756,
+      "attack": 30661,
+      "speed": 162.63
     },
     {
       "id": "206",
       "name": "ジュラザウラー",
       "attribute": "木",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/206.webp",
       "source": "https://game.technophere.com/monst/char/205/#f206",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/206.webp"
+      "race": "魔王"
     },
     {
       "id": "208",
       "name": "エビルインライト",
       "attribute": "光",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/208.webp",
       "source": "https://game.technophere.com/monst/char/207/#f208",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/208.webp"
+      "race": "魔王"
     },
     {
       "id": "210",
       "name": "ゼロ",
       "attribute": "闇",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/210.webp",
       "source": "https://game.technophere.com/monst/char/209/#f210",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/210.webp"
+      "race": "魔王"
     },
     {
       "id": "229",
@@ -797,7 +825,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/229.webp"
     },
     {
       "id": "231",
@@ -808,7 +837,8 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/231.webp"
     },
     {
       "id": "233",
@@ -819,7 +849,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/233.webp"
     },
     {
       "id": "235",
@@ -2458,17 +2489,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "718",
-      "name": "コニー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/718/#f718",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "LINE"
     }
   ]
 }

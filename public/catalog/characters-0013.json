@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7035",
+      "name": "ダズマン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7035/#f7035",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "7036",
+      "name": "バフィック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7036/#f7036",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "7038",
+      "name": "アメノサギリ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7037/#f7038",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "7040",
       "name": "シャルルマーニュ",
       "attribute": "水",
@@ -2197,39 +2230,6 @@
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7364",
-      "name": "三蔵法師",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1232/#f7364",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7365",
-      "name": "DIO",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7360/#f7365",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "7368",
-      "name": "マギア",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7366/#f7368",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超砲撃",
       "race": "亜人"
     }
   ]

@@ -2,6 +2,81 @@
   "version": 1,
   "characters": [
     {
+      "id": "9517",
+      "name": "手長足長",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "アウトポジションキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9517.webp",
+      "source": "https://game.technophere.com/monst/char/9517/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "超強ツインワンウェイレーザーEL （水）",
+      "ss": "スピードとパワーがアップ＆停止後に一番遠くにいる敵を手を伸ばして攻撃 15ターン",
+      "rarity": 6,
+      "hp": 21975,
+      "attack": 25157,
+      "speed": 223.6,
+      "gaugeAbilities": [
+        "アンチ減速床"
+      ]
+    },
+    {
+      "id": "9518",
+      "name": "アスマ",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9518.webp",
+      "source": "https://game.technophere.com/monst/char/9518/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ツインインボリュートスフィア （木）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を金烏玉兎で攻撃 14ターン",
+      "rarity": 6,
+      "hp": 16849,
+      "attack": 18506,
+      "speed": 285.1,
+      "gaugeAbilities": [
+        "アンチ減速床",
+        "アンチマルチレイヤ"
+      ]
+    },
+    {
+      "id": "9519",
+      "name": "立川マコト",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパーM",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9519.webp",
+      "source": "https://game.technophere.com/monst/char/9519/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超絶拡大爆破弾 （無）",
+      "ss": "ふれた敵の攻撃ターンを増加させる 20ターン",
+      "rarity": 5,
+      "hp": 13250,
+      "attack": 11335,
+      "speed": 242.77,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "9520",
       "name": "羽村ケンイチ",
       "attribute": "闇",
@@ -282,6 +357,9 @@
       "friendship": "コピー （無） 副友情 友スピアップ （無）",
       "ss": "攻撃力とスピードの差が最も大きい味方の攻撃力とスピードの値の比率に応じて、ふれた味方のパワーを一定期間アップ 16+4ターン",
       "rarity": 6,
+      "hp": 15305,
+      "attack": 18425,
+      "speed": 358.17,
       "gaugeAbilities": [
         "アンチ減速床"
       ]
@@ -305,6 +383,9 @@
       "friendship": "ワイドパワードライブ （光） 副友情 爆絶爆発 （無）",
       "ss": "ふれた味方の友情コンボ威力を一定期間アップ 12+8ターン",
       "rarity": 6,
+      "hp": 23385,
+      "attack": 20781,
+      "speed": 257.23,
       "gaugeAbilities": [
         "アンチブロック"
       ]

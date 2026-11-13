@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "718",
+      "name": "コニー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/718/#f718",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "LINE"
+    },
+    {
       "id": "720",
       "name": "ブラウン",
       "attribute": "闇",
@@ -2210,17 +2221,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ドラゴン"
-    },
-    {
-      "id": "1419",
-      "name": "E.本田",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1418/#f1419",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ファイター"
     }
   ]
 }

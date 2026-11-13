@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "9266",
+      "name": "エボリューション",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9266/#f9266",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "9267",
+      "name": "椿",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3574/#f9267",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "9269",
+      "name": "トゥールスチャ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9268/#f9269",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻妖"
+    },
+    {
       "id": "9271",
       "name": "ルルイエテキスト",
       "attribute": "光",
@@ -3512,81 +3545,6 @@
       "speed": 336.83,
       "gaugeAbilities": [
         "アンチワープ"
-      ]
-    },
-    {
-      "id": "9517",
-      "name": "手長足長",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ魔法陣",
-        "アウトポジションキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9517.webp",
-      "source": "https://game.technophere.com/monst/char/9517/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族",
-      "friendship": "超強ツインワンウェイレーザーEL （水）",
-      "ss": "スピードとパワーがアップ＆停止後に一番遠くにいる敵を手を伸ばして攻撃 15ターン",
-      "rarity": 6,
-      "hp": 21975,
-      "attack": 25157,
-      "speed": 223.6,
-      "gaugeAbilities": [
-        "アンチ減速床"
-      ]
-    },
-    {
-      "id": "9518",
-      "name": "アスマ",
-      "attribute": "木",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチ転送壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9518.webp",
-      "source": "https://game.technophere.com/monst/char/9518/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "ツインインボリュートスフィア （木）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を金烏玉兎で攻撃 14ターン",
-      "rarity": 6,
-      "hp": 16849,
-      "attack": 18506,
-      "speed": 285.1,
-      "gaugeAbilities": [
-        "アンチ減速床",
-        "アンチマルチレイヤ"
-      ]
-    },
-    {
-      "id": "9519",
-      "name": "立川マコト",
-      "attribute": "光",
-      "abilities": [
-        "マインスイーパーM",
-        "アンチ減速壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9519.webp",
-      "source": "https://game.technophere.com/monst/char/9519/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超絶拡大爆破弾 （無）",
-      "ss": "ふれた敵の攻撃ターンを増加させる 20ターン",
-      "rarity": 5,
-      "hp": 13250,
-      "attack": 11335,
-      "speed": 242.77,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "SSターン短縮"
       ]
     }
   ]

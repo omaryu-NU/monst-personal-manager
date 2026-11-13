@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2088",
+      "name": "ウルトラマンエース",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2087/#f2088",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ウルトラ兄弟"
+    },
+    {
       "id": "2091",
       "name": "ウルトラマン",
       "attribute": "光",
@@ -2189,15 +2200,47 @@
       ]
     },
     {
+      "id": "2642",
+      "name": "オペレーションクラブ",
+      "attribute": "火",
+      "abilities": [
+        "鉱物キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2642.webp",
+      "source": "https://game.technophere.com/monst/char/2642/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット",
+      "friendship": "VレーザーM （火）",
+      "ss": "貫通タイプになり、敵を貫く 16ターン",
+      "rarity": 5,
+      "hp": 15904,
+      "attack": 15128,
+      "speed": 251
+    },
+    {
       "id": "2643",
       "name": "オペレーションクラブ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2642/#f2643",
+      "abilities": [
+        "鉱物キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2643.webp",
+      "source": "https://game.technophere.com/monst/char/2642/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "VレーザーL （火）",
+      "ss": "貫通タイプになり、敵を貫く 18ターン",
+      "rarity": 6,
+      "hp": 19423,
+      "attack": 16857,
+      "speed": 226.6,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "2645",
@@ -2495,28 +2538,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "2743",
-      "name": "チンジャオ老師",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2742/#f2743",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2745",
-      "name": "アップリケ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2744/#f2745",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

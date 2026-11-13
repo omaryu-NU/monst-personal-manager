@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1419",
+      "name": "E.本田",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1418/#f1419",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ファイター"
+    },
+    {
       "id": "1426",
       "name": "リュウ",
       "attribute": "闇",
@@ -2244,17 +2255,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "ウルトラ兄弟"
-    },
-    {
-      "id": "2088",
-      "name": "ウルトラマンエース",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2087/#f2088",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
       "race": "ウルトラ兄弟"
     }
   ]

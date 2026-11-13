@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "8361",
+      "name": "黎星刻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8361/#f8361",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8362",
+      "name": "生徒会",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8362/#f8362",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8363",
+      "name": "黒の騎士団",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8363/#f8363",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8364",
       "name": "マチュピチュ",
       "attribute": "火",
@@ -2183,39 +2216,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "8659",
-      "name": "ニケ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8657/#f8659",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8660",
-      "name": "メルクリウス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5381/#f8660",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "神"
-    },
-    {
-      "id": "8663",
-      "name": "ムンドゥス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8663/#f8663",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
     }
   ]
 }
