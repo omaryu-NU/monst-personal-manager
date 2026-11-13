@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4208",
+      "name": "オールフォーワン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4208/#f4208",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4209",
+      "name": "オールマイト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4209/#f4209",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4210",
+      "name": "イレイザーヘッド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4210/#f4210",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4211",
       "name": "頑張れって感じのデク",
       "attribute": "光",
@@ -2256,39 +2289,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "魔王"
-    },
-    {
-      "id": "4840",
-      "name": "フォルネウス＆カシエル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4839/#f4840",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4842",
-      "name": "ノア&パンドラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4841/#f4842",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4844",
-      "name": "クインステラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4843/#f4844",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔族"
     }
   ]
 }

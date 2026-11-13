@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3509",
+      "name": "オベイロン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3508/#f3509",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "3511",
+      "name": "ヒースクリフ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3510/#f3511",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "3512",
+      "name": "アリス・ツーベルク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3512/#f3512",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "3514",
       "name": "デスガン",
       "attribute": "木",
@@ -1006,12 +1039,21 @@
       "id": "3820",
       "name": "オリガ（ストア）",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/203/#f3820",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3820.webp",
+      "source": "https://game.technophere.com/monst/char/203/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "クロスレーザーL （水）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 19318,
+      "attack": 11618,
+      "speed": 259.57
     },
     {
       "id": "3822",
@@ -2163,39 +2205,6 @@
       "attribute": "闇",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/4206/#f4207",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4208",
-      "name": "オールフォーワン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4208/#f4208",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4209",
-      "name": "オールマイト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4209/#f4209",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4210",
-      "name": "イレイザーヘッド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4210/#f4210",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",

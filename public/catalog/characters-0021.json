@@ -2,6 +2,156 @@
   "version": 1,
   "characters": [
     {
+      "id": "9509",
+      "name": "デラ",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9509.webp",
+      "source": "https://game.technophere.com/monst/char/9509/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強跳弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7218,
+      "attack": 7868,
+      "speed": 251.4
+    },
+    {
+      "id": "9510",
+      "name": "デラ",
+      "attribute": "木",
+      "abilities": [
+        "超アンチ重力バリア",
+        "ザコキラー 超レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9510.webp",
+      "source": "https://game.technophere.com/monst/char/9509/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超絶跳弾 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を銃で攻撃 8ターン",
+      "rarity": 5,
+      "hp": 14605,
+      "attack": 14171,
+      "speed": 326.37,
+      "gaugeAbilities": [
+        "超アンチ減速壁",
+        "アンチ転送壁"
+      ]
+    },
+    {
+      "id": "9512",
+      "name": "アサ",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチワープ",
+        "超アンチウィンド",
+        "闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9512.webp",
+      "source": "https://game.technophere.com/monst/char/9511/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "超強クイックチャージショット （光） 副友情 超絶スパークバレット （光）",
+      "ss": "スピードとパワーがアップ＆ふれた味方の状態異常を回復し、魔法陣効果を解除/ふれた敵の一部の効果を無効化＆停止後に最初にふれた敵を解の力で攻撃 14+10ターン",
+      "rarity": 6,
+      "hp": 18972,
+      "attack": 23234,
+      "speed": 450.57,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "闇属性キラー ウォールブースト"
+      ]
+    },
+    {
+      "id": "9514",
+      "name": "ユル",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチ転送壁",
+        "アンチ減速床",
+        "光属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9514.webp",
+      "source": "https://game.technophere.com/monst/char/9513/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "5方向追撃貫通弾 （闇） 副友情 爆絶爆発 （無）",
+      "ss": "スピードとパワーがアップ＆停止後にユルが弓矢で攻撃し、さらに左右様が追撃 16+8ターン",
+      "rarity": 6,
+      "hp": 20278,
+      "attack": 24374,
+      "speed": 341,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "光属性キラー ウォールブースト"
+      ]
+    },
+    {
+      "id": "9515",
+      "name": "ジン",
+      "attribute": "木",
+      "abilities": [
+        "超マインスイーパーM",
+        "アンチ減速床",
+        "バイタルキラー 水属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9515.webp",
+      "source": "https://game.technophere.com/monst/char/9515/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "バーストスピナー （木） 副友情 超絶攻撃ダウンブラスト （無）",
+      "ss": "スピードとパワーがアップ＆停止後にすべての敵を愛ちゃんで攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 20680,
+      "attack": 22946,
+      "speed": 346.67,
+      "gaugeAbilities": [
+        "超アンチ減速壁",
+        "アンチ転送壁"
+      ]
+    },
+    {
+      "id": "9516",
+      "name": "ハルオ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "マインスイーパーM",
+        "重力バリアキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9516.webp",
+      "source": "https://game.technophere.com/monst/char/9516/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "爆絶バラージショットガン （火）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵をカメちゃんで攻撃 16ターン",
+      "rarity": 6,
+      "hp": 20164,
+      "attack": 17924,
+      "speed": 336.83,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "9517",
       "name": "手長足長",
       "attribute": "水",
@@ -314,6 +464,9 @@
       "friendship": "貫通毒ターゲットロックオン衝撃波8 （無） 副友情 白爆発EL （無）",
       "ss": "スピードとパワーがアップ＆最初にふれた敵にパワーフィールドを展開するユニットを一定期間、セットする 10+8ターン",
       "rarity": 6,
+      "hp": 22206,
+      "attack": 17292,
+      "speed": 258.23,
       "gaugeAbilities": [
         "アンチ減速床"
       ]

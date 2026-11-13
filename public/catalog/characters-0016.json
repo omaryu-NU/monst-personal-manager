@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "8015",
+      "name": "バナージ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6761/#f8015",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8016",
+      "name": "キラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6763/#f8016",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "8017",
+      "name": "アムロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6767/#f8017",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8019",
+      "name": "ドモン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8018/#f8019",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8021",
+      "name": "ウッソ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8020/#f8021",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "8023",
+      "name": "スレッタ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8022/#f8023",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "8025",
       "name": "コウウラキ",
       "attribute": "光",
@@ -2151,72 +2217,6 @@
       "source": "https://game.technophere.com/monst/char/8348/#f8349",
       "evolution": "獣神化",
       "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8350",
-      "name": "C.C.",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8350/#f8350",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8352",
-      "name": "アーニャ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8351/#f8352",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "8354",
-      "name": "ビスマルク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8353/#f8354",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "8356",
-      "name": "ジノ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8355/#f8356",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8358",
-      "name": "ジェレミア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8357/#f8358",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8360",
-      "name": "コーネリア",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8359/#f8360",
-      "evolution": "進化",
-      "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
     }

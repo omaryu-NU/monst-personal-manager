@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1415",
+      "name": "ジャンプブラック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/886/#f1415",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "1417",
+      "name": "ディスクドラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1416/#f1417",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
       "id": "1419",
       "name": "E.本田",
       "attribute": "火",
@@ -2234,28 +2256,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2084",
-      "name": "ウルトラマンタロウ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2083/#f2084",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ウルトラ兄弟"
-    },
-    {
-      "id": "2086",
-      "name": "ウルトラセブン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2085/#f2086",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ウルトラ兄弟"
     }
   ]
 }

@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2084",
+      "name": "ウルトラマンタロウ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2083/#f2084",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ウルトラ兄弟"
+    },
+    {
+      "id": "2086",
+      "name": "ウルトラセブン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2085/#f2086",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ウルトラ兄弟"
+    },
+    {
       "id": "2088",
       "name": "ウルトラマンエース",
       "attribute": "木",
@@ -2243,15 +2265,46 @@
       ]
     },
     {
+      "id": "2644",
+      "name": "ホイールキング",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2644.webp",
+      "source": "https://game.technophere.com/monst/char/2644/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "クロスレーザーM （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15059,
+      "attack": 14456,
+      "speed": 358
+    },
+    {
       "id": "2645",
       "name": "ホイールキング",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2644/#f2645",
+      "abilities": [
+        "アンチワープ",
+        "アンチ減速壁",
+        "サムライキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2645.webp",
+      "source": "https://game.technophere.com/monst/char/2644/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "反射クロスレーザーEL （水）",
+      "ss": "スピードがアップ 16ターン",
+      "rarity": 6,
+      "hp": 18392,
+      "attack": 18730,
+      "speed": 323.2
     },
     {
       "id": "2647",
@@ -2504,39 +2557,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "2737",
-      "name": "フカヒレ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2735/#f2737",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "2739",
-      "name": "九龍貴人",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2738/#f2739",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "2741",
-      "name": "ギョウズィー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2740/#f2741",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "魔族"
     }
   ]

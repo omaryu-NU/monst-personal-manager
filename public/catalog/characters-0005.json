@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2737",
+      "name": "フカヒレ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2735/#f2737",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "2739",
+      "name": "九龍貴人",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2738/#f2739",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "2741",
+      "name": "ギョウズィー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2740/#f2741",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "2743",
       "name": "チンジャオ老師",
       "attribute": "闇",
@@ -2164,39 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "3509",
-      "name": "オベイロン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3508/#f3509",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "3511",
-      "name": "ヒースクリフ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3510/#f3511",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "3512",
-      "name": "アリス・ツーベルク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3512/#f3512",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

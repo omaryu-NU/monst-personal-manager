@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "713",
+      "name": "ヴィシュヌ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/711/#f713",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "716",
+      "name": "クリシュナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/714/#f716",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "718",
       "name": "コニー",
       "attribute": "光",
@@ -2199,28 +2221,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "1415",
-      "name": "ジャンプブラック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/886/#f1415",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "1417",
-      "name": "ディスクドラゴン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1416/#f1417",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
     }
   ]
 }

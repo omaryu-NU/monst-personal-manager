@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6299",
+      "name": "マゴスチーネ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6297/#f6299",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "6301",
+      "name": "ギスイッカ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6300/#f6301",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "6303",
+      "name": "ドリアンディ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6302/#f6303",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "6304",
+      "name": "ドランフルッツ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6304/#f6304",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "6305",
       "name": "ケテル廻",
       "attribute": "光",
@@ -2172,50 +2216,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "6669",
-      "name": "アウズンブラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6667/#f6669",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6671",
-      "name": "ラタトスク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6670/#f6671",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "6673",
-      "name": "スカジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6672/#f6673",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "6675",
-      "name": "フィーア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6674/#f6675",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

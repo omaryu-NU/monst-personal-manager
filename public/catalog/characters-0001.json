@@ -781,6 +781,46 @@
       "speed": 162.63
     },
     {
+      "id": "203",
+      "name": "オリガ",
+      "attribute": "水",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/203.webp",
+      "source": "https://game.technophere.com/monst/char/203/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔王",
+      "friendship": "バーティカルレーザーL （水）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 14804,
+      "attack": 12206,
+      "speed": 299.27
+    },
+    {
+      "id": "204",
+      "name": "銀幕の女帝 オリガ",
+      "attribute": "水",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/204.webp",
+      "source": "https://game.technophere.com/monst/char/203/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔王",
+      "friendship": "クロスレーザーL （水）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 19318,
+      "attack": 11618,
+      "speed": 259.57
+    },
+    {
       "id": "206",
       "name": "ジュラザウラー",
       "attribute": "木",
@@ -821,36 +861,36 @@
       "name": "モンストレッド",
       "attribute": "火",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/229.webp",
       "source": "https://game.technophere.com/monst/char/228/#f229",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/229.webp"
+      "race": "亜人"
     },
     {
       "id": "231",
       "name": "三島晴子",
       "attribute": "水",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/231.webp",
       "source": "https://game.technophere.com/monst/char/230/#f231",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/231.webp"
+      "race": "亜人"
     },
     {
       "id": "233",
       "name": "モンストグリーン",
       "attribute": "木",
       "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/233.webp",
       "source": "https://game.technophere.com/monst/char/232/#f233",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人",
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/233.webp"
+      "race": "亜人"
     },
     {
       "id": "235",
@@ -2464,28 +2504,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/709/#f710",
       "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "713",
-      "name": "ヴィシュヌ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/711/#f713",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "716",
-      "name": "クリシュナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/714/#f716",
-      "evolution": "神化",
       "type": "反射",
       "style": "バランス",
       "race": "神"

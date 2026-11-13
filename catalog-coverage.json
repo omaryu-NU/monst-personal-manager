@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:18:06.565145+00:00",
+  "generatedAt": "2026-11-13T06:22:15.178301+00:00",
   "visitedPages": [
     1,
     2,
@@ -56,10 +56,10 @@
   "listingPagesVisited": 50,
   "listingPagesRemaining": 0,
   "profileVerifiedThisRun": 5,
-  "formsExtractedThisRun": 10,
+  "formsExtractedThisRun": 12,
   "familiesDiscovered": 3918,
-  "familiesVerified": 144,
-  "familiesRemaining": 3774,
+  "familiesVerified": 148,
+  "familiesRemaining": 3770,
   "profilesAttemptedThisRun": 5,
   "detailRefreshSelectedThisRun": 1,
   "detailRefreshAttemptedThisRun": 1,
@@ -69,8 +69,8 @@
   "unmatchedRepresentativeProfilesThisRun": 0,
   "incompleteFormSectionsThisRun": 0,
   "rateLimited": false,
-  "imagesPresent": 303,
-  "abilitiesPresent": 254,
-  "representativeRecords": 4032,
+  "imagesPresent": 315,
+  "abilitiesPresent": 264,
+  "representativeRecords": 4038,
   "complete": false
 }

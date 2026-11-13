@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4840",
+      "name": "フォルネウス＆カシエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4839/#f4840",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4842",
+      "name": "ノア&パンドラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4841/#f4842",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4844",
+      "name": "クインステラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4843/#f4844",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "4846",
       "name": "アーサー&ソロモン",
       "attribute": "光",
@@ -1562,15 +1595,48 @@
       ]
     },
     {
+      "id": "5124",
+      "name": "ヘンドラット",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5124.webp",
+      "source": "https://game.technophere.com/monst/char/5124/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ダブルエナジーサークルM （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14732,
+      "attack": 13069,
+      "speed": 253.7
+    },
+    {
       "id": "5125",
       "name": "ヘンドラット",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5124/#f5125",
+      "abilities": [
+        "アンチワープ",
+        "状態異常回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5125.webp",
+      "source": "https://game.technophere.com/monst/char/5124/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ダブルエナジーサークルL （木）",
+      "ss": "前方の広範囲に無数の爆発を起こす 20ターン",
+      "rarity": 6,
+      "hp": 19449,
+      "attack": 16897,
+      "speed": 255.23,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "5127",
@@ -2451,50 +2517,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5342",
-      "name": "弓虎姫",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5341/#f5342",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "5351",
-      "name": "混倶利蜘蛛",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5350/#f5351",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "5353",
-      "name": "紺辺屋もめん",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5352/#f5353",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "5356",
-      "name": "掘朔",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5354/#f5356",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }
