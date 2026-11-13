@@ -77,13 +77,17 @@ def fetch_image(url, allowed_hosts):
         if length and int(length) > MAX_BYTES:
             raise ValueError('画像が5MBを超えています')
         mime = response.headers.get('Content-Type', '').split(';')[0].strip().lower()
-        if mime not in EXT:
+        # Some permitted image CDNs omit Content-Type despite returning valid image bytes.
+        # A non-empty but non-image Content-Type is still rejected.
+        if mime and mime not in EXT:
             raise ValueError(f'画像のContent-Typeではありません: {mime}')
         data = response.read(MAX_BYTES + 1)
         if len(data) > MAX_BYTES:
             raise ValueError('画像が5MBを超えています')
         ext = detect_image(data)
-        if ext is None or ext != EXT[mime]:
+        if ext is None:
+            raise ValueError('画像の実データではありません')
+        if mime and ext != EXT[mime]:
             raise ValueError('画像形式とContent-Typeが一致しません')
         return data, ext
 
