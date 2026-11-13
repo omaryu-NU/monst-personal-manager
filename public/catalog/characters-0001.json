@@ -699,6 +699,48 @@
       "speed": 273.67
     },
     {
+      "id": "199",
+      "name": "ワールド",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/199.webp",
+      "source": "https://game.technophere.com/monst/char/199/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "ホーミング6 （闇）",
+      "ss": "ふれた敵の攻撃ターンを2ターン増加させる 24ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 10035,
+      "speed": 242.13
+    },
+    {
+      "id": "200",
+      "name": "ワールドイズマイン",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/200.webp",
+      "source": "https://game.technophere.com/monst/char/199/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "ホーミング8 （闇）",
+      "ss": "ふれた敵の攻撃ターンを3ターン増加させる 30ターン",
+      "rarity": 6,
+      "hp": 19920,
+      "attack": 15729,
+      "speed": 268.27
+    },
+    {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
@@ -719,7 +761,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/206.webp"
     },
     {
       "id": "208",
@@ -730,7 +773,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王"
+      "race": "魔王",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/208.webp"
     },
     {
       "id": "210",
@@ -741,7 +785,8 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王"
+      "race": "魔王",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/210.webp"
     },
     {
       "id": "229",
@@ -1600,6 +1645,27 @@
       "speed": 379.3
     },
     {
+      "id": "455",
+      "name": "ワールズ・エンド",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/455.webp",
+      "source": "https://game.technophere.com/monst/char/199/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "超強ホーミング8 （闇） 副友情 拡散弾L2 （光）",
+      "ss": "ふれた敵の攻撃ターンを3ターン増加させる 30ターン",
+      "rarity": 6,
+      "hp": 20916,
+      "attack": 18875,
+      "speed": 278.97
+    },
+    {
       "id": "456",
       "name": "エメラルドドラゴン",
       "attribute": "光",
@@ -2403,51 +2469,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "LINE"
-    },
-    {
-      "id": "720",
-      "name": "ブラウン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/719/#f720",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "LINE"
-    },
-    {
-      "id": "721",
-      "name": "炎輝神 アグナムート",
-      "attribute": "火",
-      "abilities": [
-        "ロボットキラーM 魔族キラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/721.webp",
-      "source": "https://game.technophere.com/monst/char/191/",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神",
-      "friendship": "白爆発L （無） 副友情 ホーミング12 （光）",
-      "ss": "触れた敵に、炎の流星群で強力な追撃 30ターン",
-      "rarity": 6,
-      "hp": 20583,
-      "attack": 22273,
-      "speed": 213.3,
-      "gaugeAbilities": [
-        "アンチダメージウォール"
-      ]
-    },
-    {
-      "id": "723",
-      "name": "アフロディーテ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/722/#f723",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

@@ -2,6 +2,154 @@
   "version": 1,
   "characters": [
     {
+      "id": "9271",
+      "name": "ルルイエテキスト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9270/#f9271",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "9273",
+      "name": "グロース",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9272/#f9273",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "9275",
+      "name": "ロイガー＆ツァール",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9274/#f9275",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "9277",
+      "name": "ショゴス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9276/#f9277",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "9280",
+      "name": "イゴーロナク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9278/#f9280",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "幻妖"
+    },
+    {
+      "id": "9281",
+      "name": "サムライブルーオラゴン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9281/#f9281",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "9282",
+      "name": "サンダルフォン（サッカー）",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9282/#f9282",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "9283",
+      "name": "メタトロン（サッカー）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9283/#f9283",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "9284",
+      "name": "オモイカネ",
+      "attribute": "火",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9284.webp",
+      "source": "https://game.technophere.com/monst/char/7270/#f9284",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "9285",
+      "name": "ハービセル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6743/#f9285",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "9286",
+      "name": "ホラー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8661/#f9286",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9287",
+      "name": "ラブ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ",
+        "アンチ転送壁",
+        "カウンターキラー SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9287.webp",
+      "source": "https://game.technophere.com/monst/char/7474/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "超絶乱気弾 （光） 副友情 乱回復弾 （無）",
+      "ss": "スピードとパワーがアップ＆弱点ヒットで敵がマヒ 20ターン",
+      "rarity": 6,
+      "hp": 18854,
+      "attack": 15337,
+      "speed": 320.6,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "状態異常底力"
+      ]
+    },
+    {
       "id": "9288",
       "name": "ドライ",
       "attribute": "闇",
@@ -3440,268 +3588,6 @@
         "アンチブロック",
         "SSターン短縮"
       ]
-    },
-    {
-      "id": "9520",
-      "name": "羽村ケンイチ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ魔法陣"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9520.webp",
-      "source": "https://game.technophere.com/monst/char/9520/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "爆絶乱気弾 （闇）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
-      "rarity": 5,
-      "hp": 15935,
-      "attack": 18959,
-      "speed": 175.93,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "アンチ転送壁"
-      ]
-    },
-    {
-      "id": "9521",
-      "name": "新郷ハヤト",
-      "attribute": "光",
-      "abilities": [
-        "超アンチダメージウォール（ラック）",
-        "アンチウィンド",
-        "ザコキラー 友情コンボ×2"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9521.webp",
-      "source": "https://game.technophere.com/monst/char/9521/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "全敵超絶落雷 （無）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を雷神で攻撃 21ターン",
-      "rarity": 6,
-      "hp": 21382,
-      "attack": 19088,
-      "speed": 283.23,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "超アンチ減速壁（ラック）"
-      ]
-    },
-    {
-      "id": "9522",
-      "name": "ダンジ",
-      "attribute": "火",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチワープ",
-        "アンチブロック"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9522.webp",
-      "source": "https://game.technophere.com/monst/char/9522/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精",
-      "friendship": "攻友アップ （無）",
-      "ss": "スピードとパワーがアップ＆停止後に一定期間、アクセラレータ状態になる 12ターン",
-      "rarity": 6,
-      "hp": 20524,
-      "attack": 21651,
-      "speed": 258.7
-    },
-    {
-      "id": "9523",
-      "name": "オシラサマ",
-      "attribute": "光",
-      "abilities": [
-        "マインスイーパー",
-        "アンチ魔法陣",
-        "アンチ転送壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9523.webp",
-      "source": "https://game.technophere.com/monst/char/9523/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神",
-      "friendship": "バブリーギフト （無）",
-      "ss": "スピードとパワーがアップ＆味方にふれるとHPと状態異常を回復 16ターン",
-      "rarity": 6,
-      "hp": 21285,
-      "attack": 17933,
-      "speed": 266.23,
-      "gaugeAbilities": [
-        "防御力チャージ"
-      ]
-    },
-    {
-      "id": "9524",
-      "name": "偽アサ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチウィンド",
-        "リジェネ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9524.webp",
-      "source": "https://game.technophere.com/monst/char/9524/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精",
-      "friendship": "超絶貫通ホーミング18 （闇）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた味方に巨大バリアを付与 16ターン",
-      "rarity": 6,
-      "hp": 19970,
-      "attack": 17381,
-      "speed": 283.03,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "9525",
-      "name": "ルイスフロイス",
-      "attribute": "水",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9525.webp",
-      "source": "https://game.technophere.com/monst/char/6181/#f9525",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "9526",
-      "name": "イワン",
-      "attribute": "闇",
-      "abilities": [
-        "超アンチ重力バリア",
-        "アンチウィンド",
-        "アンチ減速壁",
-        "超アンチ転送壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9526.webp",
-      "source": "https://game.technophere.com/monst/char/9526/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超強チェイススフィア （闇）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を大凶と小凶で攻撃し、HPを吸収する 22ターン",
-      "rarity": 6,
-      "hp": 19479,
-      "attack": 19459,
-      "speed": 286,
-      "gaugeAbilities": [
-        "ボスキラー ソウルスティール"
-      ]
-    },
-    {
-      "id": "9527",
-      "name": "三千院ホトリ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3363/#f9527",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9528",
-      "name": "ミザリー",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチ減速壁",
-        "アンチ減速床",
-        "攻撃力チャージ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9528.webp",
-      "source": "https://game.technophere.com/monst/char/9528/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人",
-      "friendship": "ハイプラズマ （水） 副友情 爆絶爆発 （無）",
-      "ss": "スピードとパワーがアップ＆ショット前にアイテムが1段階成長 12+8ターン",
-      "rarity": 6,
-      "hp": 17814,
-      "attack": 17646,
-      "speed": 270.8,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "回復M"
-      ]
-    },
-    {
-      "id": "9529",
-      "name": "フィロソフィア",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9529.webp",
-      "source": "https://game.technophere.com/monst/char/9529/",
-      "evolution": "真獣神化前",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "貫通毒ターゲットロックオン衝撃波8 （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 6,
-      "hp": 20788,
-      "attack": 19117,
-      "speed": 241.27
-    },
-    {
-      "id": "9530",
-      "name": "フィロソフィア",
-      "attribute": "光",
-      "abilities": [
-        "超アンチ重力バリア",
-        "超マインスイーパーM",
-        "アンチ魔法陣",
-        "ザコキラーM 神王封じM 状態異常回復"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9530.webp",
-      "source": "https://game.technophere.com/monst/char/9529/",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人",
-      "friendship": "貫通毒ターゲットロックオン衝撃波8 （無） 副友情 白爆発EL （無）",
-      "ss": "スピードとパワーがアップ＆最初にふれた敵にパワーフィールドを展開するユニットを一定期間、セットする 10+8ターン",
-      "rarity": 6,
-      "gaugeAbilities": [
-        "アンチ減速床"
-      ]
-    },
-    {
-      "id": "9531",
-      "name": "カグヤ",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9531.webp",
-      "source": "https://game.technophere.com/monst/char/9531/",
-      "evolution": "真獣神化前",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "コピー （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 6,
-      "hp": 14023,
-      "attack": 17658,
-      "speed": 341.1
     }
   ]
 }

@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "2753",
+      "name": "フラッグエクスドラゴン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2752/#f2753",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2755",
+      "name": "フラパバアル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2755/#f2755",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "2756",
+      "name": "フラパギガマンティス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2756/#f2756",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "2757",
+      "name": "フラパスキュラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2757/#f2757",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "2758",
+      "name": "フラパかまいたち",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2758/#f2758",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "獣"
+    },
+    {
+      "id": "2767",
+      "name": "ランファン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2766/#f2767",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2772",
+      "name": "アームストロング",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2771/#f2772",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "2776",
       "name": "リザホークアイ",
       "attribute": "火",
@@ -2120,83 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "妖精"
-    },
-    {
-      "id": "3529",
-      "name": "ストロング志賀井",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3528/#f3529",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3531",
-      "name": "センプウガー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3530/#f3531",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "3533",
-      "name": "ドドッカリー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3532/#f3533",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "3536",
-      "name": "ほたね",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3534/#f3536",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3543",
-      "name": "緋村剣心",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3541/#f3543",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3545",
-      "name": "明神弥彦",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3544/#f3545",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3547",
-      "name": "相楽左之助",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3546/#f3547",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

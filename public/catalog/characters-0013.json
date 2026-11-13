@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "7040",
+      "name": "シャルルマーニュ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7039/#f7040",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7041",
+      "name": "サーラサ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7041/#f7041",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "7042",
+      "name": "楊貴妃",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4561/#f7042",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7043",
+      "name": "王昭君",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4781/#f7043",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "7044",
+      "name": "デネブ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1004/#f7044",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7046",
+      "name": "ディクエクス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7045/#f7046",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "7047",
+      "name": "曹丕",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3826/#f7047",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7048",
+      "name": "陸奥宗光",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4396/#f7048",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "7051",
+      "name": "キリンジ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7049/#f7051",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
       "id": "7053",
       "name": "小桐さくのα",
       "attribute": "水",
@@ -2132,105 +2231,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "7369",
-      "name": "フィン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4300/#f7369",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7370",
-      "name": "桜木イヴ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/899/#f7370",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7372",
-      "name": "ヒヤシンス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7371/#f7372",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7374",
-      "name": "スノードロップ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7373/#f7374",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7376",
-      "name": "クロッカス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7375/#f7376",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "7378",
-      "name": "ガイザラシ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7377/#f7378",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "7380",
-      "name": "ファダダス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7379/#f7380",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7383",
-      "name": "エンプレス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7381/#f7383",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "7385",
-      "name": "フォーサー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7384/#f7385",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "幻妖"
     }
   ]
 }

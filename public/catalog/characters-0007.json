@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "4228",
+      "name": "ジョンクレイ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4227/#f4228",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4230",
+      "name": "ミルヴァートン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4229/#f4230",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "4232",
+      "name": "ロイロット",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4231/#f4232",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4238",
+      "name": "ジパング",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4237/#f4238",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "4243",
+      "name": "ドゥーム廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2169/#f4243",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "闘神"
+    },
+    {
+      "id": "4245",
+      "name": "マンダリーヌ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4244/#f4245",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4253",
+      "name": "涼繁御前",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4252/#f4253",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "4256",
       "name": "シブキ",
       "attribute": "水",
@@ -1207,6 +1284,31 @@
       "race": "サムライ"
     },
     {
+      "id": "4589",
+      "name": "アナザーワールド",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチ重力バリア",
+        "重力バリアキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4589.webp",
+      "source": "https://game.technophere.com/monst/char/199/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "神",
+      "friendship": "超強ホーミング18 （闇） 副友情 扇形拡散弾10 （闇）",
+      "ss": "パワーがアップ＆ふれた敵の攻撃ターンを遅延させる 24+4ターン",
+      "rarity": 6,
+      "hp": 21919,
+      "attack": 23181,
+      "speed": 309.63,
+      "connectAbilities": [
+        "マインスイーパーM",
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "4595",
       "name": "嘴平伊之助",
       "attribute": "木",
@@ -2187,94 +2289,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "4850",
-      "name": "ゲブラー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4849/#f4850",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4852",
-      "name": "コクマー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4851/#f4852",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "4854",
-      "name": "ネツァク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4853/#f4854",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4856",
-      "name": "ホド",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4855/#f4856",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4862",
-      "name": "真イシス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4861/#f4862",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "4874",
-      "name": "可児才蔵",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4873/#f4874",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "4876",
-      "name": "仙石秀久",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4875/#f4876",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "4879",
-      "name": "徳川秀忠",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4877/#f4879",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

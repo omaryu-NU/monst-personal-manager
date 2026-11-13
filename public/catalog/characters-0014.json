@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "7369",
+      "name": "フィン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4300/#f7369",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7370",
+      "name": "桜木イヴ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/899/#f7370",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7372",
+      "name": "ヒヤシンス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7371/#f7372",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7374",
+      "name": "スノードロップ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7373/#f7374",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7376",
+      "name": "クロッカス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7375/#f7376",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "7378",
+      "name": "ガイザラシ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7377/#f7378",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "7380",
+      "name": "ファダダス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7379/#f7380",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7383",
+      "name": "エンプレス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7381/#f7383",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "7385",
+      "name": "フォーサー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7384/#f7385",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "幻妖"
+    },
+    {
       "id": "7386",
       "name": "グラバー",
       "attribute": "光",
@@ -856,15 +955,47 @@
       "race": "神"
     },
     {
+      "id": "7470",
+      "name": "江間宮まよい",
+      "attribute": "水",
+      "abilities": [
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7470.webp",
+      "source": "https://game.technophere.com/monst/char/7470/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強中距離拡散弾9 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17575,
+      "attack": 14053,
+      "speed": 253.6
+    },
+    {
       "id": "7471",
       "name": "江間宮まよい",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7470/#f7471",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチブロック",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7471.webp",
+      "source": "https://game.technophere.com/monst/char/7470/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "超絶中距離拡散弾9 （水）",
+      "ss": "壁に設置した3点のマーカーに囲まれた味方のスピードとパワーを一定期間アップ 16ターン",
+      "rarity": 6,
+      "hp": 18576,
+      "attack": 21371,
+      "speed": 285.77
     },
     {
       "id": "7472",
@@ -887,6 +1018,52 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "ロボット"
+    },
+    {
+      "id": "7474",
+      "name": "ラブ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7474.webp",
+      "source": "https://game.technophere.com/monst/char/7474/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "乱気弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18683,
+      "attack": 20452,
+      "speed": 404.03
+    },
+    {
+      "id": "7475",
+      "name": "恋に恋する盤遊の乙女 ラブ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ",
+        "アンチ転送壁",
+        "カウンターキラー SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7475.webp",
+      "source": "https://game.technophere.com/monst/char/7474/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "超絶乱気弾 （光） 副友情 乱回復弾 （無）",
+      "ss": "スピードとパワーがアップ＆弱点ヒットで敵がマヒ 20ターン",
+      "rarity": 6,
+      "hp": 18854,
+      "attack": 15337,
+      "speed": 320.6,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "状態異常底力"
+      ]
     },
     {
       "id": "7476",
@@ -2283,138 +2460,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7700",
-      "name": "真戸暁",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7699/#f7700",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7702",
-      "name": "金木研",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7701/#f7702",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7703",
-      "name": "月山習",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7703/#f7703",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7705",
-      "name": "霧嶋絢都",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7704/#f7705",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7707",
-      "name": "亜門鋼太朗",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7706/#f7707",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7709",
-      "name": "ヤモリ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7708/#f7709",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7711",
-      "name": "真戸呉緒",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7710/#f7711",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7713",
-      "name": "クロ＆シロ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7712/#f7713",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7714",
-      "name": "笛口雛実",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7714/#f7714",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7716",
-      "name": "梟",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7715/#f7716",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7717",
-      "name": "ニャルラトホテプ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4818/#f7717",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7718",
-      "name": "魔猿＆黒狗",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7718/#f7718",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "6681",
+      "name": "バビロン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6680/#f6681",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6682",
+      "name": "ラプンツェル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/833/#f6682",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6684",
+      "name": "ゲオルギオス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6683/#f6684",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6686",
+      "name": "坂上田村麻呂",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6685/#f6686",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "6688",
+      "name": "テセウス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6687/#f6688",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6690",
+      "name": "ラビュリントス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6689/#f6690",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6695",
+      "name": "トクモスドラゴン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6694/#f6695",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "6696",
+      "name": "タケミカヅチ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1914/#f6696",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
+    },
+    {
+      "id": "6699",
+      "name": "ヴァルハラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6699/#f6699",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "6702",
       "name": "ファウスト",
       "attribute": "火",
@@ -2101,105 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "7040",
-      "name": "シャルルマーニュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7039/#f7040",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7041",
-      "name": "サーラサ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7041/#f7041",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "7042",
-      "name": "楊貴妃",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4561/#f7042",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7043",
-      "name": "王昭君",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4781/#f7043",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "7044",
-      "name": "デネブ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1004/#f7044",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7046",
-      "name": "ディクエクス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7045/#f7046",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7047",
-      "name": "曹丕",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3826/#f7047",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "7048",
-      "name": "陸奥宗光",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4396/#f7048",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "7051",
-      "name": "キリンジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7049/#f7051",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
     }
   ]
 }

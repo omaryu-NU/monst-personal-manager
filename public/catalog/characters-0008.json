@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "4850",
+      "name": "ゲブラー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4849/#f4850",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4852",
+      "name": "コクマー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4851/#f4852",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "4854",
+      "name": "ネツァク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4853/#f4854",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4856",
+      "name": "ホド",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4855/#f4856",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4862",
+      "name": "真イシス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4861/#f4862",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "4874",
+      "name": "可児才蔵",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4873/#f4874",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4876",
+      "name": "仙石秀久",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4875/#f4876",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4879",
+      "name": "徳川秀忠",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4877/#f4879",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "4881",
       "name": "空弥",
       "attribute": "光",
@@ -1363,15 +1451,49 @@
       ]
     },
     {
+      "id": "5120",
+      "name": "イクシャーベ",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5120.webp",
+      "source": "https://game.technophere.com/monst/char/5120/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "追従型貫通弾 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17697,
+      "attack": 10483,
+      "speed": 252.3
+    },
+    {
       "id": "5121",
       "name": "イクシャーベ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5120/#f5121",
+      "abilities": [
+        "マインスイーパー",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5121.webp",
+      "source": "https://game.technophere.com/monst/char/5120/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "獣"
+      "race": "獣",
+      "friendship": "追従型貫通弾 （水）",
+      "ss": "スピードとパワーが一定期間アップ 20ターン",
+      "rarity": 6,
+      "hp": 18316,
+      "attack": 16794,
+      "speed": 327.5,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "5123",
@@ -2351,105 +2473,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "5366",
-      "name": "テイネモシリ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5365/#f5366",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5370",
-      "name": "早乙女乱馬",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5368/#f5370",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5372",
-      "name": "ラム",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5371/#f5372",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5374",
-      "name": "犬夜叉",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5373/#f5374",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5375",
-      "name": "シャンプー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5375/#f5375",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5376",
-      "name": "音無響子",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5376/#f5376",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5377",
-      "name": "六道りんね",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5377/#f5377",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5378",
-      "name": "殺生丸",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5378/#f5378",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5393",
-      "name": "電王",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5392/#f5393",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
     }
   ]
 }

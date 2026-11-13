@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "2091",
+      "name": "ウルトラマン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2089/#f2091",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ウルトラ兄弟"
+    },
+    {
+      "id": "2093",
+      "name": "ウルトラマンレオ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2092/#f2093",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ウルトラ兄弟"
+    },
+    {
+      "id": "2095",
+      "name": "ゼットン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2094/#f2095",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "2097",
+      "name": "バルタン星人",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2096/#f2097",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "怪獣"
+    },
+    {
       "id": "2099",
       "name": "ゴモラ",
       "attribute": "木",
@@ -2073,6 +2117,78 @@
       ]
     },
     {
+      "id": "2639",
+      "name": "オベロン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2639.webp",
+      "source": "https://game.technophere.com/monst/char/2639/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "反射衝撃波6 （闇）",
+      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 16ターン",
+      "rarity": 5,
+      "hp": 14768,
+      "attack": 15961,
+      "speed": 236.63,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2640",
+      "name": "妖精君主 オベロン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチウィンド",
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2640.webp",
+      "source": "https://game.technophere.com/monst/char/2639/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精",
+      "friendship": "反射衝撃波6 （闇）",
+      "ss": "狙った方向に、波動砲を放つ 25ターン",
+      "rarity": 6,
+      "hp": 21281,
+      "attack": 29218,
+      "speed": 230.8,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2641",
+      "name": "麗しき妖精賢王 オベロン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2641.webp",
+      "source": "https://game.technophere.com/monst/char/2639/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "反射衝撃波6 （闇） 副友情 貫通拡散弾L2 （水）",
+      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 16ターン",
+      "rarity": 6,
+      "hp": 18971,
+      "attack": 17100,
+      "speed": 243.9,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "2643",
       "name": "オペレーションクラブ",
       "attribute": "火",
@@ -2400,83 +2516,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2753",
-      "name": "フラッグエクスドラゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2752/#f2753",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2755",
-      "name": "フラパバアル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2755/#f2755",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "2756",
-      "name": "フラパギガマンティス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2756/#f2756",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "2757",
-      "name": "フラパスキュラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2757/#f2757",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "2758",
-      "name": "フラパかまいたち",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2758/#f2758",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "2767",
-      "name": "ランファン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2766/#f2767",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2772",
-      "name": "アームストロング",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2771/#f2772",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "亜人"
     }
   ]
