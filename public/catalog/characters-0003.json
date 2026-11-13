@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1407",
+      "name": "キャメル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1406/#f1407",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "1409",
       "name": "セサミ",
       "attribute": "木",
@@ -2243,17 +2254,6 @@
       "source": "https://game.technophere.com/monst/char/2071/#f2072",
       "evolution": "進化",
       "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "2075",
-      "name": "スキュラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2073/#f2075",
-      "evolution": "神化",
-      "type": "貫通",
       "style": "パワー",
       "race": "魔族"
     }

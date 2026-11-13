@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4798",
+      "name": "ウーエン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4797/#f4798",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4801",
+      "name": "マスターチー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4799/#f4801",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "4803",
+      "name": "クォンマー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4802/#f4803",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "4815",
       "name": "キラリ",
       "attribute": "木",
@@ -1793,15 +1826,48 @@
       ]
     },
     {
+      "id": "5130",
+      "name": "ゲレグネ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5130.webp",
+      "source": "https://game.technophere.com/monst/char/5130/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "反射クロスレーザーM （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 17070,
+      "attack": 15126,
+      "speed": 280.67
+    },
+    {
       "id": "5131",
       "name": "ゲレグネ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5130/#f5131",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5131.webp",
+      "source": "https://game.technophere.com/monst/char/5130/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "反射クロスレーザーEL （光）",
+      "ss": "ふれた最初の敵を乱打し、ふれた仲間が多いほど威力が上がるレーザーで追い討ち 24ターン",
+      "rarity": 6,
+      "hp": 19611,
+      "attack": 17339,
+      "speed": 231.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "底力"
+      ]
     },
     {
       "id": "5133",
@@ -2517,50 +2583,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "5310",
-      "name": "三雲修",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5309/#f5310",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5312",
-      "name": "雨取千佳",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5311/#f5312",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5316",
-      "name": "ランバネイン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5315/#f5316",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "近界民"
-    },
-    {
-      "id": "5318",
-      "name": "ハイレイン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5317/#f5318",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "近界民"
     }
   ]
 }

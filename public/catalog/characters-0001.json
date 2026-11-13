@@ -903,16 +903,45 @@
       "speed": 291.03
     },
     {
+      "id": "209",
+      "name": "オリジナル",
+      "attribute": "闇",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/209.webp",
+      "source": "https://game.technophere.com/monst/char/209/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王",
+      "friendship": "ホーミング6 （闇）",
+      "ss": "ふれた最初の敵を乱打し、拡散弾で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 15612,
+      "attack": 19258,
+      "speed": 280.43
+    },
+    {
       "id": "210",
       "name": "ゼロ",
       "attribute": "闇",
-      "abilities": [],
+      "abilities": [
+        "飛行",
+        "神キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/210.webp",
-      "source": "https://game.technophere.com/monst/char/209/#f210",
+      "source": "https://game.technophere.com/monst/char/209/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ホーミング8 （闇）",
+      "ss": "ふれた最初の敵を乱打し、拡散弾で追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 20593,
+      "attack": 19186,
+      "speed": 356.8
     },
     {
       "id": "229",
@@ -2531,17 +2560,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "706",
-      "name": "アグニ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/705/#f706",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "神"
     }
   ]

@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "7650",
+      "name": "与謝蕪村",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7649/#f7650",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7652",
+      "name": "尾形光琳",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7651/#f7652",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7655",
+      "name": "井原西鶴",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7653/#f7655",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "7656",
+      "name": "ドローン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4548/#f7656",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7665",
+      "name": "ヒンメル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7665/#f7665",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7667",
       "name": "アウラ",
       "attribute": "闇",
@@ -2192,61 +2247,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "神"
-    },
-    {
-      "id": "7997",
-      "name": "アブピッシャー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7996/#f7997",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "7998",
-      "name": "ウェザエモン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7989/#f7998",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "8000",
-      "name": "ワンワン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7999/#f8000",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "8001",
-      "name": "背徳ピストルズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2746/#f8001",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "8002",
-      "name": "背徳ピストルズ（フラパ）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3445/#f8002",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "魔王"
     }
   ]
 }

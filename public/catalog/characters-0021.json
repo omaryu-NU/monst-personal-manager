@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "9491",
+      "name": "オセロー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1197/#f9491",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "9492",
+      "name": "ダルタニャン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1733/#f9492",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9493",
+      "name": "ダルタニャン（クリスマス）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2389/#f9493",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9494",
+      "name": "犬塚信乃α",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5550/#f9494",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "9495",
+      "name": "コカゲα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5552/#f9495",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "ロボット"
+    },
+    {
       "id": "9496",
       "name": "風神雷神α",
       "attribute": "光",

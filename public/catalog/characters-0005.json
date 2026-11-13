@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2705",
+      "name": "ジュン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2703/#f2705",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "2708",
+      "name": "ヘンリーターナー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2707/#f2708",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2710",
+      "name": "カリーナスミス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2709/#f2710",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "2712",
       "name": "ウィルターナー",
       "attribute": "木",
@@ -2125,12 +2158,26 @@
       "id": "3456",
       "name": "エルドラドSP",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2651/#f3456",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3456.webp",
+      "source": "https://game.technophere.com/monst/char/2651/",
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "ラウンドフラッシュ （無） 副友情 バウンドヒール （無）",
+      "ss": "ふれた敵すべてを、ふっとばす 18ターン",
+      "rarity": 6,
+      "hp": 19930,
+      "attack": 16151,
+      "speed": 216.83,
+      "gaugeAbilities": [
+        "回復 状態異常回復"
+      ]
     },
     {
       "id": "3457",
@@ -2163,39 +2210,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "3479",
-      "name": "ネズビリー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3478/#f3479",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "3481",
-      "name": "シロアラント",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3480/#f3481",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "3485",
-      "name": "カンナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3484/#f3485",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

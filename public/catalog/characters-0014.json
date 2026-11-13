@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7334",
+      "name": "アヴドゥル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7333/#f7334",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7342",
+      "name": "ジョセフ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7341/#f7342",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7343",
+      "name": "イギー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7343/#f7343",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "7345",
+      "name": "ダービー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7344/#f7345",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7347",
       "name": "ペットショップ",
       "attribute": "水",
@@ -1444,15 +1488,51 @@
       "race": "神"
     },
     {
+      "id": "7486",
+      "name": "ロヴァー",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7486.webp",
+      "source": "https://game.technophere.com/monst/char/7486/",
+      "evolution": "真獣神化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "超強ラウンドスパーク （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 16820,
+      "attack": 18645,
+      "speed": 245
+    },
+    {
       "id": "7487",
       "name": "ロヴァー",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7486/#f7487",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール",
+        "アンチ減速床",
+        "カウンターキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7487.webp",
+      "source": "https://game.technophere.com/monst/char/7486/",
       "evolution": "真獣神化",
       "type": "反射",
       "style": "超バランス",
-      "race": "幻妖"
+      "race": "幻妖",
+      "friendship": "超強ラウンドスパーク （木） 副友情 超絶貫通ホーミング18 （木）",
+      "ss": "ふれた敵の攻撃力と防御力を一定期間ダウン＆味方を率いて敵へ撃ちこむ 16+8ターン",
+      "rarity": 6,
+      "hp": 19158,
+      "attack": 16891,
+      "speed": 263.7,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "7489",
@@ -2509,61 +2589,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "7650",
-      "name": "与謝蕪村",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7649/#f7650",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7652",
-      "name": "尾形光琳",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7651/#f7652",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7655",
-      "name": "井原西鶴",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7653/#f7655",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "7656",
-      "name": "ドローン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4548/#f7656",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7665",
-      "name": "ヒンメル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7665/#f7665",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

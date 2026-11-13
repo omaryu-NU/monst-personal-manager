@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6649",
+      "name": "永遠の悪魔",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6648/#f6649",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "6651",
+      "name": "ヒルの悪魔",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6650/#f6651",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6653",
+      "name": "コウモリの悪魔",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6652/#f6653",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "6654",
+      "name": "デンジ＆マキマ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6654/#f6654",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "6655",
       "name": "機光院チヨ",
       "attribute": "光",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "ロボット"
-    },
-    {
-      "id": "7004",
-      "name": "トロジャノク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7003/#f7004",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7007",
-      "name": "ロジーB",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7005/#f7007",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7009",
-      "name": "プリノラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7008/#f7009",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7011",
-      "name": "火本多忠勝",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7010/#f7011",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
     }
   ]
 }

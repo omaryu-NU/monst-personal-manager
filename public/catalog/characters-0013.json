@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7004",
+      "name": "トロジャノク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7003/#f7004",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7007",
+      "name": "ロジーB",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7005/#f7007",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7009",
+      "name": "プリノラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7008/#f7009",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7011",
+      "name": "火本多忠勝",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7010/#f7011",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "7013",
       "name": "ロイナード",
       "attribute": "火",
@@ -2186,50 +2230,6 @@
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7334",
-      "name": "アヴドゥル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7333/#f7334",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7342",
-      "name": "ジョセフ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7341/#f7342",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7343",
-      "name": "イギー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7343/#f7343",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "7345",
-      "name": "ダービー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7344/#f7345",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

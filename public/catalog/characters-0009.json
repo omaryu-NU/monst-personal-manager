@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5310",
+      "name": "三雲修",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5309/#f5310",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "5312",
+      "name": "雨取千佳",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5311/#f5312",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "5316",
+      "name": "ランバネイン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5315/#f5316",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "近界民"
+    },
+    {
+      "id": "5318",
+      "name": "ハイレイン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5317/#f5318",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "近界民"
+    },
+    {
       "id": "5320",
       "name": "ヴィザ",
       "attribute": "木",
@@ -2155,50 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5834",
-      "name": "ガーフィール",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5833/#f5834",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5836",
-      "name": "ヴィルヘルム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5835/#f5836",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5838",
-      "name": "ペテルギウス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5837/#f5838",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5844",
-      "name": "スバル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5839/#f5844",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

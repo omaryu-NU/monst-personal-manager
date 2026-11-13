@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3479",
+      "name": "ネズビリー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3478/#f3479",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "3481",
+      "name": "シロアラント",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3480/#f3481",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "3485",
+      "name": "カンナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3484/#f3485",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "3492",
       "name": "クィーンバタフライ",
       "attribute": "水",
@@ -2188,39 +2221,6 @@
       "source": "https://game.technophere.com/monst/char/4173/#f4174",
       "evolution": "進化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4181",
-      "name": "パラドクス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4180/#f4181",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "4183",
-      "name": "ヴァンヘルシング",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4182/#f4183",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4193",
-      "name": "麗日お茶子",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4192/#f4193",
-      "evolution": "進化",
-      "type": "反射",
       "style": "バランス",
       "race": "亜人"
     }

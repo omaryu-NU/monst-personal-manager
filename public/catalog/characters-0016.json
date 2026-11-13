@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "7997",
+      "name": "アブピッシャー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7996/#f7997",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "7998",
+      "name": "ウェザエモン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7989/#f7998",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "8000",
+      "name": "ワンワン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7999/#f8000",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "8001",
+      "name": "背徳ピストルズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2746/#f8001",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "8002",
+      "name": "背徳ピストルズ（フラパ）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3445/#f8002",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
       "id": "8004",
       "name": "ウリエル",
       "attribute": "光",
@@ -2164,61 +2219,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "8321",
-      "name": "大友宗麟",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8320/#f8321",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8323",
-      "name": "立花道雪",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8322/#f8323",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8325",
-      "name": "磯撫",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8324/#f8325",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "8327",
-      "name": "天火",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8326/#f8327",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "8330",
-      "name": "のっぺらぼう",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8328/#f8330",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
     }
   ]
 }
