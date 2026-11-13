@@ -78,5 +78,85 @@
     "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
     "sha256": "3f1036e93e09c22be4ce1224cdfbba0ddafe48fa7e597ac0f922ef1142637daf",
     "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/150.webp"
+  },
+  "152": {
+    "attribution": "GameWith",
+    "id": "152",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "e71f8d4997727a9a66e8dcb271d2041f3e080e91aea79e1425fbd1ad68d08472",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/152.jpg"
+  },
+  "154": {
+    "attribution": "GameWith",
+    "id": "154",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "2dfe8e4f67730c712c65e2aaaab2696b1c875405c02f68a6b30486f7d1be5bdd",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/154.jpg"
+  },
+  "156": {
+    "attribution": "GameWith",
+    "id": "156",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "ff42d6ad13edf8c23a3091c79156259377b7c9624fdb6ceba185f5a62254e873",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/156.jpg"
+  },
+  "158": {
+    "attribution": "GameWith",
+    "id": "158",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "e276d96bfa1ff4066cdb47f52547f251ce0745df92ed944fe5b442b99bca043d",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/158.jpg"
+  },
+  "160": {
+    "attribution": "GameWith",
+    "id": "160",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "302e2c3953f0fcd1e6785b72f6b634ed989ce48cf95cb4516947f9e2d6c3298e",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/160.jpg"
+  },
+  "162": {
+    "attribution": "GameWith",
+    "id": "162",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "545f430dcac0a7faf45cc7de844f5b697d9e3d2166bdd0f8e13d73811149401b",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/162.jpg"
+  },
+  "164": {
+    "attribution": "GameWith",
+    "id": "164",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "d1f309c20ffd6ac2b5cb192c65d3fc44f8e032d8654cef846801dd6f6f85bed2",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/164.jpg"
+  },
+  "166": {
+    "attribution": "GameWith",
+    "id": "166",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "563402fcc1ebb73da3bdc7a261ed4b60b013fecbaefb63c53eb93a7174692268",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/166.jpg"
+  },
+  "168": {
+    "attribution": "GameWith",
+    "id": "168",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "6856bb2d7491acde142af22a549e5ad2edf9370a076a09d4bc88f4efeba88ef9",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/168.jpg"
+  },
+  "170": {
+    "attribution": "GameWith",
+    "id": "170",
+    "license": "GameWith owner-authorized image reuse",
+    "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
+    "sha256": "46cef5e6a325c63d1ef64be3dbc05fb2da05318e6bf8e352664b9f4603bd040c",
+    "url": "https://img.gamewith.jp/article_tools/monst/gacha/170.jpg"
   }
 }
