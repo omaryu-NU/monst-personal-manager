@@ -12,7 +12,7 @@ jobs:
   import:
     if: github.event_name == 'workflow_dispatch' || vars.GAMEWITH_ICON_IMPORT_ENABLED == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,13 +43,13 @@ jobs:
             --csv config/gamewith-approved-icon-sources.csv \
             --allow-host img.gamewith.jp \
             --report local-reports/gamewith-icons/dry-run.json
-      - name: Download validated GameWith images (max 10 per run)
+      - name: Download validated GameWith images (up to 100 per UTC day)
         if: vars.GAMEWITH_ICON_IMPORT_ENABLED == 'true'
         run: |
-          python scripts/auto_import_approved_icons.py \
+          python scripts/import_gamewith_daily.py \
             --csv config/gamewith-approved-icon-sources.csv \
             --allow-host img.gamewith.jp \
-            --limit 10 --delay 3 --allow-denied --apply \
+            --limit 100 --delay 3 --allow-denied --apply \
             --report local-reports/gamewith-icons/import.json
       - name: Upload run diagnostics
         if: always()
