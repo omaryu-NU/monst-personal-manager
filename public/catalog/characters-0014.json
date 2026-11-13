@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "7347",
+      "name": "ペットショップ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7346/#f7347",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "鳥"
+    },
+    {
+      "id": "7349",
+      "name": "オインゴ＆ボインゴ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7348/#f7349",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7351",
+      "name": "アヌビス神",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7350/#f7351",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7353",
+      "name": "マライア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7352/#f7353",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7355",
+      "name": "ヴァニラアイス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7354/#f7355",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
       "id": "7356",
       "name": "承太郎＆イギー",
       "attribute": "木",
@@ -1336,15 +1391,46 @@
       ]
     },
     {
+      "id": "7483",
+      "name": "甲辰りゅうこ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7483.webp",
+      "source": "https://game.technophere.com/monst/char/7483/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ドラゴン",
+      "friendship": "コピー （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15024,
+      "attack": 19024,
+      "speed": 302.4
+    },
+    {
       "id": "7484",
       "name": "甲辰りゅうこ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7483/#f7484",
+      "abilities": [
+        "アンチワープ",
+        "アンチブロック",
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7484.webp",
+      "source": "https://game.technophere.com/monst/char/7483/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "ドラゴン"
+      "race": "ドラゴン",
+      "friendship": "コピー （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた味方に巨大バリアを付与 20ターン",
+      "rarity": 6,
+      "hp": 18124,
+      "attack": 20124,
+      "speed": 348.3
     },
     {
       "id": "7485",
@@ -2478,72 +2564,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "7667",
-      "name": "アウラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7666/#f7667",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "7668",
-      "name": "勇者一行",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7668/#f7668",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7669",
-      "name": "静御前",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1341/#f7669",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7670",
-      "name": "天叢雲",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2057/#f7670",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "神"
-    },
-    {
-      "id": "7672",
-      "name": "メモリーα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7671/#f7672",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7674",
-      "name": "テセウスα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7673/#f7674",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖騎士"
     }
   ]
 }

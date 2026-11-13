@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4815",
+      "name": "キラリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4814/#f4815",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4823",
+      "name": "クトゥグア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4822/#f4823",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "4825",
+      "name": "イタクァ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4824/#f4825",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "4828",
+      "name": "ハスター",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4826/#f4828",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
       "id": "4830",
       "name": "ビヤーキー",
       "attribute": "闇",
@@ -1705,15 +1749,48 @@
       ]
     },
     {
+      "id": "5128",
+      "name": "異界の悪魔総帥 バアル",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5128.webp",
+      "source": "https://game.technophere.com/monst/char/5128/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "超強クロスウェーブ （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13093,
+      "attack": 15277,
+      "speed": 139.23
+    },
+    {
       "id": "5129",
       "name": "光バアル",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5128/#f5129",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5129.webp",
+      "source": "https://game.technophere.com/monst/char/5128/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "超強クロスウェーブ （無）",
+      "ss": "スピードとパワーがアップ＆敵にふれる毎に溜めたパワーを放出する 20ターン",
+      "rarity": 6,
+      "hp": 20708,
+      "attack": 21008,
+      "speed": 177.97,
+      "gaugeAbilities": [
+        "底力 ダッシュ"
+      ]
     },
     {
       "id": "5131",
@@ -2484,61 +2561,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "近界民"
-    },
-    {
-      "id": "5320",
-      "name": "ヴィザ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5319/#f5320",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "近界民"
-    },
-    {
-      "id": "5324",
-      "name": "エネドラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5323/#f5324",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "近界民"
-    },
-    {
-      "id": "5325",
-      "name": "嵐山隊",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5325/#f5325",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5326",
-      "name": "風間隊",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5326/#f5326",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5327",
-      "name": "木崎＆烏丸",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5327/#f5327",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ボーダー隊員"
     }
   ]
 }

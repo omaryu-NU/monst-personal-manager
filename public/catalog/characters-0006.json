@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3492",
+      "name": "クィーンバタフライ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3492/#f3492",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "3494",
+      "name": "シリカ&リズベット",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3493/#f3494",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3498",
+      "name": "リーファ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3497/#f3498",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
       "id": "3505",
       "name": "ユージーン",
       "attribute": "火",
@@ -1683,6 +1716,31 @@
       "race": "妖精"
     },
     {
+      "id": "4040",
+      "name": "ドジっ娘スタッフ ラブリードリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4040.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "超絶貫通拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 6,
+      "hp": 19406,
+      "attack": 17669,
+      "speed": 248.8,
+      "gaugeAbilities": [
+        "アンチ重力バリア",
+        "底力"
+      ]
+    },
+    {
       "id": "4042",
       "name": "阿散井恋次",
       "attribute": "火",
@@ -2164,50 +2222,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4197",
-      "name": "飯田天哉",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4196/#f4197",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4199",
-      "name": "荼毘",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4198/#f4199",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4201",
-      "name": "トガヒミコ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4200/#f4201",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4203",
-      "name": "ステイン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4202/#f4203",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "亜人"
     }
   ]

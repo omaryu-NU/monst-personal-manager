@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1409",
+      "name": "セサミ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1408/#f1409",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物"
+    },
+    {
       "id": "1414",
       "name": "サンドマン",
       "attribute": "闇",
@@ -2244,17 +2255,6 @@
       "evolution": "神化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "2077",
-      "name": "ザコネミーズ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2076/#f2077",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "魔族"
     }
   ]

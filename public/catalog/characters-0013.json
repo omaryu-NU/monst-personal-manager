@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "7013",
+      "name": "ロイナード",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7012/#f7013",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7015",
+      "name": "ラガリ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7014/#f7015",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "7017",
+      "name": "ロンギーグ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7016/#f7017",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7019",
+      "name": "木小早川秀秋",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7018/#f7019",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7021",
+      "name": "ゴヴィン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7020/#f7021",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
       "id": "7023",
       "name": "ロシラタ",
       "attribute": "木",
@@ -2176,61 +2231,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "7347",
-      "name": "ペットショップ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7346/#f7347",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "鳥"
-    },
-    {
-      "id": "7349",
-      "name": "オインゴ＆ボインゴ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7348/#f7349",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7351",
-      "name": "アヌビス神",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7350/#f7351",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7353",
-      "name": "マライア",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7352/#f7353",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7355",
-      "name": "ヴァニラアイス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7354/#f7355",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
     }
   ]
 }

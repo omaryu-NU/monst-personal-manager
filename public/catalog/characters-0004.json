@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2077",
+      "name": "ザコネミーズ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2076/#f2077",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "2080",
       "name": "赤木凛",
       "attribute": "水",
@@ -2362,15 +2373,71 @@
       ]
     },
     {
+      "id": "2648",
+      "name": "ラブリードリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2648.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 5,
+      "hp": 15889,
+      "attack": 13972,
+      "speed": 275.6
+    },
+    {
+      "id": "2649",
+      "name": "ドジっ娘 ラブリードリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2649.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "超絶貫通拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 6,
+      "hp": 19406,
+      "attack": 17669,
+      "speed": 248.8,
+      "gaugeAbilities": [
+        "アンチ重力バリア",
+        "底力"
+      ]
+    },
+    {
       "id": "2650",
       "name": "ドリィ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2648/#f2650",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ転送壁",
+        "闇属性耐性 友情ブーストM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2650.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
       "evolution": "神化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "トライデントレーザーL （光） 副友情 インボリュートスフィア・モア （火）",
+      "ss": "狙った方向に、十字砲を放つ 25ターン",
+      "rarity": 6,
+      "hp": 19883,
+      "attack": 22579,
+      "speed": 148.13
     },
     {
       "id": "2655",
@@ -2546,39 +2613,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "2712",
-      "name": "ウィルターナー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2711/#f2712",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "2716",
-      "name": "ジャックスパロウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2713/#f2716",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2718",
-      "name": "バルボッサ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2717/#f2718",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

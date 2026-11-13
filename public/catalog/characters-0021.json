@@ -2,6 +2,134 @@
   "version": 1,
   "characters": [
     {
+      "id": "9496",
+      "name": "風神雷神α",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5554/#f9496",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "9498",
+      "name": "ルーズリップス",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9498.webp",
+      "source": "https://game.technophere.com/monst/char/9497/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "超絶リワインドブラスター （闇） 副友情 超強トライアングルボム （無）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵を移動に応じて攻撃範囲と威力が変化する爆発で攻撃 12+12ターン",
+      "rarity": 6,
+      "hp": 18068,
+      "attack": 18216,
+      "speed": 266.33,
+      "gaugeAbilities": [
+        "フェイタルキラー SSターンチャージ"
+      ]
+    },
+    {
+      "id": "9499",
+      "name": "レイド",
+      "attribute": "火",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9499.webp",
+      "source": "https://game.technophere.com/monst/char/9499/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "トライデントスパイラルレイ （火）",
+      "ss": "スピードとパワーがアップ＆停止後に箸で攻撃 18ターン",
+      "rarity": 6,
+      "hp": 21385,
+      "attack": 18839,
+      "speed": 276.83,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "弱点キラーM"
+      ]
+    },
+    {
+      "id": "9500",
+      "name": "シャウラ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ減速床"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9500.webp",
+      "source": "https://game.technophere.com/monst/char/9500/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "剛毒メテオ （無）",
+      "ss": "スピードとパワーがアップし、マーキングした敵に貫通弾を放つ＆停止後にふれた敵に貫通弾を放つ 8ターン",
+      "rarity": 6,
+      "hp": 20860,
+      "attack": 18741,
+      "speed": 273.4,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチマルチレイヤ"
+      ]
+    },
+    {
+      "id": "9501",
+      "name": "パック",
+      "attribute": "水",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9501.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "妖精",
+      "friendship": "白爆発EL （無） 副友情 防友アップ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵のレーザーバリアを一定期間、消滅させる 8+8ターン",
+      "rarity": 6,
+      "hp": 20165,
+      "attack": 19442,
+      "speed": 430,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ダッシュM"
+      ],
+      "connectAbilities": [
+        "超アンチウィンド",
+        "回復M SSターンチャージM 条件: 妖精以外が1体以上／スピード型以外が1体以上"
+      ]
+    },
+    {
+      "id": "9502",
+      "name": "大黒天",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1366/#f9502",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "9503",
       "name": "ベアトリス",
       "attribute": "水",

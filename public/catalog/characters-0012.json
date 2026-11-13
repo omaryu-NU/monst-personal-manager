@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "6655",
+      "name": "機光院チヨ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/907/#f6655",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "コスモ"
+    },
+    {
+      "id": "6656",
+      "name": "張飛",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1039/#f6656",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "6657",
+      "name": "ケイ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3663/#f6657",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6659",
+      "name": "サムライソード",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6658/#f6659",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6660",
+      "name": "西郷隆盛",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/494/#f6660",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "サムライ"
+    },
+    {
       "id": "6662",
       "name": "ヨルズ",
       "attribute": "火",
@@ -2145,61 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "サムライ"
-    },
-    {
-      "id": "7013",
-      "name": "ロイナード",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7012/#f7013",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7015",
-      "name": "ラガリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7014/#f7015",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "7017",
-      "name": "ロンギーグ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7016/#f7017",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7019",
-      "name": "木小早川秀秋",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7018/#f7019",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7021",
-      "name": "ゴヴィン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7020/#f7021",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
     }
   ]
 }

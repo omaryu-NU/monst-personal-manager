@@ -861,16 +861,46 @@
       "speed": 144.53
     },
     {
+      "id": "207",
+      "name": "エビルインライト",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/207.webp",
+      "source": "https://game.technophere.com/monst/char/207/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王",
+      "friendship": "十字レーザーM （光）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13306,
+      "attack": 11716,
+      "speed": 278.73
+    },
+    {
       "id": "208",
       "name": "エビルインライト",
       "attribute": "光",
-      "abilities": [],
+      "abilities": [
+        "飛行",
+        "神キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/208.webp",
-      "source": "https://game.technophere.com/monst/char/207/#f208",
+      "source": "https://game.technophere.com/monst/char/207/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "十字レーザーL （光）",
+      "ss": "ふれた敵に氷メテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 16814,
+      "attack": 14699,
+      "speed": 291.03
     },
     {
       "id": "210",
@@ -2513,17 +2543,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "神"
-    },
-    {
-      "id": "708",
-      "name": "ガルーダ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/707/#f708",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻獣"
     }
   ]
 }

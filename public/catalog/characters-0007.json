@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4197",
+      "name": "飯田天哉",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4196/#f4197",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4199",
+      "name": "荼毘",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4198/#f4199",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4201",
+      "name": "トガヒミコ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4200/#f4201",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4203",
+      "name": "ステイン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4202/#f4203",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "4205",
       "name": "死柄木弔",
       "attribute": "光",
@@ -2245,50 +2289,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "4815",
-      "name": "キラリ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4814/#f4815",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4823",
-      "name": "クトゥグア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4822/#f4823",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "4825",
-      "name": "イタクァ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4824/#f4825",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "4828",
-      "name": "ハスター",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4826/#f4828",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "幻妖"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2712",
+      "name": "ウィルターナー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2711/#f2712",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "2716",
+      "name": "ジャックスパロウ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2713/#f2716",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2718",
+      "name": "バルボッサ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2717/#f2718",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2719",
       "name": "ゴーストシャーク",
       "attribute": "水",
@@ -2164,39 +2197,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "3492",
-      "name": "クィーンバタフライ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3492/#f3492",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3494",
-      "name": "シリカ&リズベット",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3493/#f3494",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3498",
-      "name": "リーファ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3497/#f3498",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
     }
   ]
 }

@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7667",
+      "name": "アウラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7666/#f7667",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "7668",
+      "name": "勇者一行",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7668/#f7668",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7669",
+      "name": "静御前",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1341/#f7669",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7670",
+      "name": "天叢雲",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2057/#f7670",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
+    },
+    {
+      "id": "7672",
+      "name": "メモリーα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7671/#f7672",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7674",
+      "name": "テセウスα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7673/#f7674",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
       "id": "7676",
       "name": "アルビレオα",
       "attribute": "闇",
@@ -2181,72 +2247,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "魔王"
-    },
-    {
-      "id": "8004",
-      "name": "ウリエル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/929/#f8004",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8005",
-      "name": "ウリエルMV",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3647/#f8005",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8006",
-      "name": "アラウィン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4789/#f8006",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "8007",
-      "name": "ノストラダムス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2722/#f8007",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8008",
-      "name": "ノストラダムス（新春）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3089/#f8008",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8009",
-      "name": "ジェーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2535/#f8009",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
     }
   ]
 }
