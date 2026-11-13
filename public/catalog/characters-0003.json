@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1414",
+      "name": "サンドマン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1413/#f1414",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "1415",
       "name": "ジャンプブラック",
       "attribute": "闇",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "2080",
-      "name": "赤木凛",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2078/#f2080",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

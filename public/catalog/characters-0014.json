@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7356",
+      "name": "承太郎＆イギー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7356/#f7356",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7357",
+      "name": "徳川家康",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/798/#f7357",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "コスモ"
+    },
+    {
+      "id": "7358",
+      "name": "サンクチュアリドラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2234/#f7358",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "7359",
       "name": "ホルホース",
       "attribute": "光",
@@ -1233,15 +1266,74 @@
       ]
     },
     {
+      "id": "7480",
+      "name": "マサムネ",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7480.webp",
+      "source": "https://game.technophere.com/monst/char/7480/",
+      "evolution": "真獣神化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "防御ダウン弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 20942,
+      "attack": 28764,
+      "speed": 374.48
+    },
+    {
+      "id": "7481",
+      "name": "マサムネ：使命の閃刃",
+      "attribute": "火",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーL",
+        "アンチブロック",
+        "超アンチ転送壁",
+        "ファーストキラーM 攻撃力チャージ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7481.webp",
+      "source": "https://game.technophere.com/monst/char/7480/",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ",
+      "friendship": "防御ダウン弾 （無） 副友情 超強全敵貫通ロックオン衝撃波3 （火）",
+      "ss": "スピードとパワーがアップ＆自身を一定期間バブリー状態にする 12+8ターン",
+      "rarity": 6,
+      "hp": 19175,
+      "attack": 28505,
+      "speed": 378.7
+    },
+    {
       "id": "7482",
       "name": "マサムネ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7480/#f7482",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチワープ",
+        "状態異常レジスト 超SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7482.webp",
+      "source": "https://game.technophere.com/monst/char/7480/",
       "evolution": "真獣神化",
       "type": "貫通",
       "style": "超砲撃",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "スピニングブレイド （火） 副友情 超強バウンドヒール （無）",
+      "ss": "想いと約束の力で味方を動かし敵へ撃ちこむ＆停止後に再度味方を動かし敵へ撃ちこむ 12+12ターン",
+      "rarity": 6,
+      "hp": 18357,
+      "attack": 25191,
+      "speed": 392.97,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "超アンチ転送壁"
+      ]
     },
     {
       "id": "7484",
@@ -2452,61 +2544,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "7676",
-      "name": "アルビレオα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7675/#f7676",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7679",
-      "name": "井戸内キョーコ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7677/#f7679",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7681",
-      "name": "多良城くるる",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7680/#f7681",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7683",
-      "name": "成尾うみ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7682/#f7683",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7684",
-      "name": "ベビーアーク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2431/#f7684",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "魔族"
     }
   ]
 }

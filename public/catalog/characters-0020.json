@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "9255",
+      "name": "干柿鬼鮫",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9255/#f9255",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "9256",
+      "name": "飛段＆角都",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9256/#f9256",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9257",
+      "name": "大蛇丸",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9257/#f9257",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9258",
+      "name": "デイダラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9258/#f9258",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9259",
+      "name": "鷹",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9259/#f9259",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "9260",
       "name": "第十班",
       "attribute": "木",
@@ -3374,112 +3429,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "9503",
-      "name": "ベアトリス",
-      "attribute": "水",
-      "abilities": [
-        "アンチダメージウォール",
-        "回復"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9503.webp",
-      "source": "https://game.technophere.com/monst/char/9503/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精",
-      "friendship": "爆絶貫通拡散弾EL3 （水）",
-      "ss": "スピードとパワーがアップ＆停止後に一定期間、アクセラレータ状態になる 12ターン",
-      "rarity": 6,
-      "hp": 16391,
-      "attack": 18205,
-      "speed": 267.97,
-      "gaugeAbilities": [
-        "アンチ減速床",
-        "SSターンチャージM"
-      ]
-    },
-    {
-      "id": "9504",
-      "name": "アトス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1069/#f9504",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "9506",
-      "name": "ガブちゃん",
-      "attribute": "火",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチウィンド",
-        "アンチ魔法陣",
-        "超アンチ転送壁",
-        "ユニバキラーM 幻竜封じM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9506.webp",
-      "source": "https://game.technophere.com/monst/char/9505/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "超絶貫通弱点ロックオン衝撃波5 （火） 副友情 超強ランページウォールボム （無）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵をガブリエルで攻撃 16+8ターン",
-      "rarity": 6,
-      "hp": 18737,
-      "attack": 29293,
-      "speed": 347.27
-    },
-    {
-      "id": "9507",
-      "name": "ハナ",
-      "attribute": "水",
-      "abilities": [
-        "アンチ魔法陣"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9507.webp",
-      "source": "https://game.technophere.com/monst/char/9507/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "ラウンドバースト （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 8322,
-      "attack": 8865,
-      "speed": 270.33
-    },
-    {
-      "id": "9508",
-      "name": "ハナ",
-      "attribute": "水",
-      "abilities": [
-        "超アンチ重力バリア",
-        "超アンチダメージウォール",
-        "アンチ魔法陣",
-        "友情ブーストM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9508.webp",
-      "source": "https://game.technophere.com/monst/char/9507/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "ラウンドバースト （無）",
-      "ss": "スピードとパワーがアップ＆停止後にメリケンサックで攻撃 15ターン",
-      "rarity": 5,
-      "hp": 14873,
-      "attack": 14255,
-      "speed": 330.03,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
     }
   ]
 }

@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4205",
+      "name": "死柄木弔",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4204/#f4205",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4207",
+      "name": "黒霧",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4206/#f4207",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4208",
       "name": "オールフォーワン",
       "attribute": "闇",
@@ -2267,28 +2289,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "幻妖"
-    },
-    {
-      "id": "4830",
-      "name": "ビヤーキー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4829/#f4830",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "4832",
-      "name": "焔摩天廻",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3050/#f4832",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔王"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2080",
+      "name": "赤木凛",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2078/#f2080",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2084",
       "name": "ウルトラマンタロウ",
       "attribute": "火",
@@ -2307,15 +2318,48 @@
       "speed": 323.2
     },
     {
+      "id": "2646",
+      "name": "カンガルーエンジン",
+      "attribute": "木",
+      "abilities": [
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2646.webp",
+      "source": "https://game.technophere.com/monst/char/2646/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "エナジーサークルS （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 5921,
+      "attack": 5865,
+      "speed": 201.53
+    },
+    {
       "id": "2647",
       "name": "カンガルーエンジン",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2646/#f2647",
+      "abilities": [
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2647.webp",
+      "source": "https://game.technophere.com/monst/char/2646/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "ダブルエナジーサークルM （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 10365,
+      "attack": 8828,
+      "speed": 235.5,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "2650",
@@ -2536,28 +2580,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2719",
-      "name": "ゴーストシャーク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2719/#f2719",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "2721",
-      "name": "サラザール",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2720/#f2721",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

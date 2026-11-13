@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7023",
+      "name": "ロシラタ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7022/#f7023",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7025",
+      "name": "光仙石秀久",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7024/#f7025",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7027",
+      "name": "エニエニル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7026/#f7027",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "7029",
       "name": "ジョビーロップ",
       "attribute": "光",
@@ -2198,39 +2231,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔族"
-    },
-    {
-      "id": "7356",
-      "name": "承太郎＆イギー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7356/#f7356",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7357",
-      "name": "徳川家康",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/798/#f7357",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "コスモ"
-    },
-    {
-      "id": "7358",
-      "name": "サンクチュアリドラゴン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2234/#f7358",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

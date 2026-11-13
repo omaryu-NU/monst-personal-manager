@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "6662",
+      "name": "ヨルズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6661/#f6662",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "神"
+    },
+    {
+      "id": "6664",
+      "name": "ミーミル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6663/#f6664",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6666",
+      "name": "テュール",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6665/#f6666",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "6669",
       "name": "アウズンブラ",
       "attribute": "水",
@@ -2166,39 +2199,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "7023",
-      "name": "ロシラタ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7022/#f7023",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7025",
-      "name": "光仙石秀久",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7024/#f7025",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "7027",
-      "name": "エニエニル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7026/#f7027",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "ロボット"
     }
   ]

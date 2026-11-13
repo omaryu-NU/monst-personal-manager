@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2719",
+      "name": "ゴーストシャーク",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2719/#f2719",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "2721",
+      "name": "サラザール",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2720/#f2721",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "2737",
       "name": "フカヒレ",
       "attribute": "火",
@@ -2175,28 +2197,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "妖精"
-    },
-    {
-      "id": "3505",
-      "name": "ユージーン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3504/#f3505",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "3507",
-      "name": "クラディール",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3506/#f3507",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

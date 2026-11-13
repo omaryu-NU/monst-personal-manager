@@ -821,16 +821,44 @@
       "speed": 259.57
     },
     {
+      "id": "205",
+      "name": "暴君ジュラザウラー",
+      "attribute": "木",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/205.webp",
+      "source": "https://game.technophere.com/monst/char/205/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "拡散弾EL3 （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 15ターン",
+      "rarity": 5,
+      "hp": 15817,
+      "attack": 29843,
+      "speed": 160.57
+    },
+    {
       "id": "206",
       "name": "ジュラザウラー",
       "attribute": "木",
-      "abilities": [],
+      "abilities": [
+        "神キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/206.webp",
-      "source": "https://game.technophere.com/monst/char/205/#f206",
+      "source": "https://game.technophere.com/monst/char/205/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ワンウェイレーザーEL （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 16ターン",
+      "rarity": 6,
+      "hp": 20920,
+      "attack": 31264,
+      "speed": 144.53
     },
     {
       "id": "208",
@@ -2496,17 +2524,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "幻獣"
-    },
-    {
-      "id": "710",
-      "name": "カーマ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/709/#f710",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "6292",
+      "name": "デイゴ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6291/#f6292",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "6294",
+      "name": "プロテア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6293/#f6294",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "6296",
+      "name": "ブーゲンビリア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6295/#f6296",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "6299",
       "name": "マゴスチーネ",
       "attribute": "火",
@@ -2183,39 +2216,6 @@
       "type": "反射",
       "style": "超パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "6662",
-      "name": "ヨルズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6661/#f6662",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "6664",
-      "name": "ミーミル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6663/#f6664",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "6666",
-      "name": "テュール",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6665/#f6666",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

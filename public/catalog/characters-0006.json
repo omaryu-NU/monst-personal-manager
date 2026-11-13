@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "3505",
+      "name": "ユージーン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3504/#f3505",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "3507",
+      "name": "クラディール",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3506/#f3507",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "3509",
       "name": "オベイロン",
       "attribute": "木",
@@ -2186,28 +2208,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4205",
-      "name": "死柄木弔",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4204/#f4205",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4207",
-      "name": "黒霧",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4206/#f4207",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]
