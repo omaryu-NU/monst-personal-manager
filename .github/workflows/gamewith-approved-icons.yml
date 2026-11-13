@@ -1,0 +1,74 @@
+name: Import GameWith approved character icons
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 7 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: approved-icons
+  cancel-in-progress: false
+jobs:
+  import:
+    if: github.event_name == 'workflow_dispatch' || vars.GAMEWITH_ICON_IMPORT_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate importer and source rows
+        run: |
+          python -m unittest discover -s tests -p 'test_prepare_gamewith_icon_queue.py'
+          python -m unittest discover -s tests -p 'test_auto_import_approved_icons.py'
+      - name: Validate declared GameWith permission and host
+        env:
+          GAMEWITH_PERMISSION_REFERENCE: ${{ vars.GAMEWITH_PERMISSION_REFERENCE }}
+        run: |
+          test -n "$GAMEWITH_PERMISSION_REFERENCE"
+          test -f config/data/gamewith-observed-4455.json
+      - name: Generate separate GameWith image queue (offline)
+        env:
+          GAMEWITH_PERMISSION_REFERENCE: ${{ vars.GAMEWITH_PERMISSION_REFERENCE }}
+        run: |
+          python scripts/prepare_gamewith_icon_queue.py \
+            --permission-reference "$GAMEWITH_PERMISSION_REFERENCE" \
+            --apply
+      - name: Check how many images remain
+        run: |
+          python scripts/auto_import_approved_icons.py \
+            --csv config/gamewith-approved-icon-sources.csv \
+            --allow-host img.gamewith.jp \
+            --report local-reports/gamewith-icons/dry-run.json
+      - name: Download validated GameWith images (max 10 per run)
+        if: vars.GAMEWITH_ICON_IMPORT_ENABLED == 'true'
+        run: |
+          python scripts/auto_import_approved_icons.py \
+            --csv config/gamewith-approved-icon-sources.csv \
+            --allow-host img.gamewith.jp \
+            --limit 10 --delay 3 --allow-denied --apply \
+            --report local-reports/gamewith-icons/import.json
+      - name: Upload run diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gamewith-icon-report
+          path: local-reports/gamewith-icons/*.json
+          if-no-files-found: warn
+          retention-days: 14
+      - name: Commit only newly imported images and queue
+        if: vars.GAMEWITH_ICON_IMPORT_ENABLED == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- config/gamewith-approved-icon-sources.csv public/character-icons
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: import authorized GameWith character icons'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
