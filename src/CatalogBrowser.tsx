@@ -1,3 +1,4 @@
+import SelfHostedCharacterIcon from './SelfHostedCharacterIcon';
 import { useMemo, useState, useEffect } from 'react';
 import type { Character, OwnedCharacter } from './types';
 import { filterCatalog, type CatalogFilter } from './catalog-v04';
@@ -40,7 +41,7 @@ export default function CatalogBrowser({catalog,owned,addOwned}:Props){
    <p className="hint">実キャラのデータは利用条件を確認したJSONから取り込んでください。図鑑の更新は所持・編成情報を削除しません。</p>
   </section>
   {found.length>0&&<VirtualList items={found} keyFor={c=>c.id} ariaLabel="キャラクター図鑑の検索結果" estimateHeight={238} minWidth={280} renderItem={c=><article className="character-card" >
-    <div className="char-main"><span className="char-icon">{c.image?<img alt="" loading="lazy" referrerPolicy="no-referrer" src={c.image} decoding="async"/>:c.name.slice(0,1)}</span><div><b>{c.name}</b><small>{c.attribute} / {c.evolution??'進化未設定'} / {c.type??'撃種未設定'}</small></div></div>
+    <div className="char-main"><SelfHostedCharacterIcon id={c.id} name={c.name} /><div><b>{c.name}</b><small>{c.attribute} / {c.evolution??'進化未設定'} / {c.type??'撃種未設定'}</small></div></div>
     <p>{[...c.abilities,...(c.gaugeAbilities??[]),...(c.connectAbilities??[])].join('・')||'アビリティ未登録'}</p>
     <div className="button-row"><button className="secondary" onClick={()=>setSelectedId(c.id)}>詳細</button><button onClick={()=>addOwned(c.id)}>所持に追加 ({owned.filter(o=>o.characterId===c.id).length})</button></div>
   </article>}/>}
