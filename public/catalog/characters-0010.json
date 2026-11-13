@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "5910",
+      "name": "梅宮竜之介",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5909/#f5910",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5912",
+      "name": "ホロホロ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5911/#f5912",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5914",
+      "name": "麻倉葉",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5913/#f5914",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5916",
+      "name": "ファウスト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5915/#f5916",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5918",
+      "name": "道蓮",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5917/#f5918",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5919",
+      "name": "恐山アンナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5919/#f5919",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5921",
+      "name": "リゼルグ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5920/#f5921",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5923",
+      "name": "マルコ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5922/#f5923",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5925",
+      "name": "麻倉幹久",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5924/#f5925",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5927",
+      "name": "シルバ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5926/#f5927",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5929",
+      "name": "ジャンヌ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5928/#f5929",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "5931",
       "name": "道円",
       "attribute": "闇",
@@ -2079,127 +2200,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "6329",
-      "name": "闇ホールズ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6328/#f6329",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "6331",
-      "name": "酸牙",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6330/#f6331",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "6333",
-      "name": "フトフラス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6332/#f6333",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "6334",
-      "name": "バレン＆レンツ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6334/#f6334",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "6335",
-      "name": "アムゼ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6335/#f6335",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "6336",
-      "name": "ホーツォク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6336/#f6336",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "6338",
-      "name": "安倍晴明",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1135/#f6338",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "6340",
-      "name": "オニャンコポンα",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6339/#f6340",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "6342",
-      "name": "フランクリンα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6341/#f6342",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6344",
-      "name": "オフィーリアα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6343/#f6344",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "6347",
-      "name": "フラーラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6345/#f6347",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ドラゴン"
     }
   ]
 }

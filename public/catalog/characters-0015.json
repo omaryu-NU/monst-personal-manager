@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "7719",
+      "name": "神代利世",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7719/#f7719",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7720",
+      "name": "真珠",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2286/#f7720",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7721",
+      "name": "大谷吉継",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4871/#f7721",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7723",
+      "name": "ジャヒー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7722/#f7723",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "7725",
+      "name": "タローマティ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7724/#f7725",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7727",
+      "name": "サルワ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7726/#f7727",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "7729",
+      "name": "アナーヒター",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7728/#f7729",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "7731",
+      "name": "フシャスラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7730/#f7731",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "7734",
+      "name": "スプンタマンユ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7732/#f7734",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "7736",
+      "name": "星霜",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7735/#f7736",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "コスモ"
+    },
+    {
+      "id": "7737",
+      "name": "項羽",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5518/#f7737",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔王"
+    },
+    {
       "id": "7738",
       "name": "劉邦",
       "attribute": "木",
@@ -2111,127 +2232,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "8048",
-      "name": "三途",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8046/#f8048",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8049",
-      "name": "島津義弘",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4869/#f8049",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "8051",
-      "name": "ドンジョヴァンニ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8050/#f8051",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8053",
-      "name": "トゥーランドット",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8052/#f8053",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8055",
-      "name": "アイーダ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8054/#f8055",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8057",
-      "name": "ドラスポラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8056/#f8057",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "8059",
-      "name": "シアネジャマ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8058/#f8059",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "8062",
-      "name": "カーティット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8060/#f8062",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "8065",
-      "name": "タイガーアイ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5210/#f8065",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8067",
-      "name": "ペディオ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8066/#f8067",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "8069",
-      "name": "中野一花",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8068/#f8069",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "6329",
+      "name": "闇ホールズ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6328/#f6329",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "6331",
+      "name": "酸牙",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6330/#f6331",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "6333",
+      "name": "フトフラス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6332/#f6333",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "6334",
+      "name": "バレン＆レンツ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6334/#f6334",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "6335",
+      "name": "アムゼ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6335/#f6335",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "6336",
+      "name": "ホーツォク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6336/#f6336",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "6338",
+      "name": "安倍晴明",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1135/#f6338",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "6340",
+      "name": "オニャンコポンα",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6339/#f6340",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "6342",
+      "name": "フランクリンα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6341/#f6342",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6344",
+      "name": "オフィーリアα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6343/#f6344",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "6347",
+      "name": "フラーラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6345/#f6347",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ドラゴン"
+    },
+    {
       "id": "6349",
       "name": "ヴァロドリー",
       "attribute": "光",
@@ -2079,127 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "6702",
-      "name": "ファウスト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6700/#f6702",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6703",
-      "name": "ベディヴィア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3666/#f6703",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6704",
-      "name": "源義経",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1351/#f6704",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "6708",
-      "name": "ラムα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6707/#f6708",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6710",
-      "name": "レムα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6709/#f6710",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6712",
-      "name": "エミリアα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6711/#f6712",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6714",
-      "name": "エルザ（クリスマス）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6713/#f6714",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6716",
-      "name": "メィリィ（クリスマス）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6715/#f6716",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6719",
-      "name": "ペテルギウス（クリスマス）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6717/#f6719",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "6722",
-      "name": "エンペディオス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6720/#f6722",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6723",
-      "name": "アヌビス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/592/#f6723",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "神"
     }
   ]
 }

@@ -658,6 +658,47 @@
       "speed": 356.77
     },
     {
+      "id": "197",
+      "name": "ストライク",
+      "attribute": "光",
+      "abilities": [
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/197.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "バーティカルレーザーL （光）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 12620,
+      "attack": 14698,
+      "speed": 240.1
+    },
+    {
+      "id": "198",
+      "name": "スーパーストライク",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "魔王キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/198.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "クロスレーザーL （光）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 19961,
+      "attack": 23360,
+      "speed": 273.67
+    },
+    {
       "id": "202",
       "name": "ズーマー",
       "attribute": "火",
@@ -2241,6 +2282,30 @@
       "race": "亜人"
     },
     {
+      "id": "688",
+      "name": "ゴッドストライク",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/688.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （光） 副友情 ワンウェイレーザーEL （闇）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 16ターン",
+      "rarity": 6,
+      "hp": 20698,
+      "attack": 22861,
+      "speed": 292.23,
+      "gaugeAbilities": [
+        "魔王キラー"
+      ]
+    },
+    {
       "id": "690",
       "name": "スラッシュ",
       "attribute": "闇",
@@ -2383,39 +2448,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "731",
-      "name": "ヘルメス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/730/#f731",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "737",
-      "name": "ヒュドラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/735/#f737",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "739",
-      "name": "フロッズ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/738/#f739",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
     }
   ]
 }

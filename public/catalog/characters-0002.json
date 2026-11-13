@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "731",
+      "name": "ヘルメス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/730/#f731",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "737",
+      "name": "ヒュドラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/735/#f737",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "739",
+      "name": "フロッズ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/738/#f739",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
       "id": "741",
       "name": "翠龍",
       "attribute": "木",
@@ -2175,39 +2208,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "ファイター"
-    },
-    {
-      "id": "1432",
-      "name": "バイソン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1431/#f1432",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ファイター"
-    },
-    {
-      "id": "1434",
-      "name": "バルログ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1433/#f1434",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ファイター"
-    },
-    {
-      "id": "1436",
-      "name": "サガット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1435/#f1436",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "ファイター"
     }
   ]

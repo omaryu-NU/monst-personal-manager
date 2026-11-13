@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "2776",
+      "name": "リザホークアイ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2775/#f2776",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2777",
+      "name": "ウィンリィ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2777/#f2777",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2779",
+      "name": "スカー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2778/#f2779",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2781",
+      "name": "ラスト",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2780/#f2781",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ホムンクルス"
+    },
+    {
+      "id": "2783",
+      "name": "エンヴィー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2782/#f2783",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ホムンクルス"
+    },
+    {
+      "id": "2787",
+      "name": "グリード",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2786/#f2787",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ホムンクルス"
+    },
+    {
+      "id": "2789",
+      "name": "グラトニー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2788/#f2789",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ホムンクルス"
+    },
+    {
       "id": "2804",
       "name": "猫又",
       "attribute": "火",
@@ -2120,83 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "3549",
-      "name": "比古清十郎",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3548/#f3549",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3551",
-      "name": "巻町操",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3550/#f3551",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "3554",
-      "name": "志々雄真実",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3552/#f3554",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3556",
-      "name": "悠久山安慈",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3555/#f3556",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3558",
-      "name": "四乃森蒼紫",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3557/#f3558",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3560",
-      "name": "沢下条張",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3559/#f3560",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "3562",
-      "name": "瀬田宗次郎",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3561/#f3562",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

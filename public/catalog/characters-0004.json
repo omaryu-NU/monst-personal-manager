@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "2099",
+      "name": "ゴモラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2098/#f2099",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "怪獣"
+    },
+    {
+      "id": "2101",
+      "name": "レッドキング",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2100/#f2101",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "怪獣"
+    },
+    {
+      "id": "2103",
+      "name": "ダダ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2102/#f2103",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "怪獣"
+    },
+    {
+      "id": "2104",
+      "name": "ピグモン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2104/#f2104",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
       "id": "2105",
       "name": "帰ってきたウルトラマンとリドラ",
       "attribute": "光",
@@ -1960,6 +2004,75 @@
       ]
     },
     {
+      "id": "2636",
+      "name": "ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "カウンターキラー 闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2636.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "ブレス （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
+      "rarity": 5,
+      "hp": 14707,
+      "attack": 12416,
+      "speed": 252.67,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2637",
+      "name": "妖精女王 ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "カウンターキラー 闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2637.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "ブレス （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
+      "rarity": 6,
+      "hp": 20158,
+      "attack": 17584,
+      "speed": 241.77,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2638",
+      "name": "麗しき妖精王妃 ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2638.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "防御アップ （無） 副友情 扇形拡散弾10 （水）",
+      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 12ターン",
+      "rarity": 6,
+      "hp": 20284,
+      "attack": 22909,
+      "speed": 335.5,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "2643",
       "name": "オペレーションクラブ",
       "attribute": "火",
@@ -2365,83 +2478,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "2776",
-      "name": "リザホークアイ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2775/#f2776",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2777",
-      "name": "ウィンリィ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2777/#f2777",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2779",
-      "name": "スカー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2778/#f2779",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2781",
-      "name": "ラスト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2780/#f2781",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ホムンクルス"
-    },
-    {
-      "id": "2783",
-      "name": "エンヴィー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2782/#f2783",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ホムンクルス"
-    },
-    {
-      "id": "2787",
-      "name": "グリード",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2786/#f2787",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ホムンクルス"
-    },
-    {
-      "id": "2789",
-      "name": "グラトニー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2788/#f2789",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ホムンクルス"
     }
   ]
 }

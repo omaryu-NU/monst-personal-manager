@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1432",
+      "name": "バイソン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1431/#f1432",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ファイター"
+    },
+    {
+      "id": "1434",
+      "name": "バルログ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1433/#f1434",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ファイター"
+    },
+    {
+      "id": "1436",
+      "name": "サガット",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1435/#f1436",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ファイター"
+    },
+    {
       "id": "1443",
       "name": "キルケー",
       "attribute": "水",
@@ -662,6 +695,30 @@
       "hp": 18651,
       "attack": 18283,
       "speed": 264.37
+    },
+    {
+      "id": "1631",
+      "name": "獣神 ゴッドストライク",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1631.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "8方向レーザーEL （光） 副友情 エナジーサークルM （光）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 12+4ターン",
+      "rarity": 6,
+      "hp": 22798,
+      "attack": 23911,
+      "speed": 309.73,
+      "gaugeAbilities": [
+        "カウンターキラー"
+      ]
     },
     {
       "id": "1642",
@@ -2188,50 +2245,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "怪獣"
-    },
-    {
-      "id": "2099",
-      "name": "ゴモラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2098/#f2099",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "怪獣"
-    },
-    {
-      "id": "2101",
-      "name": "レッドキング",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2100/#f2101",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "怪獣"
-    },
-    {
-      "id": "2103",
-      "name": "ダダ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2102/#f2103",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "怪獣"
-    },
-    {
-      "id": "2104",
-      "name": "ピグモン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2104/#f2104",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "怪獣"
     }
   ]

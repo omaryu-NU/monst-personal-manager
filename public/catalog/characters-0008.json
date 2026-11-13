@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "4881",
+      "name": "空弥",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4880/#f4881",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4882",
+      "name": "帝釈天廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3175/#f4882",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "4885",
+      "name": "セレナーデ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4884/#f4885",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "4897",
+      "name": "アスナ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3495/#f4897",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "4898",
+      "name": "シノン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3499/#f4898",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "4899",
+      "name": "キリト",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3501/#f4899",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4901",
+      "name": "ロニエ＆ティーゼ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4900/#f4901",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4903",
+      "name": "ユージオ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4902/#f4903",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4905",
+      "name": "ベルクーリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4904/#f4905",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4907",
       "name": "アリス",
       "attribute": "光",
@@ -1176,26 +1275,92 @@
       ]
     },
     {
+      "id": "5116",
+      "name": "異界の小悪魔 リリス",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5116.webp",
+      "source": "https://game.technophere.com/monst/char/5116/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "拡大貫通ロックオン衝撃波 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16805,
+      "attack": 15244,
+      "speed": 187.4
+    },
+    {
       "id": "5117",
       "name": "火リリス",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5116/#f5117",
+      "abilities": [
+        "アンチワープ",
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5117.webp",
+      "source": "https://game.technophere.com/monst/char/5116/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "拡大貫通ロックオン衝撃波 （無）",
+      "ss": "スピードで敵を幻惑し、一定期間、敵の弾を無効化する 12ターン",
+      "rarity": 6,
+      "hp": 20710,
+      "attack": 16942,
+      "speed": 239.5,
+      "gaugeAbilities": [
+        "アンチ魔法陣"
+      ]
+    },
+    {
+      "id": "5118",
+      "name": "異界の大皇帝 メロード",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5118.webp",
+      "source": "https://game.technophere.com/monst/char/5118/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット",
+      "friendship": "ブレス （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18091,
+      "attack": 23114,
+      "speed": 144.87
     },
     {
       "id": "5119",
       "name": "水メロード",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5118/#f5119",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5119.webp",
+      "source": "https://game.technophere.com/monst/char/5118/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "超強ブレス （水）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 16ターン",
+      "rarity": 6,
+      "hp": 18043,
+      "attack": 21887,
+      "speed": 166.77,
+      "gaugeAbilities": [
+        "魔法陣ブースト",
+        "ダッシュ"
+      ]
     },
     {
       "id": "5121",
@@ -2285,127 +2450,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "妖精"
-    },
-    {
-      "id": "5395",
-      "name": "ビルド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5394/#f5395",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "コスモ"
-    },
-    {
-      "id": "5397",
-      "name": "新1号",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5396/#f5397",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5399",
-      "name": "ゼロツー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5398/#f5399",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5401",
-      "name": "クウガ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5400/#f5401",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5403",
-      "name": "龍騎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5402/#f5403",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "5406",
-      "name": "オーズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5404/#f5406",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5408",
-      "name": "ブラック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5407/#f5408",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5410",
-      "name": "ジオウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5409/#f5410",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "5412",
-      "name": "ディケイド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5411/#f5412",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "5414",
-      "name": "セイバー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5413/#f5414",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5419",
-      "name": "軍荼利明王",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5418/#f5419",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }
