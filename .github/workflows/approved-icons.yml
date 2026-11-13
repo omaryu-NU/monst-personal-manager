@@ -1,0 +1,79 @@
+name: Import approved character icons
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 5 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: approved-icons
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test icon processing
+        run: |
+          python -m unittest discover -s tests -p 'test_auto_import_approved_icons.py'
+          python -m unittest discover -s tests -p 'test_generate_icon_candidates.py'
+      - name: Verify host and owner permission declaration
+        env:
+          APPROVED_ICON_HOST: ${{ vars.APPROVED_ICON_HOST }}
+          TECHNOPHERE_REUSE_APPROVED: ${{ vars.TECHNOPHERE_REUSE_APPROVED }}
+        run: |
+          test "$TECHNOPHERE_REUSE_APPROVED" = true
+          test "$APPROVED_ICON_HOST" = game.technophere.com
+          test -f public/catalog/manifest.json
+      - name: Build image candidate list from catalog JSON (offline)
+        run: |
+          python scripts/generate_icon_candidates.py \
+            --catalog public/catalog \
+            --csv config/approved-icon-sources.csv \
+            --host game.technophere.com \
+            --permission-reference 'owner-declared-Technophere-image-reuse-authorization'
+      - name: Dry run / report candidate counts
+        env:
+          APPROVED_ICON_HOST: ${{ vars.APPROVED_ICON_HOST }}
+        run: |
+          python scripts/auto_import_approved_icons.py \
+            --csv config/approved-icon-sources.csv \
+            --allow-host "$APPROVED_ICON_HOST" \
+            --report local-reports/approved-icons/dryrun.json
+      - name: Import accessible, approved images (up to 10/day)
+        if: vars.APPROVED_ICON_IMPORT_ENABLED == 'true'
+        env:
+          APPROVED_ICON_HOST: ${{ vars.APPROVED_ICON_HOST }}
+        run: |
+          python scripts/auto_import_approved_icons.py \
+            --csv config/approved-icon-sources.csv \
+            --allow-host "$APPROVED_ICON_HOST" \
+            --limit 10 --delay 3 --allow-denied --apply \
+            --report local-reports/approved-icons/import.json
+      - name: Upload image import report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: approved-icons-report
+          path: local-reports/approved-icons/*.json
+          if-no-files-found: warn
+          retention-days: 14
+      - name: Commit images and candidate list
+        if: vars.APPROVED_ICON_IMPORT_ENABLED == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- config/approved-icon-sources.csv public/character-icons
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: import approved character icons'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
