@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8314",
+      "name": "サンディッツ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8313/#f8314",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8315",
+      "name": "シリウス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1001/#f8315",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "コスモ"
+    },
+    {
+      "id": "8317",
+      "name": "カリユガ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8316/#f8317",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "8319",
+      "name": "島津豊久",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8318/#f8319",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
       "id": "8321",
       "name": "大友宗麟",
       "attribute": "木",
@@ -2172,50 +2216,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "獣"
-    },
-    {
-      "id": "8621",
-      "name": "花丸寿利",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8620/#f8621",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "8622",
-      "name": "ワーグナー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3427/#f8622",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8624",
-      "name": "ボンデラックス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8623/#f8624",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "8625",
-      "name": "エクリプス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/268/#f8625",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "コスモ"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7329",
+      "name": "パズル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7329/#f7329",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "7330",
+      "name": "空条徐倫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6413/#f7330",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7331",
+      "name": "空条承太郎SO",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6415/#f7331",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7332",
+      "name": "ウェザーリポート",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6417/#f7332",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7334",
       "name": "アヴドゥル",
       "attribute": "火",
@@ -1538,12 +1582,27 @@
       "id": "7489",
       "name": "シーター",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7488/#f7489",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチワープ",
+        "回復M SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7489.webp",
+      "source": "https://game.technophere.com/monst/char/7488/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "超絶貫通拡散弾EL5 （水） 副友情 超強アタッチボム6 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵をアクセラレータ状態にし、ふれた壁すべてに加速壁を張る 24+4ターン",
+      "rarity": 6,
+      "hp": 19088,
+      "attack": 20854,
+      "speed": 314.1,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "ダッシュ"
+      ]
     },
     {
       "id": "7491",
@@ -2545,50 +2604,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "妖精"
-    },
-    {
-      "id": "7642",
-      "name": "仙丹",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7641/#f7642",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7644",
-      "name": "塚原卜伝",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7643/#f7644",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7646",
-      "name": "富田勢源",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7645/#f7646",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7648",
-      "name": "源為朝",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7647/#f7648",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
     }
   ]
 }

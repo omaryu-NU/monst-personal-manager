@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "702",
+      "name": "ハヌマーン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/701/#f702",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻獣"
+    },
+    {
+      "id": "704",
+      "name": "チャンドラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/703/#f704",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "706",
       "name": "アグニ",
       "attribute": "火",
@@ -2199,28 +2221,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "1399",
-      "name": "モルジアナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1398/#f1399",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "1405",
-      "name": "ロック鳥",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1403/#f1405",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鳥"
     }
   ]
 }

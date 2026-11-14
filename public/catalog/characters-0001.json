@@ -944,28 +944,80 @@
       "speed": 356.8
     },
     {
+      "id": "228",
+      "name": "赤木玲奈",
+      "attribute": "火",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/228.webp",
+      "source": "https://game.technophere.com/monst/char/228/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ホーミング4 （火）",
+      "ss": "正義の力でふれた仲間を一定期間、攻撃力アップ 16ターン",
+      "rarity": 4,
+      "hp": 6960,
+      "attack": 8976,
+      "speed": 229.6
+    },
+    {
       "id": "229",
       "name": "モンストレッド",
       "attribute": "火",
-      "abilities": [],
+      "abilities": [
+        "ドラゴンキラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/229.webp",
-      "source": "https://game.technophere.com/monst/char/228/#f229",
+      "source": "https://game.technophere.com/monst/char/228/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ホーミング6 （火）",
+      "ss": "正義の力で爆発し周囲の敵を巻込みダメージを与える 20ターン",
+      "rarity": 5,
+      "hp": 12060,
+      "attack": 15785,
+      "speed": 266.33
+    },
+    {
+      "id": "230",
+      "name": "三島晴子",
+      "attribute": "水",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/230.webp",
+      "source": "https://game.technophere.com/monst/char/230/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "拡散弾L2 （水）",
+      "ss": "正義の力でふれた仲間を大回復させる 20ターン",
+      "rarity": 4,
+      "hp": 6760,
+      "attack": 7216,
+      "speed": 182.3
     },
     {
       "id": "231",
       "name": "三島晴子",
       "attribute": "水",
-      "abilities": [],
+      "abilities": [
+        "鉱物キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/231.webp",
-      "source": "https://game.technophere.com/monst/char/230/#f231",
+      "source": "https://game.technophere.com/monst/char/230/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "拡散弾EL3 （水）",
+      "ss": "正義の力でふれた最初の敵を乱打し、レーザーで追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 11860,
+      "attack": 12817,
+      "speed": 211.8
     },
     {
       "id": "233",
@@ -2539,28 +2591,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔王"
-    },
-    {
-      "id": "702",
-      "name": "ハヌマーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/701/#f702",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻獣"
-    },
-    {
-      "id": "704",
-      "name": "チャンドラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/703/#f704",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
     }
   ]
 }

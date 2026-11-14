@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3457",
+      "name": "エレシュキガルSP",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3134/#f3457",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "3460",
+      "name": "フラッグ&エクスコーン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3459/#f3460",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "3477",
+      "name": "超人ジー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3476/#f3477",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "3479",
       "name": "ネズビリー",
       "attribute": "木",
@@ -2190,39 +2223,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "鳥"
-    },
-    {
-      "id": "4170",
-      "name": "フラパ玉藻前",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3403/#f4170",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "4171",
-      "name": "フラパカナン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2760/#f4171",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4174",
-      "name": "フラジュニア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4173/#f4174",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

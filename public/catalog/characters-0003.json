@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1399",
+      "name": "モルジアナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1398/#f1399",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "1405",
+      "name": "ロック鳥",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1403/#f1405",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "鳥"
+    },
+    {
       "id": "1407",
       "name": "キャメル",
       "attribute": "水",
@@ -2234,28 +2256,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "獣"
-    },
-    {
-      "id": "2070",
-      "name": "ヤマタノオロチ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2068/#f2070",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "2072",
-      "name": "サイクロプス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2071/#f2072",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

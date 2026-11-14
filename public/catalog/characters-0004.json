@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2070",
+      "name": "ヤマタノオロチ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2068/#f2070",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "2072",
+      "name": "サイクロプス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2071/#f2072",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "2075",
       "name": "スキュラ",
       "attribute": "光",
@@ -2496,15 +2518,52 @@
       ]
     },
     {
+      "id": "2654",
+      "name": "ティグノス",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2654.webp",
+      "source": "https://game.technophere.com/monst/char/2654/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "斬撃 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14026,
+      "attack": 10948,
+      "speed": 237.57,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
       "id": "2655",
       "name": "ティグノス",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2654/#f2655",
+      "abilities": [
+        "超アンチワープ（ラック）",
+        "アンチ魔法陣",
+        "闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2655.webp",
+      "source": "https://game.technophere.com/monst/char/2654/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "神獣"
+      "race": "神",
+      "friendship": "超絶斬撃 （無）",
+      "ss": "壁にバウンドすればするほど、攻撃力がアップする 20ターン",
+      "rarity": 6,
+      "hp": 18703,
+      "attack": 19007,
+      "speed": 274.87,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2657",
@@ -2604,39 +2663,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "2698",
-      "name": "ミスターテルテル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2697/#f2698",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "2700",
-      "name": "雨中人",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2699/#f2700",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "2702",
-      "name": "カビカビーズ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2701/#f2702",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2698",
+      "name": "ミスターテルテル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2697/#f2698",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "2700",
+      "name": "雨中人",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2699/#f2700",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "2702",
+      "name": "カビカビーズ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2701/#f2702",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "2705",
       "name": "ジュン",
       "attribute": "闇",
@@ -2178,39 +2211,6 @@
       "gaugeAbilities": [
         "回復 状態異常回復"
       ]
-    },
-    {
-      "id": "3457",
-      "name": "エレシュキガルSP",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3134/#f3457",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "3460",
-      "name": "フラッグ&エクスコーン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3459/#f3460",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "3477",
-      "name": "超人ジー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3476/#f3477",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

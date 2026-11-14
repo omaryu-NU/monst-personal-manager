@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4780",
+      "name": "ノクターン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4779/#f4780",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "4788",
+      "name": "フビライハン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4785/#f4788",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "4796",
+      "name": "ユンファ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4795/#f4796",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "4798",
       "name": "ウーエン",
       "attribute": "水",
@@ -1870,15 +1903,47 @@
       ]
     },
     {
+      "id": "5132",
+      "name": "異界の女帝 クィーンバタフライ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5132.webp",
+      "source": "https://game.technophere.com/monst/char/5132/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "反射クロスレーザーM （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14565,
+      "attack": 18488,
+      "speed": 313.8
+    },
+    {
       "id": "5133",
       "name": "闇クイバタ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5132/#f5133",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5133.webp",
+      "source": "https://game.technophere.com/monst/char/5132/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "反射クロスレーザーEL （闇）",
+      "ss": "貫通タイプになり、敵を激しく貫く 20ターン",
+      "rarity": 6,
+      "hp": 17001,
+      "attack": 16272,
+      "speed": 329.83,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "5135",
@@ -2539,50 +2604,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "5300",
-      "name": "持国天",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5299/#f5300",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "5302",
-      "name": "アザゼル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1802/#f5302",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "5303",
-      "name": "カーリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/695/#f5303",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "5304",
-      "name": "ヘイムダル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2556/#f5304",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

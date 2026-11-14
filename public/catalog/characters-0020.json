@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9229",
+      "name": "ポットスターラー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9228/#f9229",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "9231",
+      "name": "アンペア",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9230/#f9231",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "9232",
+      "name": "ポルトス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1075/#f9232",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "9234",
+      "name": "サクラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9233/#f9234",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "9236",
       "name": "サスケ",
       "attribute": "水",
@@ -3322,51 +3366,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "サムライ"
-    },
-    {
-      "id": "9487",
-      "name": "大典太光世",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4971/#f9487",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "9488",
-      "name": "数珠丸恒次",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5028/#f9488",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "9489",
-      "name": "ビナー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4514/#f9489",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "9490",
-      "name": "ビナー",
-      "attribute": "木",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9490.webp",
-      "source": "https://game.technophere.com/monst/char/5988/#f9490",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
     }
   ]
 }
