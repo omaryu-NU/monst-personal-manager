@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2067",
+      "name": "ヘルハウンド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2066/#f2067",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
       "id": "2070",
       "name": "ヤマタノオロチ",
       "attribute": "水",
@@ -2599,15 +2610,45 @@
       "race": "聖域の狩人"
     },
     {
+      "id": "2662",
+      "name": "ワイヤード",
+      "attribute": "木",
+      "abilities": [
+        "神獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2662.webp",
+      "source": "https://game.technophere.com/monst/char/2662/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "貫通拡散弾EL3 （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12647,
+      "attack": 8487,
+      "speed": 231.13
+    },
+    {
       "id": "2663",
       "name": "ワイヤード",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2662/#f2663",
+      "abilities": [
+        "アンチ重力バリア",
+        "神獣スレイヤー レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2663.webp",
+      "source": "https://game.technophere.com/monst/char/2662/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "聖域の狩人"
+      "race": "聖域の狩人",
+      "friendship": "超強貫通拡散弾EL3 （木）",
+      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 21ターン",
+      "rarity": 6,
+      "hp": 17685,
+      "attack": 16953,
+      "speed": 295.33
     },
     {
       "id": "2665",
@@ -2641,28 +2682,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "2681",
-      "name": "クリオドン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2680/#f2681",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "2683",
-      "name": "シュモクマン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2682/#f2683",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

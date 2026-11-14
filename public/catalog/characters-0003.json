@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1391",
+      "name": "カシム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1390/#f1391",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "1399",
       "name": "モルジアナ",
       "attribute": "光",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "2067",
-      "name": "ヘルハウンド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2066/#f2067",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }

@@ -1020,16 +1020,42 @@
       "speed": 211.8
     },
     {
+      "id": "232",
+      "name": "緑川ひかる",
+      "attribute": "木",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/232.webp",
+      "source": "https://game.technophere.com/monst/char/232/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "大爆発 （無）",
+      "ss": "正義の力でパワーが大アップ 13ターン",
+      "rarity": 4,
+      "hp": 7160,
+      "attack": 12628,
+      "speed": 136.8
+    },
+    {
       "id": "233",
       "name": "モンストグリーン",
       "attribute": "木",
-      "abilities": [],
+      "abilities": [
+        "獣キラー"
+      ],
       "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/233.webp",
-      "source": "https://game.technophere.com/monst/char/232/#f233",
+      "source": "https://game.technophere.com/monst/char/232/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "大々爆発 （無）",
+      "ss": "正義の力でふれた最初の敵を乱打し、拡散弾で追い討ち 13ターン",
+      "rarity": 5,
+      "hp": 12265,
+      "attack": 22351,
+      "speed": 150.97
     },
     {
       "id": "235",
@@ -2580,17 +2606,6 @@
       "gaugeAbilities": [
         "魔王キラー"
       ]
-    },
-    {
-      "id": "690",
-      "name": "スラッシュ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/689/#f690",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
     }
   ]
 }

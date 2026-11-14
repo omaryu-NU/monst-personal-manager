@@ -2,6 +2,42 @@
   "version": 1,
   "characters": [
     {
+      "id": "3455",
+      "name": "マグメルSP",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2548/#f3455",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3456",
+      "name": "エルドラドSP",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3456.webp",
+      "source": "https://game.technophere.com/monst/char/2651/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース",
+      "friendship": "ラウンドフラッシュ （無） 副友情 バウンドヒール （無）",
+      "ss": "ふれた敵すべてを、ふっとばす 18ターン",
+      "rarity": 6,
+      "hp": 19930,
+      "attack": 16151,
+      "speed": 216.83,
+      "gaugeAbilities": [
+        "回復 状態異常回復"
+      ]
+    },
+    {
       "id": "3457",
       "name": "エレシュキガルSP",
       "attribute": "闇",
@@ -2201,28 +2237,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "4168",
-      "name": "フラパホールズ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3196/#f4168",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ユニバース"
-    },
-    {
-      "id": "4169",
-      "name": "フラパシャンバラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1931/#f4169",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "鳥"
     }
   ]
 }

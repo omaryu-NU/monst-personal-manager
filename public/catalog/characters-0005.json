@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2681",
+      "name": "クリオドン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2680/#f2681",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "2683",
+      "name": "シュモクマン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2682/#f2683",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "2698",
       "name": "ミスターテルテル",
       "attribute": "水",
@@ -2175,42 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "3455",
-      "name": "マグメルSP",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2548/#f3455",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3456",
-      "name": "エルドラドSP",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ魔法陣",
-        "リジェネ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3456.webp",
-      "source": "https://game.technophere.com/monst/char/2651/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース",
-      "friendship": "ラウンドフラッシュ （無） 副友情 バウンドヒール （無）",
-      "ss": "ふれた敵すべてを、ふっとばす 18ターン",
-      "rarity": 6,
-      "hp": 19930,
-      "attack": 16151,
-      "speed": 216.83,
-      "gaugeAbilities": [
-        "回復 状態異常回復"
-      ]
     }
   ]
 }
