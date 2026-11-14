@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "684",
+      "name": "イズナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/683/#f684",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "688",
       "name": "ゴッドストライク",
       "attribute": "光",
@@ -2223,17 +2234,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔王"
-    },
-    {
-      "id": "1379",
-      "name": "スイハンジャー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1378/#f1379",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

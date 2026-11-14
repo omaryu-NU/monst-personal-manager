@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4138",
+      "name": "ツバサ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4137/#f4138",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4156",
+      "name": "ラウラウ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4155/#f4156",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4158",
+      "name": "アヒポキ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4157/#f4158",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "4160",
+      "name": "アサイー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4159/#f4160",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
       "id": "4163",
       "name": "ロコモコ",
       "attribute": "闇",
@@ -809,6 +853,27 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
+    },
+    {
+      "id": "4389",
+      "name": "快刃繚乱の戦乙女 大和",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "魔封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4389.webp",
+      "source": "https://game.technophere.com/monst/char/2666/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "長薙ぎ払い （火） 副友情 超強貫通ロックオン衝撃波6 （無）",
+      "ss": "スピードとパワーがアップ＆ブロックを無効化する 8+8ターン",
+      "rarity": 6,
+      "hp": 17321,
+      "attack": 31133,
+      "speed": 272.3
     },
     {
       "id": "4391",
@@ -2234,61 +2299,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "4762",
-      "name": "第5使徒",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4761/#f4762",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "使徒"
-    },
-    {
-      "id": "4764",
-      "name": "第8使徒",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4763/#f4764",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "使徒"
-    },
-    {
-      "id": "4766",
-      "name": "第4使徒",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4765/#f4766",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "使徒"
-    },
-    {
-      "id": "4768",
-      "name": "第7使徒",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4767/#f4768",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "使徒"
-    },
-    {
-      "id": "4770",
-      "name": "第3使徒",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4769/#f4770",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "使徒"
     }
   ]
 }

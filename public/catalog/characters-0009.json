@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "5252",
+      "name": "ニューイヤーキッド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5252/#f5252",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5253",
+      "name": "初春御前",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5253/#f5253",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "5254",
+      "name": "はつひ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5254/#f5254",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "5263",
+      "name": "ジャスティス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5262/#f5263",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5273",
+      "name": "ウスゴロー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5272/#f5273",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "5276",
+      "name": "えまり",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5274/#f5276",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "5278",
       "name": "ヤッコ",
       "attribute": "闇",
@@ -2134,72 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "5793",
-      "name": "アルパキャーノ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5792/#f5793",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "5795",
-      "name": "ワラビッカ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5794/#f5795",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "5798",
-      "name": "ヌビルベックス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5796/#f5798",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "5800",
-      "name": "ダウト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5799/#f5800",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "5803",
-      "name": "エーテル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5802/#f5803",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5805",
-      "name": "葛飾北斎",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2213/#f5805",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔人"
     }
   ]
 }

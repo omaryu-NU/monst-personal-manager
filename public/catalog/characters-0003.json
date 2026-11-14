@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1379",
+      "name": "スイハンジャー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1378/#f1379",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "1382",
       "name": "サテライト",
       "attribute": "闇",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2050",
-      "name": "酒池肉林",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2049/#f2050",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
     }
   ]
 }

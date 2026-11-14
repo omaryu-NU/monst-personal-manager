@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "9205",
+      "name": "ドラクロノ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9205/#f9205",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "9206",
+      "name": "サディアル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9206/#f9206",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9207",
+      "name": "お抹",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9207/#f9207",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9208",
+      "name": "プラネタル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9208/#f9208",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9210",
+      "name": "サンドラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9209/#f9210",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9212",
+      "name": "えびすα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9211/#f9212",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "9214",
       "name": "モンタナα",
       "attribute": "光",
@@ -3169,142 +3235,6 @@
       "gaugeAbilities": [
         "アンチワープ",
         "アンチ転送壁"
-      ]
-    },
-    {
-      "id": "9473",
-      "name": "クルガン",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9473.webp",
-      "source": "https://game.technophere.com/monst/char/9473/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "連気弾 （水）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 8502,
-      "attack": 12416,
-      "speed": 155.3
-    },
-    {
-      "id": "9474",
-      "name": "クルガン",
-      "attribute": "水",
-      "abilities": [
-        "アンチワープ",
-        "マインスイーパーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9474.webp",
-      "source": "https://game.technophere.com/monst/char/9473/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "連気弾 （水）",
-      "ss": "スピードとパワーが一定期間アップ 12ターン",
-      "rarity": 5,
-      "hp": 14950,
-      "attack": 19047,
-      "speed": 187.43,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "連撃キラー"
-      ]
-    },
-    {
-      "id": "9475",
-      "name": "ライ＆ロイ",
-      "attribute": "木",
-      "abilities": [
-        "ソウルスティール"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9475.webp",
-      "source": "https://game.technophere.com/monst/char/9475/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "超絶破裂斬撃弾 （木）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 17746,
-      "attack": 22253,
-      "speed": 308.87
-    },
-    {
-      "id": "9476",
-      "name": "ライ＆ロイ",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチダメージウォール"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9476.webp",
-      "source": "https://game.technophere.com/monst/char/9475/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "超絶破裂斬撃弾 （木）",
-      "ss": "ライとロイで駆け回る＆ライがふれた敵の防御力を吸収し、ロイがふれた敵の攻撃力を吸収する 16ターン",
-      "rarity": 6,
-      "hp": 19184,
-      "attack": 17987,
-      "speed": 331.67,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "ソウルスティール"
-      ]
-    },
-    {
-      "id": "9477",
-      "name": "シリウス",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9477.webp",
-      "source": "https://game.technophere.com/monst/char/9477/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "爆絶ホーミング6 （光）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 17538,
-      "attack": 22643,
-      "speed": 243.77
-    },
-    {
-      "id": "9478",
-      "name": "シリウス",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ減速壁",
-        "バイタルキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9478.webp",
-      "source": "https://game.technophere.com/monst/char/9477/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "爆絶ホーミング12 （光）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を金鎖で攻撃 13ターン",
-      "rarity": 6,
-      "hp": 19511,
-      "attack": 18303,
-      "speed": 261.77,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "アンチマルチレイヤ"
       ]
     }
   ]

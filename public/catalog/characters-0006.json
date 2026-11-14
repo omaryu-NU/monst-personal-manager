@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "3434",
+      "name": "ファーブル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3433/#f3434",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3437",
+      "name": "ダーウィン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3435/#f3437",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "3439",
+      "name": "杉田玄白",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3438/#f3439",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3441",
+      "name": "ピタゴラス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3440/#f3441",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "3453",
       "name": "みくもSP",
       "attribute": "火",
@@ -2193,50 +2237,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "神"
-    },
-    {
-      "id": "4138",
-      "name": "ツバサ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4137/#f4138",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4156",
-      "name": "ラウラウ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4155/#f4156",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4158",
-      "name": "アヒポキ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4157/#f4158",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "4160",
-      "name": "アサイー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4159/#f4160",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
     }
   ]
 }

@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4762",
+      "name": "第5使徒",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4761/#f4762",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "使徒"
+    },
+    {
+      "id": "4764",
+      "name": "第8使徒",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4763/#f4764",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "使徒"
+    },
+    {
+      "id": "4766",
+      "name": "第4使徒",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4765/#f4766",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "使徒"
+    },
+    {
+      "id": "4768",
+      "name": "第7使徒",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4767/#f4768",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "使徒"
+    },
+    {
+      "id": "4770",
+      "name": "第3使徒",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4769/#f4770",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "使徒"
+    },
+    {
       "id": "4772",
       "name": "カヲル＆リリス",
       "attribute": "闇",
@@ -2141,15 +2196,48 @@
       "speed": 255.37
     },
     {
+      "id": "5149",
+      "name": "真・夏侯惇",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5149.webp",
+      "source": "https://game.technophere.com/monst/char/5149/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "プラズマ （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14554,
+      "attack": 10539,
+      "speed": 241.73
+    },
+    {
       "id": "5150",
       "name": "真夏侯惇",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5149/#f5150",
+      "abilities": [
+        "アンチ重力バリア",
+        "魔王キラーM 魔王耐性M"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5150.webp",
+      "source": "https://game.technophere.com/monst/char/5149/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "超強プラズマ （光）",
+      "ss": "魏霊戦神の力でスピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 18290,
+      "attack": 17454,
+      "speed": 287.23,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "5158",
@@ -2579,72 +2667,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "5252",
-      "name": "ニューイヤーキッド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5252/#f5252",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5253",
-      "name": "初春御前",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5253/#f5253",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "5254",
-      "name": "はつひ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5254/#f5254",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "5263",
-      "name": "ジャスティス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5262/#f5263",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5273",
-      "name": "ウスゴロー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5272/#f5273",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "5276",
-      "name": "えまり",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5274/#f5276",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
     }
   ]
 }

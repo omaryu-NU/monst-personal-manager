@@ -1096,15 +1096,42 @@
       "speed": 353
     },
     {
+      "id": "236",
+      "name": "椿クロエ",
+      "attribute": "闇",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/236.webp",
+      "source": "https://game.technophere.com/monst/char/236/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "クロスレーザーS （闇）",
+      "ss": "せいぎのちからですぴーどとぱわーがちゅうあっぷ 11ターン",
+      "rarity": 4,
+      "hp": 6660,
+      "attack": 7216,
+      "speed": 183.37
+    },
+    {
       "id": "237",
       "name": "モンストブラック",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/236/#f237",
+      "abilities": [
+        "神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/237.webp",
+      "source": "https://game.technophere.com/monst/char/236/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "クロスレーザーM （闇）",
+      "ss": "なかまがよわってるといたいこうげき 36ターン",
+      "rarity": 5,
+      "hp": 11655,
+      "attack": 11347,
+      "speed": 215.3
     },
     {
       "id": "239",
@@ -2597,17 +2624,6 @@
       "evolution": "神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "684",
-      "name": "イズナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/683/#f684",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

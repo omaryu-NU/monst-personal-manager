@@ -2,6 +2,89 @@
   "version": 1,
   "characters": [
     {
+      "id": "2665",
+      "name": "カグツチ",
+      "attribute": "火",
+      "abilities": [
+        "火属性キラーM 光属性キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2665.webp",
+      "source": "https://game.technophere.com/monst/char/2664/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 16984,
+      "attack": 22974,
+      "speed": 313.47,
+      "gaugeAbilities": [
+        "超アンチ重力バリア",
+        "底力"
+      ]
+    },
+    {
+      "id": "2666",
+      "name": "大和",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2666.webp",
+      "source": "https://game.technophere.com/monst/char/2666/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "次元斬 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 10791,
+      "attack": 21034,
+      "speed": 210.47
+    },
+    {
+      "id": "2667",
+      "name": "不沈の戦乙女 大和",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2667.webp",
+      "source": "https://game.technophere.com/monst/char/2666/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "超強次元斬 （無）",
+      "ss": "狙った方向および逆方向に２本の反射波動砲を放つ 20ターン",
+      "rarity": 6,
+      "hp": 17116,
+      "attack": 27773,
+      "speed": 269.33
+    },
+    {
+      "id": "2668",
+      "name": "進撃の戦乙女 大和",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "魔封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2668.webp",
+      "source": "https://game.technophere.com/monst/char/2666/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "超強貫通ロックオン衝撃波6 （無） 副友情 貫通拡散弾L2 （闇）",
+      "ss": "自身のスピードとパワーがアップ＆ブロックを無効化する 12ターン",
+      "rarity": 6,
+      "hp": 18946,
+      "attack": 22698,
+      "speed": 287.57
+    },
+    {
       "id": "2676",
       "name": "ボルカノザウラー",
       "attribute": "火",
@@ -2153,50 +2236,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "3434",
-      "name": "ファーブル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3433/#f3434",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3437",
-      "name": "ダーウィン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3435/#f3437",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3439",
-      "name": "杉田玄白",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3438/#f3439",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3441",
-      "name": "ピタゴラス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3440/#f3441",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }
