@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2676",
+      "name": "ボルカノザウラー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2675/#f2676",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物"
+    },
+    {
+      "id": "2679",
+      "name": "スコーピカ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2677/#f2679",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
       "id": "2681",
       "name": "クリオドン",
       "attribute": "光",
@@ -2175,28 +2197,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "3453",
-      "name": "みくもSP",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2413/#f3453",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "3454",
-      "name": "司馬懿SP",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2341/#f3454",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

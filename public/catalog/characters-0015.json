@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7633",
+      "name": "優一郎黒野",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7632/#f7633",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7634",
+      "name": "ジョーカー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7634/#f7634",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7635",
+      "name": "武久火縄",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7635/#f7635",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7636",
+      "name": "アイリス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7636/#f7636",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7637",
       "name": "シャトル",
       "attribute": "水",
@@ -2203,50 +2247,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "7976",
-      "name": "マジョリティハウンド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7975/#f7976",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "7978",
-      "name": "マッドディグ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7977/#f7978",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "7980",
-      "name": "ルーザーズウッズ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7979/#f7980",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "7982",
-      "name": "貪食の大蛇",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7981/#f7982",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1382",
+      "name": "サテライト",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1380/#f1382",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
       "id": "1391",
       "name": "カシム",
       "attribute": "火",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "2053",
-      "name": "イザナギ零",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2052/#f2053",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

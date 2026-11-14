@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2053",
+      "name": "イザナギ零",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2052/#f2053",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "2067",
       "name": "ヘルハウンド",
       "attribute": "火",
@@ -2651,37 +2662,48 @@
       "speed": 295.33
     },
     {
+      "id": "2664",
+      "name": "カグツチ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2664.webp",
+      "source": "https://game.technophere.com/monst/char/2664/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 10224,
+      "attack": 15900,
+      "speed": 253.13
+    },
+    {
       "id": "2665",
       "name": "カグツチ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2664/#f2665",
+      "abilities": [
+        "火属性キラーM 光属性キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2665.webp",
+      "source": "https://game.technophere.com/monst/char/2664/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "2676",
-      "name": "ボルカノザウラー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2675/#f2676",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "2679",
-      "name": "スコーピカ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2677/#f2679",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
+      "race": "神",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 16984,
+      "attack": 22974,
+      "speed": 313.47,
+      "gaugeAbilities": [
+        "超アンチ重力バリア",
+        "底力"
+      ]
     }
   ]
 }

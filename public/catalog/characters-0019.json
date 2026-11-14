@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8913",
+      "name": "シューティング",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8912/#f8913",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8915",
+      "name": "ユククル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8914/#f8915",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8917",
+      "name": "カルマロックスター",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8916/#f8917",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8918",
+      "name": "マルタα",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5964/#f8918",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "8919",
       "name": "神農α",
       "attribute": "木",
@@ -2160,50 +2204,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "神"
-    },
-    {
-      "id": "9214",
-      "name": "モンタナα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9213/#f9214",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニオン"
-    },
-    {
-      "id": "9216",
-      "name": "スカアハα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9215/#f9216",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "9219",
-      "name": "寿ヒトミ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9217/#f9219",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "9221",
-      "name": "ドドリー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9220/#f9221",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "鳥"
     }
   ]
 }

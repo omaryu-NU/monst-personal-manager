@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4163",
+      "name": "ロコモコ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4161/#f4163",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4167",
+      "name": "フラパハクビ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3473/#f4167",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "4168",
       "name": "フラパホールズ",
       "attribute": "水",
@@ -2267,28 +2289,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "使徒"
-    },
-    {
-      "id": "4772",
-      "name": "カヲル＆リリス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4771/#f4772",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4773",
-      "name": "マリ8号機",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4773/#f4773",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "エヴァパイロット"
     }
   ]
 }

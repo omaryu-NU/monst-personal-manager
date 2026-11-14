@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9214",
+      "name": "モンタナα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9213/#f9214",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ユニオン"
+    },
+    {
+      "id": "9216",
+      "name": "スカアハα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9215/#f9216",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "9219",
+      "name": "寿ヒトミ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9217/#f9219",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "9221",
+      "name": "ドドリー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9220/#f9221",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "鳥"
+    },
+    {
       "id": "9223",
       "name": "フェディー",
       "attribute": "光",
@@ -3261,96 +3305,6 @@
       "gaugeAbilities": [
         "アンチブロック",
         "アンチマルチレイヤ"
-      ]
-    },
-    {
-      "id": "9479",
-      "name": "カペラ",
-      "attribute": "闇",
-      "abilities": [
-        "リジェネ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9479.webp",
-      "source": "https://game.technophere.com/monst/char/9479/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "ワンウェイレーザーL （闇）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 17538,
-      "attack": 23048,
-      "speed": 236.9
-    },
-    {
-      "id": "9480",
-      "name": "カペラ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチワープ",
-        "リジェネ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9480.webp",
-      "source": "https://game.technophere.com/monst/char/9479/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "超強ワンウェイレーザーEL （闇）",
-      "ss": "スピードとパワーがアップし、ふれた敵を一定期間、毒状態にする＆停止後に最初にふれた味方に変身 20ターン",
-      "rarity": 6,
-      "hp": 19178,
-      "attack": 18630,
-      "speed": 254.4,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "9481",
-      "name": "レグルス",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9481.webp",
-      "source": "https://game.technophere.com/monst/char/9481/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "爆絶オールレンジバレット （光）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 16391,
-      "attack": 18686,
-      "speed": 271.13
-    },
-    {
-      "id": "9482",
-      "name": "レグルス",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ",
-        "ロングパワーモード ロングシールドモード ロングバブリーモード"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9482.webp",
-      "source": "https://game.technophere.com/monst/char/9481/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "爆絶オールレンジバレット （光）",
-      "ss": "スピードとパワーがアップ＆停止後にすべての敵を水滴の弾丸で攻撃 22ターン",
-      "rarity": 6,
-      "hp": 16391,
-      "attack": 18686,
-      "speed": 271.13,
-      "gaugeAbilities": [
-        "アンチ減速壁",
-        "アンチ転送壁"
       ]
     }
   ]

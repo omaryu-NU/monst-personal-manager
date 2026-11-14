@@ -2,6 +2,30 @@
   "version": 1,
   "characters": [
     {
+      "id": "688",
+      "name": "ゴッドストライク",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/688.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "ワンウェイレーザーEL （光） 副友情 ワンウェイレーザーEL （闇）",
+      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 16ターン",
+      "rarity": 6,
+      "hp": 20698,
+      "attack": 22861,
+      "speed": 292.23,
+      "gaugeAbilities": [
+        "魔王キラー"
+      ]
+    },
+    {
       "id": "690",
       "name": "スラッシュ",
       "attribute": "闇",
@@ -2210,17 +2234,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "1382",
-      "name": "サテライト",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1380/#f1382",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
     }
   ]
 }

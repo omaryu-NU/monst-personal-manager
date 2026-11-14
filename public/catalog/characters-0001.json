@@ -1058,15 +1058,42 @@
       "speed": 150.97
     },
     {
+      "id": "234",
+      "name": "神宮寺百花",
+      "attribute": "光",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/234.webp",
+      "source": "https://game.technophere.com/monst/char/234/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "拡散弾L2 （光）",
+      "ss": "正義の力でふれた仲間を短期間、スピードアップ 17ターン",
+      "rarity": 4,
+      "hp": 6850,
+      "attack": 6765,
+      "speed": 319.13
+    },
+    {
       "id": "235",
       "name": "モンストイエロー",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/234/#f235",
+      "abilities": [
+        "妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/235.webp",
+      "source": "https://game.technophere.com/monst/char/234/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "正義の力でスピードがめちゃアップ 11ターン",
+      "rarity": 5,
+      "hp": 11960,
+      "attack": 11681,
+      "speed": 353
     },
     {
       "id": "237",
@@ -2582,30 +2609,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "688",
-      "name": "ゴッドストライク",
-      "attribute": "光",
-      "abilities": [
-        "飛行",
-        "闇属性耐性"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/688.webp",
-      "source": "https://game.technophere.com/monst/char/197/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神",
-      "friendship": "ワンウェイレーザーEL （光） 副友情 ワンウェイレーザーEL （闇）",
-      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 16ターン",
-      "rarity": 6,
-      "hp": 20698,
-      "attack": 22861,
-      "speed": 292.23,
-      "gaugeAbilities": [
-        "魔王キラー"
-      ]
     }
   ]
 }

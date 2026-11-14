@@ -2,6 +2,54 @@
   "version": 1,
   "characters": [
     {
+      "id": "7320",
+      "name": "柴八戒",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7320/#f7320",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7321",
+      "name": "ナナミ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/326/#f7321",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7322",
+      "name": "ストライク",
+      "attribute": "光",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "カウンターキラー 闇属性耐性 超レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7322.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神",
+      "friendship": "超強8方向レーザーEL （光） 副友情 ハイエナジーサークル （光）",
+      "ss": "スピードとパワーがアップ＆ブロックを無効化する 8+8ターン",
+      "rarity": 6,
+      "hp": 24076,
+      "attack": 24814,
+      "speed": 330.47,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ減速壁"
+      ]
+    },
+    {
       "id": "7323",
       "name": "ロキ",
       "attribute": "闇",
@@ -1791,15 +1839,47 @@
       "speed": 348.67
     },
     {
+      "id": "7518",
+      "name": "猪野琢真",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7518.webp",
+      "source": "https://game.technophere.com/monst/char/7518/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "フェロー拡大爆破弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8067,
+      "attack": 11126,
+      "speed": 162.23
+    },
+    {
       "id": "7519",
       "name": "猪野琢真",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7518/#f7519",
+      "abilities": [
+        "超アンチワープ",
+        "超マインスイーパーM",
+        "アンチ減速壁",
+        "弱点キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7519.webp",
+      "source": "https://game.technophere.com/monst/char/7518/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "フェロー拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に「獬豸」で攻撃 18ターン",
+      "rarity": 5,
+      "hp": 13100,
+      "attack": 17216,
+      "speed": 309.27
     },
     {
       "id": "7520",
@@ -2580,50 +2660,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7633",
-      "name": "優一郎黒野",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7632/#f7633",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7634",
-      "name": "ジョーカー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7634/#f7634",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7635",
-      "name": "武久火縄",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7635/#f7635",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7636",
-      "name": "アイリス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7636/#f7636",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]
