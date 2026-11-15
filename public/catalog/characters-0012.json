@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6604",
+      "name": "ネム",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3697/#f6604",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6605",
+      "name": "アダマンタイト廻",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4718/#f6605",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
+      "id": "6607",
+      "name": "須ノ花蓮治郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6606/#f6607",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6609",
+      "name": "小桐さくの",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6608/#f6609",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6611",
+      "name": "電堂りるる",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6610/#f6611",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6616",
+      "name": "双腕髪切",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6615/#f6616",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
       "id": "6618",
       "name": "紋化猿",
       "attribute": "闇",
@@ -2134,72 +2200,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "6970",
-      "name": "ガビ＆ファルコ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6969/#f6970",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6971",
-      "name": "エルヴィン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6971/#f6971",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6973",
-      "name": "ピーク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6972/#f6973",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "巨人"
-    },
-    {
-      "id": "6975",
-      "name": "フロック",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6974/#f6975",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6977",
-      "name": "エレン＆ジーク",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6976/#f6977",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "巨人"
-    },
-    {
-      "id": "6979",
-      "name": "ポルコ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6978/#f6979",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "巨人"
     }
   ]
 }

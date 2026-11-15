@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "7956",
+      "name": "赤岩牙二郎",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7955/#f7956",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "7957",
+      "name": "ビリーザキッド",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1312/#f7957",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7958",
+      "name": "ネッテキシ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7958/#f7958",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "7959",
+      "name": "グランギニョル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7959/#f7959",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "7960",
+      "name": "上杉謙信",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/791/#f7960",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7961",
+      "name": "ダンテ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2257/#f7961",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7963",
+      "name": "甘露",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7962/#f7963",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "7965",
       "name": "ビィラック",
       "attribute": "火",
@@ -2142,83 +2219,6 @@
       "type": "貫通",
       "style": "超スピード",
       "race": "幻妖"
-    },
-    {
-      "id": "8282",
-      "name": "アンデルセン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2251/#f8282",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8283",
-      "name": "ラー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/597/#f8283",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "8284",
-      "name": "ベニマル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6875/#f8284",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "8285",
-      "name": "リムル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6877/#f8285",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "8286",
-      "name": "シオン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6883/#f8286",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "8288",
-      "name": "ソーカ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8287/#f8288",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "8290",
-      "name": "ランガ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8289/#f8290",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
     }
   ]
 }

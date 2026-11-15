@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "5776",
+      "name": "グリムジョー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5775/#f5776",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "十刃"
+    },
+    {
+      "id": "5777",
+      "name": "市丸ギン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4060/#f5777",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5779",
+      "name": "ウルキオラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5778/#f5779",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "十刃"
+    },
+    {
+      "id": "5780",
+      "name": "平子真子",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5780/#f5780",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "仮面の軍勢"
+    },
+    {
+      "id": "5782",
+      "name": "藍染惣右介",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4064/#f5782",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5783",
+      "name": "フレアミス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5438/#f5783",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
       "id": "5793",
       "name": "アルパキャーノ",
       "attribute": "水",
@@ -2147,72 +2213,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/4476/#f6226",
       "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6228",
-      "name": "灰原哀",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6227/#f6228",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6232",
-      "name": "毛利蘭",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6231/#f6232",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "6237",
-      "name": "コナン＆降谷零",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6237/#f6237",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6239",
-      "name": "服部平次",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6238/#f6239",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6241",
-      "name": "ウォッカ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6240/#f6241",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "6243",
-      "name": "バーボン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6242/#f6243",
-      "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"

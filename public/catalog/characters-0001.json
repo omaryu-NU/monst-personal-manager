@@ -1134,15 +1134,46 @@
       "speed": 215.3
     },
     {
+      "id": "238",
+      "name": "イフリート",
+      "attribute": "火",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/238.webp",
+      "source": "https://game.technophere.com/monst/char/238/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人",
+      "friendship": "クロスレーザーS （火）",
+      "ss": "ふれた最初の敵を乱打し、地獄の業火で追い討ち 11ターン",
+      "rarity": 4,
+      "hp": 7200,
+      "attack": 5535,
+      "speed": 261.13
+    },
+    {
       "id": "239",
       "name": "イフリート",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/238/#f239",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/239.webp",
+      "source": "https://game.technophere.com/monst/char/238/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "クロスレーザーM （火）",
+      "ss": "ふれた最初の敵を乱打し、地獄の業火で追い討ち 13ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 11301,
+      "speed": 321.8
     },
     {
       "id": "241",
@@ -2613,17 +2644,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "682",
-      "name": "オロチマル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/680/#f682",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
       "race": "亜人"
     }
   ]

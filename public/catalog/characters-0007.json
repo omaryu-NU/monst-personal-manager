@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4129",
+      "name": "イナバ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4128/#f4129",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻獣"
+    },
+    {
+      "id": "4131",
+      "name": "イワナガヒメ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4130/#f4131",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4133",
+      "name": "ヤトノカミ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4132/#f4133",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "4136",
+      "name": "アマツミカボシ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4134/#f4136",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "4138",
       "name": "ツバサ",
       "attribute": "木",
@@ -2255,50 +2299,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "エヴァパイロット"
-    },
-    {
-      "id": "4754",
-      "name": "リツコ＆マヤ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4753/#f4754",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4756",
-      "name": "アスカ＆マリ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4755/#f4756",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4758",
-      "name": "ミサト＆加持",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4757/#f4758",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4760",
-      "name": "ゲンドウ＆冬月",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4759/#f4760",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

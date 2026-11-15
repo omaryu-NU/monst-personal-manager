@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2048",
+      "name": "紂王",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2047/#f2048",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2050",
       "name": "酒池肉林",
       "attribute": "闇",
@@ -2671,26 +2682,6 @@
       "hp": 17685,
       "attack": 16953,
       "speed": 295.33
-    },
-    {
-      "id": "2664",
-      "name": "カグツチ",
-      "attribute": "火",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2664.webp",
-      "source": "https://game.technophere.com/monst/char/2664/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神",
-      "friendship": "貫通ロックオン衝撃波6 （無）",
-      "ss": "自身のスピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 10224,
-      "attack": 15900,
-      "speed": 253.13
     }
   ]
 }

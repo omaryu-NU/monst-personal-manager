@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7307",
+      "name": "エクスカリバー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4511/#f7307",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7308",
+      "name": "エクスカリバー（新春）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5255/#f7308",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7310",
+      "name": "ガブリエル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1742/#f7310",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7311",
+      "name": "ガブリエル（新春）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2401/#f7311",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7312",
+      "name": "ガブリエルMV",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3646/#f7312",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7313",
+      "name": "ハレルヤ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5033/#f7313",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "7314",
       "name": "神威",
       "attribute": "光",
@@ -2002,15 +2068,47 @@
       "speed": 340.27
     },
     {
+      "id": "7521",
+      "name": "脹相",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7521.webp",
+      "source": "https://game.technophere.com/monst/char/7521/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "3方向追従型貫通弾 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14459,
+      "attack": 13854,
+      "speed": 292.97
+    },
+    {
       "id": "7522",
       "name": "脹相",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7521/#f7522",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチ減速壁",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7522.webp",
+      "source": "https://game.technophere.com/monst/char/7521/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "3方向追従型貫通弾 （火）",
+      "ss": "スピードとパワーがアップ＆停止後に「百斂」「穿血」で攻撃 14ターン",
+      "rarity": 6,
+      "hp": 18756,
+      "attack": 21516,
+      "speed": 294.77
     },
     {
       "id": "7524",
@@ -2627,83 +2725,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "ドラゴン"
-    },
-    {
-      "id": "7610",
-      "name": "ルビー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1686/#f7610",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7611",
-      "name": "マモン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1807/#f7611",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "7612",
-      "name": "クララミス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7327/#f7612",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "7614",
-      "name": "新門紅丸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7613/#f7614",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7616",
-      "name": "茉希尾瀬",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7615/#f7616",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7618",
-      "name": "環古達",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7617/#f7618",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7620",
-      "name": "アーサー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7619/#f7620",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

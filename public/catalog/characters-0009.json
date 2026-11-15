@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5241",
+      "name": "ホワイトさむ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5240/#f5241",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "5243",
+      "name": "阿鼻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5242/#f5243",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5246",
+      "name": "愛染明王廻",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3537/#f5246",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "5248",
+      "name": "紅星ましろ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5247/#f5248",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "5251",
+      "name": "ミルク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5250/#f5251",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "5252",
       "name": "ニューイヤーキッド",
       "attribute": "火",
@@ -286,6 +341,30 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ボーダー隊員"
+    },
+    {
+      "id": "5330",
+      "name": "最終決戦型駆逐娘 ヤークトパンター",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチウィンド",
+        "水属性キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5330.webp",
+      "source": "https://game.technophere.com/monst/char/2669/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "friendship": "トライデントレーザーEL （木） 副友情 超絶爆発 （無）",
+      "ss": "スピードとパワーがアップ＆敵を倒せば倒すほど、パワーがアップする 20+8ターン",
+      "rarity": 6,
+      "hp": 20133,
+      "attack": 24871,
+      "speed": 254.07,
+      "gaugeAbilities": [
+        "状態異常回復 SSターン短縮 ダッシュM"
+      ]
     },
     {
       "id": "5332",
@@ -2134,72 +2213,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "十刃"
-    },
-    {
-      "id": "5776",
-      "name": "グリムジョー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5775/#f5776",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "十刃"
-    },
-    {
-      "id": "5777",
-      "name": "市丸ギン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4060/#f5777",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "死神"
-    },
-    {
-      "id": "5779",
-      "name": "ウルキオラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5778/#f5779",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "十刃"
-    },
-    {
-      "id": "5780",
-      "name": "平子真子",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5780/#f5780",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "仮面の軍勢"
-    },
-    {
-      "id": "5782",
-      "name": "藍染惣右介",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4064/#f5782",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "死神"
-    },
-    {
-      "id": "5783",
-      "name": "フレアミス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5438/#f5783",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

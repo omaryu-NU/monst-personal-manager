@@ -2,6 +2,26 @@
   "version": 1,
   "characters": [
     {
+      "id": "2664",
+      "name": "カグツチ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2664.webp",
+      "source": "https://game.technophere.com/monst/char/2664/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 10224,
+      "attack": 15900,
+      "speed": 253.13
+    },
+    {
       "id": "2665",
       "name": "カグツチ",
       "attribute": "火",
@@ -83,6 +103,71 @@
       "hp": 18946,
       "attack": 22698,
       "speed": 287.57
+    },
+    {
+      "id": "2669",
+      "name": "パンターG",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2669.webp",
+      "source": "https://game.technophere.com/monst/char/2669/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "ワンウェイレーザーL （木）",
+      "ss": "敵にバウンドする毎に、レーザーを放つ 24ターン",
+      "rarity": 5,
+      "hp": 14579,
+      "attack": 15428,
+      "speed": 276.17
+    },
+    {
+      "id": "2670",
+      "name": "鋼鉄の戦少女 パンターG",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "魔族キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2670.webp",
+      "source": "https://game.technophere.com/monst/char/2669/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "トライデントレーザーL （木）",
+      "ss": "敵にバウンドする毎に、レーザーを放つ 24ターン",
+      "rarity": 6,
+      "hp": 21257,
+      "attack": 17040,
+      "speed": 320.77,
+      "gaugeAbilities": [
+        "状態異常回復"
+      ]
+    },
+    {
+      "id": "2671",
+      "name": "絶対駆逐娘 ヤークトパンター",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2671.webp",
+      "source": "https://game.technophere.com/monst/char/2669/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "friendship": "超爆発 （無） 副友情 気弾 （闇）",
+      "ss": "スピードアップ＆敵を倒せば倒すほど、攻撃力がアップする 25ターン",
+      "rarity": 6,
+      "hp": 19895,
+      "attack": 24262,
+      "speed": 226.67,
+      "gaugeAbilities": [
+        "水属性キラー ダッシュ"
+      ]
     },
     {
       "id": "2676",
@@ -2192,50 +2277,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔王"
-    },
-    {
-      "id": "3414",
-      "name": "フォイエン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3414/#f3414",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3416",
-      "name": "ベルゼキュー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3415/#f3416",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "3418",
-      "name": "リリス&貂蝉",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3417/#f3418",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "3420",
-      "name": "ドラギロス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3419/#f3420",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

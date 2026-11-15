@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4754",
+      "name": "リツコ＆マヤ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4753/#f4754",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4756",
+      "name": "アスカ＆マリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4755/#f4756",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "エヴァパイロット"
+    },
+    {
+      "id": "4758",
+      "name": "ミサト＆加持",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4757/#f4758",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4760",
+      "name": "ゲンドウ＆冬月",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4759/#f4760",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4762",
       "name": "第5使徒",
       "attribute": "火",
@@ -2240,6 +2284,31 @@
       ]
     },
     {
+      "id": "5152",
+      "name": "無慈悲なる魔物殲滅の英雄 ペルセウス",
+      "attribute": "火",
+      "abilities": [
+        "飛行",
+        "超アンチワープ",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5152.webp",
+      "source": "https://game.technophere.com/monst/char/5151/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "白爆発EL （無） 副友情 友情アップ （無）",
+      "ss": "ふれた仲間のパワーを一定期間アップ 12+4ターン",
+      "rarity": 6,
+      "hp": 20251,
+      "attack": 19746,
+      "speed": 398.23,
+      "gaugeAbilities": [
+        "SSターン短縮 SSターンチャージM"
+      ]
+    },
+    {
       "id": "5158",
       "name": "酒呑童子",
       "attribute": "火",
@@ -2612,61 +2681,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "5241",
-      "name": "ホワイトさむ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5240/#f5241",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "5243",
-      "name": "阿鼻",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5242/#f5243",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5246",
-      "name": "愛染明王廻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3537/#f5246",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5248",
-      "name": "紅星ましろ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5247/#f5248",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "5251",
-      "name": "ミルク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5250/#f5251",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

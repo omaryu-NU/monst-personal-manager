@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "3414",
+      "name": "フォイエン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3414/#f3414",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3416",
+      "name": "ベルゼキュー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3415/#f3416",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "3418",
+      "name": "リリス&貂蝉",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3417/#f3418",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "3420",
+      "name": "ドラギロス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3419/#f3420",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "3434",
       "name": "ファーブル",
       "attribute": "水",
@@ -2193,50 +2237,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "4129",
-      "name": "イナバ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4128/#f4129",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "4131",
-      "name": "イワナガヒメ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4130/#f4131",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4133",
-      "name": "ヤトノカミ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4132/#f4133",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "4136",
-      "name": "アマツミカボシ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4134/#f4136",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
     }
   ]
 }

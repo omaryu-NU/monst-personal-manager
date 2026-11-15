@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6970",
+      "name": "ガビ＆ファルコ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6969/#f6970",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6971",
+      "name": "エルヴィン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6971/#f6971",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6973",
+      "name": "ピーク",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6972/#f6973",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "巨人"
+    },
+    {
+      "id": "6975",
+      "name": "フロック",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6974/#f6975",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6977",
+      "name": "エレン＆ジーク",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6976/#f6977",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "巨人"
+    },
+    {
+      "id": "6979",
+      "name": "ポルコ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6978/#f6979",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "巨人"
+    },
+    {
       "id": "6981",
       "name": "無垢の巨人",
       "attribute": "光",
@@ -2134,72 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "7307",
-      "name": "エクスカリバー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4511/#f7307",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7308",
-      "name": "エクスカリバー（新春）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5255/#f7308",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7310",
-      "name": "ガブリエル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1742/#f7310",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7311",
-      "name": "ガブリエル（新春）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2401/#f7311",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7312",
-      "name": "ガブリエルMV",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3646/#f7312",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7313",
-      "name": "ハレルヤ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5033/#f7313",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }
