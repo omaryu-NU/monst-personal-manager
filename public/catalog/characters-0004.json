@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2046",
+      "name": "聞仲",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2044/#f2046",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
       "id": "2048",
       "name": "紂王",
       "attribute": "光",
@@ -2661,27 +2672,6 @@
       "hp": 12647,
       "attack": 8487,
       "speed": 231.13
-    },
-    {
-      "id": "2663",
-      "name": "ワイヤード",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "神獣スレイヤー レーザーストップ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2663.webp",
-      "source": "https://game.technophere.com/monst/char/2662/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖域の狩人",
-      "friendship": "超強貫通拡散弾EL3 （木）",
-      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 21ターン",
-      "rarity": 6,
-      "hp": 17685,
-      "attack": 16953,
-      "speed": 295.33
     }
   ]
 }

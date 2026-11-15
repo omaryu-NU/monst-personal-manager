@@ -1176,15 +1176,44 @@
       "speed": 321.8
     },
     {
+      "id": "240",
+      "name": "リヴァイアサン",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/240.webp",
+      "source": "https://game.technophere.com/monst/char/240/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣",
+      "friendship": "拡散弾L2 （水）",
+      "ss": "ふれた最初の敵を乱打し、水を噴射して追い討ち 12ターン",
+      "rarity": 4,
+      "hp": 7200,
+      "attack": 4424,
+      "speed": 186.17
+    },
+    {
       "id": "241",
       "name": "リヴァイアサン",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/240/#f241",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/241.webp",
+      "source": "https://game.technophere.com/monst/char/240/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "幻獣"
+      "race": "幻獣",
+      "friendship": "拡散弾EL3 （水）",
+      "ss": "ふれた最初の敵を乱打し、水を噴射して追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 8729,
+      "speed": 239.27
     },
     {
       "id": "243",
@@ -2633,17 +2662,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "679",
-      "name": "ジライヤ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/677/#f679",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

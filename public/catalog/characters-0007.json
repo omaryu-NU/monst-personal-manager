@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4114",
+      "name": "鬼龍院皐月",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4113/#f4114",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4116",
+      "name": "ヴァルカン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4115/#f4116",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4118",
+      "name": "ナオヒ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4117/#f4118",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "4120",
+      "name": "アントニオ猪木",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4119/#f4120",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4129",
       "name": "イナバ",
       "attribute": "火",
@@ -2254,50 +2298,6 @@
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4748",
-      "name": "レイ天草",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1667/#f4748",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4749",
-      "name": "アスウリ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1671/#f4749",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4750",
-      "name": "カヲルシ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1673/#f4750",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4752",
-      "name": "シンジ＆レイ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4751/#f4752",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "エヴァパイロット"
     }
   ]

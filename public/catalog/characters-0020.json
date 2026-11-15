@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "9188",
+      "name": "勢羽真冬",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9187/#f9188",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9190",
+      "name": "アパート",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9189/#f9190",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9191",
+      "name": "篁",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9191/#f9191",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9192",
+      "name": "眞霜平助",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9192/#f9192",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9193",
+      "name": "赤尾晶",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9193/#f9193",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9194",
+      "name": "媽祖",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4315/#f9194",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "9195",
+      "name": "武則天",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4565/#f9195",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "9196",
       "name": "オズ",
       "attribute": "水",
@@ -3014,129 +3091,6 @@
       "type": "貫通",
       "style": "超パワー",
       "race": "魔人"
-    },
-    {
-      "id": "9456",
-      "name": "アンダーワールドトラベラーズ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチワープ",
-        "超マインスイーパーL",
-        "アンチ減速床",
-        "ザコキラーM 神王封じEL"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9456.webp",
-      "source": "https://game.technophere.com/monst/char/9455/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "攻スピアップ （無） 副友情 全敵超絶毒メテオ （無）",
-      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを半分にする 16+8ターン",
-      "rarity": 6,
-      "hp": 20165,
-      "attack": 26900,
-      "speed": 349.13
-    },
-    {
-      "id": "9457",
-      "name": "ラム",
-      "attribute": "火",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9457.webp",
-      "source": "https://game.technophere.com/monst/char/5819/#f9457",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9458",
-      "name": "レム",
-      "attribute": "水",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9458.webp",
-      "source": "https://game.technophere.com/monst/char/5821/#f9458",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9459",
-      "name": "エミリア",
-      "attribute": "光",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9459.webp",
-      "source": "https://game.technophere.com/monst/char/5825/#f9459",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9460",
-      "name": "ユリウス＆アナスタシア",
-      "attribute": "火",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9460.webp",
-      "source": "https://game.technophere.com/monst/char/9460/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "爆絶全属性ホーミング25 （全）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 8868,
-      "attack": 14112,
-      "speed": 358
-    },
-    {
-      "id": "9461",
-      "name": "ユリウス＆アナスタシア",
-      "attribute": "火",
-      "abilities": [
-        "超アンチ重力バリア",
-        "マインスイーパーL",
-        "アンチ減速床",
-        "友情ブーストEL"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9461.webp",
-      "source": "https://game.technophere.com/monst/char/9460/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "爆絶全属性ホーミング25 （全）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵にアル・クラウゼリアを放つ 16ターン",
-      "rarity": 5,
-      "hp": 14123,
-      "attack": 17410,
-      "speed": 407.93
-    },
-    {
-      "id": "9462",
-      "name": "オットー",
-      "attribute": "水",
-      "abilities": [
-        "アンチ減速壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9462.webp",
-      "source": "https://game.technophere.com/monst/char/9462/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "クロススパイラルレイ （水）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 9868,
-      "attack": 10514,
-      "speed": 265.07
     }
   ]
 }

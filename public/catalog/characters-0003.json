@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1374",
+      "name": "エヴィルカー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1373/#f1374",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
       "id": "1377",
       "name": "PCG3",
       "attribute": "木",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2046",
-      "name": "聞仲",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2044/#f2046",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }

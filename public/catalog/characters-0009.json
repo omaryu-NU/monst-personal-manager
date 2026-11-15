@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "5216",
+      "name": "クルーディル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5215/#f5216",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5218",
+      "name": "カナロアン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5217/#f5218",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "鳥"
+    },
+    {
+      "id": "5219",
+      "name": "おつう",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3703/#f5219",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5224",
+      "name": "真ガラハッド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5223/#f5224",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "5237",
+      "name": "パーティナ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5235/#f5237",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5239",
+      "name": "柊木参太郎",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5238/#f5239",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "5241",
       "name": "ホワイトさむ",
       "attribute": "光",
@@ -2147,72 +2213,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "死神"
-    },
-    {
-      "id": "5764",
-      "name": "井上織姫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5763/#f5764",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5766",
-      "name": "石田雨竜",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5765/#f5766",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5768",
-      "name": "茶渡泰虎",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5767/#f5768",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5770",
-      "name": "ザエルアポロ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5769/#f5770",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "十刃"
-    },
-    {
-      "id": "5772",
-      "name": "ハリベル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5771/#f5772",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "十刃"
-    },
-    {
-      "id": "5774",
-      "name": "スターク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5773/#f5774",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "十刃"
     }
   ]
 }

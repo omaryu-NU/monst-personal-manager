@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7296",
+      "name": "半間修二",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7295/#f7296",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7298",
+      "name": "清水将貴",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7297/#f7298",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7300",
+      "name": "羽宮一虎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7299/#f7300",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7302",
+      "name": "稀咲鉄太",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7301/#f7302",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7303",
+      "name": "場地＆松野",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7303/#f7303",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7306",
+      "name": "花垣武道",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7304/#f7306",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7307",
       "name": "エクスカリバー",
       "attribute": "火",
@@ -2111,15 +2177,47 @@
       "speed": 294.77
     },
     {
+      "id": "7523",
+      "name": "陀艮",
+      "attribute": "水",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7523.webp",
+      "source": "https://game.technophere.com/monst/char/7523/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "十字レーザーM （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17786,
+      "attack": 20617,
+      "speed": 167.33
+    },
+    {
       "id": "7524",
       "name": "陀艮",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7523/#f7524",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチウィンド",
+        "アンチ魔法陣",
+        "火属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7524.webp",
+      "source": "https://game.technophere.com/monst/char/7523/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強十字レーザーEL （水）",
+      "ss": "スピードとパワーがアップ＆停止後に領域展開し、すべての敵を攻撃 16ターン",
+      "rarity": 6,
+      "hp": 22150,
+      "attack": 25621,
+      "speed": 213.9
     },
     {
       "id": "7526",
@@ -2648,83 +2746,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "7596",
-      "name": "羅生門",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7595/#f7596",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7598",
-      "name": "小久豪カンジ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7597/#f7598",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7600",
-      "name": "オウンギャック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7599/#f7600",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "7603",
-      "name": "シャルスタ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7601/#f7603",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7604",
-      "name": "アユタヤ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4930/#f7604",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "コスモ"
-    },
-    {
-      "id": "7606",
-      "name": "アジテーター",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7605/#f7606",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7609",
-      "name": "ゲキリン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7607/#f7609",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ドラゴン"
     }
   ]
 }

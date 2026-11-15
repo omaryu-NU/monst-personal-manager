@@ -2,6 +2,27 @@
   "version": 1,
   "characters": [
     {
+      "id": "2663",
+      "name": "ワイヤード",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "神獣スレイヤー レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2663.webp",
+      "source": "https://game.technophere.com/monst/char/2662/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖域の狩人",
+      "friendship": "超強貫通拡散弾EL3 （木）",
+      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 21ターン",
+      "rarity": 6,
+      "hp": 17685,
+      "attack": 16953,
+      "speed": 295.33
+    },
+    {
       "id": "2664",
       "name": "カグツチ",
       "attribute": "火",
@@ -167,6 +188,71 @@
       "speed": 226.67,
       "gaugeAbilities": [
         "水属性キラー ダッシュ"
+      ]
+    },
+    {
+      "id": "2672",
+      "name": "P-47",
+      "attribute": "闇",
+      "abilities": [
+        "飛行"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2672.webp",
+      "source": "https://game.technophere.com/monst/char/2672/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "ショットガン （闇）",
+      "ss": "ふれた敵すべてに、雷で追い討ち 26ターン",
+      "rarity": 5,
+      "hp": 16624,
+      "attack": 17190,
+      "speed": 246.7
+    },
+    {
+      "id": "2673",
+      "name": "高高度の戦士 P-47",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2673.webp",
+      "source": "https://game.technophere.com/monst/char/2672/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "ショットガン （闇）",
+      "ss": "自身のスピードがアップ＆周りに電気攻撃 26ターン",
+      "rarity": 6,
+      "hp": 19259,
+      "attack": 18938,
+      "speed": 304.1,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "2674",
+      "name": "雷電の戦士 P-47",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2674.webp",
+      "source": "https://game.technophere.com/monst/char/2672/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "friendship": "フレア （無） 副友情 エナジーサークルS （光）",
+      "ss": "ふれた最初の敵でフレアを放ち、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 19972,
+      "attack": 17960,
+      "speed": 245.2,
+      "gaugeAbilities": [
+        "アンチブロック"
       ]
     },
     {
@@ -2233,50 +2319,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "3382",
-      "name": "アポカリプス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3381/#f3382",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "3400",
-      "name": "海坊主",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3399/#f3400",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "3402",
-      "name": "豆だぬき",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3401/#f3402",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "3412",
-      "name": "刹那",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3411/#f3412",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔王"
     }
   ]
 }
