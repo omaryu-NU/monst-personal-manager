@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "676",
+      "name": "ツナデ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/675/#f676",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "679",
       "name": "ジライヤ",
       "attribute": "木",
@@ -2223,17 +2234,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "1372",
-      "name": "ファクトリアン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1371/#f1372",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
     }
   ]
 }

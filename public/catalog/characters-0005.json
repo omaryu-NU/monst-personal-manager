@@ -2,6 +2,26 @@
   "version": 1,
   "characters": [
     {
+      "id": "2662",
+      "name": "ワイヤード",
+      "attribute": "木",
+      "abilities": [
+        "神獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2662.webp",
+      "source": "https://game.technophere.com/monst/char/2662/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "貫通拡散弾EL3 （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12647,
+      "attack": 8487,
+      "speed": 231.13
+    },
+    {
       "id": "2663",
       "name": "ワイヤード",
       "attribute": "木",
@@ -256,26 +276,115 @@
       ]
     },
     {
+      "id": "2675",
+      "name": "ボルカノザウラー",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2675.webp",
+      "source": "https://game.technophere.com/monst/char/2675/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "貫通ホーミング4 （火）",
+      "ss": "多数のホーミング弾を放つ 21ターン",
+      "rarity": 4,
+      "hp": 8648,
+      "attack": 14666,
+      "speed": 143.53
+    },
+    {
       "id": "2676",
       "name": "ボルカノザウラー",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2675/#f2676",
+      "abilities": [
+        "亜人キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2676.webp",
+      "source": "https://game.technophere.com/monst/char/2675/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "鉱物"
+      "race": "鉱物",
+      "friendship": "貫通ホーミング6 （火）",
+      "ss": "多数のホーミング弾を放つ 21ターン",
+      "rarity": 5,
+      "hp": 14816,
+      "attack": 16052,
+      "speed": 137.4,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
+      "id": "2677",
+      "name": "スコーピカ",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2677.webp",
+      "source": "https://game.technophere.com/monst/char/2677/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "毒拡散8 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18944,
+      "attack": 18523,
+      "speed": 239.13
+    },
+    {
+      "id": "2678",
+      "name": "蠍怪獣娘 スコーピカ",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2678.webp",
+      "source": "https://game.technophere.com/monst/char/2677/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "超強毒拡散16 （無）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 21ターン",
+      "rarity": 6,
+      "hp": 17293,
+      "attack": 16214,
+      "speed": 223.13,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "2679",
       "name": "スコーピカ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2677/#f2679",
+      "abilities": [
+        "アンチ魔法陣",
+        "ドラゴンキラー 妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2679.webp",
+      "source": "https://game.technophere.com/monst/char/2677/",
       "evolution": "神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "超強貫通ロックオン衝撃波6 （無） 副友情 ロックオン毒衝撃波3 （無）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 16ターン",
+      "rarity": 6,
+      "hp": 16296,
+      "attack": 16382,
+      "speed": 241.17,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2681",
@@ -2275,50 +2384,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "3373",
-      "name": "ハッカクリザード",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3372/#f3373",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3376",
-      "name": "ジョルノロキア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3374/#f3376",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3378",
-      "name": "弐久丸",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3377/#f3378",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "3380",
-      "name": "わさびだこ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3379/#f3380",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

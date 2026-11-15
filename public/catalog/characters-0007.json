@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4106",
+      "name": "ゲーラ＆メイス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4105/#f4106",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "バーニッシュ"
+    },
+    {
+      "id": "4108",
+      "name": "リオ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4107/#f4108",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "バーニッシュ"
+    },
+    {
+      "id": "4110",
+      "name": "クレイ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4109/#f4110",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4112",
+      "name": "ヴィラルエンキ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4111/#f4112",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "4114",
       "name": "鬼龍院皐月",
       "attribute": "光",
@@ -2255,50 +2299,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "サムライ"
-    },
-    {
-      "id": "4739",
-      "name": "アガルタ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4738/#f4739",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "4744",
-      "name": "アスカ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1286/#f4744",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4746",
-      "name": "カヲル＆シンジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1288/#f4746",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "4747",
-      "name": "レイ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1294/#f4747",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "エヴァパイロット"
     }
   ]
 }

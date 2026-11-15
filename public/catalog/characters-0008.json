@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4739",
+      "name": "アガルタ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4738/#f4739",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "4744",
+      "name": "アスカ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1286/#f4744",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "エヴァパイロット"
+    },
+    {
+      "id": "4746",
+      "name": "カヲル＆シンジ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1288/#f4746",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "エヴァパイロット"
+    },
+    {
+      "id": "4747",
+      "name": "レイ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1294/#f4747",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "エヴァパイロット"
+    },
+    {
       "id": "4748",
       "name": "レイ天草",
       "attribute": "水",
@@ -2402,6 +2446,31 @@
       ]
     },
     {
+      "id": "5156",
+      "name": "遊侠なる悪鬼討伐の猛将 源頼光",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ魔法陣",
+        "魔封じEL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5156.webp",
+      "source": "https://game.technophere.com/monst/char/5155/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "超絶ホーミング12 （闇） 副友情 シャイニングピラー （無）",
+      "ss": "前方の広範囲に無数の爆発を起こす 8+8ターン",
+      "rarity": 6,
+      "hp": 18301,
+      "attack": 20403,
+      "speed": 328.57,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速壁"
+      ]
+    },
+    {
       "id": "5158",
       "name": "酒呑童子",
       "attribute": "火",
@@ -2653,61 +2722,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔神"
-    },
-    {
-      "id": "5198",
-      "name": "メラスキュラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5198/#f5198",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔神"
-    },
-    {
-      "id": "5199",
-      "name": "メリオダス＆エリザベス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2904/#f5199",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5203",
-      "name": "マーチ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5202/#f5203",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "5204",
-      "name": "胡喜媚（ストア）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3964/#f5204",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5214",
-      "name": "コクスティア",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5212/#f5214",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }

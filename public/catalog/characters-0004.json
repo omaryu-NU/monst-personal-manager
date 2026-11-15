@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2043",
+      "name": "アンデッドロンロン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2042/#f2043",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "2046",
       "name": "聞仲",
       "attribute": "木",
@@ -2652,26 +2663,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖域の狩人"
-    },
-    {
-      "id": "2662",
-      "name": "ワイヤード",
-      "attribute": "木",
-      "abilities": [
-        "神獣キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2662.webp",
-      "source": "https://game.technophere.com/monst/char/2662/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神",
-      "friendship": "貫通拡散弾EL3 （木）",
-      "ss": "自身のスピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 12647,
-      "attack": 8487,
-      "speed": 231.13
     }
   ]
 }

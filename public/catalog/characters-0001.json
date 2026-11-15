@@ -1216,15 +1216,44 @@
       "speed": 239.27
     },
     {
+      "id": "242",
+      "name": "ガイア",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/242.webp",
+      "source": "https://game.technophere.com/monst/char/242/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "ホーミング4 （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 7200,
+      "attack": 10332,
+      "speed": 111.9
+    },
+    {
       "id": "243",
       "name": "ガイア",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/242/#f243",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/243.webp",
+      "source": "https://game.technophere.com/monst/char/242/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "鉱物"
+      "race": "鉱物",
+      "friendship": "ホーミング6 （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 14ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 20394,
+      "speed": 135.33
     },
     {
       "id": "245",
@@ -2651,17 +2680,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "676",
-      "name": "ツナデ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/675/#f676",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "亜人"
     }
   ]

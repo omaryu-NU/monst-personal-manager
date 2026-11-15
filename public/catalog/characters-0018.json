@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "8575",
+      "name": "アポロX",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/364/#f8575",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
+      "id": "8576",
+      "name": "アポロX",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2273/#f8576",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
+      "id": "8577",
+      "name": "ワトソンα",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4952/#f8577",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "8578",
+      "name": "大和α",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4954/#f8578",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "アクシス"
+    },
+    {
+      "id": "8579",
+      "name": "孫悟空α",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4956/#f8579",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "8580",
+      "name": "バサラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5524/#f8580",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "8581",
       "name": "瑠璃",
       "attribute": "水",
@@ -2184,90 +2250,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "幻獣"
-    },
-    {
-      "id": "8876",
-      "name": "堀井まさね",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8874/#f8876",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "8877",
-      "name": "パンターG",
-      "attribute": "木",
-      "abilities": [
-        "超アンチワープ",
-        "超アンチウィンド",
-        "状態異常回復"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8877.webp",
-      "source": "https://game.technophere.com/monst/char/2669/",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "アクシス",
-      "friendship": "連気弾 （木） 副友情 爆絶爆発 （無）",
-      "ss": "スピードとパワーがアップ＆敵を倒せば倒すほど、パワーがアップする 20+8ターン",
-      "rarity": 6,
-      "hp": 21742,
-      "attack": 25895,
-      "speed": 277.37,
-      "gaugeAbilities": [
-        "ダッシュM SSターン短縮"
-      ],
-      "connectAbilities": [
-        "アンチ重力バリア",
-        "水属性キラー 条件: アクシス以外が2体以上／パワー型以外が2体以上"
-      ]
-    },
-    {
-      "id": "8878",
-      "name": "長宗我部元親",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2800/#f8878",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "8880",
-      "name": "セントアモーレ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8879/#f8880",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "8882",
-      "name": "ノーピタル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8881/#f8882",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "8885",
-      "name": "ジュゲム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8883/#f8885",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

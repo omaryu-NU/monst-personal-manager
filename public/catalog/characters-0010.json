@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5756",
+      "name": "日番谷冬獅郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4043/#f5756",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5757",
+      "name": "朽木ルキア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4047/#f5757",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5758",
+      "name": "黒崎一護",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4049/#f5758",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5760",
+      "name": "浦原喜助",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5759/#f5760",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "死神"
+    },
+    {
+      "id": "5762",
+      "name": "松本乱菊",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5761/#f5762",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "死神"
+    },
+    {
       "id": "5764",
       "name": "井上織姫",
       "attribute": "木",
@@ -2161,61 +2216,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "6210",
-      "name": "エルマルーα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6209/#f6210",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6212",
-      "name": "串名姫子",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6211/#f6212",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6214",
-      "name": "山竹尊",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6213/#f6214",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6217",
-      "name": "伊波美代",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6215/#f6217",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "6218",
-      "name": "モンストブライト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/520/#f6218",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "聖騎士"
     }
   ]
 }

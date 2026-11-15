@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "3373",
+      "name": "ハッカクリザード",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3372/#f3373",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "3376",
+      "name": "ジョルノロキア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3374/#f3376",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3378",
+      "name": "弐久丸",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3377/#f3378",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "3380",
+      "name": "わさびだこ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3379/#f3380",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "3382",
       "name": "アポカリプス",
       "attribute": "闇",
@@ -2193,50 +2237,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "4106",
-      "name": "ゲーラ＆メイス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4105/#f4106",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "バーニッシュ"
-    },
-    {
-      "id": "4108",
-      "name": "リオ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4107/#f4108",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "バーニッシュ"
-    },
-    {
-      "id": "4110",
-      "name": "クレイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4109/#f4110",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4112",
-      "name": "ヴィラルエンキ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4111/#f4112",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }
