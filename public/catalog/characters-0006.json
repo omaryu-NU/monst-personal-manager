@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "3358",
+      "name": "高杉晋助",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3356/#f3358",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3359",
+      "name": "定春",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3359/#f3359",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "3373",
       "name": "ハッカクリザード",
       "attribute": "火",
@@ -2214,28 +2236,6 @@
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4102",
-      "name": "ヨーコ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4101/#f4102",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4104",
-      "name": "満艦飾マコ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4103/#f4104",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

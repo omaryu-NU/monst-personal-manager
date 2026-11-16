@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4734",
+      "name": "スラッシュレディ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4733/#f4734",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "4736",
+      "name": "真伊達政宗",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4735/#f4736",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "4739",
       "name": "アガルタ",
       "attribute": "闇",
@@ -2471,26 +2493,92 @@
       ]
     },
     {
+      "id": "5157",
+      "name": "酒呑童子",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5157.webp",
+      "source": "https://game.technophere.com/monst/char/5157/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強貫通拡散弾EL5 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15883,
+      "attack": 18312,
+      "speed": 269.07
+    },
+    {
       "id": "5158",
       "name": "酒呑童子",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5157/#f5158",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5158.webp",
+      "source": "https://game.technophere.com/monst/char/5157/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "超強貫通拡散弾EL5 （火）",
+      "ss": "ふれた敵に貫通弾で追い討ち 20ターン",
+      "rarity": 6,
+      "hp": 17665,
+      "attack": 16486,
+      "speed": 261.33,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "5159",
+      "name": "エウリュアレ",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5159.webp",
+      "source": "https://game.technophere.com/monst/char/5159/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "反射衝撃波6 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16111,
+      "attack": 18899,
+      "speed": 274.47
     },
     {
       "id": "5160",
       "name": "エウリュアレ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5159/#f5160",
+      "abilities": [
+        "アンチダメージウォール",
+        "回復S"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5160.webp",
+      "source": "https://game.technophere.com/monst/char/5159/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "神"
+      "race": "神",
+      "friendship": "反射衝撃波6 （水）",
+      "ss": "ふれた敵に毒メテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 19519,
+      "attack": 16844,
+      "speed": 252,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "5163",
@@ -2677,50 +2765,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "魔神"
-    },
-    {
-      "id": "5194",
-      "name": "デリエリ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5194/#f5194",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔神"
-    },
-    {
-      "id": "5195",
-      "name": "フラウドリン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5195/#f5195",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔神"
-    },
-    {
-      "id": "5196",
-      "name": "グレイロード",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5196/#f5196",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔神"
-    },
-    {
-      "id": "5197",
-      "name": "ガラン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5197/#f5197",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "魔神"
     }
   ]

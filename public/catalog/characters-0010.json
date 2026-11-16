@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5746",
+      "name": "トヒーナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5745/#f5746",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "5749",
+      "name": "真ホルス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5748/#f5749",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "5751",
+      "name": "ロベリス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5750/#f5751",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5754",
+      "name": "キュウキ廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4164/#f5754",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
       "id": "5756",
       "name": "日番谷冬獅郎",
       "attribute": "水",
@@ -2171,50 +2215,6 @@
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6203",
-      "name": "猪八戒",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1229/#f6203",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6204",
-      "name": "ケセド廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4503/#f6204",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6206",
-      "name": "李信α",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6205/#f6206",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "6208",
-      "name": "アナスタシアα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6207/#f6208",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
       "race": "亜人"
     }
   ]

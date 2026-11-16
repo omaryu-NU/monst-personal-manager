@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2661",
+      "name": "ハトリー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2660/#f2661",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "2662",
       "name": "ワイヤード",
       "attribute": "木",
@@ -387,15 +398,47 @@
       ]
     },
     {
+      "id": "2680",
+      "name": "クリオドン",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2680.webp",
+      "source": "https://game.technophere.com/monst/char/2680/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "貫通拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 18430,
+      "attack": 15016,
+      "speed": 215.77
+    },
+    {
       "id": "2681",
       "name": "クリオドン",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2680/#f2681",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2681.webp",
+      "source": "https://game.technophere.com/monst/char/2680/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "貫通拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 6,
+      "hp": 18187,
+      "attack": 13784,
+      "speed": 221.83,
+      "gaugeAbilities": [
+        "神キラーM"
+      ]
     },
     {
       "id": "2683",
@@ -2362,28 +2405,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "3358",
-      "name": "高杉晋助",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3356/#f3358",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3359",
-      "name": "定春",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3359/#f3359",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

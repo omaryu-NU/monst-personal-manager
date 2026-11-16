@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8571",
+      "name": "ネオ(新春)",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8199/#f8571",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8572",
+      "name": "ネオ(MV)",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8572/#f8572",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8573",
+      "name": "アポロ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/260/#f8573",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
+      "id": "8574",
+      "name": "アポロ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2272/#f8574",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
       "id": "8575",
       "name": "アポロX",
       "attribute": "木",
@@ -2206,50 +2250,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "8867",
-      "name": "パスカルα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8866/#f8867",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8869",
-      "name": "ジャヒーα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8868/#f8869",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8871",
-      "name": "オーリック",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8870/#f8871",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8873",
-      "name": "イソックリーパー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8872/#f8873",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
     }
   ]
 }

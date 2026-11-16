@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4102",
+      "name": "ヨーコ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4101/#f4102",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4104",
+      "name": "満艦飾マコ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4103/#f4104",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "4106",
       "name": "ゲーラ＆メイス",
       "attribute": "火",
@@ -2277,28 +2299,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "4734",
-      "name": "スラッシュレディ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4733/#f4734",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "4736",
-      "name": "真伊達政宗",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4735/#f4736",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
     }
   ]
 }

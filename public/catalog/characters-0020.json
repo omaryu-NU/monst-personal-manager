@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "9169",
+      "name": "額田王",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6259/#f9169",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9171",
+      "name": "陸少糖",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9170/#f9171",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9173",
+      "name": "大佛",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9172/#f9173",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9175",
+      "name": "神々廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9174/#f9175",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "9177",
       "name": "朝倉シン",
       "attribute": "光",
@@ -2930,104 +2974,6 @@
       "gaugeAbilities": [
         "アンチブロック",
         "ソウルスティール"
-      ]
-    },
-    {
-      "id": "9444",
-      "name": "紅楼夢",
-      "attribute": "水",
-      "abilities": [
-        "超アンチダメージウォール",
-        "超アンチ減速壁",
-        "アンチ減速床",
-        "ウォールブースト"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9444.webp",
-      "source": "https://game.technophere.com/monst/char/9443/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人",
-      "friendship": "超強貫通ターゲットロックオン衝撃波8 （水） 副友情 爆絶爆発 （無）",
-      "ss": "スピードがアップ＆ふれた敵の防御力を一定期間ダウン 8+8ターン",
-      "rarity": 6,
-      "hp": 19275,
-      "attack": 21886,
-      "speed": 356.3,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "バブリーチャージ"
-      ]
-    },
-    {
-      "id": "9446",
-      "name": "マザーグース",
-      "attribute": "光",
-      "abilities": [
-        "アンチダメージウォール",
-        "超マインスイーパーM",
-        "状態異常回復 パワーオーラ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9446.webp",
-      "source": "https://game.technophere.com/monst/char/9445/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精",
-      "friendship": "超強チェイススフィア （光） 副友情 超絶状態異常回復ブラスト （無）",
-      "ss": "スピードとパワーがアップ＆ショット前にHPを回復する 16+8ターン",
-      "rarity": 6,
-      "hp": 23210,
-      "attack": 21992,
-      "speed": 326.1,
-      "gaugeAbilities": [
-        "超アンチ減速壁",
-        "アンチ減速床"
-      ]
-    },
-    {
-      "id": "9447",
-      "name": "猿夢",
-      "attribute": "火",
-      "abilities": [
-        "アンチダメージウォール"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9447.webp",
-      "source": "https://game.technophere.com/monst/char/9447/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣",
-      "friendship": "超強トライデントチップソー （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 16589,
-      "attack": 27714,
-      "speed": 248.8
-    },
-    {
-      "id": "9448",
-      "name": "猿夢",
-      "attribute": "火",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチ減速床"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9448.webp",
-      "source": "https://game.technophere.com/monst/char/9447/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣",
-      "friendship": "超強トライデントチップソー （無）",
-      "ss": "スピードとパワーがアップ＆最初にふれた敵に、ふれると友情コンボが発動する分身をセットする 8ターン",
-      "rarity": 6,
-      "hp": 17555,
-      "attack": 24527,
-      "speed": 254.37,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "連撃キラー"
       ]
     }
   ]

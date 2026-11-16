@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8253",
+      "name": "スルガト",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4700/#f8253",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8255",
+      "name": "ズィーベン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8254/#f8255",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8257",
+      "name": "盤古",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8256/#f8257",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8258",
+      "name": "神農",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5335/#f8258",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
       "id": "8260",
       "name": "フッキ",
       "attribute": "火",
@@ -2206,50 +2250,6 @@
       "type": "反射",
       "style": "超砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "8571",
-      "name": "ネオ(新春)",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8199/#f8571",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8572",
-      "name": "ネオ(MV)",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8572/#f8572",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8573",
-      "name": "アポロ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/260/#f8573",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "コスモ"
-    },
-    {
-      "id": "8574",
-      "name": "アポロ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2272/#f8574",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "コスモ"
     }
   ]
 }

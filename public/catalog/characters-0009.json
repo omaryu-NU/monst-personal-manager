@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5194",
+      "name": "デリエリ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5194/#f5194",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔神"
+    },
+    {
+      "id": "5195",
+      "name": "フラウドリン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5195/#f5195",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔神"
+    },
+    {
+      "id": "5196",
+      "name": "グレイロード",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5196/#f5196",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔神"
+    },
+    {
+      "id": "5197",
+      "name": "ガラン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5197/#f5197",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔神"
+    },
+    {
       "id": "5198",
       "name": "メラスキュラ",
       "attribute": "闇",
@@ -2169,50 +2213,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "ドラゴン"
-    },
-    {
-      "id": "5746",
-      "name": "トヒーナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5745/#f5746",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "5749",
-      "name": "真ホルス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5748/#f5749",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "5751",
-      "name": "ロベリス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5750/#f5751",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5754",
-      "name": "キュウキ廻",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4164/#f5754",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
     }
   ]
 }

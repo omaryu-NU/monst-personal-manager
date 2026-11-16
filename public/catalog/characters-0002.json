@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "674",
+      "name": "イヌガミ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/673/#f674",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "676",
       "name": "ツナデ",
       "attribute": "水",
@@ -2223,17 +2234,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "サムライ"
-    },
-    {
-      "id": "1370",
-      "name": "ハクア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1369/#f1370",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

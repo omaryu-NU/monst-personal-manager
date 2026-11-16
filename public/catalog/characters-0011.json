@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6203",
+      "name": "猪八戒",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1229/#f6203",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6204",
+      "name": "ケセド廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4503/#f6204",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6206",
+      "name": "李信α",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6205/#f6206",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "6208",
+      "name": "アナスタシアα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6207/#f6208",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "6210",
       "name": "エルマルーα",
       "attribute": "光",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "6580",
-      "name": "影の魔女",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6579/#f6580",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6582",
-      "name": "お菓子の魔女",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6581/#f6582",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6585",
-      "name": "打神鞭",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3249/#f6585",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6589",
-      "name": "風神雷神",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4649/#f6589",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

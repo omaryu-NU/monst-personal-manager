@@ -1256,15 +1256,46 @@
       "speed": 135.33
     },
     {
+      "id": "244",
+      "name": "ドミニオン",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/244.webp",
+      "source": "https://game.technophere.com/monst/char/244/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "大爆発 （無）",
+      "ss": "聖なる力でスピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 7200,
+      "attack": 5248,
+      "speed": 165.8
+    },
+    {
       "id": "245",
       "name": "ドミニオン",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/244/#f245",
+      "abilities": [
+        "飛行",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/245.webp",
+      "source": "https://game.technophere.com/monst/char/244/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "大々爆発 （無）",
+      "ss": "聖なる力でスピードが特大アップ 18ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 10332,
+      "speed": 193.7
     },
     {
       "id": "247",
@@ -2668,17 +2699,6 @@
       "source": "https://game.technophere.com/monst/char/668/#f669",
       "evolution": "進化",
       "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "674",
-      "name": "イヌガミ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/673/#f674",
-      "evolution": "進化",
-      "type": "貫通",
       "style": "バランス",
       "race": "亜人"
     }
