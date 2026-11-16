@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4730",
+      "name": "光の姫君",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4728/#f4730",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4732",
+      "name": "ミスサンクチュアリ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4731/#f4732",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "4734",
       "name": "スラッシュレディ",
       "attribute": "光",
@@ -2581,15 +2603,70 @@
       ]
     },
     {
-      "id": "5163",
+      "id": "5161",
       "name": "タラスク",
       "attribute": "闇",
       "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5161/#f5163",
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5161.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "ブレス （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15985,
+      "attack": 26764,
+      "speed": 150.83
+    },
+    {
+      "id": "5162",
+      "name": "暴怒の巨竜 タラスク",
+      "attribute": "闇",
+      "abilities": [
+        "アンチウィンド",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5162.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "超強ブレス （闇）",
+      "ss": "ふれた最初の敵を乱打し、白爆発を放つ 12ターン",
+      "rarity": 6,
+      "hp": 17112,
+      "attack": 21690,
+      "speed": 171.83,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "魔法陣ブースト"
+      ]
+    },
+    {
+      "id": "5163",
+      "name": "タラスク",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5163.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
       "evolution": "神化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "超強反射拡散弾EL5 （闇） 副友情 スピードアップS （無）",
+      "ss": "ふれた敵にHIT数に応じて威力が増すメテオで追い討ち 24ターン",
+      "rarity": 6,
+      "hp": 19055,
+      "attack": 17147,
+      "speed": 236.6,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "5168",
@@ -2721,50 +2798,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔神"
-    },
-    {
-      "id": "5190",
-      "name": "エスタロッサ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5190/#f5190",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔神"
-    },
-    {
-      "id": "5191",
-      "name": "ドロール",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5191/#f5191",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "巨人"
-    },
-    {
-      "id": "5192",
-      "name": "グロキシニア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5192/#f5192",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "5193",
-      "name": "モンスピート",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5193/#f5193",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
       "race": "魔神"
     }
   ]

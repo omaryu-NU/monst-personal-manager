@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "7575",
+      "name": "シュラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7575/#f7575",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7576",
+      "name": "ダニエル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7576/#f7576",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "7577",
+      "name": "グリフィン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7577/#f7577",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7578",
+      "name": "リデラード",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7578/#f7578",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "7579",
+      "name": "オルフェ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7579/#f7579",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "7580",
+      "name": "リュー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7580/#f7580",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
       "id": "7581",
       "name": "ディアッカ",
       "attribute": "木",
@@ -2149,104 +2215,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔王"
-    },
-    {
-      "id": "7915",
-      "name": "ミソラ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパーM",
-        "アンチ魔法陣",
-        "アンチ減速壁",
-        "SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7915.webp",
-      "source": "https://game.technophere.com/monst/char/5099/",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "ロボット",
-      "friendship": "超強十字レーザーEL （水） 副友情 6方向爆撃 （無）",
-      "ss": "スピードとパワーがアップ＆敵を倒せば倒すほど、パワーがアップする 16+8ターン",
-      "rarity": 6,
-      "hp": 16064,
-      "attack": 31989,
-      "speed": 281.77,
-      "connectAbilities": [
-        "超アンチダメージウォール",
-        "カウンターキラー 条件: ロボット以外が2体以上／バランス型以外が2体以上"
-      ]
-    },
-    {
-      "id": "7917",
-      "name": "アイクモ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7916/#f7917",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "7918",
-      "name": "ハンターキング",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチダメージウォール",
-        "超アンチウィンド",
-        "ロングシールドモード"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7918.webp",
-      "source": "https://game.technophere.com/monst/char/195/",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "神",
-      "friendship": "超強バーティカルレーザーEL （木） 副友情 超絶中距離毒拡散弾9 （無）",
-      "ss": "壁にふれる毎にパワーがアップ 16+4ターン",
-      "rarity": 6,
-      "hp": 20118,
-      "attack": 19807,
-      "speed": 286.37,
-      "gaugeAbilities": [
-        "超アンチワープ",
-        "ダウンポジションキラーL"
-      ]
-    },
-    {
-      "id": "7919",
-      "name": "スピカ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1007/#f7919",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7921",
-      "name": "鹿目まどかα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7920/#f7921",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7923",
-      "name": "暁美ほむらα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7922/#f7923",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

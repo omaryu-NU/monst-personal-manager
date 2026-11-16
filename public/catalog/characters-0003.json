@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1365",
+      "name": "平敦盛",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1364/#f1365",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "1370",
       "name": "ハクア",
       "attribute": "光",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "鉱物"
-    },
-    {
-      "id": "2028",
-      "name": "ハイランドスカルドラゴン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2027/#f2028",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

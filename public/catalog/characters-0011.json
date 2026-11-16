@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6197",
+      "name": "グラトニール",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6197/#f6197",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "6199",
+      "name": "スケルツァンド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6198/#f6199",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6201",
+      "name": "ルナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6200/#f6201",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6202",
+      "name": "ザビエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3390/#f6202",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "6203",
       "name": "猪八戒",
       "attribute": "木",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "6573",
-      "name": "ハコの魔女",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6572/#f6573",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6575",
-      "name": "委員長の魔女",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6574/#f6575",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6577",
-      "name": "薔薇園の魔女",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6576/#f6577",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "6578",
-      "name": "ワルプルギスの夜",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6578/#f6578",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔族"
     }
   ]
 }

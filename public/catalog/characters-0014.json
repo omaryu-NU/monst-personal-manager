@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7274",
+      "name": "周瑜",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1755/#f7274",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "7275",
+      "name": "千利休",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3867/#f7275",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7277",
+      "name": "ドケソコトリ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7276/#f7277",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "幻妖"
+    },
+    {
+      "id": "7279",
+      "name": "リドーラ姫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7278/#f7279",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
       "id": "7280",
       "name": "妲己",
       "attribute": "闇",
@@ -2389,26 +2433,94 @@
       ]
     },
     {
+      "id": "7528",
+      "name": "重面春太",
+      "attribute": "光",
+      "abilities": [
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7528.webp",
+      "source": "https://game.technophere.com/monst/char/7528/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "超強ブーメラン （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 6195,
+      "attack": 7356,
+      "speed": 252.47
+    },
+    {
       "id": "7529",
       "name": "重面春太",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7528/#f7529",
+      "abilities": [
+        "アンチ魔法陣",
+        "アンチ減速壁",
+        "友情ブースト シールドモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7529.webp",
+      "source": "https://game.technophere.com/monst/char/7528/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ブーメラン （無）",
+      "ss": "スピードとパワーがアップ＆停止後に弱った敵に剣が落ちてくる 12ターン",
+      "rarity": 5,
+      "hp": 10738,
+      "attack": 9071,
+      "speed": 252.37,
+      "gaugeAbilities": [
+        "連撃キラーM"
+      ]
+    },
+    {
+      "id": "7530",
+      "name": "疱瘡神",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7530.webp",
+      "source": "https://game.technophere.com/monst/char/7530/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "超絶貫通毒ロックオン衝撃波6 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16951,
+      "attack": 14635,
+      "speed": 215.53
     },
     {
       "id": "7531",
       "name": "疱瘡神",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7530/#f7531",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチワープ",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7531.webp",
+      "source": "https://game.technophere.com/monst/char/7530/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶貫通毒ロックオン衝撃波6 （無）",
+      "ss": "スピードとパワーがアップ＆停止後にHPが多い敵を攻撃 20ターン",
+      "rarity": 6,
+      "hp": 19073,
+      "attack": 17063,
+      "speed": 263.2,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "7532",
@@ -2716,72 +2828,6 @@
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7575",
-      "name": "シュラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7575/#f7575",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7576",
-      "name": "ダニエル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7576/#f7576",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7577",
-      "name": "グリフィン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7577/#f7577",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7578",
-      "name": "リデラード",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7578/#f7578",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "7579",
-      "name": "オルフェ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7579/#f7579",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7580",
-      "name": "リュー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7580/#f7580",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "ロボット"
     }
   ]

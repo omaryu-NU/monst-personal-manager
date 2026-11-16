@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "6937",
+      "name": "ウボサスラα",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6936/#f6937",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "6939",
+      "name": "アルスラーンα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6938/#f6939",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6941",
+      "name": "ブーゲンビリアα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6940/#f6941",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6943",
+      "name": "スパイニャー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6942/#f6943",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "6945",
       "name": "間名文奈",
       "attribute": "木",
@@ -2156,50 +2200,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "サムライ"
-    },
-    {
-      "id": "7274",
-      "name": "周瑜",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1755/#f7274",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "7275",
-      "name": "千利休",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3867/#f7275",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7277",
-      "name": "ドケソコトリ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7276/#f7277",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "幻妖"
-    },
-    {
-      "id": "7279",
-      "name": "リドーラ姫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7278/#f7279",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
     }
   ]
 }

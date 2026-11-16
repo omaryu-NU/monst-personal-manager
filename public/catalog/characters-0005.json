@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2659",
+      "name": "エティカ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2658/#f2659",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "2661",
       "name": "ハトリー",
       "attribute": "木",
@@ -441,15 +452,47 @@
       ]
     },
     {
+      "id": "2682",
+      "name": "シュモクマン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2682.webp",
+      "source": "https://game.technophere.com/monst/char/2682/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "メテオ （無）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 18ターン",
+      "rarity": 5,
+      "hp": 15929,
+      "attack": 19247,
+      "speed": 204.63
+    },
+    {
       "id": "2683",
       "name": "シュモクマン",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2682/#f2683",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2683.webp",
+      "source": "https://game.technophere.com/monst/char/2682/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "超強メテオ （無）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 18662,
+      "attack": 18820,
+      "speed": 192.4,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "2698",
@@ -2383,28 +2426,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "3353",
-      "name": "近藤勲",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3352/#f3353",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "3355",
-      "name": "月詠",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3354/#f3355",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

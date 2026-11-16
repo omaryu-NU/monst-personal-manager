@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "669",
+      "name": "早乙女シュリ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/668/#f669",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "674",
       "name": "イヌガミ",
       "attribute": "火",
@@ -2222,17 +2233,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1365",
-      "name": "平敦盛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1364/#f1365",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
       "race": "サムライ"
     }
   ]

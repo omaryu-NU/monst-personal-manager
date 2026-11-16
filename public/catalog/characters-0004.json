@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2028",
+      "name": "ハイランドスカルドラゴン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2027/#f2028",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "2041",
       "name": "申公豹",
       "attribute": "火",
@@ -2648,17 +2659,6 @@
       "attribute": "闇",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/2656/#f2657",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "2659",
-      "name": "エティカ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2658/#f2659",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",

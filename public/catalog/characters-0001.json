@@ -1298,15 +1298,46 @@
       "speed": 193.7
     },
     {
+      "id": "246",
+      "name": "バハムート",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/246.webp",
+      "source": "https://game.technophere.com/monst/char/246/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "バーティカルレーザーL （闇）",
+      "ss": "ふれた敵にメテオで追い討ち 26ターン",
+      "rarity": 5,
+      "hp": 15183,
+      "attack": 23030,
+      "speed": 195.67
+    },
+    {
       "id": "247",
       "name": "バハムート",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/246/#f247",
+      "abilities": [
+        "飛行",
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/247.webp",
+      "source": "https://game.technophere.com/monst/char/246/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ワンウェイレーザーEL （闇）",
+      "ss": "ふれた敵にメテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 19920,
+      "attack": 30712,
+      "speed": 161.63
     },
     {
       "id": "249",
@@ -2689,17 +2720,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "669",
-      "name": "早乙女シュリ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/668/#f669",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]
