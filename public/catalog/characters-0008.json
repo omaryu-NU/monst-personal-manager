@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4692",
+      "name": "アスト",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4691/#f4692",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖域の狩人"
+    },
+    {
+      "id": "4694",
+      "name": "パンニ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4693/#f4694",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖域の狩人"
+    },
+    {
+      "id": "4704",
+      "name": "ザッハトルテ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4702/#f4704",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4706",
+      "name": "ストロベリーナイツ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4705/#f4706",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "4708",
+      "name": "アズキ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4707/#f4708",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
       "id": "4710",
       "name": "マカロン",
       "attribute": "闇",
@@ -2726,6 +2781,30 @@
       ]
     },
     {
+      "id": "5167",
+      "name": "世話焼きお姉さん系オペレーティングAI オペコ MV",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5167.webp",
+      "source": "https://game.technophere.com/monst/char/5167/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "超強プラズマ （闇） 副友情 超強爆発 （無）",
+      "ss": "ふれた仲間のパワーを一定期間アップ 12+4ターン",
+      "rarity": 6,
+      "hp": 18197,
+      "attack": 20345,
+      "speed": 367,
+      "gaugeAbilities": [
+        "SSターンチャージ"
+      ]
+    },
+    {
       "id": "5168",
       "name": "ルシファー＆カエサルMV",
       "attribute": "闇",
@@ -2746,72 +2825,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "神"
-    },
-    {
-      "id": "5175",
-      "name": "ウルルミス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4837/#f5175",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "5176",
-      "name": "バン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2882/#f5176",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5177",
-      "name": "キング",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2886/#f5177",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "5178",
-      "name": "メリオダス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2890/#f5178",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔神"
-    },
-    {
-      "id": "5180",
-      "name": "エスカノール",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5179/#f5180",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5182",
-      "name": "マーリン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5181/#f5182",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

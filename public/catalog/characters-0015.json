@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "7558",
+      "name": "西施",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5337/#f7558",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7560",
+      "name": "月下老人",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7559/#f7560",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "7561",
+      "name": "オニャンコポン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5385/#f7561",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
+    },
+    {
+      "id": "7562",
+      "name": "佐々木小次郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1855/#f7562",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7563",
+      "name": "ベルスター",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2011/#f7563",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "7565",
+      "name": "ルナマリア",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7564/#f7565",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7567",
+      "name": "マリュー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7566/#f7567",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
       "id": "7569",
       "name": "アスラン",
       "attribute": "木",
@@ -2137,83 +2214,6 @@
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7896",
-      "name": "ぴえヨン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7896/#f7896",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7897",
-      "name": "斉藤ミヤコ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7897/#f7897",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7898",
-      "name": "アルキメデス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1638/#f7898",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7900",
-      "name": "フォーミュラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4544/#f7900",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7901",
-      "name": "司馬昭",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4626/#f7901",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7903",
-      "name": "ゲキリンα",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7902/#f7903",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "7905",
-      "name": "モールスα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7904/#f7905",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

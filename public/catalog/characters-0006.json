@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "3324",
+      "name": "シャイターン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3323/#f3324",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "3327",
+      "name": "アジダハーカ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3325/#f3327",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "3328",
+      "name": "不動明王廻",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1480/#f3328",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "3341",
+      "name": "志村新八",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3340/#f3341",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "3345",
+      "name": "エリザベス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3344/#f3345",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "3347",
       "name": "沖田総悟",
       "attribute": "火",
@@ -2182,61 +2237,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "死神"
-    },
-    {
-      "id": "4063",
-      "name": "涅マユリ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4062/#f4063",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "死神"
-    },
-    {
-      "id": "4076",
-      "name": "船虫",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4075/#f4076",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "4078",
-      "name": "馬加大記",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4077/#f4078",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "4081",
-      "name": "玉梓",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4079/#f4081",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "4083",
-      "name": "網乾左母二郎",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4082/#f4083",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

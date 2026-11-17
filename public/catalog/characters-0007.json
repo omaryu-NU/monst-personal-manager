@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4063",
+      "name": "涅マユリ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4062/#f4063",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "死神"
+    },
+    {
+      "id": "4076",
+      "name": "船虫",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4075/#f4076",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "4078",
+      "name": "馬加大記",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4077/#f4078",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "4081",
+      "name": "玉梓",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4079/#f4081",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "4083",
+      "name": "網乾左母二郎",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4082/#f4083",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "4088",
       "name": "アイナ",
       "attribute": "水",
@@ -2256,61 +2311,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "聖域の狩人"
-    },
-    {
-      "id": "4692",
-      "name": "アスト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4691/#f4692",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "4694",
-      "name": "パンニ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4693/#f4694",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "4704",
-      "name": "ザッハトルテ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4702/#f4704",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4706",
-      "name": "ストロベリーナイツ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4705/#f4706",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "4708",
-      "name": "アズキ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4707/#f4708",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "聖騎士"
     }
   ]
 }

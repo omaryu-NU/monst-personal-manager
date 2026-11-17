@@ -1380,26 +1380,84 @@
       "speed": 355.93
     },
     {
+      "id": "250",
+      "name": "ヤディア",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/250.webp",
+      "source": "https://game.technophere.com/monst/char/250/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "大爆発 （無）",
+      "ss": "亀の力でスピードとパワーが中アップ 13ターン",
+      "rarity": 4,
+      "hp": 7271,
+      "attack": 6595,
+      "speed": 303.13
+    },
+    {
       "id": "251",
       "name": "ヤディア",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/250/#f251",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/251.webp",
+      "source": "https://game.technophere.com/monst/char/250/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた仲間を特大回復させる 20ターン",
+      "rarity": 5,
+      "hp": 12723,
+      "attack": 11389,
+      "speed": 335.33
+    },
+    {
+      "id": "252",
+      "name": "エンフィールド",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/252.webp",
+      "source": "https://game.technophere.com/monst/char/252/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "獣",
+      "friendship": "拡散弾L2 （木）",
+      "ss": "蛇の力でパワーが大アップ 15ターン",
+      "rarity": 4,
+      "hp": 7235,
+      "attack": 6232,
+      "speed": 174.07
     },
     {
       "id": "253",
       "name": "エンフィールド",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/252/#f253",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/253.webp",
+      "source": "https://game.technophere.com/monst/char/252/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "獣"
+      "race": "獣",
+      "friendship": "拡散弾EL3 （木）",
+      "ss": "ふれた最初の敵を乱打し、拡散弾で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 12663,
+      "attack": 11193,
+      "speed": 203.37
     },
     {
       "id": "255",
@@ -2716,28 +2774,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "怪獣"
-    },
-    {
-      "id": "657",
-      "name": "キングギドラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/656/#f657",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "659",
-      "name": "スペースゴジラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/658/#f659",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "怪獣"
     }
   ]

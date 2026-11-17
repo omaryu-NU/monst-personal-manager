@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1358",
+      "name": "平清盛",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1356/#f1358",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "1360",
+      "name": "落武者",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1359/#f1360",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "1363",
       "name": "源頼朝",
       "attribute": "光",
@@ -2234,28 +2256,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "ドラゴン"
-    },
-    {
-      "id": "2020",
-      "name": "スニック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2019/#f2020",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "2023",
-      "name": "ヴェローナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2021/#f2023",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
     }
   ]
 }

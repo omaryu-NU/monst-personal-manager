@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "8548",
+      "name": "ツェーン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8547/#f8548",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "8549",
+      "name": "ロベスピエール",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8549/#f8549",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8552",
+      "name": "いろは",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8550/#f8552",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8553",
+      "name": "物乃具姫",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5348/#f8553",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8555",
+      "name": "プロポバテ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8554/#f8555",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "8556",
+      "name": "ディヴィジョン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5264/#f8556",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "8557",
+      "name": "オド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5939/#f8557",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
       "id": "8558",
       "name": "ドゥームズデイ",
       "attribute": "木",
@@ -1146,12 +1223,30 @@
       "id": "8708",
       "name": "イソップ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2688/#f8708",
+      "abilities": [
+        "超アンチウィンド",
+        "アンチ減速床"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8708.webp",
+      "source": "https://game.technophere.com/monst/char/2688/",
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶拡大爆破弾 （無） 副友情 超絶毒フレア （無）",
+      "ss": "スピードとパワーがアップ＆停止後に多数のホーミング弾を放つ 12+8ターン",
+      "rarity": 6,
+      "hp": 21286,
+      "attack": 21855,
+      "speed": 376.4,
+      "gaugeAbilities": [
+        "ダッシュ"
+      ],
+      "connectAbilities": [
+        "アンチワープ",
+        "超マインスイーパーM",
+        "友情ブースト 条件: バランス型以外が2体以上／貫通が2体以上"
+      ]
     },
     {
       "id": "8709",
@@ -2189,83 +2284,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "8843",
-      "name": "ジャック",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8843/#f8843",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "8845",
-      "name": "鬼柳",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8844/#f8845",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "8847",
-      "name": "クロノス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8846/#f8847",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "8849",
-      "name": "牛尾",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8848/#f8849",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8851",
-      "name": "斎王",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8850/#f8851",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "8853",
-      "name": "ヘルカイザー亮",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8852/#f8853",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "8854",
-      "name": "アンチノミー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8854/#f8854",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
     }
   ]
 }

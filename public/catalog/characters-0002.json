@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "657",
+      "name": "キングギドラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/656/#f657",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "659",
+      "name": "スペースゴジラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/658/#f659",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
       "id": "667",
       "name": "百地三太夫",
       "attribute": "木",
@@ -2211,28 +2233,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "1358",
-      "name": "平清盛",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1356/#f1358",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "1360",
-      "name": "落武者",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1359/#f1360",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "サムライ"
     }
   ]
