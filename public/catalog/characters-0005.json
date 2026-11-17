@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2657",
+      "name": "ウィル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2656/#f2657",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "2659",
       "name": "エティカ",
       "attribute": "闇",
@@ -492,6 +503,49 @@
       "speed": 192.4,
       "gaugeAbilities": [
         "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2686",
+      "name": "ブルータス",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2686.webp",
+      "source": "https://game.technophere.com/monst/char/2686/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人",
+      "friendship": "分裂貫通衝撃波3 （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16961,
+      "attack": 15748,
+      "speed": 292.33
+    },
+    {
+      "id": "2687",
+      "name": "裏切りの凶刃 ブルータス",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2687.webp",
+      "source": "https://game.technophere.com/monst/char/2686/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人",
+      "friendship": "超強分裂貫通衝撃波3 （木）",
+      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 12ターン",
+      "rarity": 6,
+      "hp": 18488,
+      "attack": 15452,
+      "speed": 273,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
       ]
     },
     {
@@ -2393,39 +2447,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "3347",
-      "name": "沖田総悟",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3346/#f3347",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3349",
-      "name": "猿飛あやめ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3348/#f3349",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3351",
-      "name": "土方十四郎",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3350/#f3351",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

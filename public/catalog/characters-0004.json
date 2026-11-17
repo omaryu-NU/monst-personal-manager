@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2025",
+      "name": "マンドム",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2024/#f2025",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
       "id": "2028",
       "name": "ハイランドスカルドラゴン",
       "attribute": "木",
@@ -2652,17 +2663,6 @@
       "gaugeAbilities": [
         "アンチブロック"
       ]
-    },
-    {
-      "id": "2657",
-      "name": "ウィル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2656/#f2657",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖域の狩人"
     }
   ]
 }

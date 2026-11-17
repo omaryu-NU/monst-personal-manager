@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7569",
+      "name": "アスラン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7568/#f7569",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "7571",
+      "name": "キラ＆ラクス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7570/#f7571",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "7573",
+      "name": "シン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7572/#f7573",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "7574",
+      "name": "ムウ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7574/#f7574",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "7575",
       "name": "シュラ",
       "attribute": "火",
@@ -2171,50 +2215,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "7907",
-      "name": "島左近α",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7906/#f7907",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "7910",
-      "name": "リップレー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7908/#f7910",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7912",
-      "name": "ビビーQ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7911/#f7912",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "7914",
-      "name": "カロニムヴァンス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7913/#f7914",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
     }
   ]
 }

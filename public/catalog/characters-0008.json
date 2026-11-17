@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4710",
+      "name": "マカロン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4709/#f4710",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "4712",
+      "name": "デーヴァダッタ廻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2856/#f4712",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "4727",
+      "name": "スイハンガール",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4726/#f4727",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "4730",
       "name": "光の姫君",
       "attribute": "水",
@@ -2669,6 +2702,30 @@
       ]
     },
     {
+      "id": "5166",
+      "name": "希望と創造の救世神 ノア MV",
+      "attribute": "水",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5166.webp",
+      "source": "https://game.technophere.com/monst/char/5166/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強プラズマ （水） 副友情 スピードアップ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた順に応じて威力が上がるメテオで追い討ち 16+8ターン",
+      "rarity": 6,
+      "hp": 20368,
+      "attack": 17558,
+      "speed": 311.17,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "5168",
       "name": "ルシファー＆カエサルMV",
       "attribute": "闇",
@@ -2755,50 +2812,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "5184",
-      "name": "エレイン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5183/#f5184",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "5186",
-      "name": "エリザベス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5185/#f5186",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5188",
-      "name": "アーサー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5187/#f5188",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5189",
-      "name": "ゼルドリス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5189/#f5189",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔神"
     }
   ]
 }

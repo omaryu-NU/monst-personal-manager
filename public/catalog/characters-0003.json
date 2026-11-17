@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1363",
+      "name": "源頼朝",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1361/#f1363",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "1365",
       "name": "平敦盛",
       "attribute": "闇",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "2025",
-      "name": "マンドム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2024/#f2025",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7267",
+      "name": "クウガンス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7266/#f7267",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "7268",
+      "name": "シキノクローネ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7268/#f7268",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "7269",
+      "name": "トパーズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4327/#f7269",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7273",
+      "name": "新島八重",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7272/#f7273",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
       "id": "7274",
       "name": "周瑜",
       "attribute": "水",
@@ -2526,12 +2570,24 @@
       "id": "7532",
       "name": "庵歌姫",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7532/#f7532",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチブロック",
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7532.webp",
+      "source": "https://game.technophere.com/monst/char/7532/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強攻撃アップ （無）",
+      "ss": "スピードとパワーがアップ＆アイテムが1段階成長 16ターン",
+      "rarity": 6,
+      "hp": 18647,
+      "attack": 21089,
+      "speed": 268.67
     },
     {
       "id": "7533",
@@ -2784,50 +2840,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "7569",
-      "name": "アスラン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7568/#f7569",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7571",
-      "name": "キラ＆ラクス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7570/#f7571",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7573",
-      "name": "シン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7572/#f7573",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "7574",
-      "name": "ムウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7574/#f7574",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
       "race": "ロボット"
     }
   ]

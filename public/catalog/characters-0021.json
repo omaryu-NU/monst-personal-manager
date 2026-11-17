@@ -2,6 +2,76 @@
   "version": 1,
   "characters": [
     {
+      "id": "9430",
+      "name": "ブレーメン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3694/#f9430",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9432",
+      "name": "サクリファイス：復讐代行",
+      "attribute": "水",
+      "abilities": [
+        "超アンチダメージウォール",
+        "アンチブロック",
+        "超アンチ減速壁",
+        "超アンチ転送壁",
+        "攻撃力チャージ 友情コンボチャージS"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9432.webp",
+      "source": "https://game.technophere.com/monst/char/9431/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "乱SS短縮弾 （無） 副友情 爆絶爆発 （無）",
+      "ss": "華麗な鞭さばきで味方を動かし敵へ撃ちこむ＆ふれた敵の弱点を一定期間、すべて出現させる 20+8ターン",
+      "rarity": 6,
+      "hp": 20549,
+      "attack": 45571,
+      "speed": 268.27
+    },
+    {
+      "id": "9433",
+      "name": "サクリファイス",
+      "attribute": "水",
+      "abilities": [
+        "超マインスイーパーEL",
+        "アンチブロック",
+        "超アンチ減速壁",
+        "アンチ減速床",
+        "ドレインL 壁SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9433.webp",
+      "source": "https://game.technophere.com/monst/char/9431/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人",
+      "friendship": "超絶アタッチボム6 （無） 副友情 防スピアップ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵の攻撃ターンを増加させる 24+4ターン",
+      "rarity": 6,
+      "hp": 17243,
+      "attack": 41118,
+      "speed": 361.47
+    },
+    {
+      "id": "9434",
+      "name": "ジャスミン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5015/#f9434",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "妖精"
+    },
+    {
       "id": "9436",
       "name": "ララバイ",
       "attribute": "水",

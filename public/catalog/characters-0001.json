@@ -1340,15 +1340,44 @@
       "speed": 161.63
     },
     {
+      "id": "248",
+      "name": "ドゥカティ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/248.webp",
+      "source": "https://game.technophere.com/monst/char/248/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン",
+      "friendship": "拡散弾L2 （火）",
+      "ss": "竜の力でスピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 7235,
+      "attack": 5824,
+      "speed": 304.63
+    },
+    {
       "id": "249",
       "name": "ドゥカティ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/248/#f249",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/249.webp",
+      "source": "https://game.technophere.com/monst/char/248/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ドラゴン"
+      "race": "ドラゴン",
+      "friendship": "バーティカルレーザーL （火）",
+      "ss": "ふれた最初の敵を乱打し、口から吐く火炎で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 12663,
+      "attack": 10500,
+      "speed": 355.93
     },
     {
       "id": "251",
@@ -2710,17 +2739,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "怪獣"
-    },
-    {
-      "id": "667",
-      "name": "百地三太夫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/666/#f667",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

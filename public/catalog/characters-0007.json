@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4088",
+      "name": "アイナ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4087/#f4088",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4090",
+      "name": "モラル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4089/#f4090",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "4096",
+      "name": "纏流子",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4095/#f4096",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "4098",
       "name": "ガロ",
       "attribute": "水",
@@ -1938,12 +1971,24 @@
       "id": "4638",
       "name": "ブルータス廻",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2686/#f4638",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4638.webp",
+      "source": "https://game.technophere.com/monst/char/2686/",
       "evolution": "神化",
       "type": "反射",
       "style": "スピード",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "超強分裂貫通衝撃波3 （木）",
+      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 12ターン",
+      "rarity": 6,
+      "hp": 18488,
+      "attack": 15452,
+      "speed": 273,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "4640",
@@ -2265,39 +2310,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "4710",
-      "name": "マカロン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4709/#f4710",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "4712",
-      "name": "デーヴァダッタ廻",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2856/#f4712",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "4727",
-      "name": "スイハンガール",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4726/#f4727",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "聖騎士"
     }
   ]

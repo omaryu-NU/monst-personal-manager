@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7907",
+      "name": "島左近α",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7906/#f7907",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "7910",
+      "name": "リップレー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7908/#f7910",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7912",
+      "name": "ビビーQ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7911/#f7912",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "7914",
+      "name": "カロニムヴァンス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7913/#f7914",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
       "id": "7915",
       "name": "ミソラ",
       "attribute": "水",
@@ -2225,50 +2269,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "8242",
-      "name": "イルーゾォ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8241/#f8242",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8243",
-      "name": "リゾット",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8243/#f8243",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8244",
-      "name": "トリッシュ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8244/#f8244",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8245",
-      "name": "タンザナイト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5206/#f8245",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "聖騎士"
     }
   ]
 }

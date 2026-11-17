@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8855",
+      "name": "クロウ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8855/#f8855",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "8856",
+      "name": "ベネット",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5532/#f8856",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "8857",
+      "name": "フォルテ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3366/#f8857",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8858",
+      "name": "ユベル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8858/#f8858",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "8859",
       "name": "万丈目",
       "attribute": "火",
@@ -2106,12 +2150,30 @@
       "id": "9146",
       "name": "ノアMV",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5166/#f9146",
+      "abilities": [
+        "超アンチワープ",
+        "アンチ減速床"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9146.webp",
+      "source": "https://game.technophere.com/monst/char/5166/",
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ハイプラズマ （水） 副友情 友スピアップ （無）",
+      "ss": "味方を率いて敵へ撃ちこむ 12+8ターン",
+      "rarity": 6,
+      "hp": 22088,
+      "attack": 19132,
+      "speed": 334.13,
+      "gaugeAbilities": [
+        "回復L 壁SSターン短縮"
+      ],
+      "connectAbilities": [
+        "超アンチ重力バリア",
+        "飛行",
+        "弱点キラーM 条件: バランス型以外が2体以上／反射が2体以上"
+      ]
     },
     {
       "id": "9148",
@@ -2177,50 +2239,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9157",
-      "name": "律＆澪",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9157/#f9157",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9159",
-      "name": "山中さわ子",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9158/#f9159",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9160",
-      "name": "平沢憂",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9160/#f9160",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9161",
-      "name": "乙姫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3099/#f9161",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
       "race": "亜人"
     }
   ]
