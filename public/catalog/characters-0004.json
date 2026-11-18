@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1992",
+      "name": "スラッシュX",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1991/#f1992",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "1994",
+      "name": "バステトX",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1993/#f1994",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "1996",
+      "name": "ダヴィンチX",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1995/#f1996",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
       "id": "1998",
       "name": "鉄扇公主X",
       "attribute": "光",
@@ -1123,6 +1156,30 @@
       "speed": 236.2,
       "gaugeAbilities": [
         "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2351",
+      "name": "狂おしき死の薔薇 ハーレーX",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2351.webp",
+      "source": "https://game.technophere.com/monst/char/257/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "フレア （無） 副友情 8方向レーザーL （火）",
+      "ss": "自身のスピードがダウン、最初にふれた敵で白爆発を起こす 25+5ターン",
+      "rarity": 6,
+      "hp": 22167,
+      "attack": 36889,
+      "speed": 265.73,
+      "gaugeAbilities": [
+        "アンチブロック"
       ]
     },
     {
@@ -2506,92 +2563,6 @@
       "speed": 226.6,
       "gaugeAbilities": [
         "アンチワープ"
-      ]
-    },
-    {
-      "id": "2644",
-      "name": "ホイールキング",
-      "attribute": "水",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2644.webp",
-      "source": "https://game.technophere.com/monst/char/2644/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット",
-      "friendship": "クロスレーザーM （水）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 15059,
-      "attack": 14456,
-      "speed": 358
-    },
-    {
-      "id": "2645",
-      "name": "ホイールキング",
-      "attribute": "水",
-      "abilities": [
-        "アンチワープ",
-        "アンチ減速壁",
-        "サムライキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2645.webp",
-      "source": "https://game.technophere.com/monst/char/2644/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット",
-      "friendship": "反射クロスレーザーEL （水）",
-      "ss": "スピードがアップ 16ターン",
-      "rarity": 6,
-      "hp": 18392,
-      "attack": 18730,
-      "speed": 323.2
-    },
-    {
-      "id": "2646",
-      "name": "カンガルーエンジン",
-      "attribute": "木",
-      "abilities": [
-        "ロボットキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2646.webp",
-      "source": "https://game.technophere.com/monst/char/2646/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "エナジーサークルS （木）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
-      "rarity": 4,
-      "hp": 5921,
-      "attack": 5865,
-      "speed": 201.53
-    },
-    {
-      "id": "2647",
-      "name": "カンガルーエンジン",
-      "attribute": "木",
-      "abilities": [
-        "ロボットキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2647.webp",
-      "source": "https://game.technophere.com/monst/char/2646/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "ダブルエナジーサークルM （木）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
-      "rarity": 5,
-      "hp": 10365,
-      "attack": 8828,
-      "speed": 235.5,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "アンチ減速壁"
       ]
     }
   ]

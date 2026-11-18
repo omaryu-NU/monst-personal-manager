@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "8513",
+      "name": "猫猫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8512/#f8513",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8515",
+      "name": "壬氏",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8514/#f8515",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8517",
+      "name": "玉葉妃",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8516/#f8517",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8520",
+      "name": "梨花妃",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8520/#f8520",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8521",
+      "name": "猫猫＆壬氏",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8521/#f8521",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8522",
       "name": "楼蘭",
       "attribute": "光",
@@ -2229,61 +2284,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "8809",
-      "name": "李信",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5673/#f8809",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "8810",
-      "name": "童磨",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8810/#f8810",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "8812",
-      "name": "ムーラン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8811/#f8812",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8814",
-      "name": "スカアハ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8813/#f8814",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "8816",
-      "name": "アグリッピナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8815/#f8816",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

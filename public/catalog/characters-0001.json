@@ -1522,6 +1522,26 @@
       "speed": 167.07
     },
     {
+      "id": "257",
+      "name": "ハーレーX",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/257.webp",
+      "source": "https://game.technophere.com/monst/char/257/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "バーティカルレーザーL （闇）",
+      "ss": "地獄のパワーで爆発し周囲の敵を巻込みダメージを与える 20ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 16724,
+      "speed": 170.7
+    },
+    {
       "id": "258",
       "name": "地獄の薔薇のハーレー",
       "attribute": "闇",
@@ -1540,6 +1560,26 @@
       "hp": 17928,
       "attack": 29925,
       "speed": 185.1
+    },
+    {
+      "id": "259",
+      "name": "地獄の薔薇のハーレーX",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/259.webp",
+      "source": "https://game.technophere.com/monst/char/257/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "クロスレーザーL （闇）",
+      "ss": "地獄のパワーで爆発し周囲の敵を巻込みダメージを与える 20ターン",
+      "rarity": 6,
+      "hp": 17928,
+      "attack": 29137,
+      "speed": 189.1
     },
     {
       "id": "263",
@@ -2791,28 +2831,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "645",
-      "name": "デストロイア",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/644/#f645",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "647",
-      "name": "ガイガン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/646/#f647",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
     }
   ]
 }

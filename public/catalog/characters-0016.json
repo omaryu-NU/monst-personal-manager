@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "7863",
+      "name": "マナ（新春）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3814/#f7863",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7864",
+      "name": "マナMV",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3645/#f7864",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7868",
+      "name": "黒川あかね",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7867/#f7868",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7872",
+      "name": "MEMちょ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7871/#f7872",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7875",
+      "name": "アイ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7875/#f7875",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "7877",
       "name": "有馬かな",
       "attribute": "火",
@@ -2229,61 +2284,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "8192",
-      "name": "末法",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8191/#f8192",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "8193",
-      "name": "弁財天",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3242/#f8193",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "神"
-    },
-    {
-      "id": "8194",
-      "name": "弁財天（クリスマス）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3774/#f8194",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "神"
-    },
-    {
-      "id": "8198",
-      "name": "エル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8196/#f8198",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8200",
-      "name": "アビス(新春)",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8200/#f8200",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔王"
     }
   ]
 }

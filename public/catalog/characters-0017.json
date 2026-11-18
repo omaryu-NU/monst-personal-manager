@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "8192",
+      "name": "末法",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8191/#f8192",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "8193",
+      "name": "弁財天",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3242/#f8193",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "8194",
+      "name": "弁財天（クリスマス）",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3774/#f8194",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "8198",
+      "name": "エル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8196/#f8198",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8200",
+      "name": "アビス(新春)",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8200/#f8200",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
       "id": "8202",
       "name": "乙巳にょろん",
       "attribute": "光",
@@ -2215,61 +2270,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "8513",
-      "name": "猫猫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8512/#f8513",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8515",
-      "name": "壬氏",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8514/#f8515",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8517",
-      "name": "玉葉妃",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8516/#f8517",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8520",
-      "name": "梨花妃",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8520/#f8520",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8521",
-      "name": "猫猫＆壬氏",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8521/#f8521",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

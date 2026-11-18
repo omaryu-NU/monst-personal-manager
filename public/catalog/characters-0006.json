@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "3273",
+      "name": "井伊直政",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3272/#f3273",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
+      "id": "3275",
+      "name": "足利義教",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3274/#f3275",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3277",
+      "name": "法海",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3276/#f3277",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "3279",
+      "name": "お花見オラゴン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3278/#f3279",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "3285",
+      "name": "アマイモン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3283/#f3285",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "3287",
       "name": "ダンタリオン",
       "attribute": "水",
@@ -2168,61 +2223,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "4004",
-      "name": "ケズロイザー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4003/#f4004",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "4006",
-      "name": "クシミタマ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4005/#f4006",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "4011",
-      "name": "アルマゲドン（イースター）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3003/#f4011",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "4017",
-      "name": "テンパク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4017/#f4017",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "4018",
-      "name": "ランスイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4018/#f4018",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

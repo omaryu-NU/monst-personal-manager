@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1337",
+      "name": "アレキサンダー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1335/#f1337",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "1338",
+      "name": "クィーンバタフライRD",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1338/#f1338",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "1339",
+      "name": "デスアークRD",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1339/#f1339",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "1340",
       "name": "ミラージュ",
       "attribute": "火",
@@ -2223,39 +2256,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "黄金聖闘士"
-    },
-    {
-      "id": "1992",
-      "name": "スラッシュX",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1991/#f1992",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "1994",
-      "name": "バステトX",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1993/#f1994",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "1996",
-      "name": "ダヴィンチX",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1995/#f1996",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ユニバース"
     }
   ]
 }

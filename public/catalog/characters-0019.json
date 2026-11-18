@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "8809",
+      "name": "李信",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5673/#f8809",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "8810",
+      "name": "童磨",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8810/#f8810",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "8812",
+      "name": "ムーラン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8811/#f8812",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8814",
+      "name": "スカアハ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8813/#f8814",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "8816",
+      "name": "アグリッピナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8815/#f8816",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "8819",
       "name": "マリトパーナ",
       "attribute": "水",
@@ -2167,61 +2222,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "9114",
-      "name": "マキマ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9113/#f9114",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9116",
-      "name": "チェンソーマン＆ビーム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9115/#f9116",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9117",
-      "name": "天使の悪魔",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9117/#f9117",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "9119",
-      "name": "台風の悪魔",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9118/#f9119",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "9121",
-      "name": "暴力の魔人",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9121/#f9121",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人"
     }
   ]
 }

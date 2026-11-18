@@ -2,6 +2,92 @@
   "version": 1,
   "characters": [
     {
+      "id": "2644",
+      "name": "ホイールキング",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2644.webp",
+      "source": "https://game.technophere.com/monst/char/2644/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "クロスレーザーM （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15059,
+      "attack": 14456,
+      "speed": 358
+    },
+    {
+      "id": "2645",
+      "name": "ホイールキング",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ",
+        "アンチ減速壁",
+        "サムライキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2645.webp",
+      "source": "https://game.technophere.com/monst/char/2644/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "反射クロスレーザーEL （水）",
+      "ss": "スピードがアップ 16ターン",
+      "rarity": 6,
+      "hp": 18392,
+      "attack": 18730,
+      "speed": 323.2
+    },
+    {
+      "id": "2646",
+      "name": "カンガルーエンジン",
+      "attribute": "木",
+      "abilities": [
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2646.webp",
+      "source": "https://game.technophere.com/monst/char/2646/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "エナジーサークルS （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 5921,
+      "attack": 5865,
+      "speed": 201.53
+    },
+    {
+      "id": "2647",
+      "name": "カンガルーエンジン",
+      "attribute": "木",
+      "abilities": [
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2647.webp",
+      "source": "https://game.technophere.com/monst/char/2646/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "ダブルエナジーサークルM （木）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 10365,
+      "attack": 8828,
+      "speed": 235.5,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ減速壁"
+      ]
+    },
+    {
       "id": "2648",
       "name": "ラブリードリィ",
       "attribute": "光",
@@ -958,15 +1044,47 @@
       ]
     },
     {
+      "id": "2699",
+      "name": "雨中人",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2699.webp",
+      "source": "https://game.technophere.com/monst/char/2699/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "フレイム （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16018,
+      "attack": 14729,
+      "speed": 234.87
+    },
+    {
       "id": "2700",
       "name": "雨中人",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2699/#f2700",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2700.webp",
+      "source": "https://game.technophere.com/monst/char/2699/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "フレイム （無）",
+      "ss": "自身のスピードがアップ 16ターン",
+      "rarity": 6,
+      "hp": 19563,
+      "attack": 16412,
+      "speed": 212.03,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2702",
@@ -2603,61 +2721,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "3273",
-      "name": "井伊直政",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3272/#f3273",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "3275",
-      "name": "足利義教",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3274/#f3275",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3277",
-      "name": "法海",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3276/#f3277",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "3279",
-      "name": "お花見オラゴン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3278/#f3279",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "3285",
-      "name": "アマイモン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3283/#f3285",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

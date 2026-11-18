@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "645",
+      "name": "デストロイア",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/644/#f645",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "647",
+      "name": "ガイガン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/646/#f647",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
       "id": "651",
       "name": "ラドン",
       "attribute": "火",
@@ -2212,37 +2234,27 @@
       "speed": 230.23
     },
     {
-      "id": "1337",
-      "name": "アレキサンダー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1335/#f1337",
+      "id": "1334",
+      "name": "退廃の黒薔薇 ハーレーX",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1334.webp",
+      "source": "https://game.technophere.com/monst/char/257/",
       "evolution": "神化",
       "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "1338",
-      "name": "クィーンバタフライRD",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1338/#f1338",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "1339",
-      "name": "デスアークRD",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1339/#f1339",
-      "evolution": "進化",
-      "type": "反射",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "十字レーザーL （闇） 副友情 クロスレーザーS （火）",
+      "ss": "ふれた敵で爆発し、周囲の敵を巻き込み大ダメージ 24ターン",
+      "rarity": 6,
+      "hp": 19792,
+      "attack": 33226,
+      "speed": 230.7,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
     }
   ]
 }
