@@ -2,6 +2,31 @@
   "version": 1,
   "characters": [
     {
+      "id": "2652",
+      "name": "黄金の怪盗 エルドラド",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "リジェネ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2652.webp",
+      "source": "https://game.technophere.com/monst/char/2651/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース",
+      "friendship": "ラウンドフラッシュ （無） 副友情 バウンドヒール （無）",
+      "ss": "ふれた敵すべてを、ふっとばす 18ターン",
+      "rarity": 6,
+      "hp": 19930,
+      "attack": 16151,
+      "speed": 216.83,
+      "gaugeAbilities": [
+        "回復 状態異常回復"
+      ]
+    },
+    {
       "id": "2654",
       "name": "ティグノス",
       "attribute": "光",
@@ -660,6 +685,146 @@
       "speed": 205.73,
       "gaugeAbilities": [
         "ダッシュ"
+      ]
+    },
+    {
+      "id": "2691",
+      "name": "ゲーテ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2691.webp",
+      "source": "https://game.technophere.com/monst/char/2691/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射レーザーM3 （光）",
+      "ss": "ヒットしたボスの弱点の効果をアップさせる 18ターン",
+      "rarity": 5,
+      "hp": 15552,
+      "attack": 13700,
+      "speed": 291,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "2692",
+      "name": "悪魔と契約せし者 ゲーテ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2692.webp",
+      "source": "https://game.technophere.com/monst/char/2691/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射レーザーEL4 （光）",
+      "ss": "ヒットしたボスの弱点の効果をアップさせる 18ターン",
+      "rarity": 6,
+      "hp": 19878,
+      "attack": 22144,
+      "speed": 320.93,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "2693",
+      "name": "悪魔と融け合いし者 ゲーテ",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2693.webp",
+      "source": "https://game.technophere.com/monst/char/2691/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人",
+      "friendship": "超強貫通拡散弾EL3 （光） 副友情 ウェーブ （無）",
+      "ss": "自身のパワーがアップ＆味方を集める 12ターン",
+      "rarity": 6,
+      "hp": 21281,
+      "attack": 18252,
+      "speed": 259.63,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2694",
+      "name": "紫式部",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2694.webp",
+      "source": "https://game.technophere.com/monst/char/2694/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "エナジーバースト4 （無）",
+      "ss": "スピードがアップ＆触れた味方との間にプラズマを出す 20ターン",
+      "rarity": 5,
+      "hp": 14037,
+      "attack": 12614,
+      "speed": 266.2,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2695",
+      "name": "妄想炸裂少女 紫式部",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2695.webp",
+      "source": "https://game.technophere.com/monst/char/2694/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔人",
+      "friendship": "エナジーバースト4 （無）",
+      "ss": "スピードがアップ＆触れた味方との間にプラズマを出す 24ターン",
+      "rarity": 6,
+      "hp": 19277,
+      "attack": 18252,
+      "speed": 301.57,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2696",
+      "name": "恋する妄想乙女 紫式部",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2696.webp",
+      "source": "https://game.technophere.com/monst/char/2694/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "魔人",
+      "friendship": "攻撃アップ （無） 副友情 スピードアップS （無）",
+      "ss": "ふれた敵に毒メテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 20963,
+      "attack": 27164,
+      "speed": 230.53,
+      "gaugeAbilities": [
+        "光属性キラー"
       ]
     },
     {
@@ -2429,83 +2594,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "3307",
-      "name": "ハンソロ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3306/#f3307",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3309",
-      "name": "ルーク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3308/#f3309",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3311",
-      "name": "フィン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3310/#f3311",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3312",
-      "name": "カイロレン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3312/#f3312",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3314",
-      "name": "ダースベイダー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3313/#f3314",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3320",
-      "name": "マンティコア",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3319/#f3320",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "幻獣"
-    },
-    {
-      "id": "3322",
-      "name": "カトブレパス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3321/#f3322",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

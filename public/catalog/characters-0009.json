@@ -2,6 +2,157 @@
   "version": 1,
   "characters": [
     {
+      "id": "5161",
+      "name": "タラスク",
+      "attribute": "闇",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5161.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "ブレス （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15985,
+      "attack": 26764,
+      "speed": 150.83
+    },
+    {
+      "id": "5162",
+      "name": "暴怒の巨竜 タラスク",
+      "attribute": "闇",
+      "abilities": [
+        "アンチウィンド",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5162.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "鉱物",
+      "friendship": "超強ブレス （闇）",
+      "ss": "ふれた最初の敵を乱打し、白爆発を放つ 12ターン",
+      "rarity": 6,
+      "hp": 17112,
+      "attack": 21690,
+      "speed": 171.83,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "魔法陣ブースト"
+      ]
+    },
+    {
+      "id": "5163",
+      "name": "タラスク",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5163.webp",
+      "source": "https://game.technophere.com/monst/char/5161/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "超強反射拡散弾EL5 （闇） 副友情 スピードアップS （無）",
+      "ss": "ふれた敵にHIT数に応じて威力が増すメテオで追い討ち 24ターン",
+      "rarity": 6,
+      "hp": 19055,
+      "attack": 17147,
+      "speed": 236.6,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
+      "id": "5166",
+      "name": "希望と創造の救世神 ノア MV",
+      "attribute": "水",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5166.webp",
+      "source": "https://game.technophere.com/monst/char/5166/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強プラズマ （水） 副友情 スピードアップ （無）",
+      "ss": "スピードとパワーがアップ＆ふれた順に応じて威力が上がるメテオで追い討ち 16+8ターン",
+      "rarity": 6,
+      "hp": 20368,
+      "attack": 17558,
+      "speed": 311.17,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "5167",
+      "name": "世話焼きお姉さん系オペレーティングAI オペコ MV",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5167.webp",
+      "source": "https://game.technophere.com/monst/char/5167/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "超強プラズマ （闇） 副友情 超強爆発 （無）",
+      "ss": "ふれた仲間のパワーを一定期間アップ 12+4ターン",
+      "rarity": 6,
+      "hp": 18197,
+      "attack": 20345,
+      "speed": 367,
+      "gaugeAbilities": [
+        "SSターンチャージ"
+      ]
+    },
+    {
+      "id": "5168",
+      "name": "ルシファー＆カエサルMV",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー",
+        "バリア 弱点キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5168.webp",
+      "source": "https://game.technophere.com/monst/char/5168/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "クロス炸裂弾 （闇） 副友情 超強防御ダウンブラスト （無）",
+      "ss": "悪魔の歌で味方を動かし敵へ撃ちこむ＆ヒットした敵の弱点を全て出現させる 16+8ターン",
+      "rarity": 6,
+      "hp": 19437,
+      "attack": 22470,
+      "speed": 386.07,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ魔法陣",
+        "状態異常回復"
+      ]
+    },
+    {
+      "id": "5172",
+      "name": "蔵王権現",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5171/#f5172",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神"
+    },
+    {
       "id": "5175",
       "name": "ウルルミス",
       "attribute": "水",
@@ -286,6 +437,31 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
+    },
+    {
+      "id": "5221",
+      "name": "真なる魂を告白する者 ゲーテ",
+      "attribute": "光",
+      "abilities": [
+        "超アンチダメージウォール",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5221.webp",
+      "source": "https://game.technophere.com/monst/char/2691/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "ツイン反射レーザーEL4 （光） 副友情 超強クロスウェーブ （無）",
+      "ss": "スピードとパワーがアップ＆ヒットした敵の弱点の効果をアップさせる 12+8ターン",
+      "rarity": 6,
+      "hp": 20275,
+      "attack": 23042,
+      "speed": 356.23,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "5224",
@@ -2136,94 +2312,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "5697",
-      "name": "ローウェン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5696/#f5697",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5699",
-      "name": "木座敷わらし",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5698/#f5699",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "5701",
-      "name": "ロフストラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5700/#f5701",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5703",
-      "name": "光酒呑童子",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5702/#f5703",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "5705",
-      "name": "コンブリット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5704/#f5705",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5707",
-      "name": "リドリゲ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5706/#f5707",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "5709",
-      "name": "サージョンキリー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5708/#f5709",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5710",
-      "name": "ルガッサ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5710/#f5710",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }

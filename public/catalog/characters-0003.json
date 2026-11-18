@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1355",
+      "name": "木曽義仲",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1354/#f1355",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
       "id": "1358",
       "name": "平清盛",
       "attribute": "水",
@@ -2245,17 +2256,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "2018",
-      "name": "ゴルディバルディ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2016/#f2018",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ドラゴン"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "655",
+      "name": "モスラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/654/#f655",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "怪獣"
+    },
+    {
       "id": "657",
       "name": "キングギドラ",
       "attribute": "光",
@@ -2223,17 +2234,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "1355",
-      "name": "木曽義仲",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1354/#f1355",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
     }
   ]
 }

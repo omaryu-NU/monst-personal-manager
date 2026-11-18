@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "8829",
+      "name": "前田慶次",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2119/#f8829",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "8830",
+      "name": "城之内",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3891/#f8830",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8831",
+      "name": "海馬",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3893/#f8831",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "8832",
+      "name": "遊戯",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3899/#f8832",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "8834",
+      "name": "アキ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8833/#f8834",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "8836",
+      "name": "明日香",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8835/#f8836",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "8838",
+      "name": "遊星",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8837/#f8838",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "8840",
+      "name": "遊戯＆闇遊戯",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8839/#f8840",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8842",
+      "name": "十代",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8841/#f8842",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8843",
       "name": "ジャック",
       "attribute": "光",
@@ -2123,105 +2222,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "ユニオン"
-    },
-    {
-      "id": "9133",
-      "name": "潤海みはる",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9131/#f9133",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "9135",
-      "name": "辰見あかり",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9134/#f9135",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "9137",
-      "name": "亜門真守",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9136/#f9137",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "9138",
-      "name": "アップル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3031/#f9138",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9140",
-      "name": "スタバーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9139/#f9140",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "9142",
-      "name": "アバウト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9141/#f9142",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻妖"
-    },
-    {
-      "id": "9143",
-      "name": "一休",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3105/#f9143",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "9144",
-      "name": "ジャガーノート",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9144/#f9144",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9145",
-      "name": "ノア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2054/#f9145",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
     }
   ]
 }

@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "7240",
+      "name": "慶舎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7239/#f7240",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7242",
+      "name": "呉鳳明",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7241/#f7242",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7244",
+      "name": "オルド",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7243/#f7244",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7246",
+      "name": "成恢",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7245/#f7246",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7248",
+      "name": "龐煖",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7247/#f7248",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "7249",
+      "name": "河了貂",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7249/#f7249",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7250",
+      "name": "レストレード",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4222/#f7250",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7251",
+      "name": "嬴政",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7251/#f7251",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7252",
+      "name": "李牧",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7252/#f7252",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7253",
       "name": "姫発",
       "attribute": "水",
@@ -2739,12 +2838,24 @@
       "id": "7538",
       "name": "デルモステル",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7538/#f7538",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチウィンド",
+        "アンチ減速壁",
+        "バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7538.webp",
+      "source": "https://game.technophere.com/monst/char/7538/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "パワー",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "ハイクロススティンガー （水） 副友情 超絶貫通拡散弾EL5 （水）",
+      "ss": "壁にふれる毎にパワーがアップ 20+8ターン",
+      "rarity": 6,
+      "hp": 18975,
+      "attack": 26819,
+      "speed": 190.23
     },
     {
       "id": "7539",
@@ -2756,105 +2867,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "神"
-    },
-    {
-      "id": "7541",
-      "name": "薄墨",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7540/#f7541",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "7543",
-      "name": "冷艶鋸",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7542/#f7543",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7545",
-      "name": "ジョワユーズ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7544/#f7545",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7547",
-      "name": "マレンゴ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7546/#f7547",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7550",
-      "name": "赤兎馬",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7548/#f7550",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7552",
-      "name": "青海波",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7551/#f7552",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7554",
-      "name": "タルタロス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7553/#f7554",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "7555",
-      "name": "芙蓉",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2732/#f7555",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "7557",
-      "name": "ファイト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7556/#f7557",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

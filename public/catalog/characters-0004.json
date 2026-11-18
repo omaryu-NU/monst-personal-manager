@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2018",
+      "name": "ゴルディバルディ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2016/#f2018",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ドラゴン"
+    },
+    {
       "id": "2020",
       "name": "スニック",
       "attribute": "木",
@@ -2612,31 +2623,6 @@
       "hp": 14495,
       "attack": 14530,
       "speed": 215.57
-    },
-    {
-      "id": "2652",
-      "name": "黄金の怪盗 エルドラド",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ魔法陣",
-        "リジェネ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2652.webp",
-      "source": "https://game.technophere.com/monst/char/2651/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース",
-      "friendship": "ラウンドフラッシュ （無） 副友情 バウンドヒール （無）",
-      "ss": "ふれた敵すべてを、ふっとばす 18ターン",
-      "rarity": 6,
-      "hp": 19930,
-      "attack": 16151,
-      "speed": 216.83,
-      "gaugeAbilities": [
-        "回復 状態異常回復"
-      ]
     }
   ]
 }

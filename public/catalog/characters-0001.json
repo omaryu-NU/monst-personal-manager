@@ -1460,15 +1460,46 @@
       "speed": 203.37
     },
     {
+      "id": "254",
+      "name": "トライアンフ",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/254.webp",
+      "source": "https://game.technophere.com/monst/char/254/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "拡散弾L2 （光）",
+      "ss": "天馬の力でスピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 7128,
+      "attack": 7322,
+      "speed": 219.77
+    },
+    {
       "id": "255",
       "name": "トライアンフ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/254/#f255",
+      "abilities": [
+        "飛行",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/255.webp",
+      "source": "https://game.technophere.com/monst/char/254/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "神"
+      "race": "神",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "壁にバウンドすればするほど、攻撃力がアップする 18ターン",
+      "rarity": 5,
+      "hp": 12474,
+      "attack": 12883,
+      "speed": 256.77
     },
     {
       "id": "263",
@@ -2763,17 +2794,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "怪獣"
-    },
-    {
-      "id": "655",
-      "name": "モスラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/654/#f655",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "怪獣"
     }
   ]

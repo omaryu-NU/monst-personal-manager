@@ -2,6 +2,97 @@
   "version": 1,
   "characters": [
     {
+      "id": "4677",
+      "name": "オーガスト",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4676/#f4677",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "4681",
+      "name": "アクノロギア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4680/#f4681",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "4682",
+      "name": "夢幻なる芳情の妖精王妃 ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ",
+        "アンチウィンド",
+        "カウンターキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4682.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "超強ブレス （光） 副友情 防御アップ （無）",
+      "ss": "ふれた最初の敵を乱打し、反撃モードになる 8+8ターン",
+      "rarity": 6,
+      "hp": 20710,
+      "attack": 20529,
+      "speed": 288.5,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "4683",
+      "name": "光ゼレフ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4678/#f4683",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4686",
+      "name": "ツァイロン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4685/#f4686",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神獣"
+    },
+    {
+      "id": "4688",
+      "name": "ロシーダ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4687/#f4688",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖域の狩人"
+    },
+    {
+      "id": "4690",
+      "name": "リルディ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4689/#f4690",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "4692",
       "name": "アスト",
       "attribute": "木",
@@ -2689,142 +2780,6 @@
         "アンチワープ",
         "SSターン短縮"
       ]
-    },
-    {
-      "id": "5161",
-      "name": "タラスク",
-      "attribute": "闇",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5161.webp",
-      "source": "https://game.technophere.com/monst/char/5161/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "鉱物",
-      "friendship": "ブレス （闇）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 15985,
-      "attack": 26764,
-      "speed": 150.83
-    },
-    {
-      "id": "5162",
-      "name": "暴怒の巨竜 タラスク",
-      "attribute": "闇",
-      "abilities": [
-        "アンチウィンド",
-        "友情ブースト"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5162.webp",
-      "source": "https://game.technophere.com/monst/char/5161/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "鉱物",
-      "friendship": "超強ブレス （闇）",
-      "ss": "ふれた最初の敵を乱打し、白爆発を放つ 12ターン",
-      "rarity": 6,
-      "hp": 17112,
-      "attack": 21690,
-      "speed": 171.83,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "魔法陣ブースト"
-      ]
-    },
-    {
-      "id": "5163",
-      "name": "タラスク",
-      "attribute": "闇",
-      "abilities": [
-        "マインスイーパーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5163.webp",
-      "source": "https://game.technophere.com/monst/char/5161/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "超強反射拡散弾EL5 （闇） 副友情 スピードアップS （無）",
-      "ss": "ふれた敵にHIT数に応じて威力が増すメテオで追い討ち 24ターン",
-      "rarity": 6,
-      "hp": 19055,
-      "attack": 17147,
-      "speed": 236.6,
-      "gaugeAbilities": [
-        "アンチ重力バリア"
-      ]
-    },
-    {
-      "id": "5166",
-      "name": "希望と創造の救世神 ノア MV",
-      "attribute": "水",
-      "abilities": [
-        "飛行",
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5166.webp",
-      "source": "https://game.technophere.com/monst/char/5166/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超強プラズマ （水） 副友情 スピードアップ （無）",
-      "ss": "スピードとパワーがアップ＆ふれた順に応じて威力が上がるメテオで追い討ち 16+8ターン",
-      "rarity": 6,
-      "hp": 20368,
-      "attack": 17558,
-      "speed": 311.17,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "5167",
-      "name": "世話焼きお姉さん系オペレーティングAI オペコ MV",
-      "attribute": "闇",
-      "abilities": [
-        "超アンチ重力バリア",
-        "アンチダメージウォール"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5167.webp",
-      "source": "https://game.technophere.com/monst/char/5167/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット",
-      "friendship": "超強プラズマ （闇） 副友情 超強爆発 （無）",
-      "ss": "ふれた仲間のパワーを一定期間アップ 12+4ターン",
-      "rarity": 6,
-      "hp": 18197,
-      "attack": 20345,
-      "speed": 367,
-      "gaugeAbilities": [
-        "SSターンチャージ"
-      ]
-    },
-    {
-      "id": "5168",
-      "name": "ルシファー＆カエサルMV",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5168/#f5168",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "5172",
-      "name": "蔵王権現",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5171/#f5172",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
     }
   ]
 }

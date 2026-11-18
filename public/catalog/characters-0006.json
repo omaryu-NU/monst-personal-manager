@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "3307",
+      "name": "ハンソロ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3306/#f3307",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3309",
+      "name": "ルーク",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3308/#f3309",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3311",
+      "name": "フィン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3310/#f3311",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3312",
+      "name": "カイロレン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3312/#f3312",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3314",
+      "name": "ダースベイダー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3313/#f3314",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3320",
+      "name": "マンティコア",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3319/#f3320",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "幻獣"
+    },
+    {
+      "id": "3322",
+      "name": "カトブレパス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3321/#f3322",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "3324",
       "name": "シャイターン",
       "attribute": "光",
@@ -2146,97 +2223,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "妖精"
-    },
-    {
-      "id": "4040",
-      "name": "ドジっ娘スタッフ ラブリードリィ",
-      "attribute": "光",
-      "abilities": [
-        "アンチダメージウォール",
-        "マインスイーパー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4040.webp",
-      "source": "https://game.technophere.com/monst/char/2648/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "超絶貫通拡散弾EL3 （光）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
-      "rarity": 6,
-      "hp": 19406,
-      "attack": 17669,
-      "speed": 248.8,
-      "gaugeAbilities": [
-        "アンチ重力バリア",
-        "底力"
-      ]
-    },
-    {
-      "id": "4042",
-      "name": "阿散井恋次",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4041/#f4042",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "死神"
-    },
-    {
-      "id": "4046",
-      "name": "四楓院夜一",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4045/#f4046",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "死神"
-    },
-    {
-      "id": "4052",
-      "name": "更木剣八",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4051/#f4052",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "死神"
-    },
-    {
-      "id": "4055",
-      "name": "朽木白哉",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4053/#f4055",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "死神"
-    },
-    {
-      "id": "4057",
-      "name": "東仙要",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4056/#f4057",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "死神"
-    },
-    {
-      "id": "4059",
-      "name": "砕蜂",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4058/#f4059",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "死神"
     }
   ]
 }
