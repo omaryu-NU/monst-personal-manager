@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1340",
+      "name": "ミラージュ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1340/#f1340",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "1345",
+      "name": "鞍馬天狗",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1344/#f1345",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "1350",
+      "name": "藤原秀衡",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1349/#f1350",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "1355",
       "name": "木曽義仲",
       "attribute": "火",
@@ -2223,39 +2256,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "ユニバース"
-    },
-    {
-      "id": "1998",
-      "name": "鉄扇公主X",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1997/#f1998",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "2000",
-      "name": "一寸法師X",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1999/#f2000",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2015",
-      "name": "ハーミィ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2014/#f2015",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

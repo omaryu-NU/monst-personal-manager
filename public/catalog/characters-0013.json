@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6899",
+      "name": "まほろば",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5225/#f6899",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "6900",
+      "name": "織田信長X",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/368/#f6900",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6901",
+      "name": "織田信長X（バレンタイン）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3181/#f6901",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6902",
+      "name": "織田信長",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/311/#f6902",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6903",
+      "name": "織田信長（バレンタイン）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3180/#f6903",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "6904",
+      "name": "ダイヤモンド",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1694/#f6904",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "6905",
       "name": "シズ",
       "attribute": "火",
@@ -2133,72 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7229",
-      "name": "信",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7228/#f7229",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7231",
-      "name": "蒙恬",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7230/#f7231",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7233",
-      "name": "羌瘣",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7232/#f7233",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7235",
-      "name": "王騎",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7234/#f7235",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7236",
-      "name": "楊端和",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7236/#f7236",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7238",
-      "name": "汗明",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7237/#f7238",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
       "race": "亜人"
     }
   ]

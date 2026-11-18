@@ -1502,6 +1502,46 @@
       "speed": 256.77
     },
     {
+      "id": "256",
+      "name": "ハーレー",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/256.webp",
+      "source": "https://game.technophere.com/monst/char/256/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "大々爆発 （無）",
+      "ss": "敵の弱点にヒットした際に特大ダメージを与える 16ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 17176,
+      "speed": 167.07
+    },
+    {
+      "id": "258",
+      "name": "地獄の薔薇のハーレー",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/258.webp",
+      "source": "https://game.technophere.com/monst/char/256/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "超爆発 （無）",
+      "ss": "敵の弱点にヒットした際に超ダメージを与える 20ターン",
+      "rarity": 6,
+      "hp": 17928,
+      "attack": 29925,
+      "speed": 185.1
+    },
+    {
       "id": "263",
       "name": "ネプチューン",
       "attribute": "水",
@@ -2772,28 +2812,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "651",
-      "name": "ラドン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/650/#f651",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "653",
-      "name": "メカゴジラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/652/#f653",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
       "race": "怪獣"
     }
   ]

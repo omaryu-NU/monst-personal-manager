@@ -2,6 +2,119 @@
   "version": 1,
   "characters": [
     {
+      "id": "5156",
+      "name": "遊侠なる悪鬼討伐の猛将 源頼光",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ魔法陣",
+        "魔封じEL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5156.webp",
+      "source": "https://game.technophere.com/monst/char/5155/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "超絶ホーミング12 （闇） 副友情 シャイニングピラー （無）",
+      "ss": "前方の広範囲に無数の爆発を起こす 8+8ターン",
+      "rarity": 6,
+      "hp": 18301,
+      "attack": 20403,
+      "speed": 328.57,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速壁"
+      ]
+    },
+    {
+      "id": "5157",
+      "name": "酒呑童子",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5157.webp",
+      "source": "https://game.technophere.com/monst/char/5157/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強貫通拡散弾EL5 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15883,
+      "attack": 18312,
+      "speed": 269.07
+    },
+    {
+      "id": "5158",
+      "name": "酒呑童子",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5158.webp",
+      "source": "https://game.technophere.com/monst/char/5157/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強貫通拡散弾EL5 （火）",
+      "ss": "ふれた敵に貫通弾で追い討ち 20ターン",
+      "rarity": 6,
+      "hp": 17665,
+      "attack": 16486,
+      "speed": 261.33,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "5159",
+      "name": "エウリュアレ",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5159.webp",
+      "source": "https://game.technophere.com/monst/char/5159/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "反射衝撃波6 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16111,
+      "attack": 18899,
+      "speed": 274.47
+    },
+    {
+      "id": "5160",
+      "name": "エウリュアレ",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール",
+        "回復S"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5160.webp",
+      "source": "https://game.technophere.com/monst/char/5159/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神",
+      "friendship": "反射衝撃波6 （水）",
+      "ss": "ふれた敵に毒メテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 19519,
+      "attack": 16844,
+      "speed": 252,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "5161",
       "name": "タラスク",
       "attribute": "闇",
@@ -142,15 +255,48 @@
       ]
     },
     {
+      "id": "5171",
+      "name": "蔵王権現",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5171.webp",
+      "source": "https://game.technophere.com/monst/char/5171/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神",
+      "friendship": "反射衝撃波6 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13980,
+      "attack": 18165,
+      "speed": 179.5
+    },
+    {
       "id": "5172",
       "name": "蔵王権現",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5171/#f5172",
+      "abilities": [
+        "マインスイーパーM",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5172.webp",
+      "source": "https://game.technophere.com/monst/char/5171/",
       "evolution": "進化",
       "type": "貫通",
       "style": "パワー",
-      "race": "神"
+      "race": "神",
+      "friendship": "反射衝撃波12 （水）",
+      "ss": "ふれた敵を激しくふっとばす 24ターン",
+      "rarity": 6,
+      "hp": 19197,
+      "attack": 24011,
+      "speed": 147.4,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "5175",
@@ -200,12 +346,27 @@
       "id": "5180",
       "name": "エスカノール",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5179/#f5180",
+      "abilities": [
+        "超アンチワープ",
+        "無属性耐性 全属性キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5180.webp",
+      "source": "https://game.technophere.com/monst/char/5179/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "グリッターボール （火） 副友情 白爆発EL （無）",
+      "ss": "スピードとパワーがアップ＆近くの敵に”無慈悲な太陽”を投げつける 19+8ターン",
+      "rarity": 6,
+      "hp": 18449,
+      "attack": 28691,
+      "speed": 241.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速壁",
+        "ダッシュ"
+      ]
     },
     {
       "id": "5182",
@@ -2246,72 +2407,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "サムライ"
-    },
-    {
-      "id": "5685",
-      "name": "三毛乃",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5684/#f5685",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5687",
-      "name": "火天狗",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5686/#f5687",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5689",
-      "name": "バローニャ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5688/#f5689",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5691",
-      "name": "アルウェル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5690/#f5691",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5693",
-      "name": "水かまいたち",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5692/#f5693",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "5695",
-      "name": "ルミル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5694/#f5695",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

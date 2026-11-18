@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "8202",
+      "name": "乙巳にょろん",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8201/#f8202",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻獣"
+    },
+    {
+      "id": "8204",
+      "name": "ペグイル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8203/#f8204",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "8206",
+      "name": "物干し竿",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8205/#f8206",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8208",
+      "name": "アダマスハルパー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8207/#f8208",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "8210",
+      "name": "アンキレー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8209/#f8210",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8213",
+      "name": "鈍堂燃吉郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8211/#f8213",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "8215",
       "name": "七草ゆか",
       "attribute": "木",
@@ -2203,72 +2269,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8522",
-      "name": "楼蘭",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8518/#f8522",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8523",
-      "name": "ウルズ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2553/#f8523",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "8524",
-      "name": "ケロン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1514/#f8524",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8525",
-      "name": "シェオル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8525/#f8525",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王"
-    },
-    {
-      "id": "8527",
-      "name": "レース",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8526/#f8527",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8528",
-      "name": "リズム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8528/#f8528",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
       "race": "亜人"
     }
   ]

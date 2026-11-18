@@ -2,6 +2,93 @@
   "version": 1,
   "characters": [
     {
+      "id": "2648",
+      "name": "ラブリードリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2648.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 5,
+      "hp": 15889,
+      "attack": 13972,
+      "speed": 275.6
+    },
+    {
+      "id": "2649",
+      "name": "ドジっ娘 ラブリードリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2649.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "超絶貫通拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 6,
+      "hp": 19406,
+      "attack": 17669,
+      "speed": 248.8,
+      "gaugeAbilities": [
+        "アンチ重力バリア",
+        "底力"
+      ]
+    },
+    {
+      "id": "2650",
+      "name": "ドリィ",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ転送壁",
+        "闇属性耐性 友情ブーストM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2650.webp",
+      "source": "https://game.technophere.com/monst/char/2648/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "トライデントレーザーL （光） 副友情 インボリュートスフィア・モア （火）",
+      "ss": "狙った方向に、十字砲を放つ 25ターン",
+      "rarity": 6,
+      "hp": 19883,
+      "attack": 22579,
+      "speed": 148.13
+    },
+    {
+      "id": "2651",
+      "name": "エルドラド",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2651.webp",
+      "source": "https://game.technophere.com/monst/char/2651/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた敵すべてを、ふっとばす 21ターン",
+      "rarity": 5,
+      "hp": 14495,
+      "attack": 14530,
+      "speed": 215.57
+    },
+    {
       "id": "2652",
       "name": "黄金の怪盗 エルドラド",
       "attribute": "光",
@@ -828,15 +915,47 @@
       ]
     },
     {
+      "id": "2697",
+      "name": "ミスターテルテル",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2697.webp",
+      "source": "https://game.technophere.com/monst/char/2697/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "超強ロックオン衝撃波6 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15990,
+      "attack": 12817,
+      "speed": 310.83
+    },
+    {
       "id": "2698",
       "name": "ミスターテルテル",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2697/#f2698",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2698.webp",
+      "source": "https://game.technophere.com/monst/char/2697/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "超強ロックオン衝撃波6 （無）",
+      "ss": "ふれた敵すべてに、雷で追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 19529,
+      "attack": 14281,
+      "speed": 252.17,
+      "gaugeAbilities": [
+        "神キラー"
+      ]
     },
     {
       "id": "2700",
@@ -2539,61 +2658,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "3287",
-      "name": "ダンタリオン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3286/#f3287",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3289",
-      "name": "ムルムル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3288/#f3289",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3291",
-      "name": "バフォメット",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3290/#f3291",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "3303",
-      "name": "ポー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3302/#f3303",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3305",
-      "name": "レイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3304/#f3305",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

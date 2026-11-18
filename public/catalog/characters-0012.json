@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "6525",
+      "name": "鏑木楓",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6525/#f6525",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6527",
+      "name": "ブラック",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6526/#f6527",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6528",
+      "name": "アイリス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1942/#f6528",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "6529",
+      "name": "フガン＆ムガン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6521/#f6529",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6531",
+      "name": "プレデビオル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6530/#f6531",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "6532",
+      "name": "ダリア",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1939/#f6532",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
       "id": "6533",
       "name": "ブリギッド",
       "attribute": "水",
@@ -2150,72 +2216,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔王"
-    },
-    {
-      "id": "6899",
-      "name": "まほろば",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5225/#f6899",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "6900",
-      "name": "織田信長X",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/368/#f6900",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6901",
-      "name": "織田信長X（バレンタイン）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3181/#f6901",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6902",
-      "name": "織田信長",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/311/#f6902",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6903",
-      "name": "織田信長（バレンタイン）",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3180/#f6903",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6904",
-      "name": "ダイヤモンド",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1694/#f6904",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
     }
   ]
 }

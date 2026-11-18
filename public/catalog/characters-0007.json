@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4019",
+      "name": "シーホウ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4019/#f4019",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4029",
+      "name": "ヴィヨルド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4027/#f4029",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "4031",
+      "name": "ライグーン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4030/#f4031",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "4033",
+      "name": "ウェービア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4032/#f4033",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4035",
+      "name": "シェルージ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4034/#f4035",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "4040",
       "name": "ドジっ娘スタッフ ラブリードリィ",
       "attribute": "光",
@@ -2255,61 +2310,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4667",
-      "name": "ルーシィ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4666/#f4667",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4669",
-      "name": "アイリーン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4668/#f4669",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "4671",
-      "name": "ディマリア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4670/#f4671",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "4673",
-      "name": "ブランディッシュ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4672/#f4673",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4675",
-      "name": "ラーケイド",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4674/#f4675",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]
