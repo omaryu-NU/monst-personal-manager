@@ -2,6 +2,80 @@
   "version": 1,
   "characters": [
     {
+      "id": "9380",
+      "name": "糸師凛",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチ減速壁",
+        "アンチ減速床",
+        "カウンターキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9380.webp",
+      "source": "https://game.technophere.com/monst/char/9379/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強ハイクロススティンガー （水） 副友情 超強反射衝撃波18 （水）",
+      "ss": "スピードとパワーが一定期間アップ＆敵にふれる毎にパワーがアップ 16+8ターン",
+      "rarity": 6,
+      "hp": 21009,
+      "attack": 25488,
+      "speed": 374.9,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ダブルブレイカー"
+      ]
+    },
+    {
+      "id": "9382",
+      "name": "潔世一",
+      "attribute": "木",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "超アンチウィンド",
+        "ファーストキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9382.webp",
+      "source": "https://game.technophere.com/monst/char/9381/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ツインインボリュートスフィア・ナロー （木） 副友情 ヒーリングボムスロー （無）",
+      "ss": "スピードとパワーがアップ＆停止後に一定期間、弱点/全属性キラーになり、近くの敵に向かって再度走り出す 16+8ターン",
+      "rarity": 6,
+      "hp": 19141,
+      "attack": 25068,
+      "speed": 364.67,
+      "gaugeAbilities": [
+        "アンチ転送壁",
+        "シールドブレイカー 攻撃力チャージ"
+      ]
+    },
+    {
+      "id": "9383",
+      "name": "蜂楽 廻",
+      "attribute": "光",
+      "abilities": [
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9383.webp",
+      "source": "https://game.technophere.com/monst/char/9383/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ヘキサゴンボム （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7457,
+      "attack": 9259,
+      "speed": 255.53
+    },
+    {
       "id": "9384",
       "name": "蜂楽廻",
       "attribute": "光",

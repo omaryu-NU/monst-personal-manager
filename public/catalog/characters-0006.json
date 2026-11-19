@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "3231",
+      "name": "火のび太",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3230/#f3231",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3233",
+      "name": "水スネ夫",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3232/#f3233",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "3235",
       "name": "木ジャイアン",
       "attribute": "木",
@@ -2211,28 +2233,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻妖"
-    },
-    {
-      "id": "3963",
-      "name": "王貴人",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3962/#f3963",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "3967",
-      "name": "フーホーラク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3966/#f3967",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

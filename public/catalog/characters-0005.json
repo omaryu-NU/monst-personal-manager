@@ -2,6 +2,29 @@
   "version": 1,
   "characters": [
     {
+      "id": "2638",
+      "name": "麗しき妖精王妃 ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2638.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "防御アップ （無） 副友情 扇形拡散弾10 （水）",
+      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 12ターン",
+      "rarity": 6,
+      "hp": 20284,
+      "attack": 22909,
+      "speed": 335.5,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "2639",
       "name": "オベロン",
       "attribute": "闇",
@@ -1340,15 +1363,47 @@
       "speed": 178.53
     },
     {
+      "id": "2711",
+      "name": "ウィルターナー",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2711.webp",
+      "source": "https://game.technophere.com/monst/char/2711/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "十字レーザーM （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15287,
+      "attack": 11407,
+      "speed": 230.4
+    },
+    {
       "id": "2712",
       "name": "ウィルターナー",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2711/#f2712",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2712.webp",
+      "source": "https://game.technophere.com/monst/char/2711/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "十字レーザーL （木）",
+      "ss": "自身のスピードとパワーがアップ＆ブロックを無効化する 16ターン",
+      "rarity": 6,
+      "hp": 16635,
+      "attack": 14390,
+      "speed": 278.87,
+      "gaugeAbilities": [
+        "回復S"
+      ]
     },
     {
       "id": "2716",
@@ -2820,28 +2875,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "鉱物"
-    },
-    {
-      "id": "3231",
-      "name": "火のび太",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3230/#f3231",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3233",
-      "name": "水スネ夫",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3232/#f3233",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

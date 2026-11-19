@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7837",
+      "name": "みかしば",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7836/#f7837",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7838",
+      "name": "鄧艾",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4622/#f7838",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7840",
+      "name": "ネクタル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7839/#f7840",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "7843",
       "name": "モンテクリスト",
       "attribute": "火",
@@ -2236,39 +2269,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "8168",
-      "name": "フレンダ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8167/#f8168",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8170",
-      "name": "木山春生",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8169/#f8170",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8172",
-      "name": "ドッペルゲンガー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8171/#f8172",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "634",
+      "name": "アスタロト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/632/#f634",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "637",
       "name": "リリス",
       "attribute": "水",
@@ -2223,17 +2234,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "1328",
-      "name": "ケンネル巡査",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1327/#f1328",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }

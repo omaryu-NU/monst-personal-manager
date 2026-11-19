@@ -1702,15 +1702,44 @@
       "speed": 278.43
     },
     {
+      "id": "266",
+      "name": "ヴィーナス",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/266.webp",
+      "source": "https://game.technophere.com/monst/char/266/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "コスモ",
+      "friendship": "大爆発 （無）",
+      "ss": "敵の弱点にヒットした際に特大ダメージを与える 16ターン",
+      "rarity": 4,
+      "hp": 6840,
+      "attack": 6765,
+      "speed": 275.6
+    },
+    {
       "id": "267",
       "name": "ヴィーナス",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/266/#f267",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/267.webp",
+      "source": "https://game.technophere.com/monst/char/266/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "コスモ"
+      "race": "コスモ",
+      "friendship": "大々爆発 （無）",
+      "ss": "敵の弱点にヒットした際に超ダメージを与える 21ターン",
+      "rarity": 5,
+      "hp": 11970,
+      "attack": 11838,
+      "speed": 322.03
     },
     {
       "id": "271",
@@ -2871,17 +2900,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/621/#f622",
       "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "634",
-      "name": "アスタロト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/632/#f634",
-      "evolution": "神化",
       "type": "反射",
       "style": "バランス",
       "race": "魔族"

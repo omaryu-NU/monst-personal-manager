@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4629",
+      "name": "鍾会",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4628/#f4629",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "4631",
+      "name": "劉禅",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4630/#f4631",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "4633",
       "name": "ボクギュウ",
       "attribute": "光",
@@ -2632,49 +2654,6 @@
       "gaugeAbilities": [
         "アンチブロック",
         "底力"
-      ]
-    },
-    {
-      "id": "5132",
-      "name": "異界の女帝 クィーンバタフライ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5132.webp",
-      "source": "https://game.technophere.com/monst/char/5132/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族",
-      "friendship": "反射クロスレーザーM （闇）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 14565,
-      "attack": 18488,
-      "speed": 313.8
-    },
-    {
-      "id": "5133",
-      "name": "闇クイバタ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5133.webp",
-      "source": "https://game.technophere.com/monst/char/5132/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族",
-      "friendship": "反射クロスレーザーEL （闇）",
-      "ss": "貫通タイプになり、敵を激しく貫く 20ターン",
-      "rarity": 6,
-      "hp": 17001,
-      "attack": 16272,
-      "speed": 329.83,
-      "gaugeAbilities": [
-        "アンチダメージウォール"
       ]
     }
   ]

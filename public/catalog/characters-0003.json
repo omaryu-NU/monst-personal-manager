@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1328",
+      "name": "ケンネル巡査",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1327/#f1328",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
       "id": "1330",
       "name": "マダムゼニー",
       "attribute": "光",
@@ -2277,17 +2288,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1978",
-      "name": "ミロ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1978/#f1978",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "黄金聖闘士"
     }
   ]

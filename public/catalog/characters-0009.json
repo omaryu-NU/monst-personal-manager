@@ -2,6 +2,49 @@
   "version": 1,
   "characters": [
     {
+      "id": "5132",
+      "name": "異界の女帝 クィーンバタフライ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5132.webp",
+      "source": "https://game.technophere.com/monst/char/5132/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "反射クロスレーザーM （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14565,
+      "attack": 18488,
+      "speed": 313.8
+    },
+    {
+      "id": "5133",
+      "name": "闇クイバタ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5133.webp",
+      "source": "https://game.technophere.com/monst/char/5132/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "反射クロスレーザーEL （闇）",
+      "ss": "貫通タイプになり、敵を激しく貫く 20ターン",
+      "rarity": 6,
+      "hp": 17001,
+      "attack": 16272,
+      "speed": 329.83,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
       "id": "5135",
       "name": "闇アマイモン",
       "attribute": "闇",
@@ -742,23 +785,50 @@
       "id": "5189",
       "name": "ゼルドリス",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5189/#f5189",
+      "abilities": [
+        "アンチ重力バリア",
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5189.webp",
+      "source": "https://game.technophere.com/monst/char/5189/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔神"
+      "race": "神",
+      "friendship": "全敵ロックオン衝撃波3 （火）",
+      "ss": "スピードとパワーがアップ＆すべての敵に”怒りの日”で攻撃 20ターン",
+      "rarity": 6,
+      "hp": 20204,
+      "attack": 18220,
+      "speed": 238.07,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "5190",
       "name": "エスタロッサ",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5190/#f5190",
+      "abilities": [
+        "アンチウィンド",
+        "獣キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5190.webp",
+      "source": "https://game.technophere.com/monst/char/5190/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔神"
+      "race": "神",
+      "friendship": "貫通弱点ロックオン衝撃波5 （水）",
+      "ss": "スピードとパワーがアップ＆停止時に一番近くの敵の弱点を”反逆剣”で攻撃 22ターン",
+      "rarity": 6,
+      "hp": 17996,
+      "attack": 17880,
+      "speed": 242.33,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "5191",
@@ -2535,28 +2605,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "5652",
-      "name": "ヒドラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5652/#f5652",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "5653",
-      "name": "ライオンヘッド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5653/#f5653",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }
