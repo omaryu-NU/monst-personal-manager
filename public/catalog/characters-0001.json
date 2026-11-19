@@ -1662,15 +1662,44 @@
       "speed": 193.7
     },
     {
+      "id": "264",
+      "name": "ジュピター",
+      "attribute": "木",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/264.webp",
+      "source": "https://game.technophere.com/monst/char/264/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "バーティカルレーザーM （木）",
+      "ss": "木星の力でスピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 6840,
+      "attack": 7380,
+      "speed": 238.3
+    },
+    {
       "id": "265",
       "name": "ジュピター",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/264/#f265",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/265.webp",
+      "source": "https://game.technophere.com/monst/char/264/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "コスモ"
+      "race": "コスモ",
+      "friendship": "バーティカルレーザーL （木）",
+      "ss": "木星の力でスピードが特大アップ 12ターン",
+      "rarity": 5,
+      "hp": 11970,
+      "attack": 12915,
+      "speed": 278.43
     },
     {
       "id": "267",
@@ -2852,17 +2881,6 @@
       "attribute": "火",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/632/#f634",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "637",
-      "name": "リリス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/635/#f637",
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",

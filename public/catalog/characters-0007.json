@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3970",
+      "name": "趙公明",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3968/#f3970",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "3980",
+      "name": "レキオウ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3979/#f3980",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神獣"
+    },
+    {
+      "id": "3982",
+      "name": "トウマリー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3981/#f3982",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "3984",
       "name": "ルウイン",
       "attribute": "水",
@@ -2266,51 +2299,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "4633",
-      "name": "ボクギュウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4632/#f4633",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "4636",
-      "name": "姜維",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4634/#f4636",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "4638",
-      "name": "ブルータス廻",
-      "attribute": "木",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4638.webp",
-      "source": "https://game.technophere.com/monst/char/2686/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人",
-      "friendship": "超強分裂貫通衝撃波3 （木）",
-      "ss": "スピードで敵を幻惑し、一定ターン、敵の弾を無効化する 12ターン",
-      "rarity": 6,
-      "hp": 18488,
-      "attack": 15452,
-      "speed": 273,
-      "gaugeAbilities": [
-        "アンチ重力バリア"
-      ]
     }
   ]
 }

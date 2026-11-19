@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "8490",
+      "name": "三途α",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8489/#f8490",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8492",
+      "name": "物干し竿α",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8491/#f8492",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8494",
+      "name": "チヨα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8493/#f8494",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "8497",
+      "name": "祝面",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8495/#f8497",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "8499",
+      "name": "マリザーリ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8498/#f8499",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "8501",
+      "name": "奈々花ほうる",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8500/#f8501",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "8502",
       "name": "紫苑",
       "attribute": "火",
@@ -2234,72 +2300,6 @@
         "超アンチ減速壁",
         "条件: ロボット以外が2体以上／砲撃型以外が2体以上"
       ]
-    },
-    {
-      "id": "8788",
-      "name": "浜路",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5873/#f8788",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8790",
-      "name": "サバイール",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8789/#f8790",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "8791",
-      "name": "時透無一郎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7148/#f8791",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8792",
-      "name": "甘露寺蜜璃",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7150/#f8792",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "8793",
-      "name": "炭治郎＆禰豆子",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7152/#f8793",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8795",
-      "name": "我妻善逸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8794/#f8795",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

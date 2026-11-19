@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3235",
+      "name": "木ジャイアン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3234/#f3235",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "3237",
+      "name": "光しずか",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3236/#f3237",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3240",
+      "name": "闇ドラえもん",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3238/#f3240",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "3246",
       "name": "カタストロフィ",
       "attribute": "光",
@@ -2200,39 +2233,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "3970",
-      "name": "趙公明",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3968/#f3970",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3980",
-      "name": "レキオウ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3979/#f3980",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神獣"
-    },
-    {
-      "id": "3982",
-      "name": "トウマリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3981/#f3982",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖域の狩人"
     }
   ]
 }

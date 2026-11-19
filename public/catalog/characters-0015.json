@@ -2,6 +2,95 @@
   "version": 1,
   "characters": [
     {
+      "id": "7517",
+      "name": "日下部篤也",
+      "attribute": "光",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチブロック",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7517.webp",
+      "source": "https://game.technophere.com/monst/char/7516/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "3方向追撃貫通弾 （光）",
+      "ss": "スピードとパワーがアップ＆停止後に近くの敵に「抜刀」で攻撃 18ターン",
+      "rarity": 5,
+      "hp": 13883,
+      "attack": 17503,
+      "speed": 348.67
+    },
+    {
+      "id": "7518",
+      "name": "猪野琢真",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7518.webp",
+      "source": "https://game.technophere.com/monst/char/7518/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "フェロー拡大爆破弾 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8067,
+      "attack": 11126,
+      "speed": 162.23
+    },
+    {
+      "id": "7519",
+      "name": "猪野琢真",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチワープ",
+        "超マインスイーパーM",
+        "アンチ減速壁",
+        "弱点キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7519.webp",
+      "source": "https://game.technophere.com/monst/char/7518/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "フェロー拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に「獬豸」で攻撃 18ターン",
+      "rarity": 5,
+      "hp": 13100,
+      "attack": 17216,
+      "speed": 309.27
+    },
+    {
+      "id": "7520",
+      "name": "五条＆夏油",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ",
+        "超マインスイーパーL",
+        "アンチ魔法陣",
+        "全属性キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7520.webp",
+      "source": "https://game.technophere.com/monst/char/7520/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超絶全方位ショットガン （光） 副友情 超強放電 （無）",
+      "ss": "貫通タイプになり、スピードとパワーがアップ＆停止後に近くの敵に向かって再度走り出し、最初にふれた敵に攻撃 20+4ターン",
+      "rarity": 6,
+      "hp": 17872,
+      "attack": 27270,
+      "speed": 340.27
+    },
+    {
       "id": "7521",
       "name": "脹相",
       "attribute": "火",
@@ -471,15 +560,75 @@
       "race": "聖騎士"
     },
     {
+      "id": "7548",
+      "name": "赤兎馬",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7548.webp",
+      "source": "https://game.technophere.com/monst/char/7548/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "超強反射増殖弾 （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 11263,
+      "attack": 13202,
+      "speed": 340.93
+    },
+    {
+      "id": "7549",
+      "name": "美髯公のじゃじゃ馬 赤兎馬",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "マインスイーパーM",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7549.webp",
+      "source": "https://game.technophere.com/monst/char/7548/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "超強反射増殖弾 （木）",
+      "ss": "スピードとパワーがアップ＆停止後に周りに回復フィールドを展開する 16ターン",
+      "rarity": 6,
+      "hp": 19144,
+      "attack": 17631,
+      "speed": 343.07,
+      "gaugeAbilities": [
+        "幻竜封じM ダッシュM"
+      ]
+    },
+    {
       "id": "7550",
       "name": "赤兎馬",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7548/#f7550",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチウィンド",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7550.webp",
+      "source": "https://game.technophere.com/monst/char/7548/",
       "evolution": "神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "パワードライブ （木） 副友情 超絶拡大貫通ロックオン衝撃波 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に周りにパワーフィールドを展開する 12ターン",
+      "rarity": 6,
+      "hp": 17933,
+      "attack": 18083,
+      "speed": 256.93,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ転送壁"
+      ]
     },
     {
       "id": "7552",
@@ -2365,72 +2514,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "7843",
-      "name": "モンテクリスト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7841/#f7843",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "7844",
-      "name": "ファンタオラゴン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7844/#f7844",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "7845",
-      "name": "プロメテウス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1439/#f7845",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "7846",
-      "name": "ノイン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6287/#f7846",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "7847",
-      "name": "桃源郷",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7198/#f7847",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "7848",
-      "name": "立烏帽子",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6691/#f7848",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔族"
     }
   ]
 }

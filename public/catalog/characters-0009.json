@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5135",
+      "name": "闇アマイモン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5134/#f5135",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "5137",
+      "name": "スオローン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5136/#f5137",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "5138",
+      "name": "トレノバ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5138/#f5138",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
       "id": "5139",
       "name": "リッシュ",
       "attribute": "水",
@@ -661,15 +694,49 @@
       "race": "亜人"
     },
     {
+      "id": "5187",
+      "name": "アーサー",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5187.webp",
+      "source": "https://game.technophere.com/monst/char/5187/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "追撃貫通弾 （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8046,
+      "attack": 10704,
+      "speed": 274.83
+    },
+    {
       "id": "5188",
       "name": "アーサー",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5187/#f5188",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5188.webp",
+      "source": "https://game.technophere.com/monst/char/5187/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "追撃貫通弾 （闇）",
+      "ss": "スピードとパワーがアップ＆近くの敵に”デスペッカー”で攻撃 22ターン",
+      "rarity": 5,
+      "hp": 13947,
+      "attack": 15919,
+      "speed": 322.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "シールドブレイカー"
+      ]
     },
     {
       "id": "5189",
@@ -2489,50 +2556,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "5654",
-      "name": "魔のサソリ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5654/#f5654",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "5655",
-      "name": "鉄球デーモン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5655/#f5655",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "5656",
-      "name": "はぐれメタル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5656/#f5656",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "鉱物"
-    },
-    {
-      "id": "5657",
-      "name": "オーク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5657/#f5657",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
       "race": "獣"
     }
   ]

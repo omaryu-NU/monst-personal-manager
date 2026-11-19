@@ -2,6 +2,162 @@
   "version": 1,
   "characters": [
     {
+      "id": "9384",
+      "name": "蜂楽廻",
+      "attribute": "光",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチワープ",
+        "アンチ魔法陣",
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9384.webp",
+      "source": "https://game.technophere.com/monst/char/9383/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ヘキサゴンボム （無）",
+      "ss": "スピードとパワーがアップし、減速率が緩和する 12ターン",
+      "rarity": 5,
+      "hp": 14348,
+      "attack": 13942,
+      "speed": 331.67,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "連撃キラーM"
+      ]
+    },
+    {
+      "id": "9386",
+      "name": "凪誠士郎",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "超マインスイーパーEL",
+        "アンチ減速壁",
+        "弱点キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9386.webp",
+      "source": "https://game.technophere.com/monst/char/9385/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "超絶貫通ホーミング18 （闇） 副友情 バーストスフィア （無）",
+      "ss": "スピードとパワーがアップ＆停止後に跳躍回転して攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 18606,
+      "attack": 24412,
+      "speed": 327.43,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "ドレインM"
+      ]
+    },
+    {
+      "id": "9387",
+      "name": "御影玲王",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "超アンチダメージウォール",
+        "アンチ魔法陣",
+        "フェイタルキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9387.webp",
+      "source": "https://game.technophere.com/monst/char/9387/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強反射衝撃波18 （水） 副友情 超絶貫通ホーミング18 （水）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた味方を変幻守備でコピー 20+4ターン",
+      "rarity": 6,
+      "hp": 19912,
+      "attack": 23518,
+      "speed": 342.5,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターンチャージM"
+      ]
+    },
+    {
+      "id": "9388",
+      "name": "馬狼照英",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチブロック",
+        "超アンチ減速壁（ラック）",
+        "ボスキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9388.webp",
+      "source": "https://game.technophere.com/monst/char/9388/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶電撃 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を攻撃 16ターン",
+      "rarity": 6,
+      "hp": 20727,
+      "attack": 22596,
+      "speed": 261.53
+    },
+    {
+      "id": "9389",
+      "name": "烏旅人",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ",
+        "アンチウィンド",
+        "アンチ転送壁",
+        "亜侍封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9389.webp",
+      "source": "https://game.technophere.com/monst/char/9389/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶貫通ロックオン衝撃波6 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に狙撃する 12ターン",
+      "rarity": 6,
+      "hp": 19915,
+      "attack": 18418,
+      "speed": 253.97,
+      "gaugeAbilities": [
+        "SSターンチャージ"
+      ]
+    },
+    {
+      "id": "9390",
+      "name": "蟻生十兵衛",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ",
+        "マインスイーパーM",
+        "バイタルキラーM レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9390.webp",
+      "source": "https://game.technophere.com/monst/char/9390/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強ラウンドスパーク （木）",
+      "ss": "スピードとパワーがアップ＆停止後に自身の防御力を一定期間アップ 12ターン",
+      "rarity": 6,
+      "hp": 21213,
+      "attack": 18167,
+      "speed": 285.07,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ転送壁"
+      ]
+    },
+    {
       "id": "9391",
       "name": "剣城斬鉄",
       "attribute": "光",
@@ -3181,6 +3337,17 @@
       "type": "反射",
       "style": "超バランス",
       "race": "幻妖"
+    },
+    {
+      "id": "9576",
+      "name": "ナナホシ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9576/#f9576",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
     }
   ]
 }

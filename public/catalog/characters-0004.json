@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1979",
+      "name": "シュラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1979/#f1979",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "黄金聖闘士"
+    },
+    {
       "id": "1981",
       "name": "カミュ",
       "attribute": "水",
@@ -2490,30 +2501,6 @@
       "hp": 20284,
       "attack": 22909,
       "speed": 335.5,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "2639",
-      "name": "オベロン",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ魔法陣",
-        "SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2639.webp",
-      "source": "https://game.technophere.com/monst/char/2639/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精",
-      "friendship": "反射衝撃波6 （闇）",
-      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 16ターン",
-      "rarity": 5,
-      "hp": 14768,
-      "attack": 15961,
-      "speed": 236.63,
       "gaugeAbilities": [
         "アンチワープ"
       ]

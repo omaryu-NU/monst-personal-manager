@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "637",
+      "name": "リリス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/635/#f637",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "639",
       "name": "ベリアル",
       "attribute": "木",
@@ -2223,17 +2234,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "獣"
-    },
-    {
-      "id": "1330",
-      "name": "マダムゼニー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1329/#f1330",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }
