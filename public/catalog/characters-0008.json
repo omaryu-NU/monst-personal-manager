@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "4640",
+      "name": "火ドラえもん2020",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4639/#f4640",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "4642",
+      "name": "水ジャイアン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4641/#f4642",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4644",
+      "name": "木スネ夫",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4643/#f4644",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "4646",
+      "name": "光のび太2020",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4645/#f4646",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4648",
+      "name": "闇しずか",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4647/#f4648",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4655",
+      "name": "レクイエム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4654/#f4655",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "幻妖"
+    },
+    {
       "id": "4657",
       "name": "ナツ",
       "attribute": "火",
@@ -2598,102 +2664,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "5139",
-      "name": "リッシュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5139/#f5139",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "5140",
-      "name": "アドリン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5140/#f5140",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5142",
-      "name": "ウルミーラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5141/#f5142",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5143",
-      "name": "ヴァレア",
-      "attribute": "光",
-      "abilities": [
-        "回復S"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5143.webp",
-      "source": "https://game.technophere.com/monst/char/5143/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "オールレンジバレット （光）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 14122,
-      "attack": 15620,
-      "speed": 169.93
-    },
-    {
-      "id": "5144",
-      "name": "ヴァレア",
-      "attribute": "光",
-      "abilities": [
-        "回復S 鳥獣封じ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5144.webp",
-      "source": "https://game.technophere.com/monst/char/5143/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "オールレンジバレット （光）",
-      "ss": "スピードとパワーがアップ＆最初にふれた敵に貫通弾を放つ 20ターン",
-      "rarity": 6,
-      "hp": 18348,
-      "attack": 15648,
-      "speed": 311.03,
-      "gaugeAbilities": [
-        "アンチ重力バリア"
-      ]
-    },
-    {
-      "id": "5147",
-      "name": "ヘスティア",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5147.webp",
-      "source": "https://game.technophere.com/monst/char/5147/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神",
-      "friendship": "ウォールスルーバレット （光）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 14507,
-      "attack": 14057,
-      "speed": 199.93
     }
   ]
 }

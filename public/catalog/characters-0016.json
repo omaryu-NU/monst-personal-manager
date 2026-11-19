@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7849",
+      "name": "ラルガメンテ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6460/#f7849",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7850",
+      "name": "アンフェア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5604/#f7850",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖"
+    },
+    {
+      "id": "7853",
+      "name": "ユーフリィム",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7852/#f7853",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "7855",
+      "name": "さよならグラビティ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7854/#f7855",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7857",
+      "name": "エンベズラー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7856/#f7857",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "7858",
+      "name": "Two for all",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2749/#f7858",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7859",
+      "name": "Two for all（フラパ）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3447/#f7859",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7861",
+      "name": "マナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3086/#f7861",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "7863",
       "name": "マナ（新春）",
       "attribute": "火",
@@ -2181,109 +2269,6 @@
       "type": "反射",
       "style": "超バランス",
       "race": "神"
-    },
-    {
-      "id": "8181",
-      "name": "クエリー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3193/#f8181",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "コスモ"
-    },
-    {
-      "id": "8182",
-      "name": "アクセラレータ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8182/#f8182",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8184",
-      "name": "マジカルメルルンず",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8183/#f8184",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8185",
-      "name": "グィネヴィア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2452/#f8185",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8186",
-      "name": "グィネヴィア（クリスマス）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3080/#f8186",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8187",
-      "name": "オペコ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4793/#f8187",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8188",
-      "name": "オペコMV",
-      "attribute": "闇",
-      "abilities": [
-        "超アンチダメージウォール",
-        "アンチ魔法陣",
-        "壁SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8188.webp",
-      "source": "https://game.technophere.com/monst/char/5167/",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "ロボット",
-      "friendship": "ハイプラズマ （闇） 副友情 爆絶爆発 （無）",
-      "ss": "ふれた味方のパワーとスピードを一定期間アップ 16+4ターン",
-      "rarity": 6,
-      "hp": 19831,
-      "attack": 26306,
-      "speed": 393.2,
-      "connectAbilities": [
-        "超アンチ重力バリア",
-        "鳥獣封じM 超SSターンアクセル 条件: 亜人が1体以上／スピード型以外が2体以上"
-      ]
-    },
-    {
-      "id": "8190",
-      "name": "トシノセ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8189/#f8190",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

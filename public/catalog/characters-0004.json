@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "1981",
+      "name": "カミュ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1980/#f1981",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "黄金聖闘士"
+    },
+    {
+      "id": "1982",
+      "name": "アフロディーテ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1982/#f1982",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "黄金聖闘士"
+    },
+    {
+      "id": "1984",
+      "name": "闇サガ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1983/#f1984",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "黄金聖闘士"
+    },
+    {
+      "id": "1985",
+      "name": "光サガ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1985/#f1985",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "黄金聖闘士"
+    },
+    {
       "id": "1992",
       "name": "スラッシュX",
       "attribute": "火",
@@ -2470,97 +2514,6 @@
       "hp": 14768,
       "attack": 15961,
       "speed": 236.63,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "2640",
-      "name": "妖精君主 オベロン",
-      "attribute": "闇",
-      "abilities": [
-        "アンチウィンド",
-        "ロボットキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2640.webp",
-      "source": "https://game.technophere.com/monst/char/2639/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精",
-      "friendship": "反射衝撃波6 （闇）",
-      "ss": "狙った方向に、波動砲を放つ 25ターン",
-      "rarity": 6,
-      "hp": 21281,
-      "attack": 29218,
-      "speed": 230.8,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "2641",
-      "name": "麗しき妖精賢王 オベロン",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ魔法陣",
-        "SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2641.webp",
-      "source": "https://game.technophere.com/monst/char/2639/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精",
-      "friendship": "反射衝撃波6 （闇） 副友情 貫通拡散弾L2 （水）",
-      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 16ターン",
-      "rarity": 6,
-      "hp": 18971,
-      "attack": 17100,
-      "speed": 243.9,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "2642",
-      "name": "オペレーションクラブ",
-      "attribute": "火",
-      "abilities": [
-        "鉱物キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2642.webp",
-      "source": "https://game.technophere.com/monst/char/2642/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット",
-      "friendship": "VレーザーM （火）",
-      "ss": "貫通タイプになり、敵を貫く 16ターン",
-      "rarity": 5,
-      "hp": 15904,
-      "attack": 15128,
-      "speed": 251
-    },
-    {
-      "id": "2643",
-      "name": "オペレーションクラブ",
-      "attribute": "火",
-      "abilities": [
-        "鉱物キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2643.webp",
-      "source": "https://game.technophere.com/monst/char/2642/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "VレーザーL （火）",
-      "ss": "貫通タイプになり、敵を貫く 18ターン",
-      "rarity": 6,
-      "hp": 19423,
-      "attack": 16857,
-      "speed": 226.6,
       "gaugeAbilities": [
         "アンチワープ"
       ]

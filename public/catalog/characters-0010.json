@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "5658",
+      "name": "フレイム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5658/#f5658",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "5659",
+      "name": "ブリザード",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5659/#f5659",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "5660",
+      "name": "スライム",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5660/#f5660",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "5661",
+      "name": "ガーゴイル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5661/#f5661",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "5662",
+      "name": "がいこつ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5662/#f5662",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "5663",
+      "name": "ミイラおとこ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5663/#f5663",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5664",
+      "name": "アレキサンドライト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2984/#f5664",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "幻獣"
+    },
+    {
       "id": "5665",
       "name": "バラン",
       "attribute": "火",
@@ -880,6 +957,32 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
+    },
+    {
+      "id": "5849",
+      "name": "新たな光明を創造せし太陽神 アポロ",
+      "attribute": "火",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5849.webp",
+      "source": "https://game.technophere.com/monst/char/260/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "コスモ",
+      "friendship": "ダブルエナジーサークルL （火） 副友情 超強乱気弾 （光）",
+      "ss": "ヒットした敵の弱点をすべて出現させる 16+8ターン",
+      "rarity": 6,
+      "hp": 20201,
+      "attack": 26611,
+      "speed": 343.5,
+      "connectAbilities": [
+        "超マインスイーパーM",
+        "条件: コスモ以外が2体以上／合計ラック100以上"
+      ]
     },
     {
       "id": "5853",
@@ -2139,94 +2242,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "6117",
-      "name": "ダーインスレイヴ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6115/#f6117",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "6118",
-      "name": "ベートーヴェン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/760/#f6118",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6119",
-      "name": "ベートーヴェン（クリスマス）",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3802/#f6119",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6121",
-      "name": "アポロン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6120/#f6121",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "6125",
-      "name": "ヘパイストス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6124/#f6125",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "6128",
-      "name": "ニュクス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6126/#f6128",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "6130",
-      "name": "アルゴス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6129/#f6130",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "6132",
-      "name": "カロン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6131/#f6132",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

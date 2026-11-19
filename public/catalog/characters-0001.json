@@ -1582,15 +1582,84 @@
       "speed": 189.1
     },
     {
+      "id": "260",
+      "name": "アポロ",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/260.webp",
+      "source": "https://game.technophere.com/monst/char/260/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "拡散弾EL3 （火）",
+      "ss": "ふれた最初の敵を乱打し、太陽レーザーで追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 12060,
+      "attack": 14995,
+      "speed": 279.67
+    },
+    {
+      "id": "261",
+      "name": "太陽機神アポロ",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/261.webp",
+      "source": "https://game.technophere.com/monst/char/260/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "拡散弾EL3 （火）",
+      "ss": "ふれた最初の敵を乱打し、太陽レーザーで追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 19961,
+      "attack": 22192,
+      "speed": 287.33
+    },
+    {
+      "id": "262",
+      "name": "ネプチューン",
+      "attribute": "水",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/262.webp",
+      "source": "https://game.technophere.com/monst/char/262/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "コスモ",
+      "friendship": "ロックオン衝撃波3 （無）",
+      "ss": "海王星の力を纏い、仲間を弾いて敵へ撃ちこむ 20ターン",
+      "rarity": 4,
+      "hp": 6480,
+      "attack": 7216,
+      "speed": 165.8
+    },
+    {
       "id": "263",
       "name": "ネプチューン",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/262/#f263",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/263.webp",
+      "source": "https://game.technophere.com/monst/char/262/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "コスモ"
+      "race": "コスモ",
+      "friendship": "ロックオン衝撃波6 （無）",
+      "ss": "海王星の力を纏い、仲間を弾いて敵へ撃ちこむ 24ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 12628,
+      "speed": 193.7
     },
     {
       "id": "265",
@@ -2795,39 +2864,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/635/#f637",
       "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "639",
-      "name": "ベリアル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/638/#f639",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "641",
-      "name": "メフィスト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/640/#f641",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "643",
-      "name": "サマエル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/642/#f643",
-      "evolution": "進化",
       "type": "反射",
       "style": "バランス",
       "race": "魔族"

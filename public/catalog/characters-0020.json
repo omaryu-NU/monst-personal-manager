@@ -2,6 +2,97 @@
   "version": 1,
   "characters": [
     {
+      "id": "9104",
+      "name": "ヴォーパルソード",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5270/#f9104",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "9105",
+      "name": "12.5周年オラゴン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9105/#f9105",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "9106",
+      "name": "えびす",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5862/#f9106",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "9107",
+      "name": "エステル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9107/#f9107",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "9108",
+      "name": "パワー",
+      "attribute": "火",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9108.webp",
+      "source": "https://game.technophere.com/monst/char/6633/#f9108",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "9109",
+      "name": "早川アキ",
+      "attribute": "水",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9109.webp",
+      "source": "https://game.technophere.com/monst/char/6635/#f9109",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9110",
+      "name": "チェンソーマン",
+      "attribute": "光",
+      "abilities": [],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9110.webp",
+      "source": "https://game.technophere.com/monst/char/6639/#f9110",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9112",
+      "name": "レゼ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9111/#f9112",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "9114",
       "name": "マキマ",
       "attribute": "木",
@@ -2393,199 +2484,6 @@
       "gaugeAbilities": [
         "アンチブロック",
         "アンチ転送壁"
-      ]
-    },
-    {
-      "id": "9391",
-      "name": "剣城斬鉄",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチ転送壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9391.webp",
-      "source": "https://game.technophere.com/monst/char/9391/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "ラウンドバースト （無）",
-      "ss": "スピードとパワーがアップ＆最初にふれた壁に一定期間、加速壁を張る 10ターン",
-      "rarity": 5,
-      "hp": 13550,
-      "attack": 9959,
-      "speed": 302.7,
-      "gaugeAbilities": [
-        "アンチ減速床",
-        "ダッシュ"
-      ]
-    },
-    {
-      "id": "9392",
-      "name": "二子一揮",
-      "attribute": "闇",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチ減速床"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9392.webp",
-      "source": "https://game.technophere.com/monst/char/9392/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人",
-      "friendship": "タッチ貫通弾 （闇）",
-      "ss": "ふれた味方を一定期間、バブリー状態にする 12ターン",
-      "rarity": 5,
-      "hp": 13745,
-      "attack": 10076,
-      "speed": 256.2,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "アンチ転送壁"
-      ]
-    },
-    {
-      "id": "9393",
-      "name": "國神錬介",
-      "attribute": "火",
-      "abilities": [
-        "アンチダメージウォール",
-        "マインスイーパーM",
-        "アンチ魔法陣",
-        "レフトポジションキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9393.webp",
-      "source": "https://game.technophere.com/monst/char/9393/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "クイックチャージショット （火）",
-      "ss": "スピードとパワーがアップ＆ふれた味方の数に応じてパワーがアップする 16ターン",
-      "rarity": 6,
-      "hp": 20411,
-      "attack": 18671,
-      "speed": 264.17,
-      "gaugeAbilities": [
-        "アンチ転送壁"
-      ]
-    },
-    {
-      "id": "9394",
-      "name": "士道龍聖",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ",
-        "超マインスイーパーM",
-        "アンチ転送壁",
-        "アップポジションキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9394.webp",
-      "source": "https://game.technophere.com/monst/char/9394/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "オートジャベリンバースト （光）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を大爆発直下蹴弾で攻撃 21ターン",
-      "rarity": 6,
-      "hp": 16807,
-      "attack": 24967,
-      "speed": 210.4,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "ダッシュL（ラック）"
-      ]
-    },
-    {
-      "id": "9395",
-      "name": "モネ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2953/#f9395",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9396",
-      "name": "我牙丸吟",
-      "attribute": "闇",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチワープ",
-        "アンチ減速壁",
-        "カウンターキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9396.webp",
-      "source": "https://game.technophere.com/monst/char/9396/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超絶ウォールスルーバレット （闇）",
-      "ss": "スピードとパワーがアップ＆最初にふれた敵に、ふれると友情コンボが発動する分身をセットする 8ターン",
-      "rarity": 6,
-      "hp": 20202,
-      "attack": 18050,
-      "speed": 270.27,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "9397",
-      "name": "糸師冴",
-      "attribute": "火",
-      "abilities": [
-        "マインスイーパーL",
-        "アンチウィンド",
-        "超アンチ転送壁",
-        "アタックターンキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9397.webp",
-      "source": "https://game.technophere.com/monst/char/9397/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超強ハイクロススティンガー （火）",
-      "ss": "一定期間、スピードとパワーがアップ/減速率が緩和し、味方を動かし敵へ撃ちこむ 20ターン",
-      "rarity": 6,
-      "hp": 21004,
-      "attack": 19267,
-      "speed": 287.87,
-      "gaugeAbilities": [
-        "アンチ減速床",
-        "SSターンチャージM"
-      ]
-    },
-    {
-      "id": "9398",
-      "name": "グノーシス",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチダメージウォール",
-        "ロングシールドモード"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9398.webp",
-      "source": "https://game.technophere.com/monst/char/9398/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース",
-      "friendship": "超強3方向追従型貫通弾 （木） 副友情 超絶状態異常回復ブラスト （無）",
-      "ss": "スピードとパワーがアップ＆一定期間、無敵状態になる 8+8ターン",
-      "rarity": 6,
-      "hp": 20632,
-      "attack": 17867,
-      "speed": 233.4,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "アンチ減速床"
       ]
     }
   ]

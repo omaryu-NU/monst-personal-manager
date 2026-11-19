@@ -2,6 +2,82 @@
   "version": 1,
   "characters": [
     {
+      "id": "3246",
+      "name": "カタストロフィ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3245/#f3246",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "3259",
+      "name": "ジャジャーン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3258/#f3259",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "3262",
+      "name": "アーチェラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3260/#f3262",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "3264",
+      "name": "スタンガンナー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3263/#f3264",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "3266",
+      "name": "パピー吠崎",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3265/#f3266",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "3267",
+      "name": "煌めく光明の太陽神 アポロ",
+      "attribute": "火",
+      "abilities": [
+        "マインスイーパーL",
+        "超アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3267.webp",
+      "source": "https://game.technophere.com/monst/char/260/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "エナジーサークルL （火） 副友情 超強乱気弾 （光）",
+      "ss": "ヒットしたボスの弱点を全て出現させる 16+8ターン",
+      "rarity": 6,
+      "hp": 19207,
+      "attack": 26086,
+      "speed": 333.13
+    },
+    {
       "id": "3273",
       "name": "井伊直政",
       "attribute": "火",
@@ -2157,72 +2233,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "聖域の狩人"
-    },
-    {
-      "id": "3984",
-      "name": "ルウイン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3983/#f3984",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "3986",
-      "name": "ロッコウ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3985/#f3986",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "3988",
-      "name": "タオダオ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3987/#f3988",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "3998",
-      "name": "ペンネ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3996/#f3998",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4000",
-      "name": "イレイザータンク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3999/#f4000",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "4002",
-      "name": "クレヨニッツ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4001/#f4002",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
     }
   ]
 }

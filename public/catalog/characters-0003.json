@@ -2,6 +2,60 @@
   "version": 1,
   "characters": [
     {
+      "id": "1332",
+      "name": "悪代官",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1331/#f1332",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "1333",
+      "name": "退廃の黒薔薇 ハーレー",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1333.webp",
+      "source": "https://game.technophere.com/monst/char/256/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "超爆発 （無） 副友情 ホーミング8 （闇）",
+      "ss": "敵の弱点にヒットした際に超ダメージを与える 20ターン",
+      "rarity": 6,
+      "hp": 18250,
+      "attack": 27742,
+      "speed": 230.23
+    },
+    {
+      "id": "1334",
+      "name": "退廃の黒薔薇 ハーレーX",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1334.webp",
+      "source": "https://game.technophere.com/monst/char/257/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "十字レーザーL （闇） 副友情 クロスレーザーS （火）",
+      "ss": "ふれた敵で爆発し、周囲の敵を巻き込み大ダメージ 24ターン",
+      "rarity": 6,
+      "hp": 19792,
+      "attack": 33226,
+      "speed": 230.7,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "1337",
       "name": "アレキサンダー",
       "attribute": "火",
@@ -187,6 +241,29 @@
       "type": "反射",
       "style": "バランス",
       "race": "ユニバース"
+    },
+    {
+      "id": "1383",
+      "name": "太陽の女神 アポロ",
+      "attribute": "火",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1383.webp",
+      "source": "https://game.technophere.com/monst/char/260/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "コスモ",
+      "friendship": "エナジーサークルM （火） 副友情 毒拡散8 （無）",
+      "ss": "ヒットしたボスの弱点を全て出現させる 25ターン",
+      "rarity": 6,
+      "hp": 19521,
+      "attack": 20687,
+      "speed": 315.77,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "1391",
@@ -2211,50 +2288,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1981",
-      "name": "カミュ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1980/#f1981",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1982",
-      "name": "アフロディーテ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1982/#f1982",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1984",
-      "name": "闇サガ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1983/#f1984",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1985",
-      "name": "光サガ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1985/#f1985",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "黄金聖闘士"
     }
   ]
