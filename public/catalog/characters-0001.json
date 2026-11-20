@@ -1742,6 +1742,46 @@
       "speed": 322.03
     },
     {
+      "id": "268",
+      "name": "エクリプス",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/268.webp",
+      "source": "https://game.technophere.com/monst/char/268/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "コスモ",
+      "friendship": "クロスレーザーM （闇）",
+      "ss": "ふれた敵に氷メテオで追い討ち 25ターン",
+      "rarity": 5,
+      "hp": 12572,
+      "attack": 24441,
+      "speed": 143.5
+    },
+    {
+      "id": "269",
+      "name": "暗黒星機神エクリプス",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/269.webp",
+      "source": "https://game.technophere.com/monst/char/268/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "コスモ",
+      "friendship": "クロスレーザーL （闇）",
+      "ss": "ふれた敵に氷メテオで追い討ち 24ターン",
+      "rarity": 6,
+      "hp": 19874,
+      "attack": 29700,
+      "speed": 158.97
+    },
+    {
       "id": "271",
       "name": "マース",
       "attribute": "火",
@@ -2881,28 +2921,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "620",
-      "name": "アスモデウス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/619/#f620",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "622",
-      "name": "レヴィアタン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/621/#f622",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

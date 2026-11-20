@@ -2,6 +2,99 @@
   "version": 1,
   "characters": [
     {
+      "id": "2634",
+      "name": "妖精斥候 パック",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2634.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "十字レーザーEL （水）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
+      "rarity": 6,
+      "hp": 18924,
+      "attack": 18270,
+      "speed": 398.87,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2635",
+      "name": "いたずら妖精 パック",
+      "attribute": "水",
+      "abilities": [
+        "飛行",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2635.webp",
+      "source": "https://game.technophere.com/monst/char/2633/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精",
+      "friendship": "十字レーザーEL （水） 副友情 大爆発 （無）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
+      "rarity": 6,
+      "hp": 18110,
+      "attack": 17516,
+      "speed": 400.63,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "2636",
+      "name": "ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "カウンターキラー 闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2636.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "ブレス （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
+      "rarity": 5,
+      "hp": 14707,
+      "attack": 12416,
+      "speed": 252.67,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2637",
+      "name": "妖精女王 ティターニア",
+      "attribute": "光",
+      "abilities": [
+        "カウンターキラー 闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2637.webp",
+      "source": "https://game.technophere.com/monst/char/2636/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "ブレス （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
+      "rarity": 6,
+      "hp": 20158,
+      "attack": 17584,
+      "speed": 241.77,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "2638",
       "name": "麗しき妖精王妃 ティターニア",
       "attribute": "光",
@@ -1406,15 +1499,97 @@
       ]
     },
     {
-      "id": "2716",
+      "id": "2713",
       "name": "ジャックスパロウ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2713/#f2716",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2713.webp",
+      "source": "https://game.technophere.com/monst/char/2713/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射クロスレーザーM （光）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15802,
+      "attack": 16824,
+      "speed": 254.2
+    },
+    {
+      "id": "2714",
+      "name": "孤高の海賊 ジャックスパロウ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2714.webp",
+      "source": "https://game.technophere.com/monst/char/2713/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "反射クロスレーザーL （光）",
+      "ss": "自身のスピードがUP＆SS時のみ有効なアイテムが出現 18ターン",
+      "rarity": 6,
+      "hp": 20675,
+      "attack": 17505,
+      "speed": 236.8,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "2715",
+      "name": "金のジャックスパロウ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2715.webp",
+      "source": "https://game.technophere.com/monst/char/2713/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射クロスレーザーL （光）",
+      "ss": "自身のスピードがUP＆SS時のみ有効なアイテムが出現 18ターン",
+      "rarity": 6,
+      "hp": 20675,
+      "attack": 17505,
+      "speed": 236.8,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "2716",
+      "name": "ジャックスパロウ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2716.webp",
+      "source": "https://game.technophere.com/monst/char/2713/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射クロスレーザーL （光）",
+      "ss": "自身のスピードがUP＆SS時のみ有効なアイテムが出現 18ターン",
+      "rarity": 6,
+      "hp": 20675,
+      "attack": 17505,
+      "speed": 236.8,
+      "gaugeAbilities": [
+        "SSターン短縮"
+      ]
     },
     {
       "id": "2718",
@@ -2798,83 +2973,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ユニバース"
-    },
-    {
-      "id": "3204",
-      "name": "マター",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3203/#f3204",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "3206",
-      "name": "赤穂浪士47",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1721/#f3206",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3208",
-      "name": "アプリコット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3207/#f3208",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3209",
-      "name": "摩利支天廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1282/#f3209",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3222",
-      "name": "ミノタウロス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3221/#f3222",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "3224",
-      "name": "オケアノス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3223/#f3224",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻獣"
-    },
-    {
-      "id": "3229",
-      "name": "ヘカトンケイル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3227/#f3229",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鉱物"
     }
   ]
 }

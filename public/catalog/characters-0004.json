@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1974",
+      "name": "デスマスク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1974/#f1974",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "黄金聖闘士"
+    },
+    {
+      "id": "1975",
+      "name": "アイオリア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1975/#f1975",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "黄金聖闘士"
+    },
+    {
+      "id": "1977",
+      "name": "シャカ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1976/#f1977",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "黄金聖闘士"
+    },
+    {
       "id": "1978",
       "name": "ミロ",
       "attribute": "火",
@@ -803,6 +836,30 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔人"
+    },
+    {
+      "id": "2210",
+      "name": "漆黒の蝕 トータル・エクリプス",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール",
+        "光属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2210.webp",
+      "source": "https://game.technophere.com/monst/char/268/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "コスモ",
+      "friendship": "全敵ロックオン衝撃波3 （闇） 副友情 スピードアップ （無）",
+      "ss": "DWにふれる度に自身のパワーがアップ 18+4ターン",
+      "rarity": 6,
+      "hp": 19035,
+      "attack": 26898,
+      "speed": 169.3,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "2224",
@@ -2398,99 +2455,6 @@
       "speed": 391.43,
       "gaugeAbilities": [
         "アンチブロック"
-      ]
-    },
-    {
-      "id": "2634",
-      "name": "妖精斥候 パック",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2634.webp",
-      "source": "https://game.technophere.com/monst/char/2633/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精",
-      "friendship": "十字レーザーEL （水）",
-      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
-      "rarity": 6,
-      "hp": 18924,
-      "attack": 18270,
-      "speed": 398.87,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "2635",
-      "name": "いたずら妖精 パック",
-      "attribute": "水",
-      "abilities": [
-        "飛行",
-        "アンチウィンド"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2635.webp",
-      "source": "https://game.technophere.com/monst/char/2633/",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精",
-      "friendship": "十字レーザーEL （水） 副友情 大爆発 （無）",
-      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
-      "rarity": 6,
-      "hp": 18110,
-      "attack": 17516,
-      "speed": 400.63,
-      "gaugeAbilities": [
-        "アンチダメージウォール"
-      ]
-    },
-    {
-      "id": "2636",
-      "name": "ティターニア",
-      "attribute": "光",
-      "abilities": [
-        "カウンターキラー 闇属性耐性"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2636.webp",
-      "source": "https://game.technophere.com/monst/char/2636/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精",
-      "friendship": "ブレス （光）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
-      "rarity": 5,
-      "hp": 14707,
-      "attack": 12416,
-      "speed": 252.67,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "2637",
-      "name": "妖精女王 ティターニア",
-      "attribute": "光",
-      "abilities": [
-        "カウンターキラー 闇属性耐性"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2637.webp",
-      "source": "https://game.technophere.com/monst/char/2636/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精",
-      "friendship": "ブレス （光）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす 8ターン",
-      "rarity": 6,
-      "hp": 20158,
-      "attack": 17584,
-      "speed": 241.77,
-      "gaugeAbilities": [
-        "アンチワープ"
       ]
     }
   ]

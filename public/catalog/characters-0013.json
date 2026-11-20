@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "6843",
+      "name": "グリム兄弟",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3992/#f6843",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6845",
+      "name": "お父様",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6844/#f6845",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ホムンクルス"
+    },
+    {
+      "id": "6847",
+      "name": "ルベリッタ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6846/#f6847",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6850",
+      "name": "ジャルジメルト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6848/#f6850",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "6851",
+      "name": "サルタヒコ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4124/#f6851",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "6852",
+      "name": "チェシャ猫",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3700/#f6852",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "6854",
+      "name": "白蛇伝",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6853/#f6854",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6856",
+      "name": "スノッリのエッダ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6855/#f6856",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
       "id": "6858",
       "name": "解体新書",
       "attribute": "闇",
@@ -2112,94 +2200,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "妖精"
-    },
-    {
-      "id": "7180",
-      "name": "シードル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7179/#f7180",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "7182",
-      "name": "モスコミュール",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7181/#f7182",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7184",
-      "name": "ワッタァメーカー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7183/#f7184",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "7186",
-      "name": "千代古場ナナオ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7185/#f7186",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7189",
-      "name": "片貫けずり",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7187/#f7189",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7190",
-      "name": "刑部姫",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7190/#f7190",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "7191",
-      "name": "藻之花",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7191/#f7191",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "7192",
-      "name": "煙々羅",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7192/#f7192",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
     }
   ]
 }

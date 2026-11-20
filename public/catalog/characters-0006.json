@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "3204",
+      "name": "マター",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3203/#f3204",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "3206",
+      "name": "赤穂浪士47",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1721/#f3206",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3208",
+      "name": "アプリコット",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3207/#f3208",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "3209",
+      "name": "摩利支天廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1282/#f3209",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "3222",
+      "name": "ミノタウロス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3221/#f3222",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "獣"
+    },
+    {
+      "id": "3224",
+      "name": "オケアノス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3223/#f3224",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻獣"
+    },
+    {
+      "id": "3229",
+      "name": "ヘカトンケイル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3227/#f3229",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
       "id": "3231",
       "name": "火のび太",
       "attribute": "火",
@@ -2156,83 +2233,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ドラゴン"
-    },
-    {
-      "id": "3935",
-      "name": "ジュラザリナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3933/#f3935",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "3938",
-      "name": "火ジャイアン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3937/#f3938",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "3940",
-      "name": "水しずか",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3939/#f3940",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3942",
-      "name": "木ドラえもん",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3941/#f3942",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "3944",
-      "name": "光スネ夫",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3943/#f3944",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3946",
-      "name": "闇のび太",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3945/#f3946",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3948",
-      "name": "アドゥブタ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3947/#f3948",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
     }
   ]
 }

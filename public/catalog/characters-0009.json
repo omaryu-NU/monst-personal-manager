@@ -2,6 +2,162 @@
   "version": 1,
   "characters": [
     {
+      "id": "5125",
+      "name": "ヘンドラット",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ",
+        "状態異常回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5125.webp",
+      "source": "https://game.technophere.com/monst/char/5124/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ダブルエナジーサークルL （木）",
+      "ss": "前方の広範囲に無数の爆発を起こす 20ターン",
+      "rarity": 6,
+      "hp": 19449,
+      "attack": 16897,
+      "speed": 255.23,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
+      "id": "5126",
+      "name": "異界の獣人少女 サクア",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5126.webp",
+      "source": "https://game.technophere.com/monst/char/5126/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "獣",
+      "friendship": "エナジーサークルS （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17001,
+      "attack": 16381,
+      "speed": 271.7
+    },
+    {
+      "id": "5127",
+      "name": "光サクア",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド",
+        "ドラゴンキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5127.webp",
+      "source": "https://game.technophere.com/monst/char/5126/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "獣",
+      "friendship": "エナジーサークルL （光）",
+      "ss": "自身の状態異常を回復し、スピードとパワーがアップ 12ターン",
+      "rarity": 6,
+      "hp": 18856,
+      "attack": 16671,
+      "speed": 241.43,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
+    },
+    {
+      "id": "5128",
+      "name": "異界の悪魔総帥 バアル",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5128.webp",
+      "source": "https://game.technophere.com/monst/char/5128/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "超強クロスウェーブ （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13093,
+      "attack": 15277,
+      "speed": 139.23
+    },
+    {
+      "id": "5129",
+      "name": "光バアル",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5129.webp",
+      "source": "https://game.technophere.com/monst/char/5128/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "超強クロスウェーブ （無）",
+      "ss": "スピードとパワーがアップ＆敵にふれる毎に溜めたパワーを放出する 20ターン",
+      "rarity": 6,
+      "hp": 20708,
+      "attack": 21008,
+      "speed": 177.97,
+      "gaugeAbilities": [
+        "底力 ダッシュ"
+      ]
+    },
+    {
+      "id": "5130",
+      "name": "ゲレグネ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5130.webp",
+      "source": "https://game.technophere.com/monst/char/5130/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "反射クロスレーザーM （光）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 17070,
+      "attack": 15126,
+      "speed": 280.67
+    },
+    {
+      "id": "5131",
+      "name": "ゲレグネ",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5131.webp",
+      "source": "https://game.technophere.com/monst/char/5130/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "反射クロスレーザーEL （光）",
+      "ss": "ふれた最初の敵を乱打し、ふれた仲間が多いほど威力が上がるレーザーで追い討ち 24ターン",
+      "rarity": 6,
+      "hp": 19611,
+      "attack": 17339,
+      "speed": 231.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "底力"
+      ]
+    },
+    {
       "id": "5132",
       "name": "異界の女帝 クィーンバタフライ",
       "attribute": "闇",
@@ -834,12 +990,24 @@
       "id": "5191",
       "name": "ドロール",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5191/#f5191",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5191.webp",
+      "source": "https://game.technophere.com/monst/char/5191/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "巨人"
+      "race": "巨人",
+      "friendship": "反射衝撃波12 （木）",
+      "ss": "スピードとパワーがアップ＆ 18ターン",
+      "rarity": 6,
+      "hp": 18366,
+      "attack": 22010,
+      "speed": 194.97,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "5192",
@@ -2528,83 +2696,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "獣"
-    },
-    {
-      "id": "5642",
-      "name": "キラーマシン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5641/#f5642",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5644",
-      "name": "ハドラー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5643/#f5644",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "5646",
-      "name": "フレイザード",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5645/#f5646",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5648",
-      "name": "ヒュンケル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5647/#f5648",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5649",
-      "name": "アバン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5649/#f5649",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5650",
-      "name": "少年ダイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5650/#f5650",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5651",
-      "name": "ドラゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5651/#f5651",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

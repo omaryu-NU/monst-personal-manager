@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1306",
+      "name": "ペンペン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1306/#f1306",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鳥"
+    },
+    {
+      "id": "1323",
+      "name": "ワイアットアープ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1321/#f1323",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "1326",
+      "name": "ゼニガタ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1324/#f1326",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "1328",
       "name": "ケンネル巡査",
       "attribute": "木",
@@ -2255,39 +2288,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1974",
-      "name": "デスマスク",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1974/#f1974",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1975",
-      "name": "アイオリア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1975/#f1975",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "黄金聖闘士"
-    },
-    {
-      "id": "1977",
-      "name": "シャカ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1976/#f1977",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "黄金聖闘士"
     }
   ]

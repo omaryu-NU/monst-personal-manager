@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7493",
+      "name": "ビーマ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7492/#f7493",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7496",
+      "name": "ラーヴァナ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7494/#f7496",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "7498",
+      "name": "インドラジット",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7497/#f7498",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "7500",
+      "name": "ドゥルヨーダナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7499/#f7500",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "7501",
+      "name": "ジェラルド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/902/#f7501",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7502",
+      "name": "シトリン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4331/#f7502",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7504",
+      "name": "エリクサー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7503/#f7504",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "7505",
+      "name": "変若水",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7505/#f7505",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔人"
+    },
+    {
       "id": "7506",
       "name": "メイ",
       "attribute": "火",
@@ -710,12 +798,28 @@
       "id": "7554",
       "name": "タルタロス",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7553/#f7554",
+      "abilities": [
+        "超マインスイーパーL",
+        "アンチ魔法陣",
+        "アンチ減速壁",
+        "友情コンボ×2 状態異常レジスト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7554.webp",
+      "source": "https://game.technophere.com/monst/char/7553/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "神"
+      "race": "神",
+      "friendship": "超強パワードライブ （木） 副友情 友スピアップ （無）",
+      "ss": "ダメージウォール/重力バリア/ワープ/地雷を無効化する 6+18ターン",
+      "rarity": 6,
+      "hp": 15358,
+      "attack": 21122,
+      "speed": 337.97,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "バリア付与"
+      ]
     },
     {
       "id": "7555",
@@ -729,15 +833,49 @@
       "race": "妖精"
     },
     {
+      "id": "7556",
+      "name": "ファイト",
+      "attribute": "火",
+      "abilities": [
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7556.webp",
+      "source": "https://game.technophere.com/monst/char/7556/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "クロス分身弾 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18940,
+      "attack": 32499,
+      "speed": 221.87
+    },
+    {
       "id": "7557",
       "name": "ファイト",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7556/#f7557",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ転送壁",
+        "弱点キラー ゲージ倍率保持"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7557.webp",
+      "source": "https://game.technophere.com/monst/char/7556/",
       "evolution": "神化",
       "type": "貫通",
       "style": "パワー",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強クロス分身弾 （火） 副友情 攻防アップ （無）",
+      "ss": "壁をすり抜けふれた最初の敵を乱打し、ふっとばす 8ターン",
+      "rarity": 6,
+      "hp": 19816,
+      "attack": 21738,
+      "speed": 199.67,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "7558",
@@ -2447,105 +2585,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "怪獣"
-    },
-    {
-      "id": "7819",
-      "name": "アロンズロッド",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4525/#f7819",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7820",
-      "name": "トール",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1566/#f7820",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "7822",
-      "name": "コルロ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7821/#f7822",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7824",
-      "name": "マムル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7823/#f7824",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7826",
-      "name": "ラクリィ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7825/#f7826",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7828",
-      "name": "むーすたん",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7827/#f7828",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "7831",
-      "name": "スペラール",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7829/#f7831",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ユニバース"
-    },
-    {
-      "id": "7833",
-      "name": "ボルカノザーラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7832/#f7833",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7835",
-      "name": "カジキラス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7834/#f7835",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ユニバース"
     }
   ]
 }

@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "6094",
+      "name": "那須隊",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6093/#f6094",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6096",
+      "name": "影浦隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6095/#f6096",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6098",
+      "name": "二宮隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6097/#f6098",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6100",
+      "name": "ガトリン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6099/#f6100",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "近界民"
+    },
+    {
+      "id": "6101",
+      "name": "玉狛第2",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6101/#f6101",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6102",
+      "name": "三輪隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6102/#f6102",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6103",
+      "name": "グランディオーソ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6103/#f6103",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "6106",
+      "name": "ベルゼブブ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/626/#f6106",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "魔王"
+    },
+    {
       "id": "6107",
       "name": "ヒュース",
       "attribute": "光",
@@ -2111,94 +2199,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6478",
-      "name": "フランキー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6477/#f6478",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "6480",
-      "name": "サボ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6479/#f6480",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6482",
-      "name": "サンジ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6481/#f6482",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6484",
-      "name": "ブルック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6483/#f6484",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "6485",
-      "name": "ナミ＆ロビン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6485/#f6485",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6486",
-      "name": "クロコダイル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6486/#f6486",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6487",
-      "name": "ビッグマム",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6487/#f6487",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "6488",
-      "name": "ハンコック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6488/#f6488",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

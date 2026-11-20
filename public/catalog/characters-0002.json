@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "620",
+      "name": "アスモデウス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/619/#f620",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "622",
+      "name": "レヴィアタン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/621/#f622",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "634",
       "name": "アスタロト",
       "attribute": "火",
@@ -476,6 +498,29 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔王"
+    },
+    {
+      "id": "754",
+      "name": "グレート・エクリプス",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/754.webp",
+      "source": "https://game.technophere.com/monst/char/268/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "コスモ",
+      "friendship": "クロスレーザーL （闇） 副友情 貫通ホーミング4 （火）",
+      "ss": "ふれた敵に氷メテオで追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 18720,
+      "attack": 25848,
+      "speed": 162.3,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "756",
@@ -2201,39 +2246,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "使徒"
-    },
-    {
-      "id": "1306",
-      "name": "ペンペン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1306/#f1306",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "1323",
-      "name": "ワイアットアープ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1321/#f1323",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "1326",
-      "name": "ゼニガタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1324/#f1326",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }
