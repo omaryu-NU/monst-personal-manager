@@ -2,6 +2,29 @@
   "version": 1,
   "characters": [
     {
+      "id": "2630",
+      "name": "雪菜",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2630.webp",
+      "source": "https://game.technophere.com/monst/char/2630/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "氷塊 （無）",
+      "ss": "ふれた敵に氷メテオで追い討ち 24ターン",
+      "rarity": 5,
+      "hp": 12084,
+      "attack": 9930,
+      "speed": 218.17,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
       "id": "2631",
       "name": "ストアルイ",
       "attribute": "水",
@@ -1685,23 +1708,65 @@
       "id": "2719",
       "name": "ゴーストシャーク",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2719/#f2719",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2719.webp",
+      "source": "https://game.technophere.com/monst/char/2719/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "超強ロックオン衝撃波6 （無）",
+      "ss": "自身のスピードとパワーがアップ 16ターン",
+      "rarity": 5,
+      "hp": 10267,
+      "attack": 10889,
+      "speed": 216.67
+    },
+    {
+      "id": "2720",
+      "name": "サラザール",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2720.webp",
+      "source": "https://game.technophere.com/monst/char/2720/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超強反射拡散弾EL3 （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14915,
+      "attack": 13633,
+      "speed": 305.57
     },
     {
       "id": "2721",
       "name": "サラザール",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2720/#f2721",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2721.webp",
+      "source": "https://game.technophere.com/monst/char/2720/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "超強反射拡散弾EL3 （闇）",
+      "ss": "ふれた最初の敵で爆発し、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 18387,
+      "attack": 15429,
+      "speed": 250.9,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2737",
@@ -2997,28 +3062,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "幻獣"
-    },
-    {
-      "id": "3173",
-      "name": "サポテンダー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3173/#f3173",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3183",
-      "name": "ココア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3182/#f3183",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ユニバース"
     }
   ]
 }

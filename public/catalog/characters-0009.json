@@ -2,6 +2,51 @@
   "version": 1,
   "characters": [
     {
+      "id": "5120",
+      "name": "イクシャーベ",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5120.webp",
+      "source": "https://game.technophere.com/monst/char/5120/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "追従型貫通弾 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17697,
+      "attack": 10483,
+      "speed": 252.3
+    },
+    {
+      "id": "5121",
+      "name": "イクシャーベ",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5121.webp",
+      "source": "https://game.technophere.com/monst/char/5120/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "追従型貫通弾 （水）",
+      "ss": "スピードとパワーが一定期間アップ 20ターン",
+      "rarity": 6,
+      "hp": 18316,
+      "attack": 16794,
+      "speed": 327.5,
+      "gaugeAbilities": [
+        "アンチ魔法陣",
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "5122",
       "name": "異界の悪魔女王 アスタロト",
       "attribute": "木",
@@ -1101,12 +1146,25 @@
       "id": "5193",
       "name": "モンスピート",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5193/#f5193",
+      "abilities": [
+        "アンチダメージウォール",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5193.webp",
+      "source": "https://game.technophere.com/monst/char/5193/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "魔神"
+      "race": "神",
+      "friendship": "シャイニングピラー （無）",
+      "ss": "狙った方向に”獄炎鳥”を放つ 12ターン",
+      "rarity": 6,
+      "hp": 18780,
+      "attack": 17368,
+      "speed": 282.8,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "5194",
@@ -2717,28 +2775,6 @@
       "evolution": "獣神化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5630",
-      "name": "ダイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5629/#f5630",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5632",
-      "name": "ポップ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5631/#f5632",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

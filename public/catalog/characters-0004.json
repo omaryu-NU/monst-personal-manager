@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1970",
+      "name": "星矢",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1968/#f1970",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "青銅聖闘士"
+    },
+    {
       "id": "1972",
       "name": "瞬",
       "attribute": "闇",
@@ -2407,29 +2418,6 @@
       "gaugeAbilities": [
         "アンチワープ",
         "魔族キラー"
-      ]
-    },
-    {
-      "id": "2630",
-      "name": "雪菜",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2630.webp",
-      "source": "https://game.technophere.com/monst/char/2630/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族",
-      "friendship": "氷塊 （無）",
-      "ss": "ふれた敵に氷メテオで追い討ち 24ターン",
-      "rarity": 5,
-      "hp": 12084,
-      "attack": 9930,
-      "speed": 218.17,
-      "gaugeAbilities": [
-        "アンチ重力バリア"
       ]
     }
   ]

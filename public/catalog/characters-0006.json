@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "3173",
+      "name": "サポテンダー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3173/#f3173",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "3183",
+      "name": "ココア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3182/#f3183",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ユニバース"
+    },
+    {
       "id": "3185",
       "name": "ドルチェ",
       "attribute": "闇",
@@ -2209,28 +2231,6 @@
       "source": "https://game.technophere.com/monst/char/3911/#f3912",
       "evolution": "進化",
       "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3915",
-      "name": "フランボワーズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3914/#f3915",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "3917",
-      "name": "エキドナ（ストア）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3225/#f3917",
-      "evolution": "進化",
-      "type": "貫通",
       "style": "バランス",
       "race": "魔族"
     }

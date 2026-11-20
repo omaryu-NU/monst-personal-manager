@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7813",
+      "name": "プレオンダクティル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7812/#f7813",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "7814",
+      "name": "怪獣9号",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7814/#f7814",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "怪獣"
+    },
+    {
+      "id": "7815",
+      "name": "葵＆ハルイチ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7815/#f7815",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7816",
       "name": "カフカ＆レノ",
       "attribute": "光",
@@ -2218,39 +2251,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "聖騎士"
-    },
-    {
-      "id": "8142",
-      "name": "赤馬乃もみ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8140/#f8142",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8144",
-      "name": "プレビット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8143/#f8144",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ユニバース"
-    },
-    {
-      "id": "8146",
-      "name": "クワイアック",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8145/#f8146",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鳥"
     }
   ]
 }

@@ -2,6 +2,37 @@
   "version": 1,
   "characters": [
     {
+      "id": "7485",
+      "name": "ミネルヴァ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4462/#f7485",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "7486",
+      "name": "ロヴァー",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7486.webp",
+      "source": "https://game.technophere.com/monst/char/7486/",
+      "evolution": "真獣神化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖",
+      "friendship": "超強ラウンドスパーク （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 16820,
+      "attack": 18645,
+      "speed": 245
+    },
+    {
       "id": "7487",
       "name": "ロヴァー",
       "attribute": "木",
@@ -1012,15 +1043,50 @@
       "race": "魔人"
     },
     {
+      "id": "7564",
+      "name": "ルナマリア＆ゲルググメナース",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7564.webp",
+      "source": "https://game.technophere.com/monst/char/7564/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "超絶貫通ホーミング4 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7620,
+      "attack": 11030,
+      "speed": 292.97
+    },
+    {
       "id": "7565",
       "name": "ルナマリア",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7564/#f7565",
+      "abilities": [
+        "超アンチワープ",
+        "アンチ魔法陣",
+        "友情ブーストL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7565.webp",
+      "source": "https://game.technophere.com/monst/char/7564/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "超絶貫通ホーミング6 （火）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵をビームライフルで攻撃 14ターン",
+      "rarity": 5,
+      "hp": 14661,
+      "attack": 14280,
+      "speed": 380.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ウォールブースト"
+      ]
     },
     {
       "id": "7567",
@@ -2598,39 +2664,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "怪獣"
-    },
-    {
-      "id": "7813",
-      "name": "プレオンダクティル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7812/#f7813",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "7814",
-      "name": "怪獣9号",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7814/#f7814",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪獣"
-    },
-    {
-      "id": "7815",
-      "name": "葵＆ハルイチ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7815/#f7815",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

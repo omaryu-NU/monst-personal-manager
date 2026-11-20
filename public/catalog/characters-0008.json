@@ -2,6 +2,42 @@
   "version": 1,
   "characters": [
     {
+      "id": "4586",
+      "name": "呂布廻",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2602/#f4586",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "4589",
+      "name": "アナザーワールド",
+      "attribute": "闇",
+      "abilities": [
+        "超アンチ重力バリア",
+        "重力バリアキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4589.webp",
+      "source": "https://game.technophere.com/monst/char/199/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "神",
+      "friendship": "超強ホーミング18 （闇） 副友情 扇形拡散弾10 （闇）",
+      "ss": "パワーがアップ＆ふれた敵の攻撃ターンを遅延させる 24+4ターン",
+      "rarity": 6,
+      "hp": 21919,
+      "attack": 23181,
+      "speed": 309.63,
+      "connectAbilities": [
+        "マインスイーパーM",
+        "SSターン短縮"
+      ]
+    },
+    {
       "id": "4595",
       "name": "嘴平伊之助",
       "attribute": "木",
@@ -2499,51 +2535,6 @@
       "gaugeAbilities": [
         "魔法陣ブースト",
         "ダッシュ"
-      ]
-    },
-    {
-      "id": "5120",
-      "name": "イクシャーベ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5120.webp",
-      "source": "https://game.technophere.com/monst/char/5120/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣",
-      "friendship": "追従型貫通弾 （水）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 17697,
-      "attack": 10483,
-      "speed": 252.3
-    },
-    {
-      "id": "5121",
-      "name": "イクシャーベ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパー",
-        "レーザーストップ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5121.webp",
-      "source": "https://game.technophere.com/monst/char/5120/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣",
-      "friendship": "追従型貫通弾 （水）",
-      "ss": "スピードとパワーが一定期間アップ 20ターン",
-      "rarity": 6,
-      "hp": 18316,
-      "attack": 16794,
-      "speed": 327.5,
-      "gaugeAbilities": [
-        "アンチ魔法陣",
-        "SSターン短縮"
       ]
     }
   ]
