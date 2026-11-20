@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1301",
+      "name": "第9使徒",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1300/#f1301",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "使徒"
+    },
+    {
+      "id": "1305",
+      "name": "第13号機",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1304/#f1305",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "使徒"
+    },
+    {
       "id": "1306",
       "name": "ペンペン",
       "attribute": "光",
@@ -2267,28 +2289,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "青銅聖闘士"
-    },
-    {
-      "id": "1972",
-      "name": "瞬",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1971/#f1972",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "青銅聖闘士"
-    },
-    {
-      "id": "1973",
-      "name": "アルデバラン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1973/#f1973",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "黄金聖闘士"
     }
   ]
 }

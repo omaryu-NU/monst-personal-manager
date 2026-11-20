@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "616",
+      "name": "マリーミーLW",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/615/#f616",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "618",
+      "name": "かぐや姫LW",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/617/#f618",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "620",
       "name": "アスモデウス",
       "attribute": "火",
@@ -2223,28 +2245,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "使徒"
-    },
-    {
-      "id": "1301",
-      "name": "第9使徒",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1300/#f1301",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "使徒"
-    },
-    {
-      "id": "1305",
-      "name": "第13号機",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1304/#f1305",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "使徒"
     }
   ]

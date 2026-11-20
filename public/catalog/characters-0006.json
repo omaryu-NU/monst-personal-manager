@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3185",
+      "name": "ドルチェ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3184/#f3185",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "3200",
+      "name": "ノヴァリオン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3199/#f3200",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "3202",
+      "name": "バルジーロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3201/#f3202",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
       "id": "3204",
       "name": "マター",
       "attribute": "闇",
@@ -2200,39 +2233,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "3928",
-      "name": "コソドロンパ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3927/#f3928",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ユニバース"
-    },
-    {
-      "id": "3930",
-      "name": "ダスティル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3929/#f3930",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "3932",
-      "name": "ノコギレックス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3931/#f3932",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ドラゴン"
     }
   ]
 }

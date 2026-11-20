@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "6088",
+      "name": "生駒隊",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6087/#f6088",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6090",
+      "name": "王子隊",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6089/#f6090",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6092",
+      "name": "鈴鳴第一",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6091/#f6092",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
       "id": "6094",
       "name": "那須隊",
       "attribute": "光",
@@ -2166,39 +2199,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "6472",
-      "name": "ヤマト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6471/#f6472",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6474",
-      "name": "ゾロ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6473/#f6474",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6476",
-      "name": "ウソップ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6475/#f6476",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

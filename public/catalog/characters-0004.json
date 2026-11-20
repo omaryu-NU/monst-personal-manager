@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1972",
+      "name": "瞬",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1971/#f1972",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "青銅聖闘士"
+    },
+    {
+      "id": "1973",
+      "name": "アルデバラン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1973/#f1973",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "黄金聖闘士"
+    },
+    {
       "id": "1974",
       "name": "デスマスク",
       "attribute": "闇",
@@ -2408,53 +2430,6 @@
       "speed": 218.17,
       "gaugeAbilities": [
         "アンチ重力バリア"
-      ]
-    },
-    {
-      "id": "2631",
-      "name": "ストアルイ",
-      "attribute": "水",
-      "abilities": [
-        "アンチ減速壁",
-        "火属性耐性"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2631.webp",
-      "source": "https://game.technophere.com/monst/char/2631/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士",
-      "friendship": "ホーミング18 （水）",
-      "ss": "狙った方向に、波動砲を放つ 18ターン",
-      "rarity": 6,
-      "hp": 19086,
-      "attack": 15143,
-      "speed": 242.67,
-      "gaugeAbilities": [
-        "アンチダメージウォール"
-      ]
-    },
-    {
-      "id": "2633",
-      "name": "パック",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2633.webp",
-      "source": "https://game.technophere.com/monst/char/2633/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精",
-      "friendship": "十字レーザーM （水）",
-      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 8ターン",
-      "rarity": 5,
-      "hp": 14585,
-      "attack": 13399,
-      "speed": 391.43,
-      "gaugeAbilities": [
-        "アンチブロック"
       ]
     }
   ]

@@ -1782,26 +1782,86 @@
       "speed": 158.97
     },
     {
+      "id": "270",
+      "name": "マース",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/270.webp",
+      "source": "https://game.technophere.com/monst/char/270/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ユニバース",
+      "friendship": "クロスレーザーS （火）",
+      "ss": "火星の力でスピードとパワーが大アップ 13ターン",
+      "rarity": 4,
+      "hp": 6507,
+      "attack": 7441,
+      "speed": 303.13
+    },
+    {
       "id": "271",
       "name": "マース",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/270/#f271",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/271.webp",
+      "source": "https://game.technophere.com/monst/char/270/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "クロスレーザーM （火）",
+      "ss": "火星の力でスピード＆パワーが特大アップ 18ターン",
+      "rarity": 5,
+      "hp": 11362,
+      "attack": 12849,
+      "speed": 335.33
+    },
+    {
+      "id": "272",
+      "name": "マーキュリー",
+      "attribute": "水",
+      "abilities": [
+        "飛行",
+        "獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/272.webp",
+      "source": "https://game.technophere.com/monst/char/272/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース",
+      "friendship": "ホーミング4 （水）",
+      "ss": "ふれた最初の敵を乱打し、水星の光線で追い討ち 12ターン",
+      "rarity": 4,
+      "hp": 6840,
+      "attack": 8364,
+      "speed": 318.77
     },
     {
       "id": "273",
       "name": "マーキュリー",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/272/#f273",
+      "abilities": [
+        "飛行",
+        "獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/273.webp",
+      "source": "https://game.technophere.com/monst/char/272/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "ホーミング6 （水）",
+      "ss": "ふれた最初の敵を乱打し、水星の光線で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 11970,
+      "attack": 10253,
+      "speed": 372.5
     },
     {
       "id": "275",
@@ -2899,28 +2959,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "616",
-      "name": "マリーミーLW",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/615/#f616",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "618",
-      "name": "かぐや姫LW",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/617/#f618",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

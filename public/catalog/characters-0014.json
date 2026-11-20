@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7173",
+      "name": "犬塚信乃",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4073/#f7173",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "7176",
+      "name": "ベイカーズ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4218/#f7176",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "獣"
+    },
+    {
+      "id": "7178",
+      "name": "泡盛",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7177/#f7178",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
       "id": "7180",
       "name": "シードル",
       "attribute": "光",
@@ -2586,70 +2619,6 @@
       "hp": 16820,
       "attack": 18645,
       "speed": 245
-    },
-    {
-      "id": "7487",
-      "name": "ロヴァー",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチダメージウォール",
-        "アンチ減速床",
-        "カウンターキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7487.webp",
-      "source": "https://game.technophere.com/monst/char/7486/",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "幻妖",
-      "friendship": "超強ラウンドスパーク （木） 副友情 超絶貫通ホーミング18 （木）",
-      "ss": "ふれた敵の攻撃力と防御力を一定期間ダウン＆味方を率いて敵へ撃ちこむ 16+8ターン",
-      "rarity": 6,
-      "hp": 19158,
-      "attack": 16891,
-      "speed": 263.7,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "SSターン短縮"
-      ]
-    },
-    {
-      "id": "7489",
-      "name": "シーター",
-      "attribute": "水",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチワープ",
-        "回復M SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7489.webp",
-      "source": "https://game.technophere.com/monst/char/7488/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士",
-      "friendship": "超絶貫通拡散弾EL5 （水） 副友情 超強アタッチボム6 （無）",
-      "ss": "スピードとパワーがアップ＆ふれた敵をアクセラレータ状態にし、ふれた壁すべてに加速壁を張る 24+4ターン",
-      "rarity": 6,
-      "hp": 19088,
-      "attack": 20854,
-      "speed": 314.1,
-      "gaugeAbilities": [
-        "アンチ転送壁",
-        "ダッシュ"
-      ]
-    },
-    {
-      "id": "7491",
-      "name": "ラーマ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7490/#f7491",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
     }
   ]
 }

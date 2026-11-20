@@ -2,6 +2,70 @@
   "version": 1,
   "characters": [
     {
+      "id": "5122",
+      "name": "異界の悪魔女王 アスタロト",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5122.webp",
+      "source": "https://game.technophere.com/monst/char/5122/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "トライブパルス （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16579,
+      "attack": 16132,
+      "speed": 265.1
+    },
+    {
+      "id": "5123",
+      "name": "木アスタロト",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5123.webp",
+      "source": "https://game.technophere.com/monst/char/5122/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "トライブパルス （無）",
+      "ss": "スピードとパワーがアップ＆味方がふれるとスピードがアップする状態になる 20ターン",
+      "rarity": 6,
+      "hp": 17917,
+      "attack": 15887,
+      "speed": 316.37,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
+    },
+    {
+      "id": "5124",
+      "name": "ヘンドラット",
+      "attribute": "木",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5124.webp",
+      "source": "https://game.technophere.com/monst/char/5124/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "ダブルエナジーサークルM （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14732,
+      "attack": 13069,
+      "speed": 253.7
+    },
+    {
       "id": "5125",
       "name": "ヘンドラット",
       "attribute": "木",
@@ -1013,12 +1077,25 @@
       "id": "5192",
       "name": "グロキシニア",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5192/#f5192",
+      "abilities": [
+        "飛行",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5192.webp",
+      "source": "https://game.technophere.com/monst/char/5192/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "オールレンジバレット （木）",
+      "ss": "スピードとパワーがアップ＆仲間のHPを回復する 16ターン",
+      "rarity": 6,
+      "hp": 16706,
+      "attack": 17329,
+      "speed": 280,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "5193",
@@ -2663,39 +2740,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "5634",
-      "name": "レオナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5633/#f5634",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5636",
-      "name": "ブラス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5635/#f5636",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "5638",
-      "name": "クロコダイン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5637/#f5638",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "獣"
     }
   ]
 }

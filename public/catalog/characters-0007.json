@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3928",
+      "name": "コソドロンパ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3927/#f3928",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
+      "id": "3930",
+      "name": "ダスティル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3929/#f3930",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "3932",
+      "name": "ノコギレックス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3931/#f3932",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
       "id": "3935",
       "name": "ジュラザリナ",
       "attribute": "光",
@@ -2266,39 +2299,6 @@
         "マインスイーパーM",
         "SSターン短縮"
       ]
-    },
-    {
-      "id": "4595",
-      "name": "嘴平伊之助",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4594/#f4595",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4597",
-      "name": "我妻善逸",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4596/#f4597",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "4601",
-      "name": "矢琶羽＆朱紗丸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4600/#f4601",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

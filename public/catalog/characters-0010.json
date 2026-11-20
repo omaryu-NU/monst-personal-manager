@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5634",
+      "name": "レオナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5633/#f5634",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5636",
+      "name": "ブラス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5635/#f5636",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "5638",
+      "name": "クロコダイン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5637/#f5638",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "獣"
+    },
+    {
       "id": "5642",
       "name": "キラーマシン",
       "attribute": "水",
@@ -2225,39 +2258,6 @@
       "evolution": "獣神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "6088",
-      "name": "生駒隊",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6087/#f6088",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "6090",
-      "name": "王子隊",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6089/#f6090",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "6092",
-      "name": "鈴鳴第一",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6091/#f6092",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "ボーダー隊員"
     }
   ]
