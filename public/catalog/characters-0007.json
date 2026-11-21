@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "3885",
+      "name": "タルト&トルテ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3884/#f3885",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "3896",
+      "name": "孔雀舞",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3895/#f3896",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "鳥"
+    },
+    {
+      "id": "3898",
+      "name": "真崎杏子",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3897/#f3898",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3903",
+      "name": "キース",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3902/#f3903",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "3905",
       "name": "ペガサス",
       "attribute": "水",
@@ -2254,50 +2298,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "4553",
-      "name": "サクア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4552/#f4553",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "4556",
-      "name": "メロード",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4554/#f4556",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "4558",
-      "name": "ザーギン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4557/#f4558",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "4560",
-      "name": "カイン廻",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2470/#f4560",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
     }
   ]
 }

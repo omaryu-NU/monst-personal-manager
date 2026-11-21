@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "4553",
+      "name": "サクア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4552/#f4553",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "獣"
+    },
+    {
+      "id": "4556",
+      "name": "メロード",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4554/#f4556",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "4558",
+      "name": "ザーギン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4557/#f4558",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "4560",
+      "name": "カイン廻",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2470/#f4560",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
       "id": "4569",
       "name": "ケサランパサラン（ストア）",
       "attribute": "光",
@@ -2393,92 +2437,6 @@
       "gaugeAbilities": [
         "魔法陣ブースト"
       ]
-    },
-    {
-      "id": "5109",
-      "name": "フォリー",
-      "attribute": "光",
-      "abilities": [
-        "アンチダメージウォール",
-        "SSターンアクセル"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5109.webp",
-      "source": "https://game.technophere.com/monst/char/5107/",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット",
-      "friendship": "全敵ロックオンレーザーL （光） 副友情 気弾 （闇）",
-      "ss": "仲間たちを率いて敵へ撃ちこむ 24ターン",
-      "rarity": 6,
-      "hp": 14160,
-      "attack": 17231,
-      "speed": 227.73
-    },
-    {
-      "id": "5112",
-      "name": "シーラ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5112.webp",
-      "source": "https://game.technophere.com/monst/char/5112/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ドラゴン",
-      "friendship": "超強貫通ホーミング6 （水）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 14140,
-      "attack": 18007,
-      "speed": 202.57
-    },
-    {
-      "id": "5113",
-      "name": "シーラ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパーM",
-        "友情ブースト（ラック）"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5113.webp",
-      "source": "https://game.technophere.com/monst/char/5112/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ドラゴン",
-      "friendship": "超強貫通ホーミング18 （水）",
-      "ss": "反射タイプになり、ふれた敵に雷メテオで追い撃ち 30ターン",
-      "rarity": 6,
-      "hp": 18482,
-      "attack": 22350,
-      "speed": 209.63,
-      "gaugeAbilities": [
-        "アンチ減速壁",
-        "SSターン短縮"
-      ]
-    },
-    {
-      "id": "5114",
-      "name": "異界の総統 デスアーク",
-      "attribute": "火",
-      "abilities": [
-        "カウンターキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5114.webp",
-      "source": "https://game.technophere.com/monst/char/5114/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族",
-      "friendship": "電撃 （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 15084,
-      "attack": 16038,
-      "speed": 285.63
     }
   ]
 }

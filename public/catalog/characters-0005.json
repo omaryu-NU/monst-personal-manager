@@ -2,6 +2,29 @@
   "version": 1,
   "characters": [
     {
+      "id": "2628",
+      "name": "気硬銃の使い手 仙水カズヤ",
+      "attribute": "闇",
+      "abilities": [
+        "魔人キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2628.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "反射レーザーL4 （闇）",
+      "ss": "狙った方向に気硬銃を放つ 16ターン",
+      "rarity": 6,
+      "hp": 19467,
+      "attack": 11967,
+      "speed": 212.1,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
       "id": "2629",
       "name": "仙水忍",
       "attribute": "闇",
@@ -1861,6 +1884,74 @@
       ]
     },
     {
+      "id": "2726",
+      "name": "紫苑",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2726.webp",
+      "source": "https://game.technophere.com/monst/char/2726/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "電撃 （無）",
+      "ss": "自身のスピードがアップ＆ブロックを無効化する 12ターン",
+      "rarity": 5,
+      "hp": 13356,
+      "attack": 18428,
+      "speed": 240.37
+    },
+    {
+      "id": "2727",
+      "name": "戦場に舞う花姫 紫苑",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール",
+        "木属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2727.webp",
+      "source": "https://game.technophere.com/monst/char/2726/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "電撃 （無）",
+      "ss": "自身のスピードとパワーがアップ＆ブロックを無効化する 12ターン",
+      "rarity": 6,
+      "hp": 18718,
+      "attack": 21215,
+      "speed": 306.2,
+      "gaugeAbilities": [
+        "ユニバキラー"
+      ]
+    },
+    {
+      "id": "2728",
+      "name": "花ノ国の精 紫苑",
+      "attribute": "火",
+      "abilities": [
+        "飛行",
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2728.webp",
+      "source": "https://game.technophere.com/monst/char/2726/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "スクランブルレーザーM （火） 副友情 大爆発 （無）",
+      "ss": "仲間たちを率いて敵へ撃ちこむ 12ターン",
+      "rarity": 6,
+      "hp": 19832,
+      "attack": 19445,
+      "speed": 313.03,
+      "gaugeAbilities": [
+        "回復"
+      ]
+    },
+    {
       "id": "2737",
       "name": "フカヒレ",
       "attribute": "火",
@@ -3069,47 +3160,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "3153",
-      "name": "ノクティス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3152/#f3153",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3155",
-      "name": "ケフカ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3154/#f3155",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "3157",
-      "name": "ジェクト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3156/#f3157",
-      "evolution": "進化"
-    },
-    {
-      "id": "3159",
-      "name": "シャントット",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3158/#f3159",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
     }
   ]
 }

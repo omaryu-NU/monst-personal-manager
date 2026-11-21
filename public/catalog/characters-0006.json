@@ -2,6 +2,47 @@
   "version": 1,
   "characters": [
     {
+      "id": "3153",
+      "name": "ノクティス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3152/#f3153",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3155",
+      "name": "ケフカ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3154/#f3155",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "3157",
+      "name": "ジェクト",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3156/#f3157",
+      "evolution": "進化"
+    },
+    {
+      "id": "3159",
+      "name": "シャントット",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3158/#f3159",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
       "id": "3161",
       "name": "クジャ",
       "attribute": "光",
@@ -2189,50 +2230,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "3885",
-      "name": "タルト&トルテ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3884/#f3885",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "3896",
-      "name": "孔雀舞",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3895/#f3896",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "鳥"
-    },
-    {
-      "id": "3898",
-      "name": "真崎杏子",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3897/#f3898",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3903",
-      "name": "キース",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3902/#f3903",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

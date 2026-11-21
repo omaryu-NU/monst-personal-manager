@@ -2,6 +2,76 @@
   "version": 1,
   "characters": [
     {
+      "id": "5599",
+      "name": "ドットテレシー＆パレシー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5293/#f5599",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5600",
+      "name": "ドットツクヨミ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/972/#f5600",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "5603",
+      "name": "フラッグユニティル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5602/#f5603",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5607",
+      "name": "終末運命共同隊",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5606/#f5607",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5618",
+      "name": "追憶なる花ノ国の精 紫苑",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール",
+        "飛行",
+        "ユニバキラーL 木属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5618.webp",
+      "source": "https://game.technophere.com/monst/char/2726/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "放電 （無） 副友情 電撃弾 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた味方のSSターンを一定ターン短縮する 12+8ターン",
+      "rarity": 6,
+      "hp": 19466,
+      "attack": 22258,
+      "speed": 333.73,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "回復"
+      ]
+    },
+    {
       "id": "5619",
       "name": "服部半蔵",
       "attribute": "火",
@@ -2204,61 +2274,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔王"
-    },
-    {
-      "id": "6056",
-      "name": "ウォフマナフ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6055/#f6056",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "6058",
-      "name": "ハルワタート",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6057/#f6058",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "6072",
-      "name": "ノービレ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6071/#f6072",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6073",
-      "name": "小南桐絵",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5305/#f6073",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "6074",
-      "name": "迅悠一",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5307/#f6074",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "ボーダー隊員"
     }
   ]
 }

@@ -2,6 +2,92 @@
   "version": 1,
   "characters": [
     {
+      "id": "5109",
+      "name": "フォリー",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5109.webp",
+      "source": "https://game.technophere.com/monst/char/5107/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット",
+      "friendship": "全敵ロックオンレーザーL （光） 副友情 気弾 （闇）",
+      "ss": "仲間たちを率いて敵へ撃ちこむ 24ターン",
+      "rarity": 6,
+      "hp": 14160,
+      "attack": 17231,
+      "speed": 227.73
+    },
+    {
+      "id": "5112",
+      "name": "シーラ",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5112.webp",
+      "source": "https://game.technophere.com/monst/char/5112/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン",
+      "friendship": "超強貫通ホーミング6 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14140,
+      "attack": 18007,
+      "speed": 202.57
+    },
+    {
+      "id": "5113",
+      "name": "シーラ",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパーM",
+        "友情ブースト（ラック）"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5113.webp",
+      "source": "https://game.technophere.com/monst/char/5112/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ドラゴン",
+      "friendship": "超強貫通ホーミング18 （水）",
+      "ss": "反射タイプになり、ふれた敵に雷メテオで追い撃ち 30ターン",
+      "rarity": 6,
+      "hp": 18482,
+      "attack": 22350,
+      "speed": 209.63,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "SSターン短縮"
+      ]
+    },
+    {
+      "id": "5114",
+      "name": "異界の総統 デスアーク",
+      "attribute": "火",
+      "abilities": [
+        "カウンターキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5114.webp",
+      "source": "https://game.technophere.com/monst/char/5114/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族",
+      "friendship": "電撃 （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15084,
+      "attack": 16038,
+      "speed": 285.63
+    },
+    {
       "id": "5115",
       "name": "火デスアーク",
       "attribute": "火",
@@ -1331,12 +1417,23 @@
       "id": "5196",
       "name": "グレイロード",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5196/#f5196",
+      "abilities": [
+        "マインスイーパー",
+        "アンチウィンド",
+        "ロボットキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5196.webp",
+      "source": "https://game.technophere.com/monst/char/5196/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "魔神"
+      "race": "神",
+      "friendship": "超強貫通ホーミング6 （水）",
+      "ss": "ふれた敵のターンを”呪縛怨鎖”で増加させる 23ターン",
+      "rarity": 5,
+      "hp": 12368,
+      "attack": 13834,
+      "speed": 248.57
     },
     {
       "id": "5197",
@@ -2815,50 +2912,6 @@
       "evolution": "神化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5599",
-      "name": "ドットテレシー＆パレシー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5293/#f5599",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5600",
-      "name": "ドットツクヨミ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/972/#f5600",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "5603",
-      "name": "フラッグユニティル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5602/#f5603",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5607",
-      "name": "終末運命共同隊",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5606/#f5607",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

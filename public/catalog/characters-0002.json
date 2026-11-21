@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "608",
+      "name": "セルケト",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/606/#f608",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "610",
       "name": "ハトホル",
       "attribute": "光",
@@ -2235,17 +2246,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "聖騎士"
-    },
-    {
-      "id": "1293",
-      "name": "マリ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1292/#f1293",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "エヴァパイロット"
     }
   ]
 }

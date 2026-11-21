@@ -1946,15 +1946,46 @@
       "speed": 143.43
     },
     {
+      "id": "278",
+      "name": "プルートー",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/278.webp",
+      "source": "https://game.technophere.com/monst/char/278/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ユニバース",
+      "friendship": "拡散弾L2 （闇）",
+      "ss": "ふれた仲間を短期間、冥王星の力でスピードアップ 17ターン",
+      "rarity": 4,
+      "hp": 6840,
+      "attack": 9685,
+      "speed": 275.3
+    },
+    {
       "id": "279",
       "name": "プルートー",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/278/#f279",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/279.webp",
+      "source": "https://game.technophere.com/monst/char/278/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "拡散弾EL3 （闇）",
+      "ss": "ふれた仲間を一定期間、冥王星の力で大スピードアップ 23ターン",
+      "rarity": 5,
+      "hp": 11970,
+      "attack": 11872,
+      "speed": 321.7
     },
     {
       "id": "283",
@@ -2985,17 +3016,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "608",
-      "name": "セルケト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/606/#f608",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "神"
     }
   ]
