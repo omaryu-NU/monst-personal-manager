@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "6075",
+      "name": "空閑遊真",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5313/#f6075",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6077",
+      "name": "木虎藍",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6076/#f6077",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6079",
+      "name": "黒江双葉",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6078/#f6079",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6081",
+      "name": "木崎レイジ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6080/#f6081",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "6083",
+      "name": "烏丸京介",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6082/#f6083",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
       "id": "6085",
       "name": "忍田真史",
       "attribute": "闇",
@@ -2145,61 +2200,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "6459",
-      "name": "ファントム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1783/#f6459",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "6462",
-      "name": "リコル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2008/#f6462",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6463",
-      "name": "リコル（イースター）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4014/#f6463",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6464",
-      "name": "イェソド廻",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4620/#f6464",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "6466",
-      "name": "ルフィ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6465/#f6466",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

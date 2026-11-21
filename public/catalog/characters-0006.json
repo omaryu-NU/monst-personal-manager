@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "3161",
+      "name": "クジャ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3160/#f3161",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "3163",
+      "name": "ゴルベーザ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3162/#f3163",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "3167",
+      "name": "オニオンナイト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3164/#f3167",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3172",
+      "name": "チョコボ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3168/#f3172",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻獣"
+    },
+    {
       "id": "3173",
       "name": "サポテンダー",
       "attribute": "火",
@@ -2189,50 +2233,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "3905",
-      "name": "ペガサス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3904/#f3905",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3907",
-      "name": "インセクター羽蛾",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3906/#f3907",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3910",
-      "name": "マリク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3908/#f3910",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3912",
-      "name": "バクラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3911/#f3912",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

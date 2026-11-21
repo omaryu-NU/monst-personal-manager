@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "610",
+      "name": "ハトホル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/609/#f610",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
       "id": "613",
       "name": "バステト",
       "attribute": "闇",
@@ -2234,17 +2245,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "エヴァパイロット"
-    },
-    {
-      "id": "1297",
-      "name": "渚カヲル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1296/#f1297",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "エヴァパイロット"
     }
   ]

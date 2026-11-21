@@ -2,6 +2,30 @@
   "version": 1,
   "characters": [
     {
+      "id": "2629",
+      "name": "仙水忍",
+      "attribute": "闇",
+      "abilities": [
+        "神キラー 妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2629.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "リワインドブラスター （闇）",
+      "ss": "一定期間、自身の攻撃力と防御力がアップ 24ターン",
+      "rarity": 6,
+      "hp": 19682,
+      "attack": 15069,
+      "speed": 224.73,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "魔族キラー"
+      ]
+    },
+    {
       "id": "2630",
       "name": "雪菜",
       "attribute": "水",
@@ -1769,6 +1793,74 @@
       ]
     },
     {
+      "id": "2722",
+      "name": "ノストラダムス",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2722.webp",
+      "source": "https://game.technophere.com/monst/char/2722/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "トライブパルス （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13612,
+      "attack": 17337,
+      "speed": 238.7
+    },
+    {
+      "id": "2723",
+      "name": "大予言者 ノストラダムス",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2723.webp",
+      "source": "https://game.technophere.com/monst/char/2722/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "トライブパルス （無）",
+      "ss": "自身のスピードとパワーがアップ＆停止時にHPを範囲回復 25ターン",
+      "rarity": 6,
+      "hp": 19117,
+      "attack": 23333,
+      "speed": 295.57,
+      "gaugeAbilities": [
+        "火属性キラー SSターン短縮"
+      ]
+    },
+    {
+      "id": "2724",
+      "name": "終末の使者 ノストラダムス",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパーM",
+        "アンチブロック"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2724.webp",
+      "source": "https://game.technophere.com/monst/char/2722/",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "スピードアップ （無） 副友情 拡大爆破弾 （無）",
+      "ss": "ふれた敵すべてに向かって、アンゴルモアが攻撃 20ターン",
+      "rarity": 6,
+      "hp": 20740,
+      "attack": 23106,
+      "speed": 328.53,
+      "gaugeAbilities": [
+        "光属性キラー 闇属性キラー"
+      ]
+    },
+    {
       "id": "2737",
       "name": "フカヒレ",
       "attribute": "火",
@@ -3017,50 +3109,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "3161",
-      "name": "クジャ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3160/#f3161",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "3163",
-      "name": "ゴルベーザ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3162/#f3163",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "3167",
-      "name": "オニオンナイト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3164/#f3167",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3172",
-      "name": "チョコボ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3168/#f3172",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "幻獣"
     }
   ]

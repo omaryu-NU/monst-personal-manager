@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1967",
+      "name": "紫龍",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1966/#f1967",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "青銅聖闘士"
+    },
+    {
       "id": "1970",
       "name": "星矢",
       "attribute": "光",
@@ -2394,30 +2405,6 @@
       "speed": 212.1,
       "gaugeAbilities": [
         "アンチ重力バリア"
-      ]
-    },
-    {
-      "id": "2629",
-      "name": "仙水忍",
-      "attribute": "闇",
-      "abilities": [
-        "神キラー 妖精キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2629.webp",
-      "source": "https://game.technophere.com/monst/char/2626/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "リワインドブラスター （闇）",
-      "ss": "一定期間、自身の攻撃力と防御力がアップ 24ターン",
-      "rarity": 6,
-      "hp": 19682,
-      "attack": 15069,
-      "speed": 224.73,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "魔族キラー"
       ]
     }
   ]

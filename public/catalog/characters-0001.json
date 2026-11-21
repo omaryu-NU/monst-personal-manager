@@ -1906,15 +1906,44 @@
       "speed": 287.33
     },
     {
+      "id": "276",
+      "name": "ウラヌス",
+      "attribute": "光",
+      "abilities": [
+        "ユニバキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/276.webp",
+      "source": "https://game.technophere.com/monst/char/276/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ユニバース",
+      "friendship": "大爆発 （無）",
+      "ss": "ふれた最初の敵を打撃し、天王星のパワーでふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 7876,
+      "attack": 11996,
+      "speed": 129.97
+    },
+    {
       "id": "277",
       "name": "ウラヌス",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/276/#f277",
+      "abilities": [
+        "ユニバキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/277.webp",
+      "source": "https://game.technophere.com/monst/char/276/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "ユニバース"
+      "race": "ユニバース",
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた最初の敵を打撃し、天王星のパワーでふっとばす 15ターン",
+      "rarity": 5,
+      "hp": 13491,
+      "attack": 21233,
+      "speed": 143.43
     },
     {
       "id": "279",
@@ -2967,17 +2996,6 @@
       "evolution": "神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "610",
-      "name": "ハトホル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/609/#f610",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "神"
     }
   ]
