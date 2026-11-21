@@ -4951,6 +4951,30 @@
     "sha256": "a6d3b6e461b827137aadd173145e72708ae77a85602307cc278c795bfcbe5e0e",
     "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2616.webp"
   },
+  "2617": {
+    "attribution": "Technophere",
+    "id": "2617",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "2636146b947bdab6db678fdf9b3b0228e61d2c409d47d06d8c04b561cb01ec90",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2617.webp"
+  },
+  "2618": {
+    "attribution": "Technophere",
+    "id": "2618",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "79693b7ca47c46d8b42d024a6998eed1d10090677867a5785fbd102102fe3c74",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2618.webp"
+  },
+  "2619": {
+    "attribution": "Technophere",
+    "id": "2619",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "bc9c506f490fbe9286022886280c88c1f1bd6679210d380ef2a539f38f1f6225",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2619.webp"
+  },
   "262": {
     "attribution": "Technophere",
     "id": "262",
@@ -4958,6 +4982,38 @@
     "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
     "sha256": "e39ef82ed44c9db198bf78323f7ec29db4623aa5905b50eb0638b25954d8caf5",
     "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/262.webp"
+  },
+  "2620": {
+    "attribution": "Technophere",
+    "id": "2620",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "31e9262c747462572a61550f9c4e08a6f0313dc7cfe329f0a30d6388c5263f25",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2620.webp"
+  },
+  "2621": {
+    "attribution": "Technophere",
+    "id": "2621",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "57c7ecedf26cf88240fe932f5f468d4af4d3b51619b30a213a11302334e9e997",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2621.webp"
+  },
+  "2622": {
+    "attribution": "Technophere",
+    "id": "2622",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "397be945a2cf169bf17441eaa77bb42da2bfa77245cade4e5862d21bd1bfd305",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2622.webp"
+  },
+  "2623": {
+    "attribution": "Technophere",
+    "id": "2623",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "f2b209bbb7a4e87d6e1dcfa4a8e87f0ed53d3712e99c0f2f3879da76a0296c2f",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2623.webp"
   },
   "263": {
     "attribution": "GameWith",
@@ -5047,6 +5103,14 @@
     "sha256": "87d682c0f8bae3fa5c81ebb2a1285b05b39b275b82538a02b8431aff22054528",
     "url": "https://img.gamewith.jp/article_tools/monst/gacha/273.jpg"
   },
+  "274": {
+    "attribution": "Technophere",
+    "id": "274",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "3a8ca78757e2b5cc52fd8d63db7c93e8084ab65c16cfa53cad509237984ce288",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/274.webp"
+  },
   "275": {
     "attribution": "GameWith",
     "id": "275",
@@ -5055,6 +5119,14 @@
     "sha256": "425d317b24776ffaadb166a83706c262c5eaa092209dbe471541320eb5c1b800",
     "url": "https://img.gamewith.jp/article_tools/monst/gacha/275.jpg"
   },
+  "276": {
+    "attribution": "Technophere",
+    "id": "276",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "4f071dd7d0a5914c076c766326fd01ab203d7e6ea74ddf3b0a7b0a70323bbeec",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/276.webp"
+  },
   "277": {
     "attribution": "GameWith",
     "id": "277",
@@ -5062,6 +5134,14 @@
     "permission_reference": "GameWith-owner-authorization-confirmed-2026-11-13",
     "sha256": "b663d3f2c00374ed26e934ab026805f7ccb8b735dbda26b189fefca00a514dda",
     "url": "https://img.gamewith.jp/article_tools/monst/gacha/277.jpg"
+  },
+  "278": {
+    "attribution": "Technophere",
+    "id": "278",
+    "license": "Owner-reported redistribution permission",
+    "permission_reference": "owner-declared-Technophere-image-reuse-authorization",
+    "sha256": "ebb967a0ee9c61cfe3be5b7ac305c2b33a227382163364d533fb13d860e62f61",
+    "url": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/278.webp"
   },
   "279": {
     "attribution": "GameWith",
