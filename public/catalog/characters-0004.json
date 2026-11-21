@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "1955",
+      "name": "ガゼルボルト",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1954/#f1955",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "1957",
+      "name": "カピバリッチ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1956/#f1957",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "1959",
+      "name": "ゼブライザー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1958/#f1959",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "1961",
+      "name": "ヤマトタケル零",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1960/#f1961",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "1963",
+      "name": "一輝",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1962/#f1963",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "青銅聖闘士"
+    },
+    {
       "id": "1965",
       "name": "氷河",
       "attribute": "水",
@@ -2285,115 +2340,6 @@
       "hp": 13475,
       "attack": 13600,
       "speed": 257.73
-    },
-    {
-      "id": "2623",
-      "name": "樹",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2623.webp",
-      "source": "https://game.technophere.com/monst/char/2622/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族",
-      "friendship": "貫通ホーミング8 （木）",
-      "ss": "狙った方向に影の手を放ち、当たった敵に裏男で攻撃 24ターン",
-      "rarity": 6,
-      "hp": 15770,
-      "attack": 15112,
-      "speed": 270.37,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "2624",
-      "name": "巻原定男",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2624.webp",
-      "source": "https://game.technophere.com/monst/char/2624/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "大爆発 （無）",
-      "ss": "自身のスピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 8837,
-      "attack": 13542,
-      "speed": 168.87
-    },
-    {
-      "id": "2625",
-      "name": "巻原定男",
-      "attribute": "光",
-      "abilities": [
-        "マインスイーパー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2625.webp",
-      "source": "https://game.technophere.com/monst/char/2624/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族",
-      "friendship": "斬撃 （無）",
-      "ss": "狙った方向に、爪を伸ばして攻撃 16ターン",
-      "rarity": 5,
-      "hp": 13552,
-      "attack": 8976,
-      "speed": 194.03,
-      "gaugeAbilities": [
-        "アンチワープ"
-      ]
-    },
-    {
-      "id": "2626",
-      "name": "仙水ミノル",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2626.webp",
-      "source": "https://game.technophere.com/monst/char/2626/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "全方位ショットガン （闇）",
-      "ss": "自身のスピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 12876,
-      "attack": 10042,
-      "speed": 309.73
-    },
-    {
-      "id": "2627",
-      "name": "霊光裂蹴拳の使い手 仙水ミノル",
-      "attribute": "闇",
-      "abilities": [
-        "魔人キラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2627.webp",
-      "source": "https://game.technophere.com/monst/char/2626/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "全方位ショットガン （闇）",
-      "ss": "裂蹴紫炎弾を放ち敵を攻撃する 20ターン",
-      "rarity": 6,
-      "hp": 16703,
-      "attack": 12838,
-      "speed": 311.67,
-      "gaugeAbilities": [
-        "アンチ重力バリア"
-      ]
     }
   ]
 }

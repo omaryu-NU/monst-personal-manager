@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "1276",
+      "name": "ニッケル伍長",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1275/#f1276",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "1279",
+      "name": "バースト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1277/#f1279",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "1281",
+      "name": "マール",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1280/#f1281",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "1285",
+      "name": "国宝",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1284/#f1285",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
       "id": "1293",
       "name": "マリ",
       "attribute": "木",
@@ -1181,6 +1225,30 @@
       ]
     },
     {
+      "id": "1629",
+      "name": "聖炎の女神 アグナムートX",
+      "attribute": "火",
+      "abilities": [
+        "マインスイーパーEL",
+        "木属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1629.webp",
+      "source": "https://game.technophere.com/monst/char/280/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "超強貫通ホーミング12 （火） 副友情 白爆発EL （無）",
+      "ss": "ふれた敵すべてを、ふっとばす 16+4ターン",
+      "rarity": 6,
+      "hp": 18989,
+      "attack": 19458,
+      "speed": 416.4,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
       "id": "1630",
       "name": "霊獲神 ハンターキング",
       "attribute": "木",
@@ -2234,61 +2302,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "1955",
-      "name": "ガゼルボルト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1954/#f1955",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "1957",
-      "name": "カピバリッチ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1956/#f1957",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "1959",
-      "name": "ゼブライザー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1958/#f1959",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "1961",
-      "name": "ヤマトタケル零",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1960/#f1961",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "1963",
-      "name": "一輝",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1962/#f1963",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "青銅聖闘士"
     }
   ]
 }

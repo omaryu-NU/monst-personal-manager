@@ -2,6 +2,161 @@
   "version": 1,
   "characters": [
     {
+      "id": "7465",
+      "name": "カメハメハα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5229/#f7465",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7466",
+      "name": "フォーミュラα",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5231/#f7466",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7467",
+      "name": "アロンズロッドα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5233/#f7467",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7468",
+      "name": "ミロク",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2941/#f7468",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "7469",
+      "name": "ミロク（クリスマス）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3772/#f7469",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "7470",
+      "name": "江間宮まよい",
+      "attribute": "水",
+      "abilities": [
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7470.webp",
+      "source": "https://game.technophere.com/monst/char/7470/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強中距離拡散弾9 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 17575,
+      "attack": 14053,
+      "speed": 253.6
+    },
+    {
+      "id": "7471",
+      "name": "江間宮まよい",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチブロック",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7471.webp",
+      "source": "https://game.technophere.com/monst/char/7470/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超絶中距離拡散弾9 （水）",
+      "ss": "壁に設置した3点のマーカーに囲まれた味方のスピードとパワーを一定期間アップ 16ターン",
+      "rarity": 6,
+      "hp": 18576,
+      "attack": 21371,
+      "speed": 285.77
+    },
+    {
+      "id": "7472",
+      "name": "大和",
+      "attribute": "火",
+      "abilities": [
+        "アンチ魔法陣",
+        "アンチ転送壁",
+        "魔人耐性M 魔族耐性M"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7472.webp",
+      "source": "https://game.technophere.com/monst/char/2666/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "アクシス",
+      "friendship": "超強長薙ぎ払い （火） 副友情 マーキングミサイル （無）",
+      "ss": "スピードとパワーがアップ＆ブロックを無効化する 8+8ターン",
+      "rarity": 6,
+      "hp": 18845,
+      "attack": 32410,
+      "speed": 296.07,
+      "connectAbilities": [
+        "超アンチ重力バリア",
+        "魔封じL 条件: バランス以外が2体以上／合計ラック100以上"
+      ]
+    },
+    {
+      "id": "7473",
+      "name": "ワトソン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4220/#f7473",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "7474",
+      "name": "ラブ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7474.webp",
+      "source": "https://game.technophere.com/monst/char/7474/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "乱気弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18683,
+      "attack": 20452,
+      "speed": 404.03
+    },
+    {
       "id": "7475",
       "name": "恋に恋する盤遊の乙女 ラブ",
       "attribute": "光",
@@ -1417,12 +1572,27 @@
       "id": "7573",
       "name": "シン",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7572/#f7573",
+      "abilities": [
+        "超マインスイーパーM",
+        "アンチ転送壁",
+        "全属性耐性 無属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7573.webp",
+      "source": "https://game.technophere.com/monst/char/7572/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "ツインインボリュートスフィア （闇） 副友情 防スピアップ （無）",
+      "ss": "分身して駆け回る＆停止後に近くの敵を攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 16481,
+      "attack": 23772,
+      "speed": 360.1,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "全属性キラー SSターン短縮"
+      ]
     },
     {
       "id": "7574",
@@ -2710,116 +2880,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "魔族"
-    },
-    {
-      "id": "7774",
-      "name": "ソーマ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7773/#f7774",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7776",
-      "name": "ダルタニャンα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7775/#f7776",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7778",
-      "name": "モスコミュールα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7777/#f7778",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "7780",
-      "name": "モンゴルフィエ姉妹α",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7779/#f7780",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7782",
-      "name": "ダルーズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7781/#f7782",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
-    },
-    {
-      "id": "7784",
-      "name": "ネルウェレス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7783/#f7784",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7787",
-      "name": "絹高ゆいな",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7785/#f7787",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7788",
-      "name": "ギルガメッシュ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/974/#f7788",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "神"
-    },
-    {
-      "id": "7790",
-      "name": "ストラテジー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7789/#f7790",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7791",
-      "name": "伏姫",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4071/#f7791",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
     }
   ]
 }

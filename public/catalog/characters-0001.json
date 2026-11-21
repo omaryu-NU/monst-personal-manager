@@ -1988,15 +1988,84 @@
       "speed": 321.7
     },
     {
+      "id": "280",
+      "name": "アグナムートX",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/280.webp",
+      "source": "https://game.technophere.com/monst/char/280/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "大々爆発 （無）",
+      "ss": "触れた敵に、炎の流星群で追撃 24ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 12412,
+      "speed": 321.7
+    },
+    {
+      "id": "281",
+      "name": "炎神アグナムートX",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/281.webp",
+      "source": "https://game.technophere.com/monst/char/280/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "超爆発 （無）",
+      "ss": "触れた敵に、炎の流星群で強力な追撃 28ターン",
+      "rarity": 6,
+      "hp": 17780,
+      "attack": 18888,
+      "speed": 356.77
+    },
+    {
+      "id": "282",
+      "name": "ガラハッド",
+      "attribute": "火",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/282.webp",
+      "source": "https://game.technophere.com/monst/char/282/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士",
+      "friendship": "拡散弾L2 （火）",
+      "ss": "聖騎士の力で、スピードが大アップ 11ターン",
+      "rarity": 4,
+      "hp": 6165,
+      "attack": 6765,
+      "speed": 351.03
+    },
+    {
       "id": "283",
       "name": "ガラハッド",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/282/#f283",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/283.webp",
+      "source": "https://game.technophere.com/monst/char/282/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "拡散弾EL3 （火）",
+      "ss": "穢れ無き聖騎士の力で、スピードが特大アップ 12ターン",
+      "rarity": 5,
+      "hp": 10764,
+      "attack": 11681,
+      "speed": 388.3
     },
     {
       "id": "291",
@@ -2980,39 +3049,6 @@
       "attribute": "木",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/595/#f596",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "601",
-      "name": "ホルス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/600/#f601",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "603",
-      "name": "セト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/602/#f603",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "605",
-      "name": "アメン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/604/#f605",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",

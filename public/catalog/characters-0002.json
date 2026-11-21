@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "601",
+      "name": "ホルス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/600/#f601",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "603",
+      "name": "セト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/602/#f603",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神"
+    },
+    {
+      "id": "605",
+      "name": "アメン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/604/#f605",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "608",
       "name": "セルケト",
       "attribute": "木",
@@ -684,6 +717,29 @@
       "type": "反射",
       "style": "スピード",
       "race": "ユニバース"
+    },
+    {
+      "id": "787",
+      "name": "炎輝神 アグナムートX",
+      "attribute": "火",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/787.webp",
+      "source": "https://game.technophere.com/monst/char/280/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "白爆発L （無） 副友情 貫通ホーミング4 （光）",
+      "ss": "ふれた敵すべてを、ふっとばす 24ターン",
+      "rarity": 6,
+      "hp": 18989,
+      "attack": 16308,
+      "speed": 346.4,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
     },
     {
       "id": "795",
@@ -2202,50 +2258,6 @@
       "type": "貫通",
       "style": "パワー",
       "race": "ロボット"
-    },
-    {
-      "id": "1276",
-      "name": "ニッケル伍長",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1275/#f1276",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "1279",
-      "name": "バースト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1277/#f1279",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1281",
-      "name": "マール",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1280/#f1281",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "1285",
-      "name": "国宝",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1284/#f1285",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "聖騎士"
     }
   ]
 }

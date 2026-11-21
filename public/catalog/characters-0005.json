@@ -2,6 +2,115 @@
   "version": 1,
   "characters": [
     {
+      "id": "2623",
+      "name": "樹",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2623.webp",
+      "source": "https://game.technophere.com/monst/char/2622/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "貫通ホーミング8 （木）",
+      "ss": "狙った方向に影の手を放ち、当たった敵に裏男で攻撃 24ターン",
+      "rarity": 6,
+      "hp": 15770,
+      "attack": 15112,
+      "speed": 270.37,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2624",
+      "name": "巻原定男",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2624.webp",
+      "source": "https://game.technophere.com/monst/char/2624/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "大爆発 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8837,
+      "attack": 13542,
+      "speed": 168.87
+    },
+    {
+      "id": "2625",
+      "name": "巻原定男",
+      "attribute": "光",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2625.webp",
+      "source": "https://game.technophere.com/monst/char/2624/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族",
+      "friendship": "斬撃 （無）",
+      "ss": "狙った方向に、爪を伸ばして攻撃 16ターン",
+      "rarity": 5,
+      "hp": 13552,
+      "attack": 8976,
+      "speed": 194.03,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2626",
+      "name": "仙水ミノル",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2626.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "全方位ショットガン （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12876,
+      "attack": 10042,
+      "speed": 309.73
+    },
+    {
+      "id": "2627",
+      "name": "霊光裂蹴拳の使い手 仙水ミノル",
+      "attribute": "闇",
+      "abilities": [
+        "魔人キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2627.webp",
+      "source": "https://game.technophere.com/monst/char/2626/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "全方位ショットガン （闇）",
+      "ss": "裂蹴紫炎弾を放ち敵を攻撃する 20ターン",
+      "rarity": 6,
+      "hp": 16703,
+      "attack": 12838,
+      "speed": 311.67,
+      "gaugeAbilities": [
+        "アンチ重力バリア"
+      ]
+    },
+    {
       "id": "2628",
       "name": "気硬銃の使い手 仙水カズヤ",
       "attribute": "闇",
@@ -1952,6 +2061,74 @@
       ]
     },
     {
+      "id": "2729",
+      "name": "水仙",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2729.webp",
+      "source": "https://game.technophere.com/monst/char/2729/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "防御アップ （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 11661,
+      "attack": 13620,
+      "speed": 219.7
+    },
+    {
+      "id": "2730",
+      "name": "神秘の魔法士 水仙",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール",
+        "水属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2730.webp",
+      "source": "https://game.technophere.com/monst/char/2729/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "防御アップ （無）",
+      "ss": "ヒットしたボスの弱点の効果をアップさせる 18ターン",
+      "rarity": 6,
+      "hp": 18655,
+      "attack": 19545,
+      "speed": 279,
+      "gaugeAbilities": [
+        "亜人キラーM"
+      ]
+    },
+    {
+      "id": "2731",
+      "name": "花ノ国の精 水仙",
+      "attribute": "木",
+      "abilities": [
+        "飛行",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2731.webp",
+      "source": "https://game.technophere.com/monst/char/2729/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "拡大爆破弾 （無） 副友情 短距離拡散弾9 （闇）",
+      "ss": "ヒットしたボスの弱点の効果をアップさせる 18ターン",
+      "rarity": 6,
+      "hp": 21383,
+      "attack": 16729,
+      "speed": 278.57,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
+    },
+    {
       "id": "2737",
       "name": "フカヒレ",
       "attribute": "火",
@@ -3072,94 +3249,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "3131",
-      "name": "フンババ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3130/#f3131",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "3133",
-      "name": "ズー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3132/#f3133",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "3141",
-      "name": "スコール",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2476/#f3141",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3142",
-      "name": "クラウド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2485/#f3142",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3144",
-      "name": "ティナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3143/#f3144",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻獣"
-    },
-    {
-      "id": "3147",
-      "name": "ユウナ&ティーダ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3145/#f3147",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3149",
-      "name": "ジタン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3148/#f3149",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "3151",
-      "name": "セシル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3150/#f3151",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

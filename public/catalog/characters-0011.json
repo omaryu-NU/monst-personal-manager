@@ -2,6 +2,116 @@
   "version": 1,
   "characters": [
     {
+      "id": "6032",
+      "name": "ロミオ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1191/#f6032",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "6034",
+      "name": "チャクラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6033/#f6034",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "6036",
+      "name": "乙骨憂太",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6035/#f6036",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6040",
+      "name": "真希＆棘＆パンダ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6037/#f6040",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6042",
+      "name": "ミゲル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6041/#f6042",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6044",
+      "name": "夏油傑",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6043/#f6044",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6045",
+      "name": "スクルド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2550/#f6045",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6047",
+      "name": "モンストローズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/512/#f6047",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6048",
+      "name": "モンストローズMCG",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3973/#f6048",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6052",
+      "name": "キェルケゴール",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6051/#f6052",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
       "id": "6056",
       "name": "ウォフマナフ",
       "attribute": "火",
@@ -2090,116 +2200,6 @@
       "type": "反射",
       "style": "超バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "6434",
-      "name": "屋敷幽霊の3人",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6434/#f6434",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6436",
-      "name": "アハト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6435/#f6436",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "6437",
-      "name": "太公望",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2033/#f6437",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "6438",
-      "name": "ヒュプノス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3784/#f6438",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "6440",
-      "name": "死者の書",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6439/#f6440",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "6442",
-      "name": "マビノギオン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6441/#f6442",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "6444",
-      "name": "東海道中膝栗毛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6443/#f6444",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "6446",
-      "name": "数見算四郎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6445/#f6446",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6448",
-      "name": "カティーカドラゴン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6447/#f6448",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "6451",
-      "name": "リカラス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6449/#f6451",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }
