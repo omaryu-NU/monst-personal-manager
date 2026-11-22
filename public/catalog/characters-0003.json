@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1248",
+      "name": "牛魔王",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1246/#f1248",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王"
+    },
+    {
+      "id": "1253",
+      "name": "ギルド・パラディン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1252/#f1253",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "1267",
+      "name": "雲母大佐",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1265/#f1267",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "1269",
       "name": "ビスマス中尉",
       "attribute": "水",
@@ -2269,39 +2302,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "1923",
-      "name": "ペンシルベース",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1921/#f1923",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "アクシス"
-    },
-    {
-      "id": "1925",
-      "name": "カッターフィッシュ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1924/#f1925",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "1933",
-      "name": "エウロパ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1933/#f1933",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
     }
   ]
 }

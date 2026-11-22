@@ -2108,6 +2108,46 @@
       "speed": 301.03
     },
     {
+      "id": "286",
+      "name": "マーリン",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/286.webp",
+      "source": "https://game.technophere.com/monst/char/286/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔王",
+      "friendship": "クロスレーザーM （木）",
+      "ss": "敵の弱点にヒットした際に特大ダメージを与える 16ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 12628,
+      "speed": 193.7
+    },
+    {
+      "id": "287",
+      "name": "運命の魔術師マーリン",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/287.webp",
+      "source": "https://game.technophere.com/monst/char/286/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔王",
+      "friendship": "クロスレーザーL （木）",
+      "ss": "魔宝玉の力で、ヒットしたボスの弱点を全て出現させる 25ターン",
+      "rarity": 6,
+      "hp": 17928,
+      "attack": 19800,
+      "speed": 214.6
+    },
+    {
       "id": "291",
       "name": "トリスタン",
       "attribute": "闇",
@@ -3048,28 +3088,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "幻獣"
-    },
-    {
-      "id": "583",
-      "name": "フレズベルク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/582/#f583",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "586",
-      "name": "フェンリル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/584/#f586",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
       "race": "幻獣"
     }
   ]

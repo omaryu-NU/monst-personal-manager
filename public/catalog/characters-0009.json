@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5073",
+      "name": "ベルトルト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5072/#f5073",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "巨人"
+    },
+    {
+      "id": "5075",
+      "name": "ライナー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5074/#f5075",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "巨人"
+    },
+    {
+      "id": "5077",
+      "name": "巨人ユミル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5076/#f5077",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "巨人"
+    },
+    {
+      "id": "5079",
+      "name": "ジーク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5078/#f5079",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "巨人"
+    },
+    {
+      "id": "5081",
+      "name": "アニ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5080/#f5081",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "巨人"
+    },
+    {
       "id": "5083",
       "name": "ケニー",
       "attribute": "闇",
@@ -1901,12 +1956,26 @@
       "id": "5203",
       "name": "マーチ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5202/#f5203",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5203.webp",
+      "source": "https://game.technophere.com/monst/char/5202/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "バランス",
-      "race": "幻妖"
+      "race": "幻妖",
+      "friendship": "超強分裂貫通衝撃波3 （闇） 副友情 エナジーソード （闇）",
+      "ss": "貫通タイプになり、敵を貫く 12+12ターン",
+      "rarity": 6,
+      "hp": 20251,
+      "attack": 15135,
+      "speed": 254.93,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "ダッシュ"
+      ]
     },
     {
       "id": "5204",
@@ -1918,6 +1987,31 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
+    },
+    {
+      "id": "5207",
+      "name": "輝かしき高貴の竜騎士 タンザナイト",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ",
+        "アンチ魔法陣",
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5207.webp",
+      "source": "https://game.technophere.com/monst/char/5206/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "超強電撃 （無） 副友情 全敵超メテオ （無）",
+      "ss": "スピードとパワーがアップ＆壁をすり抜け反対側から出現する 8+12ターン",
+      "rarity": 6,
+      "hp": 19752,
+      "attack": 20669,
+      "speed": 315.43,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "5214",
@@ -3056,72 +3150,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5495",
-      "name": "狗巻棘",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5495/#f5495",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5496",
-      "name": "禪院真希",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5496/#f5496",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5501",
-      "name": "エリミネイター",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5500/#f5501",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "5509",
-      "name": "モスマン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5508/#f5509",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5512",
-      "name": "チュパカブラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5510/#f5512",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5514",
-      "name": "ニャミニャミ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5513/#f5514",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ユニバース"
     }
   ]
 }

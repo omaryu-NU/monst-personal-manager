@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "3069",
+      "name": "原田左之助",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3068/#f3069",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "3072",
+      "name": "永倉新八",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3070/#f3072",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3074",
+      "name": "山南敬助",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3073/#f3074",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "3076",
+      "name": "藤堂平助",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3075/#f3076",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "3078",
+      "name": "阿修羅廻",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1037/#f3078",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
       "id": "3085",
       "name": "モチモチンナ",
       "attribute": "光",
@@ -2166,61 +2221,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "3791",
-      "name": "デイモス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3790/#f3791",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "3793",
-      "name": "エロース",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3792/#f3793",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "3796",
-      "name": "エレボス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3794/#f3796",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "3798",
-      "name": "フォボス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3797/#f3798",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "3800",
-      "name": "才飛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3799/#f3800",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

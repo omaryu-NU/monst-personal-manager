@@ -2,6 +2,76 @@
   "version": 1,
   "characters": [
     {
+      "id": "4465",
+      "name": "銀ぺん組",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4464/#f4465",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "鳥"
+    },
+    {
+      "id": "4467",
+      "name": "カマクライアン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4466/#f4467",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "4469",
+      "name": "うどん狸",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4468/#f4469",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4475",
+      "name": "真アマテラス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4474/#f4475",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "4480",
+      "name": "霊王獲神 ハンターキング",
+      "attribute": "木",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチウィンド",
+        "ダウンポジションキラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4480.webp",
+      "source": "https://game.technophere.com/monst/char/195/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神",
+      "friendship": "ツインバーティカルレーザーEL （木） 副友情 超強中距離毒拡散弾9 （無）",
+      "ss": "壁にふれる毎にパワーがアップ 16+4ターン",
+      "rarity": 6,
+      "hp": 19744,
+      "attack": 23765,
+      "speed": 277.27,
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "条件: 砲撃型以外が2体以上／合計ラック100以上"
+      ]
+    },
+    {
       "id": "4481",
       "name": "アカシャ廻",
       "attribute": "闇",
@@ -2031,12 +2101,29 @@
       "id": "5007",
       "name": "マーリン",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/286/#f5007",
+      "abilities": [
+        "アンチ減速壁",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5007.webp",
+      "source": "https://game.technophere.com/monst/char/286/",
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超砲撃",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ツイン反射レーザーEL4 （木） 副友情 クロススティンガー （光）",
+      "ss": "ヒットした敵の弱点を全て出現させる 16+8ターン",
+      "rarity": 6,
+      "hp": 19226,
+      "attack": 17673,
+      "speed": 275.27,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ],
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "SSターン短縮 条件: 攻撃力2.7万以上が2体以上／合計ラック100以上"
+      ]
     },
     {
       "id": "5008",
@@ -2259,61 +2346,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5073",
-      "name": "ベルトルト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5072/#f5073",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "巨人"
-    },
-    {
-      "id": "5075",
-      "name": "ライナー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5074/#f5075",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "巨人"
-    },
-    {
-      "id": "5077",
-      "name": "巨人ユミル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5076/#f5077",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "巨人"
-    },
-    {
-      "id": "5079",
-      "name": "ジーク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5078/#f5079",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "巨人"
-    },
-    {
-      "id": "5081",
-      "name": "アニ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5080/#f5081",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "巨人"
     }
   ]
 }

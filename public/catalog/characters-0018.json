@@ -2,6 +2,72 @@
   "version": 1,
   "characters": [
     {
+      "id": "8404",
+      "name": "リリエル＆ミリエラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8404/#f8404",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8406",
+      "name": "753",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8405/#f8406",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8407",
+      "name": "リリエル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8407/#f8407",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8408",
+      "name": "ハンニバル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2911/#f8408",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8409",
+      "name": "怪傑ゾロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1315/#f8409",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8411",
+      "name": "メリア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8411/#f8411",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8412",
       "name": "柳生十兵衛",
       "attribute": "闇",
@@ -2238,72 +2304,6 @@
         "超マインスイーパーM",
         "友情ブースト 条件: バランス型以外が2体以上／貫通が2体以上"
       ]
-    },
-    {
-      "id": "8709",
-      "name": "王翦",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5675/#f8709",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8710",
-      "name": "死屍累生死郎",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8710/#f8710",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "怪異"
-    },
-    {
-      "id": "8711",
-      "name": "忍野メメ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8711/#f8711",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8713",
-      "name": "チェルノボグ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8712/#f8713",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8714",
-      "name": "高杉晋作",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3062/#f8714",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "8715",
-      "name": "忍野扇",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8715/#f8715",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "怪異"
     }
   ]
 }
