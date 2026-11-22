@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1269",
+      "name": "ビスマス中尉",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1268/#f1269",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "1271",
+      "name": "マンガン軍曹",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1270/#f1271",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "1274",
+      "name": "チタン元帥",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1272/#f1274",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
       "id": "1276",
       "name": "ニッケル伍長",
       "attribute": "闇",
@@ -2269,39 +2302,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ユニバース"
-    },
-    {
-      "id": "1935",
-      "name": "ファルファレルロ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1934/#f1935",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "1950",
-      "name": "ジラフィーヌ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1948/#f1950",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "1953",
-      "name": "コアラス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1951/#f1953",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

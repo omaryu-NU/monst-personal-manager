@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "588",
+      "name": "ヘル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/587/#f588",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "596",
+      "name": "イシス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/595/#f596",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
       "id": "601",
       "name": "ホルス",
       "attribute": "闇",
@@ -1270,6 +1292,29 @@
       "race": "神"
     },
     {
+      "id": "949",
+      "name": "円卓の騎士ランスロット",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/949.webp",
+      "source": "https://game.technophere.com/monst/char/284/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "貫通拡散弾EL3 （水） 副友情 ワンウェイレーザーM （光）",
+      "ss": "貫通タイプになり、敵を貫く 18ターン",
+      "rarity": 6,
+      "hp": 20155,
+      "attack": 19928,
+      "speed": 328.07,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
       "id": "953",
       "name": "火ムラサメ",
       "attribute": "火",
@@ -2224,39 +2269,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "1269",
-      "name": "ビスマス中尉",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1268/#f1269",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1271",
-      "name": "マンガン軍曹",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1270/#f1271",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "1274",
-      "name": "チタン元帥",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1272/#f1274",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
       "race": "ロボット"
     }
   ]

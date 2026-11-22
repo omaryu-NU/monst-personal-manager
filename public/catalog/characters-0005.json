@@ -2,6 +2,89 @@
   "version": 1,
   "characters": [
     {
+      "id": "2619",
+      "name": "刃霧要",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2619.webp",
+      "source": "https://game.technophere.com/monst/char/2618/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "貫通ロックオン衝撃波6 （無）",
+      "ss": "ふれた敵に気を込めた弾で追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 18904,
+      "attack": 13942,
+      "speed": 305.07,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "2620",
+      "name": "天沼月人",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2620.webp",
+      "source": "https://game.technophere.com/monst/char/2620/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーM （水）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 5599,
+      "attack": 7670,
+      "speed": 192.9
+    },
+    {
+      "id": "2621",
+      "name": "天沼月人",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2621.webp",
+      "source": "https://game.technophere.com/monst/char/2620/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーL （水）",
+      "ss": "味方を動かし敵へ撃ちこむ 24ターン",
+      "rarity": 5,
+      "hp": 9799,
+      "attack": 9401,
+      "speed": 225.4
+    },
+    {
+      "id": "2622",
+      "name": "樹",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2622.webp",
+      "source": "https://game.technophere.com/monst/char/2622/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "貫通ホーミング6 （木）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13475,
+      "attack": 13600,
+      "speed": 257.73
+    },
+    {
       "id": "2623",
       "name": "樹",
       "attribute": "木",
@@ -2129,15 +2212,137 @@
       ]
     },
     {
+      "id": "2732",
+      "name": "芙蓉",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2732.webp",
+      "source": "https://game.technophere.com/monst/char/2732/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "クロスレーザーM （光）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12349,
+      "attack": 15095,
+      "speed": 231.97
+    },
+    {
+      "id": "2733",
+      "name": "美しき武闘士 芙蓉",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "闇属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2733.webp",
+      "source": "https://game.technophere.com/monst/char/2732/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "クロスレーザーEL （光）",
+      "ss": "貫通タイプになり、敵を貫く 4ターン",
+      "rarity": 6,
+      "hp": 18606,
+      "attack": 20554,
+      "speed": 304.93,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
+    },
+    {
+      "id": "2734",
+      "name": "花ノ国の精 芙蓉",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2734.webp",
+      "source": "https://game.technophere.com/monst/char/2732/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "攻撃アップ （無） 副友情 大爆発 （無）",
+      "ss": "貫通タイプになり、壁に触れると反射タイプに戻る 8ターン",
+      "rarity": 6,
+      "hp": 20115,
+      "attack": 19023,
+      "speed": 295.23,
+      "gaugeAbilities": [
+        "状態異常回復"
+      ]
+    },
+    {
+      "id": "2735",
+      "name": "フカヒレ皇帝",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2735.webp",
+      "source": "https://game.technophere.com/monst/char/2735/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "白爆発M （無）",
+      "ss": "4人に分身して、駆け回る 21ターン",
+      "rarity": 5,
+      "hp": 16851,
+      "attack": 17926,
+      "speed": 235.87
+    },
+    {
+      "id": "2736",
+      "name": "獰猛なる征服者 フカヒレ皇帝",
+      "attribute": "火",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2736.webp",
+      "source": "https://game.technophere.com/monst/char/2735/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "白爆発L （無）",
+      "ss": "4人に分身して、駆け回る 21ターン",
+      "rarity": 6,
+      "hp": 19145,
+      "attack": 19052,
+      "speed": 244.2
+    },
+    {
       "id": "2737",
       "name": "フカヒレ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2735/#f2737",
+      "abilities": [
+        "アンチダメージウォール",
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2737.webp",
+      "source": "https://game.technophere.com/monst/char/2735/",
       "evolution": "神化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "リワインドブラスター （火） 副友情 大爆発 （無）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 13ターン",
+      "rarity": 6,
+      "hp": 18908,
+      "attack": 19932,
+      "speed": 192.63,
+      "gaugeAbilities": [
+        "亜人キラーM"
+      ]
     },
     {
       "id": "2739",
@@ -3150,105 +3355,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ロボット"
-    },
-    {
-      "id": "3085",
-      "name": "モチモチンナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3084/#f3085",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "3094",
-      "name": "シバミィ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3093/#f3094",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "3097",
-      "name": "エスカトロジー（新春）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3095/#f3097",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "3098",
-      "name": "ミスタイプ（ストア）",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1926/#f3098",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "アクシス"
-    },
-    {
-      "id": "3110",
-      "name": "おちせ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3108/#f3110",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3112",
-      "name": "雪垣匠之助",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3111/#f3112",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "3114",
-      "name": "須東ブル美",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3113/#f3114",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "3116",
-      "name": "宝船",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3115/#f3116",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "3129",
-      "name": "アサグ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3128/#f3129",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "3085",
+      "name": "モチモチンナ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3084/#f3085",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "3094",
+      "name": "シバミィ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3093/#f3094",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "3097",
+      "name": "エスカトロジー（新春）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3095/#f3097",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "3098",
+      "name": "ミスタイプ（ストア）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1926/#f3098",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "アクシス"
+    },
+    {
+      "id": "3110",
+      "name": "おちせ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3108/#f3110",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "3112",
+      "name": "雪垣匠之助",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3111/#f3112",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "3114",
+      "name": "須東ブル美",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3113/#f3114",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "3116",
+      "name": "宝船",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3115/#f3116",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "3129",
+      "name": "アサグ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3128/#f3129",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "3131",
       "name": "フンババ",
       "attribute": "水",
@@ -2121,114 +2220,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "3810",
-      "name": "タコタコブラザーズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3809/#f3810",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "3819",
-      "name": "シシジロー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3818/#f3819",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3820",
-      "name": "オリガ（ストア）",
-      "attribute": "水",
-      "abilities": [
-        "神キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/3820.webp",
-      "source": "https://game.technophere.com/monst/char/203/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王",
-      "friendship": "クロスレーザーL （水）",
-      "ss": "ふれた最初の敵を乱打し、レーザーで追い討ち 15ターン",
-      "rarity": 6,
-      "hp": 19318,
-      "attack": 11618,
-      "speed": 259.57
-    },
-    {
-      "id": "3822",
-      "name": "ラウドラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3821/#f3822",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "3834",
-      "name": "陸遜",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3832/#f3834",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3836",
-      "name": "祝融",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3835/#f3836",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3838",
-      "name": "孫堅",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3837/#f3838",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "3840",
-      "name": "クレイジーショーシャ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3839/#f3840",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "3853",
-      "name": "冴羽リョウ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3852/#f3853",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

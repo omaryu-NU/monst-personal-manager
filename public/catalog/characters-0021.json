@@ -2,6 +2,127 @@
   "version": 1,
   "characters": [
     {
+      "id": "9315",
+      "name": "パンダ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9314/#f9315",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "9317",
+      "name": "乙骨憂太",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9316/#f9317",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9319",
+      "name": "脹相",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9318/#f9319",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9321",
+      "name": "髙羽史彦",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9320/#f9321",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "9323",
+      "name": "禪院真希",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9322/#f9323",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9324",
+      "name": "秤＆綺羅羅",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9324/#f9324",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9326",
+      "name": "黄櫨折",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9325/#f9326",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9328",
+      "name": "レジィスター",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9327/#f9328",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9330",
+      "name": "羽生＆羽場",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9329/#f9330",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "9332",
+      "name": "烏鷺亨子",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9331/#f9332",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9334",
+      "name": "禪院直哉",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/9333/#f9334",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "9335",
       "name": "日車寛見",
       "attribute": "木",
@@ -105,12 +226,27 @@
       "id": "9344",
       "name": "ランスロット",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/284/#f9344",
+      "abilities": [
+        "超アンチダメージウォール",
+        "マインスイーパーM",
+        "聖精封じL 火属性耐性 超友情底力"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9344.webp",
+      "source": "https://game.technophere.com/monst/char/284/",
       "evolution": "真獣神化",
       "type": "反射",
       "style": "超バランス",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "超絶スパークバレット （水） 副友情 超絶貫通ホーミング18 （水）",
+      "ss": "貫通タイプになり、敵を貫く＆ブロックを無効化する 4+12ターン",
+      "rarity": 6,
+      "hp": 22095,
+      "attack": 21975,
+      "speed": 374.4,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "9345",
@@ -3780,127 +3916,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "9559",
-      "name": "ルーデウス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9558/#f9559",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9561",
-      "name": "ルイジェルド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9560/#f9561",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "9562",
-      "name": "フィッツ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9562/#f9562",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9564",
-      "name": "ギレーヌ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9563/#f9564",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
-    },
-    {
-      "id": "9566",
-      "name": "ニナ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9565/#f9566",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9568",
-      "name": "パウロ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9567/#f9568",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9570",
-      "name": "リニア＆プルセナ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9569/#f9570",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "9572",
-      "name": "バーディガーディ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9571/#f9572",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "魔王"
-    },
-    {
-      "id": "9573",
-      "name": "オルステッド",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9573/#f9573",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9574",
-      "name": "シルフィエット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9574/#f9574",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9575",
-      "name": "ウボサスラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6366/#f9575",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "幻妖"
     }
   ]
 }

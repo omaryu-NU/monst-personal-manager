@@ -2068,6 +2068,46 @@
       "speed": 388.3
     },
     {
+      "id": "284",
+      "name": "ランスロット",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/284.webp",
+      "source": "https://game.technophere.com/monst/char/284/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "拡散弾EL3 （水）",
+      "ss": "月の導きで敵を貫く 16ターン",
+      "rarity": 5,
+      "hp": 10854,
+      "attack": 15785,
+      "speed": 292.97
+    },
+    {
+      "id": "285",
+      "name": "湖の騎士ランスロット",
+      "attribute": "水",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/285.webp",
+      "source": "https://game.technophere.com/monst/char/284/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "拡散弾EL3 （水）",
+      "ss": "聖なる湖の力で敵を貫く 18ターン",
+      "rarity": 6,
+      "hp": 17964,
+      "attack": 23360,
+      "speed": 301.03
+    },
+    {
       "id": "291",
       "name": "トリスタン",
       "attribute": "闇",
@@ -3031,28 +3071,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻獣"
-    },
-    {
-      "id": "588",
-      "name": "ヘル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/587/#f588",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "596",
-      "name": "イシス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/595/#f596",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
     }
   ]
 }

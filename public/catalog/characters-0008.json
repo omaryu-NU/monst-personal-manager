@@ -2,6 +2,130 @@
   "version": 1,
   "characters": [
     {
+      "id": "4481",
+      "name": "アカシャ廻",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2387/#f4481",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "闘神"
+    },
+    {
+      "id": "4489",
+      "name": "めりぃらいす",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4488/#f4489",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4492",
+      "name": "ジングルベルン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4490/#f4492",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "4494",
+      "name": "茂見ノ木かざり",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4493/#f4494",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
+      "id": "4496",
+      "name": "ホイップ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4495/#f4496",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "4498",
+      "name": "エア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4497/#f4498",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4501",
+      "name": "ザナドゥ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4500/#f4501",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4502",
+      "name": "淑やかなる花ノ国の精 芙蓉",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "レーザーバリアキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4502.webp",
+      "source": "https://game.technophere.com/monst/char/2732/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "超強スパークバレット （光） 副友情 超強攻撃アップ （無）",
+      "ss": "貫通タイプになり、壁にふれると反射タイプに戻る 8+8ターン",
+      "rarity": 6,
+      "hp": 20355,
+      "attack": 22281,
+      "speed": 310.6,
+      "gaugeAbilities": [
+        "アンチ重力バリア",
+        "状態異常回復"
+      ]
+    },
+    {
+      "id": "4506",
+      "name": "ゴエンギドリームス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4505/#f4506",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4508",
+      "name": "ケラート",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4507/#f4508",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
       "id": "4510",
       "name": "チュミー",
       "attribute": "火",
@@ -2190,201 +2314,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "巨人"
-    },
-    {
-      "id": "5083",
-      "name": "ケニー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5082/#f5083",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5084",
-      "name": "ヒストリア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5084/#f5084",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5085",
-      "name": "ハンジ",
-      "attribute": "闇",
-      "abilities": [
-        "アンチウィンド",
-        "アンチ減速壁"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5085.webp",
-      "source": "https://game.technophere.com/monst/char/5085/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超強分裂貫通衝撃波3 （闇）",
-      "ss": "スピードとパワーがアップ＆最初にふれた敵に雷槍をセットし停止時に爆発させる 20ターン",
-      "rarity": 6,
-      "hp": 17298,
-      "attack": 17434,
-      "speed": 243.1,
-      "gaugeAbilities": [
-        "立体機動装置"
-      ]
-    },
-    {
-      "id": "5086",
-      "name": "坂本龍馬",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/484/#f5086",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "5087",
-      "name": "坂本龍馬MV",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2355/#f5087",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "5089",
-      "name": "ハーレー",
-      "attribute": "闇",
-      "abilities": [
-        "アンチダメージウォール",
-        "アンチウィンド",
-        "弱点キラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5089.webp",
-      "source": "https://game.technophere.com/monst/char/256/",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "魔族",
-      "friendship": "貫通弱点ロックオン衝撃波5 （闇） 副友情 超強爆発 （無）",
-      "ss": "スピードがアップ＆敵の弱点ヒット時に大ダメージを与える 12+8ターン",
-      "rarity": 6,
-      "hp": 18733,
-      "attack": 35003,
-      "speed": 249.5,
-      "connectAbilities": [
-        "マインスイーパーM",
-        "全属性耐性 条件: パワー型以外が2体以上"
-      ]
-    },
-    {
-      "id": "5090",
-      "name": "ハーレーX",
-      "attribute": "闇",
-      "abilities": [
-        "魔法陣ブースト",
-        "友情ブースト"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5090.webp",
-      "source": "https://game.technophere.com/monst/char/257/",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超パワー",
-      "race": "魔族",
-      "friendship": "ランページレーザーEL （闇） 副友情 超強フレア （無）",
-      "ss": "スピードとパワーがアップ＆敵にふれる毎に溜めたパワーを放出する 20+8ターン",
-      "rarity": 6,
-      "hp": 23159,
-      "attack": 37454,
-      "speed": 278.63,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "ドレイン"
-      ],
-      "connectAbilities": [
-        "超アンチ重力バリア",
-        "ダッシュ 条件: 魔族以外が3体"
-      ]
-    },
-    {
-      "id": "5093",
-      "name": "閻魔",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5093.webp",
-      "source": "https://game.technophere.com/monst/char/5093/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王",
-      "friendship": "攻防アップ （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 10152,
-      "attack": 27484,
-      "speed": 273.9
-    },
-    {
-      "id": "5094",
-      "name": "悪を正す冥界の王子 閻魔",
-      "attribute": "闇",
-      "abilities": [
-        "超マインスイーパー",
-        "アンチ重力バリア",
-        "超SSターンアクセル"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5094.webp",
-      "source": "https://game.technophere.com/monst/char/5093/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王",
-      "friendship": "攻防アップ （無）",
-      "ss": "自身の減速率を一定期間緩和する 24ターン",
-      "rarity": 6,
-      "hp": 13122,
-      "attack": 35550,
-      "speed": 355.77,
-      "gaugeAbilities": [
-        "アンチ減速壁",
-        "ダッシュM ソウルスティールM"
-      ]
-    },
-    {
-      "id": "5095",
-      "name": "罪を裁く冥界の主 閻魔大王",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチダメージウォール",
-        "レーザーバリアキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5095.webp",
-      "source": "https://game.technophere.com/monst/char/5093/",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王",
-      "friendship": "グリッターボール （闇） 副友情 超絶ホーミング12 （闇）",
-      "ss": "スピードとパワーがアップ＆ヒットした敵の弱点の効果を大アップさせる 24ターン",
-      "rarity": 6,
-      "hp": 20961,
-      "attack": 22105,
-      "speed": 331.53,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "SSターン短縮"
-      ]
     }
   ]
 }
