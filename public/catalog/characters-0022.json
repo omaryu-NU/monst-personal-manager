@@ -2,6 +2,128 @@
   "version": 1,
   "characters": [
     {
+      "id": "9543",
+      "name": "ウルフバート",
+      "attribute": "木",
+      "abilities": [
+        "アンチ減速壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9543.webp",
+      "source": "https://game.technophere.com/monst/char/9543/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "超強エナジーソード （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18968,
+      "attack": 25634,
+      "speed": 360.8
+    },
+    {
+      "id": "9544",
+      "name": "ウルフバート",
+      "attribute": "木",
+      "abilities": [
+        "アンチ減速壁",
+        "アンチ減速床",
+        "友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9544.webp",
+      "source": "https://game.technophere.com/monst/char/9543/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣",
+      "friendship": "超強エナジーソード （木）",
+      "ss": "スピードとパワーがアップ＆最初にふれた壁に一定期間、加速壁を張る 16ターン",
+      "rarity": 6,
+      "hp": 19455,
+      "attack": 18021,
+      "speed": 332.8,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチマルチレイヤ"
+      ]
+    },
+    {
+      "id": "9545",
+      "name": "黄金マスク",
+      "attribute": "光",
+      "abilities": [
+        "亜侍封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9545.webp",
+      "source": "https://game.technophere.com/monst/char/9545/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖",
+      "friendship": "爆絶乱気弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 22056,
+      "attack": 27656,
+      "speed": 213.7
+    },
+    {
+      "id": "9546",
+      "name": "黄金マスク",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール",
+        "亜侍封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9546.webp",
+      "source": "https://game.technophere.com/monst/char/9545/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "幻妖",
+      "friendship": "爆絶乱気弾 （光）",
+      "ss": "スピードとパワーがアップ＆壁にふれると反射タイプに変化する 16ターン",
+      "rarity": 6,
+      "hp": 22135,
+      "attack": 24092,
+      "speed": 200.1,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "アンチ減速床"
+      ]
+    },
+    {
+      "id": "9547",
+      "name": "レグルス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5506/#f9547",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "獣"
+    },
+    {
+      "id": "9548",
+      "name": "マクスウェル",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9548.webp",
+      "source": "https://game.technophere.com/monst/char/9548/",
+      "evolution": "真獣神化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "爆絶貫通拡散弾EL5 （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 6,
+      "hp": 17280,
+      "attack": 24615,
+      "speed": 281.57
+    },
+    {
       "id": "9549",
       "name": "マクスウェル",
       "attribute": "闇",
@@ -210,6 +332,17 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "9577",
+      "name": "パスカル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5285/#f9577",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
       "race": "亜人"
     }
   ]

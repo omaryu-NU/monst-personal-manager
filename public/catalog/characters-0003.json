@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1243",
+      "name": "銀角",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1242/#f1243",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "1245",
+      "name": "金角",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1244/#f1245",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "獣"
+    },
+    {
       "id": "1248",
       "name": "牛魔王",
       "attribute": "闇",
@@ -913,6 +935,27 @@
       "type": "貫通",
       "style": "バランス",
       "race": "妖精"
+    },
+    {
+      "id": "1509",
+      "name": "円卓の騎士王 アーサー",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1509.webp",
+      "source": "https://game.technophere.com/monst/char/288/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "ワンウェイレーザーEL （光） 副友情 十字レーザーL （光）",
+      "ss": "狙った方向に、聖なる波動砲を放つ 25ターン",
+      "rarity": 6,
+      "hp": 17748,
+      "attack": 22565,
+      "speed": 255.57
     },
     {
       "id": "1511",
@@ -2269,39 +2312,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "1906",
-      "name": "なすビー",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1905/#f1906",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "1918",
-      "name": "ステプラゲーター",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1917/#f1918",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "1920",
-      "name": "カメレオンテープ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1919/#f1920",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

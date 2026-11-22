@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5048",
+      "name": "フラパエデン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2081/#f5048",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "5049",
+      "name": "フラパツララ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4470/#f5049",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "5052",
+      "name": "コキュートス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5051/#f5052",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5065",
+      "name": "サシャ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5064/#f5065",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "5069",
+      "name": "アルミン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5068/#f5069",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "5073",
       "name": "ベルトルト",
       "attribute": "火",
@@ -2014,6 +2069,31 @@
       ]
     },
     {
+      "id": "5209",
+      "name": "輝かしき幸福の魔砲士 ペリドット",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア",
+        "鳥獣封じ SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5209.webp",
+      "source": "https://game.technophere.com/monst/char/5208/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士",
+      "friendship": "8方向炸裂弾 （木） 副友情 8方向レーザーEL （光）",
+      "ss": "スピードとパワーがアップ＆弱点ヒットで敵がマヒ 20+8ターン",
+      "rarity": 6,
+      "hp": 15199,
+      "attack": 20036,
+      "speed": 396.23,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "底力L"
+      ]
+    },
+    {
       "id": "5214",
       "name": "コクスティア",
       "attribute": "火",
@@ -3083,72 +3163,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5483",
-      "name": "漏瑚",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5482/#f5483",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5485",
-      "name": "禪院真依",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5484/#f5485",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5487",
-      "name": "花御",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5486/#f5487",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5489",
-      "name": "メカ丸",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5488/#f5489",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5493",
-      "name": "東堂葵",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5492/#f5493",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5494",
-      "name": "パンダ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5494/#f5494",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

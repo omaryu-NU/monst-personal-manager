@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1906",
+      "name": "なすビー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1905/#f1906",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "1918",
+      "name": "ステプラゲーター",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1917/#f1918",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "獣"
+    },
+    {
+      "id": "1920",
+      "name": "カメレオンテープ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1919/#f1920",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "1923",
       "name": "ペンシルベース",
       "attribute": "木",
@@ -2230,57 +2263,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "2612",
-      "name": "黄泉蔵馬",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2611/#f2612",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "2613",
-      "name": "雷禅",
-      "attribute": "光",
-      "abilities": [
-        "アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2613.webp",
-      "source": "https://game.technophere.com/monst/char/2613/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族",
-      "friendship": "超強メテオ （無）",
-      "ss": "自身のスピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 13441,
-      "attack": 15597,
-      "speed": 237.17
-    },
-    {
-      "id": "2614",
-      "name": "雷禅&幽助",
-      "attribute": "光",
-      "abilities": [
-        "超アンチ重力バリア"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2614.webp",
-      "source": "https://game.technophere.com/monst/char/2613/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族",
-      "friendship": "超強メテオ （無）",
-      "ss": "雷禅と幽助で駆け回り、近くの敵に妖丸を放つ 22ターン",
-      "rarity": 6,
-      "hp": 19599,
-      "attack": 20031,
-      "speed": 275.47
     }
   ]
 }

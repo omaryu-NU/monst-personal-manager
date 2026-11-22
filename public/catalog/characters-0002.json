@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "579",
+      "name": "スルト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/577/#f579",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔王"
+    },
+    {
+      "id": "581",
+      "name": "ヨルムンガンド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/580/#f581",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "幻獣"
+    },
+    {
       "id": "583",
       "name": "フレズベルク",
       "attribute": "木",
@@ -2260,28 +2282,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔人"
-    },
-    {
-      "id": "1243",
-      "name": "銀角",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1242/#f1243",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "1245",
-      "name": "金角",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1244/#f1245",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
     }
   ]
 }

@@ -2148,6 +2148,46 @@
       "speed": 214.6
     },
     {
+      "id": "288",
+      "name": "アーサー",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/288.webp",
+      "source": "https://game.technophere.com/monst/char/288/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "バーティカルレーザーL （光）",
+      "ss": "ふれた最初の敵を乱斬し、聖なる光で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 11457,
+      "attack": 16574,
+      "speed": 266.33
+    },
+    {
+      "id": "289",
+      "name": "騎士王アーサー",
+      "attribute": "光",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/289.webp",
+      "source": "https://game.technophere.com/monst/char/288/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士",
+      "friendship": "ワンウェイレーザーEL （光）",
+      "ss": "神剣の力を解き放ち、聖なる十字で敵を貫く 18ターン",
+      "rarity": 6,
+      "hp": 18962,
+      "attack": 24528,
+      "speed": 273.67
+    },
+    {
       "id": "291",
       "name": "トリスタン",
       "attribute": "闇",
@@ -3067,28 +3107,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "神"
-    },
-    {
-      "id": "579",
-      "name": "スルト",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/577/#f579",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "581",
-      "name": "ヨルムンガンド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/580/#f581",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "幻獣"
     }
   ]
 }

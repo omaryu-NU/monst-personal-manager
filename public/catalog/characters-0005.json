@@ -2,6 +2,57 @@
   "version": 1,
   "characters": [
     {
+      "id": "2612",
+      "name": "黄泉蔵馬",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2611/#f2612",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "2613",
+      "name": "雷禅",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2613.webp",
+      "source": "https://game.technophere.com/monst/char/2613/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強メテオ （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13441,
+      "attack": 15597,
+      "speed": 237.17
+    },
+    {
+      "id": "2614",
+      "name": "雷禅&幽助",
+      "attribute": "光",
+      "abilities": [
+        "超アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2614.webp",
+      "source": "https://game.technophere.com/monst/char/2613/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族",
+      "friendship": "超強メテオ （無）",
+      "ss": "雷禅と幽助で駆け回り、近くの敵に妖丸を放つ 22ターン",
+      "rarity": 6,
+      "hp": 19599,
+      "attack": 20031,
+      "speed": 275.47
+    },
+    {
       "id": "2615",
       "name": "雷禅",
       "attribute": "光",
@@ -2477,15 +2528,48 @@
       ]
     },
     {
+      "id": "2740",
+      "name": "点心兵 ギョウ・ズィー",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2740.webp",
+      "source": "https://game.technophere.com/monst/char/2740/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "毒霧 （無）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 8889,
+      "attack": 11062,
+      "speed": 167.07
+    },
+    {
       "id": "2741",
       "name": "ギョウズィー",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2740/#f2741",
+      "abilities": [
+        "アンチ重力バリア",
+        "毒キラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2741.webp",
+      "source": "https://game.technophere.com/monst/char/2740/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "全敵超毒メテオ （無）",
+      "ss": "ふれた最初の敵を乱打し、ふっとばす 12ターン",
+      "rarity": 5,
+      "hp": 14163,
+      "attack": 16509,
+      "speed": 186.17,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2743",
@@ -3377,50 +3461,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "鳥"
-    },
-    {
-      "id": "3046",
-      "name": "ゴッサム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3044/#f3046",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "3054",
-      "name": "栗栖マミ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3053/#f3054",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "3056",
-      "name": "キャロル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3055/#f3056",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3058",
-      "name": "銀だこオラゴン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3057/#f3058",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }
