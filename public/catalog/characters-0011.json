@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5971",
+      "name": "ユキダルミャ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5970/#f5971",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ユニバース"
+    },
+    {
+      "id": "5973",
+      "name": "リースルック",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5972/#f5973",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5976",
+      "name": "ブシェルノ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5974/#f5976",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "5977",
+      "name": "宮本武蔵",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1860/#f5977",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "5978",
       "name": "宮本武蔵（クリスマス）",
       "attribute": "光",
@@ -2156,50 +2200,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "6379",
-      "name": "フラパゲヘナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4864/#f6379",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "6380",
-      "name": "フラパ毘沙門天",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1150/#f6380",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "6381",
-      "name": "フラパガロン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5732/#f6381",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "6382",
-      "name": "フラパイグノー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5390/#f6382",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "幻妖"
     }
   ]
 }

@@ -2188,26 +2188,85 @@
       "speed": 273.67
     },
     {
+      "id": "290",
+      "name": "トリスタン",
+      "attribute": "闇",
+      "abilities": [
+        "鉱物キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/290.webp",
+      "source": "https://game.technophere.com/monst/char/290/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士",
+      "friendship": "大爆発 （無）",
+      "ss": "ふれた最初の敵を打撃し、豪腕でふっとばす 13ターン",
+      "rarity": 4,
+      "hp": 7160,
+      "attack": 13259,
+      "speed": 129.97
+    },
+    {
       "id": "291",
       "name": "トリスタン",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/290/#f291",
+      "abilities": [
+        "アンチ減速壁",
+        "鉱物キラーEL レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/291.webp",
+      "source": "https://game.technophere.com/monst/char/290/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "トライアングルボム （無）",
+      "ss": "ふれた最初の敵を乱斬し、竜をも穿つ豪腕でふっとばす 15ターン",
+      "rarity": 5,
+      "hp": 16465,
+      "attack": 25568,
+      "speed": 248.43
+    },
+    {
+      "id": "292",
+      "name": "モルドレッド",
+      "attribute": "火",
+      "abilities": [
+        "神キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/292.webp",
+      "source": "https://game.technophere.com/monst/char/292/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "ホーミング6 （火）",
+      "ss": "ふれた敵全てに、鎧の力で追撃 26ターン",
+      "rarity": 5,
+      "hp": 14234,
+      "attack": 25291,
+      "speed": 208.93
     },
     {
       "id": "293",
       "name": "モルドレッド",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/292/#f293",
+      "abilities": [
+        "神キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/293.webp",
+      "source": "https://game.technophere.com/monst/char/292/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ホーミング8 （火）",
+      "ss": "ふれた敵全てに、宝剣の力で強力な追撃 30ターン",
+      "rarity": 6,
+      "hp": 19874,
+      "attack": 28137,
+      "speed": 166.17
     },
     {
       "id": "295",
@@ -3085,28 +3144,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ドラゴン"
-    },
-    {
-      "id": "565",
-      "name": "フレイヤ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/564/#f565",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "573",
-      "name": "バルドル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/572/#f573",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
     }
   ]
 }

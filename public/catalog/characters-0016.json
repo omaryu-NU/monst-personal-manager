@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7725",
+      "name": "タローマティ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7724/#f7725",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7727",
+      "name": "サルワ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7726/#f7727",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "7729",
+      "name": "アナーヒター",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7728/#f7729",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "7731",
+      "name": "フシャスラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7730/#f7731",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "7734",
       "name": "スプンタマンユ",
       "attribute": "光",
@@ -2218,50 +2262,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "8055",
-      "name": "アイーダ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8054/#f8055",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8057",
-      "name": "ドラスポラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8056/#f8057",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "8059",
-      "name": "シアネジャマ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8058/#f8059",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "8062",
-      "name": "カーティット",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8060/#f8062",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "7427",
+      "name": "緒方洪庵",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7426/#f7427",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7430",
+      "name": "松平容保",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7428/#f7430",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "サムライ"
+    },
+    {
+      "id": "7432",
+      "name": "武田観柳斎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7431/#f7432",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7434",
+      "name": "島田魁",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7433/#f7434",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット"
+    },
+    {
       "id": "7436",
       "name": "コニッシュ",
       "attribute": "光",
@@ -2188,12 +2232,24 @@
       "id": "7578",
       "name": "リデラード",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7578/#f7578",
+      "abilities": [
+        "アンチワープ",
+        "マインスイーパーM",
+        "アンチウィンド",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7578.webp",
+      "source": "https://game.technophere.com/monst/char/7578/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "鋭角3方向追従型貫通弾 （光）",
+      "ss": "スピードとパワーがアップ＆停止後に一番遠くにいる敵にビームライフルを放つ 18ターン",
+      "rarity": 5,
+      "hp": 13583,
+      "attack": 13485,
+      "speed": 245.7
     },
     {
       "id": "7579",
@@ -3129,50 +3185,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "妖精"
-    },
-    {
-      "id": "7725",
-      "name": "タローマティ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7724/#f7725",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7727",
-      "name": "サルワ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7726/#f7727",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "7729",
-      "name": "アナーヒター",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7728/#f7729",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "7731",
-      "name": "フシャスラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7730/#f7731",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
     }
   ]
 }

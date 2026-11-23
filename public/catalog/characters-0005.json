@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2608",
+      "name": "躯",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2607/#f2608",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "2610",
+      "name": "コエンマ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2609/#f2610",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "2612",
       "name": "黄泉蔵馬",
       "attribute": "木",
@@ -2572,15 +2594,47 @@
       ]
     },
     {
+      "id": "2742",
+      "name": "チンジャオ老師",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2742.webp",
+      "source": "https://game.technophere.com/monst/char/2742/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "反射レーザーM3 （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15989,
+      "attack": 12649,
+      "speed": 315.83
+    },
+    {
       "id": "2743",
       "name": "チンジャオ老師",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2742/#f2743",
+      "abilities": [
+        "魔封じ レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2743.webp",
+      "source": "https://game.technophere.com/monst/char/2742/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "ツイン反射レーザーEL4 （闇）",
+      "ss": "自身のスピード＆パワーがアップ 16ターン",
+      "rarity": 6,
+      "hp": 17271,
+      "attack": 16350,
+      "speed": 309.6,
+      "gaugeAbilities": [
+        "アンチダメージウォール"
+      ]
     },
     {
       "id": "2745",
@@ -3428,39 +3482,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "3027",
-      "name": "クロロ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3026/#f3027",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3041",
-      "name": "グラフィティG",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3040/#f3041",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "3043",
-      "name": "ターキー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3042/#f3043",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鳥"
     }
   ]
 }

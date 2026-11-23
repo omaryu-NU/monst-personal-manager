@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1901",
+      "name": "タマネギヘッド",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1900/#f1901",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "1904",
+      "name": "パイン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1902/#f1904",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "1906",
       "name": "なすビー",
       "attribute": "闇",
@@ -2241,28 +2263,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2608",
-      "name": "躯",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2607/#f2608",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "2610",
-      "name": "コエンマ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2609/#f2610",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

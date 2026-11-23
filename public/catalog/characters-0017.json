@@ -2,15 +2,76 @@
   "version": 1,
   "characters": [
     {
+      "id": "8055",
+      "name": "アイーダ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8054/#f8055",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8057",
+      "name": "ドラスポラ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8056/#f8057",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "8059",
+      "name": "シアネジャマ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8058/#f8059",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "8062",
+      "name": "カーティット",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8060/#f8062",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "獣"
+    },
+    {
       "id": "8065",
       "name": "タイガーアイ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5210/#f8065",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチウィンド",
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8065.webp",
+      "source": "https://game.technophere.com/monst/char/5210/",
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶拡大貫通ロックオン衝撃波 （無） 副友情 爆絶爆発 （無）",
+      "ss": "狙った方向にいる敵に、状態異常弾で攻撃 12+12ターン",
+      "rarity": 6,
+      "hp": 21320,
+      "attack": 20994,
+      "speed": 323.47,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ],
+      "connectAbilities": [
+        "弱点キラーM 状態異常回復 条件: 亜人以外が1体以上／攻撃力4万以上が1体以上"
+      ]
     },
     {
       "id": "8067",
@@ -2298,50 +2359,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻妖"
-    },
-    {
-      "id": "8390",
-      "name": "アリエル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8389/#f8390",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8392",
-      "name": "ノキエル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8391/#f8392",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8394",
-      "name": "アシュフォード",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8393/#f8394",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8396",
-      "name": "リリエル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8395/#f8396",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

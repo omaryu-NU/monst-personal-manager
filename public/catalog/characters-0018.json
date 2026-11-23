@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8390",
+      "name": "アリエル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8389/#f8390",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8392",
+      "name": "ノキエル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8391/#f8392",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8394",
+      "name": "アシュフォード",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8393/#f8394",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8396",
+      "name": "リリエル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8395/#f8396",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8398",
       "name": "ミリエラ",
       "attribute": "闇",
@@ -2239,52 +2283,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "怪異"
-    },
-    {
-      "id": "8694",
-      "name": "戦場ヶ原ひたぎ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8693/#f8694",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8695",
-      "name": "ファイヤーシスターズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8695/#f8695",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "8697",
-      "name": "影縫余弦",
-      "attribute": "火",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8697.webp",
-      "source": "https://game.technophere.com/monst/char/8696/#f8697",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "8699",
-      "name": "臥煙伊豆湖",
-      "attribute": "水",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8699.webp",
-      "source": "https://game.technophere.com/monst/char/8698/#f8699",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
     }
   ]
 }

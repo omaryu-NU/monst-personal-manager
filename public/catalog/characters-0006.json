@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3027",
+      "name": "クロロ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3026/#f3027",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3041",
+      "name": "グラフィティG",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3040/#f3041",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "3043",
+      "name": "ターキー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3042/#f3043",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鳥"
+    },
+    {
       "id": "3046",
       "name": "ゴッサム",
       "attribute": "光",
@@ -2202,39 +2235,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "妖精"
-    },
-    {
-      "id": "3757",
-      "name": "鮭",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3756/#f3757",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "3759",
-      "name": "ベアーズ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3758/#f3759",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "3761",
-      "name": "バニア",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3760/#f3761",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }

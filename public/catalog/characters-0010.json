@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5468",
+      "name": "リボン（フラパ）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3449/#f5468",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5471",
+      "name": "真ベリアル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5470/#f5471",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "5475",
+      "name": "伏黒恵",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5474/#f5475",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5477",
+      "name": "釘崎野薔薇",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5476/#f5477",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "5483",
       "name": "漏瑚",
       "attribute": "火",
@@ -2230,50 +2274,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "5971",
-      "name": "ユキダルミャ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5970/#f5971",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ユニバース"
-    },
-    {
-      "id": "5973",
-      "name": "リースルック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5972/#f5973",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5976",
-      "name": "ブシェルノ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5974/#f5976",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5977",
-      "name": "宮本武蔵",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1860/#f5977",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }
