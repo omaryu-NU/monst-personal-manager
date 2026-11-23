@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "3008",
+      "name": "レオリオ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3007/#f3008",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3017",
+      "name": "マチ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3016/#f3017",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3019",
+      "name": "ネフェルピトー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3018/#f3019",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "キメラアント"
+    },
+    {
+      "id": "3023",
+      "name": "ヒソカ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3022/#f3023",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "3025",
+      "name": "フェイタン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3024/#f3025",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "3027",
       "name": "クロロ",
       "attribute": "闇",
@@ -2180,61 +2235,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "鉱物"
-    },
-    {
-      "id": "3732",
-      "name": "ネフライト",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3731/#f3732",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "3734",
-      "name": "クンツァイト",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3733/#f3734",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "3736",
-      "name": "クインベリル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3735/#f3736",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "鉱物"
-    },
-    {
-      "id": "3738",
-      "name": "タキシード仮面",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3737/#f3738",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3742",
-      "name": "光ムラサメ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/958/#f3742",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

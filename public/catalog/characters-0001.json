@@ -2269,15 +2269,44 @@
       "speed": 166.17
     },
     {
+      "id": "294",
+      "name": "ロット",
+      "attribute": "水",
+      "abilities": [
+        "獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/294.webp",
+      "source": "https://game.technophere.com/monst/char/294/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "クロスレーザーS （水）",
+      "ss": "ふれた最初の敵をめったぎりにする 14ターン",
+      "rarity": 4,
+      "hp": 6960,
+      "attack": 9424,
+      "speed": 218.1
+    },
+    {
       "id": "295",
       "name": "ロット",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/294/#f295",
+      "abilities": [
+        "獣キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/295.webp",
+      "source": "https://game.technophere.com/monst/char/294/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "クロスレーザーM （水）",
+      "ss": "ふれた最初の敵を、叛逆の力でめったぎりにする 17ターン",
+      "rarity": 5,
+      "hp": 12060,
+      "attack": 16574,
+      "speed": 253.03
     },
     {
       "id": "297",
@@ -3133,17 +3162,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "542",
-      "name": "V龍",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/539/#f542",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ドラゴン"
     }
   ]
 }

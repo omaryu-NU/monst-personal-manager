@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7416",
+      "name": "ガンマ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7416/#f7416",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7417",
+      "name": "孫悟空",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1224/#f7417",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "7418",
+      "name": "ローレライ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/462/#f7418",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7419",
+      "name": "アウロラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7419/#f7419",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "7420",
+      "name": "エメラルド",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1691/#f7420",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "7421",
+      "name": "イージス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2063/#f7421",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7423",
+      "name": "篤姫",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7422/#f7423",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "7425",
+      "name": "大久保利通",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7424/#f7425",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "7427",
       "name": "緒方洪庵",
       "attribute": "木",
@@ -2255,12 +2343,26 @@
       "id": "7579",
       "name": "オルフェ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7579/#f7579",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチダメージウォール",
+        "アンチブロック"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7579.webp",
+      "source": "https://game.technophere.com/monst/char/7579/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "ユナイトブリッツ （無）",
+      "ss": "スピードとパワーがアップ＆敵にふれる毎にドラグーンで攻撃 21ターン",
+      "rarity": 6,
+      "hp": 20029,
+      "attack": 18762,
+      "speed": 271.97,
+      "gaugeAbilities": [
+        "ライトポジションキラー 状態異常底力"
+      ]
     },
     {
       "id": "7580",
@@ -3097,94 +3199,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
-    },
-    {
-      "id": "7714",
-      "name": "笛口雛実",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7714/#f7714",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7716",
-      "name": "梟",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7715/#f7716",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7717",
-      "name": "ニャルラトホテプ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4818/#f7717",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7718",
-      "name": "魔猿＆黒狗",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7718/#f7718",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7719",
-      "name": "神代利世",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7719/#f7719",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7720",
-      "name": "真珠",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2286/#f7720",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7721",
-      "name": "大谷吉継",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4871/#f7721",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7723",
-      "name": "ジャヒー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7722/#f7723",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

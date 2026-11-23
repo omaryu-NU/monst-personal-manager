@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7714",
+      "name": "笛口雛実",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7714/#f7714",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7716",
+      "name": "梟",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7715/#f7716",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7717",
+      "name": "ニャルラトホテプ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4818/#f7717",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "7718",
+      "name": "魔猿＆黒狗",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7718/#f7718",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7719",
+      "name": "神代利世",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7719/#f7719",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7720",
+      "name": "真珠",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2286/#f7720",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7721",
+      "name": "大谷吉継",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4871/#f7721",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "7723",
+      "name": "ジャヒー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7722/#f7723",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "7725",
       "name": "タローマティ",
       "attribute": "水",
@@ -1834,12 +1922,31 @@
       "id": "8001",
       "name": "背徳ピストルズ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2746/#f8001",
+      "abilities": [
+        "アンチ魔法陣",
+        "バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8001.webp",
+      "source": "https://game.technophere.com/monst/char/2746/",
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超砲撃",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "超絶貫通ホーミング18 （火） 副友情 全敵超強毒メテオ （無）",
+      "ss": "ダメージウォール/重力バリア/ワープ/地雷を無効化＆停止後に一定期間、アクセラレータ状態になる 8+16ターン",
+      "rarity": 6,
+      "hp": 22508,
+      "attack": 24615,
+      "speed": 382.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "底力M"
+      ],
+      "connectAbilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーL",
+        "リジェネM 条件: 魔王以外が2体以上／砲撃型以外が2体以上"
+      ]
     },
     {
       "id": "8002",
@@ -2174,94 +2281,6 @@
       "type": "貫通",
       "style": "超砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "8042",
-      "name": "ラウルクルーゼ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8042/#f8042",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8043",
-      "name": "ハサウェイ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8043/#f8043",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8044",
-      "name": "ブリュンヒルデ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1556/#f8044",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8045",
-      "name": "シャア",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6772/#f8045",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8048",
-      "name": "三途",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8046/#f8048",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8049",
-      "name": "島津義弘",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4869/#f8049",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "8051",
-      "name": "ドンジョヴァンニ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8050/#f8051",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "8053",
-      "name": "トゥーランドット",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8052/#f8053",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
     }
   ]
 }

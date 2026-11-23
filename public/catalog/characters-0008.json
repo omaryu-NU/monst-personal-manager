@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4434",
+      "name": "ナックル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4433/#f4434",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4436",
+      "name": "ネテロ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4435/#f4436",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4438",
+      "name": "モラウ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4437/#f4438",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4439",
+      "name": "クラピカ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3009/#f4439",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4440",
+      "name": "ゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3011/#f4440",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4441",
       "name": "キルア",
       "attribute": "闇",
@@ -2278,74 +2333,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "5031",
-      "name": "パーフェクトジャスティス戦士 P-47",
-      "attribute": "闇",
-      "abilities": [
-        "飛行",
-        "アンチウィンド",
-        "アクシスキラーM"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5031.webp",
-      "source": "https://game.technophere.com/monst/char/2672/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "friendship": "超強バラージショットガン （闇） 副友情 超強フレア （無）",
-      "ss": "ふれた最初の敵でフレアを放ち、周囲の敵を巻き込み大ダメージ 16+8ターン",
-      "rarity": 6,
-      "hp": 20809,
-      "attack": 19616,
-      "speed": 299.6,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ]
-    },
-    {
-      "id": "5037",
-      "name": "紅蓮",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5036/#f5037",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5039",
-      "name": "暁",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5038/#f5039",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5040",
-      "name": "疑心暗鬼（ストア）",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3406/#f5040",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "5043",
-      "name": "フラナナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5042/#f5043",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

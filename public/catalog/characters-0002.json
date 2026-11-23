@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "542",
+      "name": "V龍",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/539/#f542",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
       "id": "565",
       "name": "フレイヤ",
       "attribute": "火",
@@ -2271,17 +2282,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔族"
-    },
-    {
-      "id": "1236",
-      "name": "玉龍",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1235/#f1236",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

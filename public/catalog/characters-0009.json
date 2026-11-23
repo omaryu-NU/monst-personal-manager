@@ -2,6 +2,74 @@
   "version": 1,
   "characters": [
     {
+      "id": "5031",
+      "name": "パーフェクトジャスティス戦士 P-47",
+      "attribute": "闇",
+      "abilities": [
+        "飛行",
+        "アンチウィンド",
+        "アクシスキラーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5031.webp",
+      "source": "https://game.technophere.com/monst/char/2672/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "friendship": "超強バラージショットガン （闇） 副友情 超強フレア （無）",
+      "ss": "ふれた最初の敵でフレアを放ち、周囲の敵を巻き込み大ダメージ 16+8ターン",
+      "rarity": 6,
+      "hp": 20809,
+      "attack": 19616,
+      "speed": 299.6,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
+    },
+    {
+      "id": "5037",
+      "name": "紅蓮",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5036/#f5037",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5039",
+      "name": "暁",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5038/#f5039",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "5040",
+      "name": "疑心暗鬼（ストア）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3406/#f5040",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "5043",
+      "name": "フラナナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5042/#f5043",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "5045",
       "name": "フラパモリアーティ",
       "attribute": "火",
@@ -2152,15 +2220,70 @@
       ]
     },
     {
+      "id": "5212",
+      "name": "コクスティア",
+      "attribute": "火",
+      "abilities": [
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5212.webp",
+      "source": "https://game.technophere.com/monst/char/5212/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "ウォールムービングバレット （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16860,
+      "attack": 15457,
+      "speed": 224.17
+    },
+    {
+      "id": "5213",
+      "name": "骸炭の呪具使い コクスティア",
+      "attribute": "火",
+      "abilities": [
+        "聖精封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5213.webp",
+      "source": "https://game.technophere.com/monst/char/5212/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "ウォールムービングバレット （火）",
+      "ss": "ダメージウォール、バリア、ワープ、地雷を無効化する 8ターン",
+      "rarity": 6,
+      "hp": 19630,
+      "attack": 17253,
+      "speed": 225.47,
+      "gaugeAbilities": [
+        "アンチ魔法陣"
+      ]
+    },
+    {
       "id": "5214",
       "name": "コクスティア",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5212/#f5214",
+      "abilities": [
+        "マインスイーパーM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5214.webp",
+      "source": "https://game.technophere.com/monst/char/5212/",
       "evolution": "神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "気弾 （火） 副友情 毒メテオ （無）",
+      "ss": "ふれた敵で爆発し、周囲の敵を巻き込み大ダメージ 20ターン",
+      "rarity": 6,
+      "hp": 19414,
+      "attack": 16998,
+      "speed": 263.7,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "5216",
@@ -2707,6 +2830,32 @@
       "race": "魔人"
     },
     {
+      "id": "5360",
+      "name": "宇宙最高のロックバンド 背徳ピストルズ",
+      "attribute": "火",
+      "abilities": [
+        "超マインスイーパーL",
+        "アンチダメージウォール",
+        "リジェネM バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5360.webp",
+      "source": "https://game.technophere.com/monst/char/2746/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔王",
+      "friendship": "十字爆撃 （無） 副友情 超強中距離毒拡散弾9 （無）",
+      "ss": "ダメージウォール、重力バリア、ワープ、地雷を無効化する 8+16ターン",
+      "rarity": 6,
+      "hp": 20571,
+      "attack": 23125,
+      "speed": 351.2,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "底力M"
+      ]
+    },
+    {
       "id": "5364",
       "name": "プルーン",
       "attribute": "闇",
@@ -3089,94 +3238,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5453",
-      "name": "アヴァランチ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5451/#f5453",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5455",
-      "name": "ウェットランド",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5454/#f5455",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "獣"
-    },
-    {
-      "id": "5457",
-      "name": "ビュー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5456/#f5457",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5460",
-      "name": "アムリタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5459/#f5460",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5461",
-      "name": "奈落",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3409/#f5461",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5462",
-      "name": "阿頼耶",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5462/#f5462",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "5466",
-      "name": "リボン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/836/#f5466",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5467",
-      "name": "リボンMV",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2358/#f5467",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
       "race": "亜人"
     }
   ]

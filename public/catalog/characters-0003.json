@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1236",
+      "name": "玉龍",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1235/#f1236",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "1238",
       "name": "紅孩児",
       "attribute": "火",
@@ -2301,17 +2312,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "1899",
-      "name": "ブルーロブスター",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1897/#f1899",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻獣"
     }
   ]
 }

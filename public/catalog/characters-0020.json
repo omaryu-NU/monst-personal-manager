@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "8981",
+      "name": "コロンブス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2581/#f8981",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "コスモ"
+    },
+    {
+      "id": "8982",
+      "name": "ミミックフリーレン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8982/#f8982",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "8983",
+      "name": "ブラフマー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/692/#f8983",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "8984",
+      "name": "ニーチェ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6053/#f8984",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "8985",
+      "name": "マラコーダ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8985/#f8985",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "8987",
+      "name": "ティノ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8986/#f8987",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8989",
+      "name": "トウコ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8988/#f8989",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8991",
+      "name": "カナウ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8990/#f8991",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "8994",
       "name": "レーンヌクレール",
       "attribute": "火",
@@ -2134,111 +2222,6 @@
       "type": "貫通",
       "style": "超スピード",
       "race": "妖精"
-    },
-    {
-      "id": "9284",
-      "name": "オモイカネ",
-      "attribute": "火",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9284.webp",
-      "source": "https://game.technophere.com/monst/char/7270/#f9284",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神"
-    },
-    {
-      "id": "9285",
-      "name": "ハービセル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6743/#f9285",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "9286",
-      "name": "ホラー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8661/#f9286",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9287",
-      "name": "ラブ",
-      "attribute": "光",
-      "abilities": [
-        "アンチワープ",
-        "アンチ転送壁",
-        "カウンターキラー SSターン短縮"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9287.webp",
-      "source": "https://game.technophere.com/monst/char/7474/",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人",
-      "friendship": "超絶乱気弾 （光） 副友情 乱回復弾 （無）",
-      "ss": "スピードとパワーがアップ＆弱点ヒットで敵がマヒ 20ターン",
-      "rarity": 6,
-      "hp": 18854,
-      "attack": 15337,
-      "speed": 320.6,
-      "gaugeAbilities": [
-        "アンチ減速壁",
-        "状態異常底力"
-      ]
-    },
-    {
-      "id": "9288",
-      "name": "ドライ",
-      "attribute": "闇",
-      "abilities": [],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9288.webp",
-      "source": "https://game.technophere.com/monst/char/8475/#f9288",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "9291",
-      "name": "あゆむ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9290/#f9291",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9294",
-      "name": "アルカ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9292/#f9294",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9295",
-      "name": "クラウソラス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6001/#f9295",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "聖騎士"
     }
   ]
 }
