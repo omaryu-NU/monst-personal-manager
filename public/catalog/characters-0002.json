@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "536",
+      "name": "デスアーク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/534/#f536",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "542",
       "name": "V龍",
       "attribute": "火",
@@ -2271,17 +2282,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "1228",
-      "name": "沙悟浄",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1227/#f1228",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔族"
     }
   ]
 }

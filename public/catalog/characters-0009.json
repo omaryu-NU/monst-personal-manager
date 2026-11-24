@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5011",
+      "name": "アリア",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5010/#f5011",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "5020",
+      "name": "テントロッテ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5019/#f5020",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "5023",
+      "name": "クィーンハーチェル",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5021/#f5023",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "5025",
+      "name": "ハナカンマッキリー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5024/#f5025",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5027",
+      "name": "ドンペンオラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5026/#f5027",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "5031",
       "name": "パーフェクトジャスティス戦士 P-47",
       "attribute": "闇",
@@ -2286,26 +2341,93 @@
       ]
     },
     {
+      "id": "5215",
+      "name": "クルーディル",
+      "attribute": "光",
+      "abilities": [
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5215.webp",
+      "source": "https://game.technophere.com/monst/char/5215/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人",
+      "friendship": "三反射分裂弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 16693,
+      "attack": 16708,
+      "speed": 279.83
+    },
+    {
       "id": "5216",
       "name": "クルーディル",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5215/#f5216",
+      "abilities": [
+        "アンチウィンド",
+        "神耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5216.webp",
+      "source": "https://game.technophere.com/monst/char/5215/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "四反射分裂弾 （光）",
+      "ss": "4人に分身して、駆けまわる 21ターン",
+      "rarity": 6,
+      "hp": 19233,
+      "attack": 17491,
+      "speed": 255.9,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "神キラー"
+      ]
+    },
+    {
+      "id": "5217",
+      "name": "カナロアン",
+      "attribute": "闇",
+      "abilities": [
+        "ロボット耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5217.webp",
+      "source": "https://game.technophere.com/monst/char/5217/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "鳥",
+      "friendship": "ワンウェイレーザーL （闇）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14672,
+      "attack": 18672,
+      "speed": 360.87
     },
     {
       "id": "5218",
       "name": "カナロアン",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5217/#f5218",
+      "abilities": [
+        "飛行",
+        "ロボット耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5218.webp",
+      "source": "https://game.technophere.com/monst/char/5217/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "鳥"
+      "race": "鳥",
+      "friendship": "ワンウェイレーザーEL （闇）",
+      "ss": "狙った方向に、3本の毒の波動砲を放つ 24ターン",
+      "rarity": 6,
+      "hp": 18612,
+      "attack": 15733,
+      "speed": 319.4,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "5219",
@@ -3162,83 +3284,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"
-    },
-    {
-      "id": "5433",
-      "name": "レイカ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5432/#f5433",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "5435",
-      "name": "トウテツ廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4140/#f5435",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔人"
-    },
-    {
-      "id": "5436",
-      "name": "ロイゼ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/415/#f5436",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "5441",
-      "name": "テラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5440/#f5441",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "5442",
-      "name": "ヨツバ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5442/#f5442",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5443",
-      "name": "はつね",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5443/#f5443",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "鳥"
-    },
-    {
-      "id": "5444",
-      "name": "春山爛太郎",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5444/#f5444",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

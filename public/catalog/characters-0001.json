@@ -2309,15 +2309,44 @@
       "speed": 253.03
     },
     {
+      "id": "296",
+      "name": "コーモラン",
+      "attribute": "木",
+      "abilities": [
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/296.webp",
+      "source": "https://game.technophere.com/monst/char/296/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "幻獣",
+      "friendship": "大爆発 （無）",
+      "ss": "凶暴なる力で、パワーが大アップ 13ターン",
+      "rarity": 4,
+      "hp": 7339,
+      "attack": 13259,
+      "speed": 126.53
+    },
+    {
       "id": "297",
       "name": "コーモラン",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/296/#f297",
+      "abilities": [
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/297.webp",
+      "source": "https://game.technophere.com/monst/char/296/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "幻獣"
+      "race": "幻獣",
+      "friendship": "大々爆発 （無）",
+      "ss": "聖なる山と凶暴なる力で、パワーが特大アップ 18ターン",
+      "rarity": 5,
+      "hp": 12571,
+      "attack": 23021,
+      "speed": 142.63
     },
     {
       "id": "301",
@@ -3150,17 +3179,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "536",
-      "name": "デスアーク",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/534/#f536",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
       "race": "魔族"
     }
   ]

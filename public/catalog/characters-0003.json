@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1228",
+      "name": "沙悟浄",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1227/#f1228",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
       "id": "1236",
       "name": "玉龍",
       "attribute": "闇",
@@ -2301,17 +2312,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "1896",
-      "name": "ペペロン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1895/#f1896",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "妖精"
     }
   ]
 }
