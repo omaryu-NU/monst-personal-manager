@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "6696",
+      "name": "タケミカヅチ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1914/#f6696",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
+    },
+    {
+      "id": "6699",
+      "name": "ヴァルハラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6699/#f6699",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6702",
+      "name": "ファウスト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6700/#f6702",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6703",
+      "name": "ベディヴィア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3666/#f6703",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "6704",
+      "name": "源義経",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1351/#f6704",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "6708",
+      "name": "ラムα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6707/#f6708",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6710",
+      "name": "レムα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6709/#f6710",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "6712",
+      "name": "エミリアα",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6711/#f6712",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6714",
+      "name": "エルザ（クリスマス）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6713/#f6714",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "6716",
       "name": "メィリィ（クリスマス）",
       "attribute": "水",
@@ -1083,12 +1182,27 @@
       "id": "6899",
       "name": "まほろば",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5225/#f6899",
+      "abilities": [
+        "アンチ重力バリア",
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/6899.webp",
+      "source": "https://game.technophere.com/monst/char/5225/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "砲撃",
-      "race": "神"
+      "race": "神",
+      "friendship": "クイックチャージショット （木） 副友情 全敵貫通分裂弾 （木）",
+      "ss": "スピードがアップ＆ヒットした敵の弱点の効果を大アップさせる 12+8ターン",
+      "rarity": 6,
+      "hp": 18301,
+      "attack": 20694,
+      "speed": 406.17,
+      "gaugeAbilities": [
+        "バイタルキラーM シールドブレイカー"
+      ]
     },
     {
       "id": "6900",
@@ -2101,105 +2215,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "サムライ"
-    },
-    {
-      "id": "7048",
-      "name": "陸奥宗光",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4396/#f7048",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "7051",
-      "name": "キリンジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7049/#f7051",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7053",
-      "name": "小桐さくのα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7052/#f7053",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7055",
-      "name": "アルセーヌα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7054/#f7055",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7057",
-      "name": "ローレライα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7056/#f7057",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7059",
-      "name": "フラーシャ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7058/#f7059",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "7062",
-      "name": "ヒノウェデ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7060/#f7062",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "7064",
-      "name": "ブライセーナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7063/#f7064",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "7065",
-      "name": "大喬小喬",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1762/#f7065",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
     }
   ]
 }

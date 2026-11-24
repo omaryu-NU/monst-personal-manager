@@ -2391,15 +2391,84 @@
       "speed": 366.17
     },
     {
+      "id": "300",
+      "name": "モルガン",
+      "attribute": "闇",
+      "abilities": [
+        "妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/300.webp",
+      "source": "https://game.technophere.com/monst/char/300/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人",
+      "friendship": "クロスレーザーS （闇）",
+      "ss": "魔力で、スピードが大アップ 10ターン",
+      "rarity": 4,
+      "hp": 6850,
+      "attack": 6934,
+      "speed": 311.13
+    },
+    {
       "id": "301",
       "name": "モルガン",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/300/#f301",
+      "abilities": [
+        "妖精キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/301.webp",
+      "source": "https://game.technophere.com/monst/char/300/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "クロスレーザーM （闇）",
+      "ss": "妖精の魔力で、スピードが特大アップ 12ターン",
+      "rarity": 5,
+      "hp": 11960,
+      "attack": 11973,
+      "speed": 344.13
+    },
+    {
+      "id": "303",
+      "name": "真田幸村",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/303.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "拡散弾EL3 （火）",
+      "ss": "バウンドする毎に、炎の刃を周囲に放つ 20ターン",
+      "rarity": 5,
+      "hp": 12600,
+      "attack": 12413,
+      "speed": 287.87
+    },
+    {
+      "id": "304",
+      "name": "乱世の英雄 真田幸村",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/304.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "拡散弾EL3 （火）",
+      "ss": "バウンドする毎に、双槍から紅蓮の刃を周囲に放つ 24ターン",
+      "rarity": 6,
+      "hp": 19756,
+      "attack": 18888,
+      "speed": 338.6
     },
     {
       "id": "306",
@@ -3177,39 +3246,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "524",
-      "name": "黒瀬ゆずる",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/523/#f524",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "526",
-      "name": "クラブロン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/525/#f526",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
-    },
-    {
-      "id": "529",
-      "name": "クィーンバタフライ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/527/#f529",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

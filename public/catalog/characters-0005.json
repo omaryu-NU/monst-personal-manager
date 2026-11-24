@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "2588",
+      "name": "ギャラクシーサーペント",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2586/#f2588",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
+      "id": "2592",
+      "name": "スペースデスワーム",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2591/#f2592",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ユニバース"
+    },
+    {
+      "id": "2593",
+      "name": "モルテシア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2593/#f2593",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "2595",
+      "name": "アンジェリア",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2594/#f2595",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "2597",
+      "name": "ニコラス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2596/#f2597",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "2599",
       "name": "ソソノ",
       "attribute": "闇",
@@ -2924,12 +2979,25 @@
       "id": "2755",
       "name": "フラパバアル",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2755/#f2755",
+      "abilities": [
+        "アンチ重力バリア",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2755.webp",
+      "source": "https://game.technophere.com/monst/char/2755/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "ホーミング18 （水）",
+      "ss": "自身のスピードとパワーがアップ 18ターン",
+      "rarity": 6,
+      "hp": 17208,
+      "attack": 16725,
+      "speed": 260.23,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2756",
@@ -3557,61 +3625,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2970",
-      "name": "逢坂大河",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2970/#f2970",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2971",
-      "name": "イザナギ廻",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/856/#f2971",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "2975",
-      "name": "ガラゴーラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2974/#f2975",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "神獣"
-    },
-    {
-      "id": "2977",
-      "name": "セイミー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2976/#f2977",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖域の狩人"
-    },
-    {
-      "id": "2979",
-      "name": "ゲルナンド",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2978/#f2979",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖域の狩人"
     }
   ]
 }

@@ -2,6 +2,123 @@
   "version": 1,
   "characters": [
     {
+      "id": "8951",
+      "name": "犬山道節",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5869/#f8951",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "8952",
+      "name": "水仙",
+      "attribute": "木",
+      "abilities": [
+        "マインスイーパー",
+        "超アンチウィンド",
+        "水属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8952.webp",
+      "source": "https://game.technophere.com/monst/char/2729/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精",
+      "friendship": "ラピッドボムスロー （無） 副友情 攻防アップ （無）",
+      "ss": "反射タイプになり、スピードとパワーがアップ 8+8ターン",
+      "rarity": 6,
+      "hp": 20144,
+      "attack": 21777,
+      "speed": 341.1,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ],
+      "connectAbilities": [
+        "超アンチダメージウォール",
+        "ロボットキラーEL 亜人キラーEL 条件: 妖精以外が1体以上＆バランス型以外が1体以上"
+      ]
+    },
+    {
+      "id": "8953",
+      "name": "ガウェイン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2449/#f8953",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "聖騎士"
+    },
+    {
+      "id": "8954",
+      "name": "韓非",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5671/#f8954",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8955",
+      "name": "シュタルク",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7659/#f8955",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "8956",
+      "name": "フェルン",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7661/#f8956",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8957",
+      "name": "フリーレン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7663/#f8957",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "8959",
+      "name": "フリーレン＆フェルン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8958/#f8959",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8961",
+      "name": "フェルン＆シュタルク",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8960/#f8961",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8963",
       "name": "ラヴィーネ＆カンネ",
       "attribute": "木",
@@ -2122,105 +2239,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9257",
-      "name": "大蛇丸",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9257/#f9257",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9258",
-      "name": "デイダラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9258/#f9258",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9259",
-      "name": "鷹",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9259/#f9259",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9260",
-      "name": "第十班",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9260/#f9260",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9261",
-      "name": "グロリオサ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5788/#f9261",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "9262",
-      "name": "イタチ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9262/#f9262",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "9263",
-      "name": "アキレウス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3218/#f9263",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "9264",
-      "name": "ペイン天道",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9264/#f9264",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "9265",
-      "name": "第七班",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9265/#f9265",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

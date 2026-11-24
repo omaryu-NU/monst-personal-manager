@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4406",
+      "name": "伊東甲子太郎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4405/#f4406",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "4408",
+      "name": "山崎丞",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4407/#f4408",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "4411",
+      "name": "ウサフィーヌ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4410/#f4411",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4413",
+      "name": "シロイノ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4412/#f4413",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "4415",
+      "name": "アンゴルモア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4414/#f4415",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
       "id": "4417",
       "name": "アイリーン",
       "attribute": "光",
@@ -1861,6 +1916,35 @@
       "race": "幻妖"
     },
     {
+      "id": "4891",
+      "name": "絆に滾る忠を背負いし勇将 真田幸村",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ",
+        "アンチ魔法陣",
+        "超レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/4891.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "サムライ",
+      "friendship": "超強反射拡散弾EL5 （火） 副友情 反射衝撃波12 （光）",
+      "ss": "スピードとパワーがアップ＆最初にふれた敵種族に大ダメージ 12+8ターン",
+      "rarity": 6,
+      "hp": 21064,
+      "attack": 19565,
+      "speed": 396.3,
+      "gaugeAbilities": [
+        "カウンターキラーM"
+      ],
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "条件: サムライ以外が2体以上／合計ラック100以上"
+      ]
+    },
+    {
       "id": "4897",
       "name": "アスナ",
       "attribute": "水",
@@ -2275,72 +2359,6 @@
       "source": "https://game.technophere.com/monst/char/4995/#f4996",
       "evolution": "進化",
       "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4998",
-      "name": "ジェントル＆ラブラバ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4997/#f4998",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5000",
-      "name": "ハイエンド脳無",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4999/#f5000",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5001",
-      "name": "エンデヴァー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5001/#f5001",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5002",
-      "name": "波動ねじれ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5002/#f5002",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5003",
-      "name": "通形ミリオ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5003/#f5003",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5004",
-      "name": "天喰環",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5004/#f5004",
-      "evolution": "進化",
-      "type": "反射",
       "style": "バランス",
       "race": "亜人"
     }

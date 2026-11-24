@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "1211",
+      "name": "マンドレイク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1210/#f1211",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "1213",
+      "name": "火ムラマサ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1212/#f1213",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "1215",
+      "name": "水ムラマサ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1214/#f1215",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "1217",
+      "name": "木ムラマサ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1216/#f1217",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "1219",
       "name": "光ムラマサ",
       "attribute": "光",
@@ -2268,50 +2312,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "亜人"
-    },
-    {
-      "id": "1875",
-      "name": "阿国",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1874/#f1875",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "1877",
-      "name": "見返り娘",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1876/#f1877",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "1878",
-      "name": "バベル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1660/#f1878",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
-    },
-    {
-      "id": "1879",
-      "name": "エレメントオブバベル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1879/#f1879",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔王"
     }
   ]
 }

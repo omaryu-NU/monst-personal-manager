@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "7383",
+      "name": "エンプレス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7381/#f7383",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "7385",
+      "name": "フォーサー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7384/#f7385",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "幻妖"
+    },
+    {
+      "id": "7386",
+      "name": "グラバー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4398/#f7386",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "ロボット"
+    },
+    {
+      "id": "7388",
+      "name": "トヨタマヒメ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7387/#f7388",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "神"
+    },
+    {
+      "id": "7390",
+      "name": "クリムト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7389/#f7390",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7391",
+      "name": "ウォッカ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/437/#f7391",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "妖精"
+    },
+    {
+      "id": "7392",
+      "name": "バルムンク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4523/#f7392",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "7394",
+      "name": "デルタ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7393/#f7394",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "7396",
+      "name": "ベータ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7395/#f7396",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "7398",
       "name": "イプシロン",
       "attribute": "木",
@@ -280,12 +379,28 @@
       "id": "7438",
       "name": "真田幸村",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/303/#f7438",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチワープ",
+        "アンチ魔法陣",
+        "超レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7438.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
       "evolution": "真獣神化",
       "type": "反射",
       "style": "超スピード",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "爆絶貫通拡散弾EL3 （火） 副友情 超強長薙ぎ払い （火）",
+      "ss": "スピードとパワーがアップ＆カウンター/ファーストキラーになる 12+8ターン",
+      "rarity": 6,
+      "hp": 21494,
+      "attack": 20397,
+      "speed": 404.43,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "連撃キラーL"
+      ]
     },
     {
       "id": "7440",
@@ -2573,12 +2688,26 @@
       "id": "7584",
       "name": "アウラ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7584/#f7584",
+      "abilities": [
+        "アンチワープ",
+        "超マインスイーパー",
+        "バイタルキラー スピードモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7584.webp",
+      "source": "https://game.technophere.com/monst/char/7584/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "十字爆撃 （無）",
+      "ss": "スピードとパワーがアップ＆停止後にすべての敵をレクイエムで攻撃 16ターン",
+      "rarity": 6,
+      "hp": 19241,
+      "attack": 17862,
+      "speed": 237.97,
+      "gaugeAbilities": [
+        "超アンチ減速壁"
+      ]
     },
     {
       "id": "7586",
@@ -3140,105 +3269,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "7681",
-      "name": "多良城くるる",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7680/#f7681",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7683",
-      "name": "成尾うみ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7682/#f7683",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "7684",
-      "name": "ベビーアーク",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2431/#f7684",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "魔族"
-    },
-    {
-      "id": "7685",
-      "name": "シンデレラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1155/#f7685",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7686",
-      "name": "鈴蘭",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1256/#f7686",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "7688",
-      "name": "カカゴセデク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7687/#f7688",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "7690",
-      "name": "ナイチンゲール",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2241/#f7690",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7691",
-      "name": "ゼフォン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4696/#f7691",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7692",
-      "name": "ゴッホ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2219/#f7692",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "亜人"
     }
   ]
 }

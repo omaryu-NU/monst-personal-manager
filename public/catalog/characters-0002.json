@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "524",
+      "name": "黒瀬ゆずる",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/523/#f524",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "526",
+      "name": "クラブロン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/525/#f526",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "529",
+      "name": "クィーンバタフライ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/527/#f529",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "531",
       "name": "フロッギー",
       "attribute": "木",
@@ -741,6 +774,26 @@
       "gaugeAbilities": [
         "アンチワープ"
       ]
+    },
+    {
+      "id": "755",
+      "name": "夏ノ陣の猛将 真田幸村",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/755.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "貫通拡散弾EL3 （火） 副友情 短距離拡散弾9 （光）",
+      "ss": "敵にバウンドする毎に、刃を周囲に放つ 24ターン",
+      "rarity": 6,
+      "hp": 20071,
+      "attack": 18963,
+      "speed": 366
     },
     {
       "id": "756",
@@ -2238,50 +2291,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "幻獣"
-    },
-    {
-      "id": "1211",
-      "name": "マンドレイク",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1210/#f1211",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
-    },
-    {
-      "id": "1213",
-      "name": "火ムラマサ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1212/#f1213",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1215",
-      "name": "水ムラマサ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1214/#f1215",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1217",
-      "name": "木ムラマサ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1216/#f1217",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

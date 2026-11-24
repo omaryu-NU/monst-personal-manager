@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "1875",
+      "name": "阿国",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1874/#f1875",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "1877",
+      "name": "見返り娘",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1876/#f1877",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "1878",
+      "name": "バベル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1660/#f1878",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
+      "id": "1879",
+      "name": "エレメントオブバベル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1879/#f1879",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王"
+    },
+    {
       "id": "1881",
       "name": "水のび太",
       "attribute": "水",
@@ -429,6 +473,30 @@
       "type": "反射",
       "style": "スピード",
       "race": "亜人"
+    },
+    {
+      "id": "2003",
+      "name": "不惜身命の勇将 真田幸村",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2003.webp",
+      "source": "https://game.technophere.com/monst/char/303/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "超強反射拡散弾EL5 （火） 副友情 中距離拡散弾9 （光）",
+      "ss": "重力バリアを持つ敵に大ダメージ 12+8ターン",
+      "rarity": 6,
+      "hp": 20071,
+      "attack": 17358,
+      "speed": 383.5,
+      "gaugeAbilities": [
+        "カウンターキラーM"
+      ]
     },
     {
       "id": "2015",
@@ -2196,61 +2264,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ユニバース"
-    },
-    {
-      "id": "2588",
-      "name": "ギャラクシーサーペント",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2586/#f2588",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ユニバース"
-    },
-    {
-      "id": "2592",
-      "name": "スペースデスワーム",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2591/#f2592",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ユニバース"
-    },
-    {
-      "id": "2593",
-      "name": "モルテシア",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2593/#f2593",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "2595",
-      "name": "アンジェリア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2594/#f2595",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "2597",
-      "name": "ニコラス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2596/#f2597",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

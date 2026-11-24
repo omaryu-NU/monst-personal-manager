@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "2970",
+      "name": "逢坂大河",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2970/#f2970",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2971",
+      "name": "イザナギ廻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/856/#f2971",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "2975",
+      "name": "ガラゴーラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2974/#f2975",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "神獣"
+    },
+    {
+      "id": "2977",
+      "name": "セイミー",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2976/#f2977",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "聖域の狩人"
+    },
+    {
+      "id": "2979",
+      "name": "ゲルナンド",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2978/#f2979",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖域の狩人"
+    },
+    {
       "id": "2981",
       "name": "ブルリオ",
       "attribute": "光",
@@ -2180,61 +2235,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "3692",
-      "name": "モン玉リドラ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3692/#f3692",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "3707",
-      "name": "ナギサ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3706/#f3707",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3709",
-      "name": "渇血狸",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3708/#f3709",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "3711",
-      "name": "むっすびぃ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3710/#f3711",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "3714",
-      "name": "ヴィーラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3713/#f3714",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻妖"
     }
   ]
 }
