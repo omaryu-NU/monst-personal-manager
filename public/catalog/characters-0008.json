@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4417",
+      "name": "アイリーン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4416/#f4417",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4419",
+      "name": "はにすけ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4418/#f4419",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "4420",
+      "name": "カルマ廻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2352/#f4420",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "闘神"
+    },
+    {
       "id": "4425",
       "name": "海原を治めし大荒神 スサノオノミコト",
       "attribute": "水",
@@ -2310,56 +2343,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5006",
-      "name": "増長天",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5005/#f5006",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "5007",
-      "name": "マーリン",
-      "attribute": "木",
-      "abilities": [
-        "アンチ減速壁",
-        "回復"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5007.webp",
-      "source": "https://game.technophere.com/monst/char/286/",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔王",
-      "friendship": "ツイン反射レーザーEL4 （木） 副友情 クロススティンガー （光）",
-      "ss": "ヒットした敵の弱点を全て出現させる 16+8ターン",
-      "rarity": 6,
-      "hp": 19226,
-      "attack": 17673,
-      "speed": 275.27,
-      "gaugeAbilities": [
-        "アンチブロック"
-      ],
-      "connectAbilities": [
-        "アンチ重力バリア",
-        "SSターン短縮 条件: 攻撃力2.7万以上が2体以上／合計ラック100以上"
-      ]
-    },
-    {
-      "id": "5008",
-      "name": "マーリン（夏限定）",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2832/#f5008",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "魔王"
     }
   ]
 }

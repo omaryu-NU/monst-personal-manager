@@ -2349,6 +2349,48 @@
       "speed": 142.63
     },
     {
+      "id": "298",
+      "name": "エメラルドドラゴン",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "魔王キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/298.webp",
+      "source": "https://game.technophere.com/monst/char/298/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "鉱物",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、閃光で追い討ち 14ターン",
+      "rarity": 5,
+      "hp": 15498,
+      "attack": 13733,
+      "speed": 380.57
+    },
+    {
+      "id": "299",
+      "name": "光翠竜エメラルドドラゴン",
+      "attribute": "光",
+      "abilities": [
+        "飛行",
+        "魔王キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/299.webp",
+      "source": "https://game.technophere.com/monst/char/298/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "鉱物",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、眩い閃光で追い討ち 15ターン",
+      "rarity": 6,
+      "hp": 20250,
+      "attack": 16425,
+      "speed": 366.17
+    },
+    {
       "id": "301",
       "name": "モルガン",
       "attribute": "闇",
@@ -2932,12 +2974,22 @@
       "id": "456",
       "name": "エメラルドドラゴン",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/298/#f456",
+      "abilities": [
+        "飛行",
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/456.webp",
+      "source": "https://game.technophere.com/monst/char/298/",
       "evolution": "神化",
       "type": "反射",
       "style": "スピード",
-      "race": "鉱物"
+      "race": "鉱物",
+      "friendship": "超爆発 （無） 副友情 拡散弾L2 （火）",
+      "ss": "ふれた最初の敵を乱打し、激しい閃光で追い討ち 14ターン",
+      "rarity": 6,
+      "hp": 20452,
+      "attack": 16589,
+      "speed": 377.17
     },
     {
       "id": "458",
@@ -3156,28 +3208,6 @@
       "source": "https://game.technophere.com/monst/char/527/#f529",
       "evolution": "神化",
       "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "531",
-      "name": "フロッギー",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/530/#f531",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "533",
-      "name": "ゾルゲ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/532/#f533",
-      "evolution": "進化",
-      "type": "貫通",
       "style": "バランス",
       "race": "魔族"
     }

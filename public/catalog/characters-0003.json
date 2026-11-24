@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1219",
+      "name": "光ムラマサ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1218/#f1219",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "1222",
+      "name": "闇ムラマサ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1220/#f1222",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "1228",
       "name": "沙悟浄",
       "attribute": "水",
@@ -2290,28 +2312,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔王"
-    },
-    {
-      "id": "1881",
-      "name": "水のび太",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1880/#f1881",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "1883",
-      "name": "光ドラえもん",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1882/#f1883",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

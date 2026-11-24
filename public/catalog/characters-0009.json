@@ -2,6 +2,56 @@
   "version": 1,
   "characters": [
     {
+      "id": "5006",
+      "name": "増長天",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5005/#f5006",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "5007",
+      "name": "マーリン",
+      "attribute": "木",
+      "abilities": [
+        "アンチ減速壁",
+        "回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5007.webp",
+      "source": "https://game.technophere.com/monst/char/286/",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔王",
+      "friendship": "ツイン反射レーザーEL4 （木） 副友情 クロススティンガー （光）",
+      "ss": "ヒットした敵の弱点を全て出現させる 16+8ターン",
+      "rarity": 6,
+      "hp": 19226,
+      "attack": 17673,
+      "speed": 275.27,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ],
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "SSターン短縮 条件: 攻撃力2.7万以上が2体以上／合計ラック100以上"
+      ]
+    },
+    {
+      "id": "5008",
+      "name": "マーリン（夏限定）",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2832/#f5008",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
       "id": "5011",
       "name": "アリア",
       "attribute": "光",
@@ -2466,15 +2516,49 @@
       ]
     },
     {
+      "id": "5223",
+      "name": "真・ガラハッド",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5223.webp",
+      "source": "https://game.technophere.com/monst/char/5223/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士",
+      "friendship": "追撃貫通弾 （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12545,
+      "attack": 15935,
+      "speed": 321.5
+    },
+    {
       "id": "5224",
       "name": "真ガラハッド",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5223/#f5224",
+      "abilities": [
+        "アンチウィンド",
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5224.webp",
+      "source": "https://game.technophere.com/monst/char/5223/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "追撃貫通弾 （火）",
+      "ss": "最初にふれた壁にスピードアップウォールを張る 16ターン",
+      "rarity": 6,
+      "hp": 16320,
+      "attack": 16928,
+      "speed": 331.9,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "5237",
@@ -3240,50 +3324,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "妖精"
-    },
-    {
-      "id": "5424",
-      "name": "モーツァルトα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5423/#f5424",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5426",
-      "name": "アリスα",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5425/#f5426",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "5429",
-      "name": "ギザーニャ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5427/#f5429",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "5431",
-      "name": "関ヶ原のの",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5430/#f5431",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

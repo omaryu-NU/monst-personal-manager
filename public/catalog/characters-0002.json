@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "531",
+      "name": "フロッギー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/530/#f531",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "533",
+      "name": "ゾルゲ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/532/#f533",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "536",
       "name": "デスアーク",
       "attribute": "闇",
@@ -2257,28 +2279,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/1216/#f1217",
       "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1219",
-      "name": "光ムラマサ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1218/#f1219",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "1222",
-      "name": "闇ムラマサ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1220/#f1222",
-      "evolution": "神化",
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "3717",
+      "name": "セーラーマーズ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3716/#f3717",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3719",
+      "name": "セーラーマーキュリー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3718/#f3719",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3721",
+      "name": "セーラージュピター",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3720/#f3721",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "3723",
       "name": "セーラーヴィーナス",
       "attribute": "光",
@@ -2230,39 +2263,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "妖精"
-    },
-    {
-      "id": "4417",
-      "name": "アイリーン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4416/#f4417",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4419",
-      "name": "はにすけ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4418/#f4419",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "4420",
-      "name": "カルマ廻",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2352/#f4420",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "闘神"
     }
   ]
 }
