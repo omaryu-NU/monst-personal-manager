@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7372",
+      "name": "ヒヤシンス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7371/#f7372",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7374",
+      "name": "スノードロップ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7373/#f7374",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "7376",
+      "name": "クロッカス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7375/#f7376",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
       "id": "7378",
       "name": "ガイザラシ",
       "attribute": "火",
@@ -890,23 +923,57 @@
       "id": "7466",
       "name": "フォーミュラα",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5231/#f7466",
+      "abilities": [
+        "アンチ魔法陣",
+        "アンチ減速壁",
+        "ロングスピードモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7466.webp",
+      "source": "https://game.technophere.com/monst/char/5231/",
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超スピード",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "ヒーリングボムスロー （無） 副友情 バブリーギフト （無）",
+      "ss": "スピードとパワーがアップ＆シールドンとビットンに大ダメージ 8+8ターン",
+      "rarity": 6,
+      "hp": 18590,
+      "attack": 25128,
+      "speed": 426.17,
+      "connectAbilities": [
+        "アンチ重力バリア",
+        "アンチワープ",
+        "幻竜封じL 条件: 聖騎士以外が2体以上／スピード型以外が2体以上"
+      ]
     },
     {
       "id": "7467",
       "name": "アロンズロッドα",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5233/#f7467",
+      "abilities": [
+        "アンチ魔法陣",
+        "アンチ転送壁",
+        "ゲージ倍率保持"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7467.webp",
+      "source": "https://game.technophere.com/monst/char/5233/",
       "evolution": "獣神化・改",
       "type": "反射",
       "style": "超パワー",
-      "race": "聖騎士"
+      "race": "聖騎士",
+      "friendship": "超絶毒フレア （無） 副友情 爆絶爆発 （無）",
+      "ss": "貫通タイプになり、スピードがアップ＆壁にふれると反射タイプに戻る 8+8ターン",
+      "rarity": 6,
+      "hp": 21961,
+      "attack": 27838,
+      "speed": 293.7,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ],
+      "connectAbilities": [
+        "超アンチ重力バリア",
+        "重力バリアキラー 連撃キラーM 条件: 聖騎士以外が2体以上／パワー型以外が2体以上"
+      ]
     },
     {
       "id": "7468",
@@ -2793,12 +2860,27 @@
       "id": "7588",
       "name": "ユビレギリ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7587/#f7588",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチ魔法陣",
+        "アンチ転送壁",
+        "SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7588.webp",
+      "source": "https://game.technophere.com/monst/char/7587/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "パワー",
-      "race": "幻妖"
+      "race": "幻妖",
+      "friendship": "全敵超強毒メテオ （無） 副友情 クリープスフィア （光）",
+      "ss": "スピードとパワーがアップ＆自身とふれた味方を一定期間、バブリー状態にする 16+8ターン",
+      "rarity": 6,
+      "hp": 17910,
+      "attack": 22405,
+      "speed": 170.47,
+      "gaugeAbilities": [
+        "連撃キラーM ドレインS"
+      ]
     },
     {
       "id": "7589",
@@ -3272,39 +3354,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "7669",
-      "name": "静御前",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1341/#f7669",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "7670",
-      "name": "天叢雲",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2057/#f7670",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "神"
-    },
-    {
-      "id": "7672",
-      "name": "メモリーα",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7671/#f7672",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
     }
   ]
 }

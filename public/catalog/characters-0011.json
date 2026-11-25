@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5897",
+      "name": "リンドヴルム",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5895/#f5897",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "5899",
+      "name": "スコル＆ハティ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5898/#f5899",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
+      "id": "5901",
+      "name": "サテュロス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5900/#f5901",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "5903",
       "name": "アンドロメダ",
       "attribute": "木",
@@ -2167,39 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "ユニバース"
-    },
-    {
-      "id": "6317",
-      "name": "塩虎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6316/#f6317",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "幻獣"
-    },
-    {
-      "id": "6319",
-      "name": "木ダスティル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6318/#f6319",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ユニバース"
-    },
-    {
-      "id": "6321",
-      "name": "花辛",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6320/#f6321",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1870",
+      "name": "MC芭蕉",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1869/#f1870",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
       "id": "1873",
       "name": "近松門左衛門",
       "attribute": "木",
@@ -2253,17 +2264,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2571",
-      "name": "パワプロクイバタ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2571/#f2571",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

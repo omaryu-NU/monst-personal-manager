@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "4994",
+      "name": "乱波肩動",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4993/#f4994",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
       "id": "4996",
       "name": "クロノスタシス",
       "attribute": "木",
@@ -2730,6 +2741,58 @@
       ]
     },
     {
+      "id": "5232",
+      "name": "熱血聖夜戦士 モンストフォーミュラ・アクセルα",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチワープ",
+        "幻竜封じM"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5232.webp",
+      "source": "https://game.technophere.com/monst/char/5231/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士",
+      "friendship": "スクランブルレーザーL （光） 副友情 ボムスロー （無）",
+      "ss": "スピードとパワーがアップ＆シールドンとビットンに大ダメージ 8+8ターン",
+      "rarity": 6,
+      "hp": 16955,
+      "attack": 19430,
+      "speed": 402.27,
+      "gaugeAbilities": [
+        "アンチ減速壁",
+        "ダッシュ"
+      ]
+    },
+    {
+      "id": "5234",
+      "name": "優雅なる聖夜の聖杖 アロンズ・ロッドα",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチ魔法陣",
+        "無属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5234.webp",
+      "source": "https://game.technophere.com/monst/char/5233/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "聖騎士",
+      "friendship": "超強毒フレア （無） 副友情 超絶爆発 （無）",
+      "ss": "貫通タイプになり、壁にふれると反射タイプになる 8+8ターン",
+      "rarity": 6,
+      "hp": 20263,
+      "attack": 26523,
+      "speed": 272.13,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "連撃キラーM"
+      ]
+    },
+    {
       "id": "5237",
       "name": "パーティナ",
       "attribute": "水",
@@ -3339,39 +3402,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "5378",
-      "name": "殺生丸",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5378/#f5378",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5393",
-      "name": "電王",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5392/#f5393",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "5395",
-      "name": "ビルド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5394/#f5395",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "コスモ"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5378",
+      "name": "殺生丸",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5378/#f5378",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "5393",
+      "name": "電王",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5392/#f5393",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "5395",
+      "name": "ビルド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5394/#f5395",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "コスモ"
+    },
+    {
       "id": "5397",
       "name": "新1号",
       "attribute": "木",
@@ -2241,39 +2274,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "コスモ"
-    },
-    {
-      "id": "5897",
-      "name": "リンドヴルム",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5895/#f5897",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "5899",
-      "name": "スコル＆ハティ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5898/#f5899",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "5901",
-      "name": "サテュロス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5900/#f5901",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

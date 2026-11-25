@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "508",
+      "name": "土方歳三",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/507/#f508",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "516",
       "name": "モンストマリン",
       "attribute": "水",
@@ -2279,17 +2290,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "1207",
-      "name": "バジリスク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1205/#f1207",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
       "race": "ドラゴン"
     }
   ]

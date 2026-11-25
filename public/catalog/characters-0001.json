@@ -2511,15 +2511,44 @@
       "speed": 318.13
     },
     {
+      "id": "307",
+      "name": "黒田官兵衛",
+      "attribute": "木",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/307.webp",
+      "source": "https://game.technophere.com/monst/char/307/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "白爆発S （無）",
+      "ss": "天才の軍法で、触れた敵全員に氷塊で追撃 25ターン",
+      "rarity": 4,
+      "hp": 8004,
+      "attack": 8976,
+      "speed": 195.17
+    },
+    {
       "id": "308",
       "name": "黒田官兵衛",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/307/#f308",
+      "abilities": [
+        "シールドブレイカー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/308.webp",
+      "source": "https://game.technophere.com/monst/char/307/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "白爆発M （無）",
+      "ss": "鬼神も恐れる智謀で、触れた敵全員に氷塊で追撃 28ターン",
+      "rarity": 5,
+      "hp": 13869,
+      "attack": 15785,
+      "speed": 226.37
     },
     {
       "id": "310",
@@ -3252,17 +3281,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "508",
-      "name": "土方歳三",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/507/#f508",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "サムライ"
     }
   ]

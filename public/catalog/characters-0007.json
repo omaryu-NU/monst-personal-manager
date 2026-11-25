@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "3689",
+      "name": "レイレイ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3688/#f3689",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "3691",
       "name": "ローゼンクロイツ",
       "attribute": "闇",
@@ -2252,17 +2263,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "神"
-    },
-    {
-      "id": "4402",
-      "name": "芹沢鴨",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4400/#f4402",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7042",
+      "name": "楊貴妃",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4561/#f7042",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7043",
+      "name": "王昭君",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4781/#f7043",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "魔人"
+    },
+    {
+      "id": "7044",
+      "name": "デネブ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1004/#f7044",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7046",
       "name": "ディクエクス",
       "attribute": "光",
@@ -2198,39 +2231,6 @@
       "type": "貫通",
       "style": "超バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "7372",
-      "name": "ヒヤシンス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7371/#f7372",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7374",
-      "name": "スノードロップ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7373/#f7374",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "7376",
-      "name": "クロッカス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7375/#f7376",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "妖精"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1207",
+      "name": "バジリスク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1205/#f1207",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
       "id": "1209",
       "name": "コカトリス",
       "attribute": "光",
@@ -2301,17 +2312,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "1870",
-      "name": "MC芭蕉",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1869/#f1870",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔族"
     }
   ]
 }

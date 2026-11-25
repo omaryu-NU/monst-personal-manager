@@ -2,6 +2,54 @@
   "version": 1,
   "characters": [
     {
+      "id": "8006",
+      "name": "アラウィン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4789/#f8006",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "8007",
+      "name": "ノストラダムス",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチブロック",
+        "超レーザーストップ 壁SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8007.webp",
+      "source": "https://game.technophere.com/monst/char/2722/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人",
+      "friendship": "防スピアップ （無） 副友情 超絶拡大爆破弾 （無）",
+      "ss": "スピードとパワーがアップし、マーキングした敵に星を放つ＆停止後にふれた敵に向かってアンゴルモアが攻撃 12+16ターン",
+      "rarity": 6,
+      "hp": 22102,
+      "attack": 29760,
+      "speed": 397.57,
+      "connectAbilities": [
+        "超マインスイーパーEL",
+        "全属性キラー 条件: バランス型以外が2体以上／合計ラック100以上"
+      ]
+    },
+    {
+      "id": "8008",
+      "name": "ノストラダムス（新春）",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3089/#f8008",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "8009",
       "name": "ジェーン",
       "attribute": "光",
@@ -2308,39 +2356,6 @@
         "超アンチダメージウォール",
         "レーザーストップ 条件: 魔人以外が2体以上／バランス型以外が2体以上"
       ]
-    },
-    {
-      "id": "8335",
-      "name": "ルネサンス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8333/#f8335",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8336",
-      "name": "ゲンナイ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1635/#f8336",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "8337",
-      "name": "ハデス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/732/#f8337",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "神"
     }
   ]
 }

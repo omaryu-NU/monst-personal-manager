@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2967",
+      "name": "アクセラレータ（闇）",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2966/#f2967",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2969",
       "name": "シャナ",
       "attribute": "火",
@@ -2224,17 +2235,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔王"
-    },
-    {
-      "id": "3689",
-      "name": "レイレイ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3688/#f3689",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }
