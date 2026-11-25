@@ -2471,15 +2471,44 @@
       "speed": 338.6
     },
     {
+      "id": "305",
+      "name": "伊達政宗",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/305.webp",
+      "source": "https://game.technophere.com/monst/char/305/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ",
+      "friendship": "ロックオン衝撃波3 （無）",
+      "ss": "弦月の力で、スピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 6850,
+      "attack": 7441,
+      "speed": 287.2
+    },
+    {
       "id": "306",
       "name": "伊達政宗",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/305/#f306",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/306.webp",
+      "source": "https://game.technophere.com/monst/char/305/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "ロックオン衝撃波6 （無）",
+      "ss": "天を翔る竜の如く、味方に触れる毎に己のスピードがアップ 20ターン",
+      "rarity": 5,
+      "hp": 11960,
+      "attack": 12849,
+      "speed": 318.13
     },
     {
       "id": "308",
@@ -3235,17 +3264,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "サムライ"
-    },
-    {
-      "id": "516",
-      "name": "モンストマリン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/515/#f516",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

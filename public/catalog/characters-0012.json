@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "6323",
+      "name": "シュカブリー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6322/#f6323",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "6325",
+      "name": "光グレイ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6324/#f6325",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ユニバース"
+    },
+    {
       "id": "6327",
       "name": "イダスト",
       "attribute": "光",
@@ -2225,28 +2247,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "6690",
-      "name": "ラビュリントス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6689/#f6690",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
-    },
-    {
-      "id": "6695",
-      "name": "トクモスドラゴン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6694/#f6695",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ドラゴン"
     }
   ]
 }

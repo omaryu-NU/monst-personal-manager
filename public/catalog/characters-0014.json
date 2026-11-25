@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "7046",
+      "name": "ディクエクス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7045/#f7046",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻妖"
+    },
+    {
+      "id": "7047",
+      "name": "曹丕",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3826/#f7047",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
       "id": "7048",
       "name": "陸奥宗光",
       "attribute": "木",
@@ -2209,28 +2231,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "妖精"
-    },
-    {
-      "id": "7378",
-      "name": "ガイザラシ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7377/#f7378",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "7380",
-      "name": "ファダダス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7379/#f7380",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "聖騎士"
     }
   ]
 }

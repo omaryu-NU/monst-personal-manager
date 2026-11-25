@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "516",
+      "name": "モンストマリン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/515/#f516",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "524",
       "name": "黒瀬ゆずる",
       "attribute": "闇",
@@ -2280,17 +2291,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "ドラゴン"
-    },
-    {
-      "id": "1209",
-      "name": "コカトリス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1208/#f1209",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "幻獣"
     }
   ]
 }

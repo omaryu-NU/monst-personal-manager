@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "4404",
+      "name": "井上源三郎",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4403/#f4404",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "4406",
       "name": "伊東甲子太郎",
       "attribute": "光",
@@ -2349,17 +2360,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4996",
-      "name": "クロノスタシス",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4995/#f4996",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

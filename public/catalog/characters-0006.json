@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2969",
+      "name": "シャナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2968/#f2969",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2970",
       "name": "逢坂大河",
       "attribute": "光",
@@ -2224,17 +2235,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ドラゴン"
-    },
-    {
-      "id": "3691",
-      "name": "ローゼンクロイツ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3690/#f3691",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

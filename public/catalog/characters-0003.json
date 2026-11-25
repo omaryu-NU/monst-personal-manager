@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1209",
+      "name": "コカトリス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1208/#f1209",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "幻獣"
+    },
+    {
       "id": "1211",
       "name": "マンドレイク",
       "attribute": "闇",
@@ -2301,17 +2312,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "魔族"
-    },
-    {
-      "id": "1873",
-      "name": "近松門左衛門",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1871/#f1873",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
     }
   ]
 }

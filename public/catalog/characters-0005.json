@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2585",
+      "name": "ツチノコ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2584/#f2585",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニバース"
+    },
+    {
       "id": "2588",
       "name": "ギャラクシーサーペント",
       "attribute": "水",
@@ -3003,23 +3014,42 @@
       "id": "2756",
       "name": "フラパギガマンティス",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2756/#f2756",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2756.webp",
+      "source": "https://game.technophere.com/monst/char/2756/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "十字レーザーL （木）",
+      "ss": "ふれた敵に雷で追い討ち 30ターン",
+      "rarity": 6,
+      "hp": 14409,
+      "attack": 17347,
+      "speed": 267.93
     },
     {
       "id": "2757",
       "name": "フラパスキュラ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2757/#f2757",
+      "abilities": [
+        "アンチワープ",
+        "アンチウィンド"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2757.webp",
+      "source": "https://game.technophere.com/monst/char/2757/",
       "evolution": "神化",
       "type": "貫通",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "ツインダンクレーザーEL （光） 副友情 インボリュートスフィア （水）",
+      "ss": "自身のスピード＆パワーがアップ＆反撃モードになる 21ターン",
+      "rarity": 6,
+      "hp": 21020,
+      "attack": 30206,
+      "speed": 151.13
     },
     {
       "id": "2758",
@@ -3610,17 +3640,6 @@
       "attribute": "闇",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/2966/#f2967",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2969",
-      "name": "シャナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2968/#f2969",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",

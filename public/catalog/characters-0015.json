@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "7378",
+      "name": "ガイザラシ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7377/#f7378",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "7380",
+      "name": "ファダダス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7379/#f7380",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "聖騎士"
+    },
+    {
       "id": "7383",
       "name": "エンプレス",
       "attribute": "闇",
@@ -842,12 +864,27 @@
       "id": "7465",
       "name": "カメハメハα",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5229/#f7465",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチブロック",
+        "亜人耐性M サムライ耐性M"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7465.webp",
+      "source": "https://game.technophere.com/monst/char/5229/",
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "エナジーボール （水） 副友情 全敵超強落雷 （無）",
+      "ss": "スピードとパワーがアップ＆反撃モードになる 6+12ターン",
+      "rarity": 6,
+      "hp": 15278,
+      "attack": 27830,
+      "speed": 350.07,
+      "connectAbilities": [
+        "超アンチ減速壁",
+        "亜侍封じEL SSターン短縮 条件: 亜人以外が2体以上／砲撃型以外が2体以上"
+      ]
     },
     {
       "id": "7466",
@@ -2710,15 +2747,47 @@
       ]
     },
     {
+      "id": "7585",
+      "name": "ナッポリータ",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7585.webp",
+      "source": "https://game.technophere.com/monst/char/7585/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "トライアングルボム （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 18504,
+      "attack": 19106,
+      "speed": 313.4
+    },
+    {
       "id": "7586",
       "name": "ナッポリータ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7585/#f7586",
+      "abilities": [
+        "アンチ重力バリア（ラック）",
+        "アンチワープ",
+        "アンチブロック",
+        "友情コンボ×2"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7586.webp",
+      "source": "https://game.technophere.com/monst/char/7585/",
       "evolution": "進化",
       "type": "貫通",
       "style": "砲撃",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "トライアングルボム （無）",
+      "ss": "スピードがアップ＆停止後にふれた敵の数に応じて防御力を一定期間ダウンさせる防御ダウンブラストで追い討ち 16ターン",
+      "rarity": 6,
+      "hp": 19352,
+      "attack": 20451,
+      "speed": 300.13
     },
     {
       "id": "7588",
@@ -3236,39 +3305,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "ロボット"
-    },
-    {
-      "id": "7674",
-      "name": "テセウスα",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7673/#f7674",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7676",
-      "name": "アルビレオα",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7675/#f7676",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7679",
-      "name": "井戸内キョーコ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7677/#f7679",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
     }
   ]
 }
