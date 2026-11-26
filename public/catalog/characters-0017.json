@@ -2,6 +2,80 @@
   "version": 1,
   "characters": [
     {
+      "id": "8000",
+      "name": "ワンワン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7999/#f8000",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "獣"
+    },
+    {
+      "id": "8001",
+      "name": "背徳ピストルズ",
+      "attribute": "火",
+      "abilities": [
+        "アンチ魔法陣",
+        "バイタルキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8001.webp",
+      "source": "https://game.technophere.com/monst/char/2746/",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔王",
+      "friendship": "超絶貫通ホーミング18 （火） 副友情 全敵超強毒メテオ （無）",
+      "ss": "ダメージウォール/重力バリア/ワープ/地雷を無効化＆停止後に一定期間、アクセラレータ状態になる 8+16ターン",
+      "rarity": 6,
+      "hp": 22508,
+      "attack": 24615,
+      "speed": 382.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "底力M"
+      ],
+      "connectAbilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーL",
+        "リジェネM 条件: 魔王以外が2体以上／砲撃型以外が2体以上"
+      ]
+    },
+    {
+      "id": "8002",
+      "name": "背徳ピストルズ（フラパ）",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3445/#f8002",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "魔王"
+    },
+    {
+      "id": "8004",
+      "name": "ウリエル",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/929/#f8004",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "8005",
+      "name": "ウリエルMV",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3647/#f8005",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
       "id": "8006",
       "name": "アラウィン",
       "attribute": "火",
@@ -2265,97 +2339,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "サムライ"
-    },
-    {
-      "id": "8325",
-      "name": "磯撫",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8324/#f8325",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "幻獣"
-    },
-    {
-      "id": "8327",
-      "name": "天火",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8326/#f8327",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "8330",
-      "name": "のっぺらぼう",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8328/#f8330",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔族"
-    },
-    {
-      "id": "8331",
-      "name": "ペリドット",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "アンチダメージウォール",
-        "SSターンアクセル"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8331.webp",
-      "source": "https://game.technophere.com/monst/char/5208/",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "聖騎士",
-      "friendship": "超強8方向炸裂弾 （木） 副友情 超強シャイニングピラー （無）",
-      "ss": "スピードとパワーがアップ＆弱点ヒットで敵がマヒ 20+8ターン",
-      "rarity": 6,
-      "hp": 16688,
-      "attack": 21149,
-      "speed": 418.53,
-      "gaugeAbilities": [
-        "底力L"
-      ],
-      "connectAbilities": [
-        "超アンチ減速壁",
-        "鳥獣封じM SSターンチャージ 条件: 聖騎士以外が2体以上／スピード型以外が2体以上"
-      ]
-    },
-    {
-      "id": "8332",
-      "name": "ゲーテ",
-      "attribute": "光",
-      "abilities": [
-        "超アンチ重力バリア",
-        "アンチ魔法陣"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/8332.webp",
-      "source": "https://game.technophere.com/monst/char/2691/",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "魔人",
-      "friendship": "超強反射レーザーEL4 （光） 副友情 超絶6方向ウェーブ （無）",
-      "ss": "スピードとパワーがアップ＆ふれた敵の弱点を一定期間、すべて出現させる 16+8ターン",
-      "rarity": 6,
-      "hp": 21806,
-      "attack": 24223,
-      "speed": 375.1,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "SSターン短縮"
-      ],
-      "connectAbilities": [
-        "超アンチダメージウォール",
-        "レーザーストップ 条件: 魔人以外が2体以上／バランス型以外が2体以上"
-      ]
     }
   ]
 }

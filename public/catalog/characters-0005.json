@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2569",
+      "name": "ハル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2568/#f2569",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2571",
       "name": "パワプロクイバタ",
       "attribute": "水",
@@ -3083,6 +3094,50 @@
       "speed": 344.3
     },
     {
+      "id": "2760",
+      "name": "カナン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2760.webp",
+      "source": "https://game.technophere.com/monst/char/2760/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "ワンウェイレーザーL （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15128,
+      "attack": 14401,
+      "speed": 264.13
+    },
+    {
+      "id": "2761",
+      "name": "約束の地を描く者 カナン",
+      "attribute": "闇",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2761.webp",
+      "source": "https://game.technophere.com/monst/char/2760/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "マーキングレーザー （闇） 副友情 次元斬 （無）",
+      "ss": "貫通タイプになり、敵を貫く 24ターン",
+      "rarity": 6,
+      "hp": 19800,
+      "attack": 13445,
+      "speed": 298.7,
+      "gaugeAbilities": [
+        "アンチダメージウォール",
+        "魔法陣ブースト"
+      ]
+    },
+    {
       "id": "2767",
       "name": "ランファン",
       "attribute": "水",
@@ -3616,39 +3671,6 @@
       "attribute": "火",
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/2956/#f2957",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2959",
-      "name": "司波達也",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2958/#f2959",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2961",
-      "name": "御坂美琴",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2960/#f2961",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2965",
-      "name": "平和島静雄",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2964/#f2965",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",

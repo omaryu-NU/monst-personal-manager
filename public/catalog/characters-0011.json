@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "5881",
+      "name": "山林房八",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5879/#f5881",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "5882",
+      "name": "ショクイン廻",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4262/#f5882",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "鳥"
+    },
+    {
+      "id": "5885",
+      "name": "オーディン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/383/#f5885",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "神"
+    },
+    {
+      "id": "5887",
+      "name": "アメノトリフネ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5886/#f5887",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "5888",
+      "name": "パーシィ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3190/#f5888",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "コスモ"
+    },
+    {
       "id": "5897",
       "name": "リンドヴルム",
       "attribute": "火",
@@ -2145,61 +2200,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "聖騎士"
-    },
-    {
-      "id": "6306",
-      "name": "サラマンダー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1102/#f6306",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "6309",
-      "name": "ジャックザリッパー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6307/#f6309",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "6311",
-      "name": "甘兎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6310/#f6311",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ユニバース"
-    },
-    {
-      "id": "6313",
-      "name": "サピラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6312/#f6313",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "6315",
-      "name": "水サテライト",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6314/#f6315",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニバース"
     }
   ]
 }

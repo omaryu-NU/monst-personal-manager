@@ -2551,15 +2551,44 @@
       "speed": 226.37
     },
     {
+      "id": "309",
+      "name": "石田三成",
+      "attribute": "光",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/309.webp",
+      "source": "https://game.technophere.com/monst/char/309/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ",
+      "friendship": "バーティカルレーザーM （光）",
+      "ss": "類まれなる機知で、パワーが大アップ 13ターン",
+      "rarity": 4,
+      "hp": 7160,
+      "attack": 14142,
+      "speed": 120.4
+    },
+    {
       "id": "310",
       "name": "石田三成",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/309/#f310",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/310.webp",
+      "source": "https://game.technophere.com/monst/char/309/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "バーティカルレーザーL （光）",
+      "ss": "若き智の力によって、味方に触れる毎に己のパワーがアップ 20ターン",
+      "rarity": 5,
+      "hp": 12265,
+      "attack": 25033,
+      "speed": 132.83
     },
     {
       "id": "314",
@@ -3270,17 +3299,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "506",
-      "name": "近藤勇",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/505/#f506",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "サムライ"
     }
   ]

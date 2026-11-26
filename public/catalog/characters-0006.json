@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "2959",
+      "name": "司波達也",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2958/#f2959",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2961",
+      "name": "御坂美琴",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2960/#f2961",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "2965",
+      "name": "平和島静雄",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2964/#f2965",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2967",
       "name": "アクセラレータ（闇）",
       "attribute": "闇",
@@ -2202,39 +2235,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "神"
-    },
-    {
-      "id": "3682",
-      "name": "テニカ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3682/#f3682",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "3683",
-      "name": "バーディ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3683/#f3683",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "3687",
-      "name": "トリッキィ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3686/#f3687",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔王"
     }
   ]
 }

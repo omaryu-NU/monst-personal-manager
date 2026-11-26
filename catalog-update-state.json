@@ -1,7 +1,7 @@
 {
-  "nextPage": 4,
+  "nextPage": 8,
   "totalPages": 50,
-  "lastRun": "2026-11-25T19:16:51.913232+00:00",
+  "lastRun": "2026-11-26T03:35:17.418515+00:00",
   "visitedPages": [
     1,
     2,
@@ -54,8 +54,8 @@
     49,
     50
   ],
-  "runNumber": 65,
-  "profileCursor": 319,
+  "runNumber": 66,
+  "profileCursor": 324,
   "profileRetry": {},
   "detailRefreshAfterRun": {
     "https://game.technophere.com/monst/char/9531/": 84,
@@ -170,6 +170,7 @@
     "https://game.technophere.com/monst/char/2757/",
     "https://game.technophere.com/monst/char/2758/",
     "https://game.technophere.com/monst/char/276/",
+    "https://game.technophere.com/monst/char/2760/",
     "https://game.technophere.com/monst/char/278/",
     "https://game.technophere.com/monst/char/280/",
     "https://game.technophere.com/monst/char/282/",
@@ -185,6 +186,7 @@
     "https://game.technophere.com/monst/char/303/",
     "https://game.technophere.com/monst/char/305/",
     "https://game.technophere.com/monst/char/307/",
+    "https://game.technophere.com/monst/char/309/",
     "https://game.technophere.com/monst/char/5085/",
     "https://game.technophere.com/monst/char/5093/",
     "https://game.technophere.com/monst/char/5097/",
@@ -243,6 +245,7 @@
     "https://game.technophere.com/monst/char/5229/",
     "https://game.technophere.com/monst/char/5231/",
     "https://game.technophere.com/monst/char/5233/",
+    "https://game.technophere.com/monst/char/5235/",
     "https://game.technophere.com/monst/char/7439/",
     "https://game.technophere.com/monst/char/7441/",
     "https://game.technophere.com/monst/char/7446/",
@@ -300,6 +303,8 @@
     "https://game.technophere.com/monst/char/7584/",
     "https://game.technophere.com/monst/char/7585/",
     "https://game.technophere.com/monst/char/7587/",
+    "https://game.technophere.com/monst/char/7591/",
+    "https://game.technophere.com/monst/char/7593/",
     "https://game.technophere.com/monst/char/9370/",
     "https://game.technophere.com/monst/char/9372/",
     "https://game.technophere.com/monst/char/9374/",
@@ -1677,6 +1682,26 @@
     "https://game.technophere.com/monst/char/5233/": [
       "5234",
       "7467"
+    ],
+    "https://game.technophere.com/monst/char/7591/": [
+      "7592"
+    ],
+    "https://game.technophere.com/monst/char/309/": [
+      "309",
+      "310"
+    ],
+    "https://game.technophere.com/monst/char/2760/": [
+      "2760",
+      "2761",
+      "4171"
+    ],
+    "https://game.technophere.com/monst/char/5235/": [
+      "5235",
+      "5236",
+      "5237"
+    ],
+    "https://game.technophere.com/monst/char/7593/": [
+      "7594"
     ]
   }
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "506",
+      "name": "近藤勇",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/505/#f506",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
       "id": "508",
       "name": "土方歳三",
       "attribute": "闇",
@@ -2280,17 +2291,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "1204",
-      "name": "グローツラング",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1203/#f1204",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
     }
   ]
 }

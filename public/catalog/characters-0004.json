@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1868",
+      "name": "世阿弥",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1866/#f1868",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "1870",
       "name": "MC芭蕉",
       "attribute": "水",
@@ -2253,17 +2264,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "魔王"
-    },
-    {
-      "id": "2569",
-      "name": "ハル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2568/#f2569",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }
