@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "498",
+      "name": "斉藤一",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/497/#f498",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
+      "id": "501",
+      "name": "沖田総司",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/499/#f501",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
+      "id": "504",
+      "name": "徳川慶喜",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/502/#f504",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "506",
       "name": "近藤勇",
       "attribute": "光",
@@ -2258,39 +2291,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "1181",
-      "name": "火ドラえもん",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1180/#f1181",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "1183",
-      "name": "光のび太",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1182/#f1183",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "1202",
-      "name": "ガーゴイル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1200/#f1202",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

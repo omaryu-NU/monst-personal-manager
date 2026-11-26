@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7355",
+      "name": "ヴァニラアイス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7354/#f7355",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "7356",
+      "name": "承太郎＆イギー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7356/#f7356",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7357",
+      "name": "徳川家康",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/798/#f7357",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "コスモ"
+    },
+    {
+      "id": "7358",
+      "name": "サンクチュアリドラゴン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2234/#f7358",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "7359",
+      "name": "ホルホース",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7359/#f7359",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7361",
+      "name": "伏姫α",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4369/#f7361",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "神"
+    },
+    {
+      "id": "7362",
+      "name": "アリババα",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4371/#f7362",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7363",
+      "name": "ルイスキャロルα",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4373/#f7363",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7364",
       "name": "三蔵法師",
       "attribute": "光",
@@ -3011,12 +3099,26 @@
       "id": "7596",
       "name": "羅生門",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7595/#f7596",
+      "abilities": [
+        "超アンチダメージウォール",
+        "アンチ転送壁",
+        "毒キラー 全属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7596.webp",
+      "source": "https://game.technophere.com/monst/char/7595/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "バランス",
-      "race": "魔人"
+      "race": "魔人",
+      "friendship": "鋭角3方向追従型貫通弾 （闇） 副友情 爆絶爆発 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた壁すべてに加速壁を張る 12+8ターン",
+      "rarity": 6,
+      "hp": 18881,
+      "attack": 20834,
+      "speed": 328.77,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "7598",
@@ -3291,94 +3393,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7639",
-      "name": "マルス",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4458/#f7639",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "神"
-    },
-    {
-      "id": "7640",
-      "name": "ブリューナク",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4527/#f7640",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "7642",
-      "name": "仙丹",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7641/#f7642",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7644",
-      "name": "塚原卜伝",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7643/#f7644",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7646",
-      "name": "富田勢源",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7645/#f7646",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7648",
-      "name": "源為朝",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7647/#f7648",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "7650",
-      "name": "与謝蕪村",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7649/#f7650",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7652",
-      "name": "尾形光琳",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7651/#f7652",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

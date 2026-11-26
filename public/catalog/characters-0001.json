@@ -2591,15 +2591,84 @@
       "speed": 132.83
     },
     {
+      "id": "311",
+      "name": "織田信長",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/311.webp",
+      "source": "https://game.technophere.com/monst/char/311/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "バーティカルレーザーL （闇）",
+      "ss": "号令と共に、仲間を弾いて敵へ撃ちこむ 24ターン",
+      "rarity": 5,
+      "hp": 11358,
+      "attack": 16168,
+      "speed": 240.1
+    },
+    {
+      "id": "312",
+      "name": "第六天魔王 ノブナガ",
+      "attribute": "闇",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/312.webp",
+      "source": "https://game.technophere.com/monst/char/311/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "クロスレーザーL （闇）",
+      "ss": "天下一のカリスマで、仲間を導いて敵へ撃ちこむ 26ターン",
+      "rarity": 6,
+      "hp": 17964,
+      "attack": 25696,
+      "speed": 273.67
+    },
+    {
+      "id": "313",
+      "name": "朱鬼",
+      "attribute": "火",
+      "abilities": [
+        "ロボットキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/313.webp",
+      "source": "https://game.technophere.com/monst/char/313/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族",
+      "friendship": "大爆発 （無）",
+      "ss": "ふれた最初の敵を打撃し、天地揺さぶる力で敵をふっとばす 12ターン",
+      "rarity": 4,
+      "hp": 6444,
+      "attack": 13890,
+      "speed": 136.8
+    },
+    {
       "id": "314",
       "name": "朱鬼",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/313/#f314",
+      "abilities": [
+        "ロボットキラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/314.webp",
+      "source": "https://game.technophere.com/monst/char/313/",
       "evolution": "進化",
       "type": "反射",
       "style": "パワー",
-      "race": "魔族"
+      "race": "魔族",
+      "friendship": "大々爆発 （無）",
+      "ss": "ふれた最初の敵を乱打し、鬼の怪力で敵をふっとばす 15ターン",
+      "rarity": 5,
+      "hp": 11052,
+      "attack": 24586,
+      "speed": 150.97
     },
     {
       "id": "316",
@@ -3264,39 +3333,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/492/#f493",
       "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "498",
-      "name": "斉藤一",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/497/#f498",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
-    },
-    {
-      "id": "501",
-      "name": "沖田総司",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/499/#f501",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "504",
-      "name": "徳川慶喜",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/502/#f504",
-      "evolution": "神化",
       "type": "反射",
       "style": "バランス",
       "race": "サムライ"

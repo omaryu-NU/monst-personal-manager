@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "6292",
+      "name": "デイゴ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6291/#f6292",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "妖精"
+    },
+    {
+      "id": "6294",
+      "name": "プロテア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6293/#f6294",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "妖精"
+    },
+    {
+      "id": "6296",
+      "name": "ブーゲンビリア",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6295/#f6296",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "6299",
+      "name": "マゴスチーネ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6297/#f6299",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "6301",
+      "name": "ギスイッカ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6300/#f6301",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "魔族"
+    },
+    {
+      "id": "6303",
+      "name": "ドリアンディ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6302/#f6303",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "6304",
+      "name": "ドランフルッツ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6304/#f6304",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "6305",
+      "name": "ケテル廻",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4542/#f6305",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
       "id": "6306",
       "name": "サラマンダー",
       "attribute": "火",
@@ -2159,94 +2247,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "6660",
-      "name": "西郷隆盛",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/494/#f6660",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "6662",
-      "name": "ヨルズ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6661/#f6662",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "6664",
-      "name": "ミーミル",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6663/#f6664",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "6666",
-      "name": "テュール",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6665/#f6666",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "6669",
-      "name": "アウズンブラ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6667/#f6669",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6671",
-      "name": "ラタトスク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6670/#f6671",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "獣"
-    },
-    {
-      "id": "6673",
-      "name": "スカジ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6672/#f6673",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "6675",
-      "name": "フィーア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6674/#f6675",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "1850",
+      "name": "ネカリ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1849/#f1850",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ファイター"
+    },
+    {
+      "id": "1852",
+      "name": "オリガミ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1851/#f1852",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "1854",
+      "name": "胤舜",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1853/#f1854",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "1859",
+      "name": "梅軒",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1858/#f1859",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "1868",
       "name": "世阿弥",
       "attribute": "火",
@@ -2220,50 +2264,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "2561",
-      "name": "ユミル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2559/#f2561",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "鉱物"
-    },
-    {
-      "id": "2563",
-      "name": "ヨトゥン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2562/#f2563",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "2565",
-      "name": "ガルム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2564/#f2565",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "幻獣"
-    },
-    {
-      "id": "2567",
-      "name": "アングルボザ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2566/#f2567",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "魔王"
     }
   ]
 }

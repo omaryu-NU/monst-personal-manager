@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "4358",
+      "name": "ふぶき姫",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4357/#f4358",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4360",
+      "name": "キュウビ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4359/#f4360",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4362",
+      "name": "オロチ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4361/#f4362",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4363",
+      "name": "エンマ大王",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4363/#f4363",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖怪"
+    },
+    {
+      "id": "4376",
+      "name": "キャンディ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4375/#f4376",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4378",
+      "name": "ヴァンプキッド",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4377/#f4378",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4380",
+      "name": "タピルウ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4379/#f4380",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
       "id": "4383",
       "name": "メア",
       "attribute": "闇",
@@ -2294,83 +2371,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "4975",
-      "name": "韋駄天廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3297/#f4975",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "4977",
-      "name": "爆豪勝己",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4188/#f4977",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4978",
-      "name": "轟焦凍",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4190/#f4978",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "4979",
-      "name": "緑谷出久",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4194/#f4979",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4981",
-      "name": "切島鋭児郎",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4980/#f4981",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "4983",
-      "name": "蛙吹梅雨",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4982/#f4983",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4985",
-      "name": "八百万百",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4984/#f4985",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

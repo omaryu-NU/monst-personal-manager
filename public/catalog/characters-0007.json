@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "3655",
+      "name": "Mオラゴン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3654/#f3655",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "3658",
+      "name": "Mあんこ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2544/#f3658",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "3673",
+      "name": "ベイドン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3672/#f3673",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "ドラゴン"
+    },
+    {
+      "id": "3675",
+      "name": "キャスパリーグ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3674/#f3675",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "3678",
+      "name": "ルキウス",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3676/#f3678",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "3680",
+      "name": "アグラヴェイン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3679/#f3680",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "3681",
+      "name": "スピリナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3681/#f3681",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "3682",
       "name": "テニカ",
       "attribute": "木",
@@ -2189,83 +2266,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "妖怪"
-    },
-    {
-      "id": "4358",
-      "name": "ふぶき姫",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4357/#f4358",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4360",
-      "name": "キュウビ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4359/#f4360",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4362",
-      "name": "オロチ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4361/#f4362",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4363",
-      "name": "エンマ大王",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4363/#f4363",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4376",
-      "name": "キャンディ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4375/#f4376",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4378",
-      "name": "ヴァンプキッド",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4377/#f4378",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "4380",
-      "name": "タピルウ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4379/#f4380",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
     }
   ]
 }

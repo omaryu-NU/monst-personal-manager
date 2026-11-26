@@ -2,6 +2,94 @@
   "version": 1,
   "characters": [
     {
+      "id": "7639",
+      "name": "マルス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4458/#f7639",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "7640",
+      "name": "ブリューナク",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4527/#f7640",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "7642",
+      "name": "仙丹",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7641/#f7642",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "7644",
+      "name": "塚原卜伝",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7643/#f7644",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7646",
+      "name": "富田勢源",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7645/#f7646",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "7648",
+      "name": "源為朝",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7647/#f7648",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "サムライ"
+    },
+    {
+      "id": "7650",
+      "name": "与謝蕪村",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7649/#f7650",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7652",
+      "name": "尾形光琳",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7651/#f7652",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "7655",
       "name": "井原西鶴",
       "attribute": "闇",
@@ -2176,94 +2264,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "獣"
-    },
-    {
-      "id": "7986",
-      "name": "水エムル",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7986/#f7986",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7987",
-      "name": "アニマリア",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7987/#f7987",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7988",
-      "name": "カメハメハ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2914/#f7988",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "7993",
-      "name": "久遠",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7991/#f7993",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7994",
-      "name": "真田昌幸",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4867/#f7994",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "サムライ"
-    },
-    {
-      "id": "7995",
-      "name": "トート",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2505/#f7995",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "神"
-    },
-    {
-      "id": "7997",
-      "name": "アブピッシャー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7996/#f7997",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "幻妖"
-    },
-    {
-      "id": "7998",
-      "name": "ウェザエモン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7989/#f7998",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,83 @@
   "version": 1,
   "characters": [
     {
+      "id": "4975",
+      "name": "韋駄天廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3297/#f4975",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "4977",
+      "name": "爆豪勝己",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4188/#f4977",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4978",
+      "name": "轟焦凍",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4190/#f4978",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "4979",
+      "name": "緑谷出久",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4194/#f4979",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4981",
+      "name": "切島鋭児郎",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4980/#f4981",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "4983",
+      "name": "蛙吹梅雨",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4982/#f4983",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4985",
+      "name": "八百万百",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4984/#f4985",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "4987",
       "name": "上鳴電気",
       "attribute": "光",
@@ -2895,15 +2972,47 @@
       ]
     },
     {
+      "id": "5238",
+      "name": "柊木参太郎",
+      "attribute": "木",
+      "abilities": [
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5238.webp",
+      "source": "https://game.technophere.com/monst/char/5238/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ",
+      "friendship": "長薙ぎ払い （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 14309,
+      "attack": 21670,
+      "speed": 224.63
+    },
+    {
       "id": "5239",
       "name": "柊木参太郎",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5238/#f5239",
+      "abilities": [
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5239.webp",
+      "source": "https://game.technophere.com/monst/char/5238/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "長薙ぎ払い （木）",
+      "ss": "ダメージウォール、バリア、ワープ、地雷を無効化する 8ターン",
+      "rarity": 6,
+      "hp": 17070,
+      "attack": 18038,
+      "speed": 217.6,
+      "gaugeAbilities": [
+        "アンチ減速壁"
+      ]
     },
     {
       "id": "5241",
@@ -3324,120 +3433,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "5356",
-      "name": "掘朔",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5354/#f5356",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "5357",
-      "name": "カイメイジュウ廻",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4036/#f5357",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "5359",
-      "name": "モノノケ少女",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5358/#f5359",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔人"
-    },
-    {
-      "id": "5360",
-      "name": "宇宙最高のロックバンド 背徳ピストルズ",
-      "attribute": "火",
-      "abilities": [
-        "超マインスイーパーL",
-        "アンチダメージウォール",
-        "リジェネM バイタルキラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5360.webp",
-      "source": "https://game.technophere.com/monst/char/2746/",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王",
-      "friendship": "十字爆撃 （無） 副友情 超強中距離毒拡散弾9 （無）",
-      "ss": "ダメージウォール、重力バリア、ワープ、地雷を無効化する 8+16ターン",
-      "rarity": 6,
-      "hp": 20571,
-      "attack": 23125,
-      "speed": 351.2,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "底力M"
-      ]
-    },
-    {
-      "id": "5364",
-      "name": "プルーン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5363/#f5364",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "獣"
-    },
-    {
-      "id": "5366",
-      "name": "テイネモシリ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5365/#f5366",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "5367",
-      "name": "物語を束ねしパペットマスター イソップ",
-      "attribute": "水",
-      "abilities": [
-        "マインスイーパーM",
-        "アンチダメージウォール",
-        "超アンチウィンド"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5367.webp",
-      "source": "https://game.technophere.com/monst/char/2688/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "超強拡大爆破弾 （無） 副友情 超強毒フレア （無）",
-      "ss": "DWにふれる毎にパワーがアップ 12+8ターン",
-      "rarity": 6,
-      "hp": 19690,
-      "attack": 25863,
-      "speed": 355.77
-    },
-    {
-      "id": "5370",
-      "name": "早乙女乱馬",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5368/#f5370",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }
