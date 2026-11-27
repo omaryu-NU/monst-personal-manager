@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "5324",
+      "name": "エネドラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5323/#f5324",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "近界民"
+    },
+    {
+      "id": "5325",
+      "name": "嵐山隊",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5325/#f5325",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
       "id": "5326",
       "name": "風間隊",
       "attribute": "水",
@@ -2242,28 +2264,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "5834",
-      "name": "ガーフィール",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5833/#f5834",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "5836",
-      "name": "ヴィルヘルム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5835/#f5836",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "亜人"
     }
   ]

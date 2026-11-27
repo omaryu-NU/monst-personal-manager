@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2539",
+      "name": "クリーモン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2538/#f2539",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "2541",
       "name": "バブルボーイ",
       "attribute": "木",
@@ -3415,15 +3426,47 @@
       ]
     },
     {
+      "id": "2775",
+      "name": "リザホークアイ",
+      "attribute": "火",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2775.webp",
+      "source": "https://game.technophere.com/monst/char/2775/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "跳弾 （無）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 12152,
+      "attack": 10627,
+      "speed": 265.57
+    },
+    {
       "id": "2776",
       "name": "リザホークアイ",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2775/#f2776",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2776.webp",
+      "source": "https://game.technophere.com/monst/char/2775/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "跳弾 （無）",
+      "ss": "貫通タイプになり、敵を貫く 18ターン",
+      "rarity": 6,
+      "hp": 14234,
+      "attack": 12577,
+      "speed": 290.97,
+      "gaugeAbilities": [
+        "獣キラー"
+      ]
     },
     {
       "id": "2777",
@@ -3767,28 +3810,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "人形"
-    },
-    {
-      "id": "2894",
-      "name": "ギーラ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2893/#f2894",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2896",
-      "name": "ジェリコ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2895/#f2896",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
     }
   ]
 }

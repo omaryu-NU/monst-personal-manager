@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8286",
+      "name": "シオン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6883/#f8286",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "8288",
+      "name": "ソーカ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8287/#f8288",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "8290",
+      "name": "ランガ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8289/#f8290",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "獣"
+    },
+    {
+      "id": "8292",
+      "name": "ヴェルドラ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8291/#f8292",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ドラゴン"
+    },
+    {
       "id": "8294",
       "name": "ミリム",
       "attribute": "光",
@@ -2277,50 +2321,6 @@
       "type": "貫通",
       "style": "砲撃",
       "race": "ロボット"
-    },
-    {
-      "id": "8597",
-      "name": "アラガ＆ラゴウチ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8597/#f8597",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8598",
-      "name": "シイコ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8598/#f8598",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8599",
-      "name": "ガイア＆オルテガ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8599/#f8599",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8600",
-      "name": "マチュ＆シュウジ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8600/#f8600",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

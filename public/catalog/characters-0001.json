@@ -2751,15 +2751,44 @@
       "speed": 174.33
     },
     {
+      "id": "319",
+      "name": "ぬえ",
+      "attribute": "光",
+      "abilities": [
+        "鉱物キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/319.webp",
+      "source": "https://game.technophere.com/monst/char/319/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "幻獣",
+      "friendship": "拡散弾L2 （光）",
+      "ss": "ふれた最初の敵を乱打し、電気を放って追い打ち 14ターン",
+      "rarity": 4,
+      "hp": 6480,
+      "attack": 9685,
+      "speed": 289.8
+    },
+    {
       "id": "320",
       "name": "ぬえ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/319/#f320",
+      "abilities": [
+        "鉱物キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/320.webp",
+      "source": "https://game.technophere.com/monst/char/319/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "幻獣"
+      "race": "幻獣",
+      "friendship": "拡散弾EL3 （光）",
+      "ss": "ふれた最初の敵を乱打し、雷撃を放って追い打ち 15ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 11872,
+      "speed": 338.63
     },
     {
       "id": "322",
@@ -3361,17 +3390,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "483",
-      "name": "ラスカル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/483/#f483",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "獣"
     }
   ]
 }

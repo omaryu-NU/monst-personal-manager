@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2894",
+      "name": "ギーラ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2893/#f2894",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "2896",
+      "name": "ジェリコ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2895/#f2896",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
       "id": "2898",
       "name": "ヘルブラム",
       "attribute": "木",
@@ -2213,28 +2235,6 @@
         "アンチワープ",
         "SSターン短縮"
       ]
-    },
-    {
-      "id": "3625",
-      "name": "ヴィクトリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3624/#f3625",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "3628",
-      "name": "カナタ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3627/#f3628",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "聖騎士"
     }
   ]
 }

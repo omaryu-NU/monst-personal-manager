@@ -2,6 +2,98 @@
   "version": 1,
   "characters": [
     {
+      "id": "9470",
+      "name": "プリシラ",
+      "attribute": "火",
+      "abilities": [
+        "超アンチ重力バリア",
+        "マインスイーパーM",
+        "アタックターンキラー 友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9470.webp",
+      "source": "https://game.technophere.com/monst/char/9470/",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "亜人",
+      "friendship": "ハイエナジーサークル （火） 副友情 防御ダウン弾 （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を陽剣で攻撃 16+8ターン",
+      "rarity": 6,
+      "hp": 20183,
+      "attack": 24515,
+      "speed": 344.73,
+      "gaugeAbilities": [
+        "超アンチワープ",
+        "アンチ減速床",
+        "SSターンブースト"
+      ]
+    },
+    {
+      "id": "9471",
+      "name": "テレシア",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9471.webp",
+      "source": "https://game.technophere.com/monst/char/9471/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超絶長薙ぎ払い （火）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7661,
+      "attack": 9042,
+      "speed": 241.97
+    },
+    {
+      "id": "9472",
+      "name": "テレシア",
+      "attribute": "火",
+      "abilities": [
+        "アンチ重力バリア",
+        "木属性耐性"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9472.webp",
+      "source": "https://game.technophere.com/monst/char/9471/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "超絶長薙ぎ払い （火）",
+      "ss": "ふれた最初の敵を乱打＆一定期間、反撃モードになる 12ターン",
+      "rarity": 5,
+      "hp": 13277,
+      "attack": 11152,
+      "speed": 241.83,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ転送壁"
+      ]
+    },
+    {
+      "id": "9473",
+      "name": "クルガン",
+      "attribute": "水",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/9473.webp",
+      "source": "https://game.technophere.com/monst/char/9473/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "連気弾 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8502,
+      "attack": 12416,
+      "speed": 155.3
+    },
+    {
       "id": "9474",
       "name": "クルガン",
       "attribute": "水",

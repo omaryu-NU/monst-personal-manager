@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8902",
+      "name": "ミハエル＆クラン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8902/#f8902",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "8903",
+      "name": "マックス＆ミリア",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8903/#f8903",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "8904",
+      "name": "キース",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8904/#f8904",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8905",
+      "name": "ブレラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/8905/#f8905",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "8907",
       "name": "フレイア＆ハヤテ",
       "attribute": "水",
@@ -2196,50 +2240,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔人"
-    },
-    {
-      "id": "9200",
-      "name": "ヒカリ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/330/#f9200",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "9201",
-      "name": "ヒカリ（バレンタイン）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3179/#f9201",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "9204",
-      "name": "エボニー＆アイボリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9202/#f9204",
-      "evolution": "真獣神化",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "9205",
-      "name": "ドラクロノ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/9205/#f9205",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
     }
   ]
 }

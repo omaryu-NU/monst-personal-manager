@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "6271",
+      "name": "ヒノエンマ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6269/#f6271",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6272",
+      "name": "ムー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1542/#f6272",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超パワー",
+      "race": "コスモ"
+    },
+    {
       "id": "6274",
       "name": "クシャーンティ",
       "attribute": "光",
@@ -2225,28 +2247,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "6643",
-      "name": "マキマ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6643/#f6643",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "6645",
-      "name": "沢渡アカネ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6644/#f6645",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

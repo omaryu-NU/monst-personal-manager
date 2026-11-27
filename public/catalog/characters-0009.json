@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4936",
+      "name": "チューストン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4935/#f4936",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
+      "id": "4938",
+      "name": "トレザード",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4937/#f4938",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
       "id": "4939",
       "name": "はじめしゃちょー",
       "attribute": "木",
@@ -3241,12 +3263,25 @@
       "id": "5254",
       "name": "はつひ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5254/#f5254",
+      "abilities": [
+        "マインスイーパー",
+        "友情底力"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5254.webp",
+      "source": "https://game.technophere.com/monst/char/5254/",
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "神"
+      "race": "神",
+      "friendship": "ツインダンクレーザーEL （光）",
+      "ss": "スピードがアップ＆最初にふれた敵の位置に移動 12ターン",
+      "rarity": 6,
+      "hp": 17125,
+      "attack": 15886,
+      "speed": 334.03,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "5263",
@@ -3445,28 +3480,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "近界民"
-    },
-    {
-      "id": "5324",
-      "name": "エネドラ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5323/#f5324",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "近界民"
-    },
-    {
-      "id": "5325",
-      "name": "嵐山隊",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5325/#f5325",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ボーダー隊員"
     }
   ]
 }

@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4341",
+      "name": "ルーチー",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4340/#f4341",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "魔人"
+    },
+    {
+      "id": "4342",
+      "name": "メメントモリ廻",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2298/#f4342",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "闘神"
+    },
+    {
       "id": "4343",
       "name": "絶対無敵の恐怖の大王 ノストラダムス",
       "attribute": "水",
@@ -2379,28 +2401,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "亜人"
-    },
-    {
-      "id": "4936",
-      "name": "チューストン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4935/#f4936",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
-    },
-    {
-      "id": "4938",
-      "name": "トレザード",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4937/#f4938",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
     }
   ]
 }
