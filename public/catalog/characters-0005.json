@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2541",
+      "name": "バブルボーイ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2540/#f2541",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "2543",
       "name": "スウィーティカ",
       "attribute": "光",
@@ -3360,6 +3371,50 @@
       "race": "亜人"
     },
     {
+      "id": "2773",
+      "name": "リン・ヤオ",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2773.webp",
+      "source": "https://game.technophere.com/monst/char/2773/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "反射レーザーM3 （闇）",
+      "ss": "自身のスピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 10935,
+      "attack": 13561,
+      "speed": 251.3
+    },
+    {
+      "id": "2774",
+      "name": "強欲の皇子 リン・ヤオ",
+      "attribute": "闇",
+      "abilities": [
+        "マインスイーパー",
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2774.webp",
+      "source": "https://game.technophere.com/monst/char/2773/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "friendship": "反射レーザーEL4 （闇） 副友情 スパークバレット （闇）",
+      "ss": "自身のスピードとパワーがアップ＆一定期間、力を増強 22ターン",
+      "rarity": 6,
+      "hp": 18485,
+      "attack": 18776,
+      "speed": 404.07,
+      "gaugeAbilities": [
+        "回復 SSターン短縮"
+      ]
+    },
+    {
       "id": "2776",
       "name": "リザホークアイ",
       "attribute": "火",
@@ -3734,39 +3789,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "聖騎士"
-    },
-    {
-      "id": "2898",
-      "name": "ヘルブラム",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2897/#f2898",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "2900",
-      "name": "ギルサンダー",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2899/#f2900",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2903",
-      "name": "ヘンドリクセン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2901/#f2903",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔神"
     }
   ]
 }

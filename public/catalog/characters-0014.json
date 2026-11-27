@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "7000",
+      "name": "ローラン",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6999/#f7000",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7002",
+      "name": "ウォルーナ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7001/#f7002",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "砲撃",
+      "race": "ロボット"
+    },
+    {
+      "id": "7004",
+      "name": "トロジャノク",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7003/#f7004",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
       "id": "7007",
       "name": "ロジーB",
       "attribute": "闇",
@@ -2197,39 +2230,6 @@
       "evolution": "獣神化・改",
       "type": "貫通",
       "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7331",
-      "name": "空条承太郎SO",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6415/#f7331",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7332",
-      "name": "ウェザーリポート",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6417/#f7332",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7334",
-      "name": "アヴドゥル",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7333/#f7334",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

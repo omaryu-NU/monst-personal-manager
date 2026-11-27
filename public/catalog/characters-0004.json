@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1846",
+      "name": "神月かりん",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1845/#f1846",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ファイター"
+    },
+    {
       "id": "1848",
       "name": "ナッシュ",
       "attribute": "木",
@@ -2253,17 +2264,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2541",
-      "name": "バブルボーイ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2540/#f2541",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

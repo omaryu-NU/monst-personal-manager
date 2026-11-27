@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "5326",
+      "name": "風間隊",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5326/#f5326",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "5327",
+      "name": "木崎＆烏丸",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5327/#f5327",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "5329",
+      "name": "太刀川慶",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5328/#f5329",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ボーダー隊員"
+    },
+    {
       "id": "5330",
       "name": "最終決戦型駆逐娘 ヤークトパンター",
       "attribute": "木",
@@ -2231,39 +2264,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5838",
-      "name": "ペテルギウス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5837/#f5838",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5844",
-      "name": "スバル",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5839/#f5844",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5845",
-      "name": "リカード",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5845/#f5845",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
       "race": "亜人"
     }
   ]

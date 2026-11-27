@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "488",
+      "name": "勝海舟",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/487/#f488",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "サムライ"
+    },
+    {
       "id": "493",
       "name": "ジョン万次郎",
       "attribute": "光",
@@ -2280,17 +2291,6 @@
       "type": "反射",
       "style": "パワー",
       "race": "獣"
-    },
-    {
-      "id": "1176",
-      "name": "カヴァレッタ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1174/#f1176",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
     }
   ]
 }

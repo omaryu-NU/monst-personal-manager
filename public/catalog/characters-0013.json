@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "6647",
+      "name": "ゾンビの悪魔",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6646/#f6647",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6649",
+      "name": "永遠の悪魔",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6648/#f6649",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "6651",
+      "name": "ヒルの悪魔",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6650/#f6651",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔族"
+    },
+    {
       "id": "6653",
       "name": "コウモリの悪魔",
       "attribute": "闇",
@@ -997,12 +1030,26 @@
       "id": "6813",
       "name": "リンヤオ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2773/#f6813",
+      "abilities": [
+        "超マインスイーパー",
+        "アンチ魔法陣",
+        "アンチ転送壁"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/6813.webp",
+      "source": "https://game.technophere.com/monst/char/2773/",
       "evolution": "獣神化",
       "type": "反射",
       "style": "スピード",
-      "race": "ホムンクルス"
+      "race": "ホムンクルス",
+      "friendship": "超絶スパークバレット （闇） 副友情 超絶分裂貫通衝撃波3 （闇）",
+      "ss": "グリードの力で、スピードとパワーと防御力が一定期間アップし自身の減速率を一定期間緩和する 18+8ターン",
+      "rarity": 6,
+      "hp": 18891,
+      "attack": 21023,
+      "speed": 404.87,
+      "gaugeAbilities": [
+        "連撃キラー 回復 SSターン短縮"
+      ]
     },
     {
       "id": "6815",
@@ -2243,39 +2290,6 @@
       "type": "反射",
       "style": "砲撃",
       "race": "聖騎士"
-    },
-    {
-      "id": "7000",
-      "name": "ローラン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/6999/#f7000",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7002",
-      "name": "ウォルーナ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7001/#f7002",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ロボット"
-    },
-    {
-      "id": "7004",
-      "name": "トロジャノク",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7003/#f7004",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
     }
   ]
 }

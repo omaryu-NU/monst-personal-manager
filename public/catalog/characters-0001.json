@@ -2711,15 +2711,44 @@
       "speed": 314.7
     },
     {
+      "id": "317",
+      "name": "コダマ",
+      "attribute": "木",
+      "abilities": [
+        "魔封じ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/317.webp",
+      "source": "https://game.technophere.com/monst/char/317/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "妖精",
+      "friendship": "ロックオン衝撃波3 （無）",
+      "ss": "触れた敵全員に、巨大どんぐりを落として追撃 25ターン",
+      "rarity": 4,
+      "hp": 6480,
+      "attack": 7937,
+      "speed": 149.2
+    },
+    {
       "id": "318",
       "name": "コダマ",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/317/#f318",
+      "abilities": [
+        "魔封じL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/318.webp",
+      "source": "https://game.technophere.com/monst/char/317/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "ロックオン衝撃波6 （無）",
+      "ss": "触れた敵全員に、森からのプレゼントで追撃 28ターン",
+      "rarity": 5,
+      "hp": 11340,
+      "attack": 13890,
+      "speed": 174.33
     },
     {
       "id": "320",
@@ -3343,17 +3372,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "獣"
-    },
-    {
-      "id": "488",
-      "name": "勝海舟",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/487/#f488",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "サムライ"
     }
   ]
 }

@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "4939",
+      "name": "はじめしゃちょー",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4939/#f4939",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4940",
+      "name": "クキータ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4940/#f4940",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精"
+    },
+    {
+      "id": "4946",
+      "name": "真シヴァ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4945/#f4946",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
       "id": "4960",
       "name": "煙花",
       "attribute": "水",
@@ -3161,23 +3194,48 @@
       "id": "5252",
       "name": "ニューイヤーキッド",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5252/#f5252",
+      "abilities": [
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5252.webp",
+      "source": "https://game.technophere.com/monst/char/5252/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超強ブレス （火）",
+      "ss": "敵にふれる毎にフレアを放つ 20ターン",
+      "rarity": 6,
+      "hp": 18366,
+      "attack": 16737,
+      "speed": 253.37,
+      "gaugeAbilities": [
+        "アンチ魔法陣"
+      ]
     },
     {
       "id": "5253",
       "name": "初春御前",
       "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5253/#f5253",
+      "abilities": [
+        "アンチ重力バリア",
+        "レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5253.webp",
+      "source": "https://game.technophere.com/monst/char/5253/",
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "サムライ"
+      "race": "サムライ",
+      "friendship": "超強ホーミング12 （木） 副友情 超強ホーミング12 （木）",
+      "ss": "仲間たちを率いて敵へ撃ちこむ 20ターン",
+      "rarity": 6,
+      "hp": 18225,
+      "attack": 15513,
+      "speed": 303.97,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "5254",
@@ -3408,39 +3466,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5326",
-      "name": "風間隊",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5326/#f5326",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5327",
-      "name": "木崎＆烏丸",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5327/#f5327",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5329",
-      "name": "太刀川慶",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5328/#f5329",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
       "race": "ボーダー隊員"
     }
   ]
