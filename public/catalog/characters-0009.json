@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "4960",
+      "name": "煙花",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4958/#f4960",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4962",
+      "name": "ペンペンファイターズ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4961/#f4962",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "鳥"
+    },
+    {
+      "id": "4964",
+      "name": "ケモミミガールズ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4963/#f4964",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4968",
+      "name": "レザン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4967/#f4968",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
+      "id": "4970",
+      "name": "ヘルヘイム",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4969/#f4970",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
       "id": "4975",
       "name": "韋駄天廻",
       "attribute": "木",
@@ -3015,15 +3070,48 @@
       ]
     },
     {
+      "id": "5240",
+      "name": "ホワイト☆さむ",
+      "attribute": "光",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5240.webp",
+      "source": "https://game.technophere.com/monst/char/5240/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "妖精",
+      "friendship": "乱気弾 （光）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 15440,
+      "attack": 19094,
+      "speed": 266.97
+    },
+    {
       "id": "5241",
       "name": "ホワイトさむ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5240/#f5241",
+      "abilities": [
+        "アンチワープ",
+        "亜人キラー 神キラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5241.webp",
+      "source": "https://game.technophere.com/monst/char/5240/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "妖精"
+      "race": "妖精",
+      "friendship": "乱気弾 （光）",
+      "ss": "壁に反射する毎に威力が増す弾を放つ 21ターン",
+      "rarity": 6,
+      "hp": 18143,
+      "attack": 16835,
+      "speed": 237.27,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "5243",
@@ -3354,85 +3442,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ボーダー隊員"
-    },
-    {
-      "id": "5330",
-      "name": "最終決戦型駆逐娘 ヤークトパンター",
-      "attribute": "木",
-      "abilities": [
-        "アンチ重力バリア",
-        "超アンチウィンド",
-        "水属性キラー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5330.webp",
-      "source": "https://game.technophere.com/monst/char/2669/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "friendship": "トライデントレーザーEL （木） 副友情 超絶爆発 （無）",
-      "ss": "スピードとパワーがアップ＆敵を倒せば倒すほど、パワーがアップする 20+8ターン",
-      "rarity": 6,
-      "hp": 20133,
-      "attack": 24871,
-      "speed": 254.07,
-      "gaugeAbilities": [
-        "状態異常回復 SSターン短縮 ダッシュM"
-      ]
-    },
-    {
-      "id": "5332",
-      "name": "アテナ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/724/#f5332",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超バランス",
-      "race": "神"
-    },
-    {
-      "id": "5334",
-      "name": "真浦島太郎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5333/#f5334",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5342",
-      "name": "弓虎姫",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5341/#f5342",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "サムライ"
-    },
-    {
-      "id": "5351",
-      "name": "混倶利蜘蛛",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5350/#f5351",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "ロボット"
-    },
-    {
-      "id": "5353",
-      "name": "紺辺屋もめん",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5352/#f5353",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "魔人"
     }
   ]
 }

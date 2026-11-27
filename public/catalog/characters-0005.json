@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "2543",
+      "name": "スウィーティカ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2542/#f2543",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "2561",
       "name": "ユミル",
       "attribute": "火",
@@ -3225,15 +3236,117 @@
       ]
     },
     {
+      "id": "2766",
+      "name": "ランファン",
+      "attribute": "水",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2766.webp",
+      "source": "https://game.technophere.com/monst/char/2766/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人",
+      "friendship": "クナイ （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 7241,
+      "attack": 9790,
+      "speed": 299.4
+    },
+    {
       "id": "2767",
       "name": "ランファン",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2766/#f2767",
+      "abilities": [
+        "超アンチワープ",
+        "弱点キラー 回復"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2767.webp",
+      "source": "https://game.technophere.com/monst/char/2766/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "クナイ （無）",
+      "ss": "停止後にふれた敵にメテオで追い討ち 16ターン",
+      "rarity": 5,
+      "hp": 12544,
+      "attack": 14620,
+      "speed": 351.1,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ転送壁"
+      ]
+    },
+    {
+      "id": "2768",
+      "name": "エルリック兄弟",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2768.webp",
+      "source": "https://game.technophere.com/monst/char/2768/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "エナジーサークルS （木）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 11654,
+      "attack": 15707,
+      "speed": 318.07
+    },
+    {
+      "id": "2769",
+      "name": "鋼の錬金術師 エドワード",
+      "attribute": "木",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2769.webp",
+      "source": "https://game.technophere.com/monst/char/2768/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "エナジーサークルL （木）",
+      "ss": "スピードとパワーがアップ＆ふれた壁から錬金術で攻撃 24ターン",
+      "rarity": 6,
+      "hp": 18331,
+      "attack": 22802,
+      "speed": 330.87,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "カウンターキラー"
+      ]
+    },
+    {
+      "id": "2770",
+      "name": "気高き魂の守護者 アルフォンス",
+      "attribute": "木",
+      "abilities": [
+        "アンチダメージウォール",
+        "睡眠無効"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2770.webp",
+      "source": "https://game.technophere.com/monst/char/2768/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "三反射分裂弾 （木） 副友情 追従型貫通弾 （火）",
+      "ss": "スピードとパワーがアップ＆ふれたダメージウォールをヒーリングウォールに錬成する 12ターン",
+      "rarity": 6,
+      "hp": 21287,
+      "attack": 23105,
+      "speed": 304.53,
+      "gaugeAbilities": [
+        "アンチワープ"
+      ]
     },
     {
       "id": "2772",
@@ -3654,61 +3767,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "魔神"
-    },
-    {
-      "id": "2906",
-      "name": "ヤマトタケル廻",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/757/#f2906",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "聖騎士"
-    },
-    {
-      "id": "2909",
-      "name": "ラグナロク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2908/#f2909",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "魔王"
-    },
-    {
-      "id": "2910",
-      "name": "カイ（ストア）",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1789/#f2910",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2921",
-      "name": "バートリー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2920/#f2921",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "2923",
-      "name": "コンモドゥス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2922/#f2923",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "ロボット"
     }
   ]
 }

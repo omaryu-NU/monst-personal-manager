@@ -2671,15 +2671,44 @@
       "speed": 150.97
     },
     {
+      "id": "315",
+      "name": "ぬらりひょん",
+      "attribute": "水",
+      "abilities": [
+        "神キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/315.webp",
+      "source": "https://game.technophere.com/monst/char/315/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔王",
+      "friendship": "バーティカルレーザーL （水）",
+      "ss": "ふれた最初の敵を乱打し、魂の力で追い打ち 14ターン",
+      "rarity": 5,
+      "hp": 15203,
+      "attack": 14551,
+      "speed": 326.53
+    },
+    {
       "id": "316",
       "name": "ぬらりひょん",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/315/#f316",
+      "abilities": [
+        "神キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/316.webp",
+      "source": "https://game.technophere.com/monst/char/315/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "魔王"
+      "race": "魔王",
+      "friendship": "クロスレーザーL （水）",
+      "ss": "ふれた最初の敵を乱打し、百鬼夜行の魂で追い打ち 15ターン",
+      "rarity": 6,
+      "hp": 19961,
+      "attack": 19856,
+      "speed": 314.7
     },
     {
       "id": "318",
@@ -3324,17 +3353,6 @@
       "evolution": "進化",
       "type": "貫通",
       "style": "スピード",
-      "race": "サムライ"
-    },
-    {
-      "id": "493",
-      "name": "ジョン万次郎",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/492/#f493",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "サムライ"
     }
   ]

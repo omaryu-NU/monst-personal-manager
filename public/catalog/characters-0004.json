@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "1848",
+      "name": "ナッシュ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1847/#f1848",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ファイター"
+    },
+    {
       "id": "1850",
       "name": "ネカリ",
       "attribute": "闇",
@@ -2253,17 +2264,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2543",
-      "name": "スウィーティカ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2542/#f2543",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

@@ -2,6 +2,17 @@
   "version": 1,
   "characters": [
     {
+      "id": "493",
+      "name": "ジョン万次郎",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/492/#f493",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "サムライ"
+    },
+    {
       "id": "498",
       "name": "斉藤一",
       "attribute": "火",
@@ -2280,17 +2291,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "1179",
-      "name": "ゼペット",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1177/#f1179",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

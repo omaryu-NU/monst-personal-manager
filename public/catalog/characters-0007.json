@@ -2,6 +2,61 @@
   "version": 1,
   "characters": [
     {
+      "id": "3636",
+      "name": "ウバリ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3635/#f3636",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔族"
+    },
+    {
+      "id": "3639",
+      "name": "センジュ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3637/#f3639",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "魔人"
+    },
+    {
+      "id": "3641",
+      "name": "ラゴラ",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3640/#f3641",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット"
+    },
+    {
+      "id": "3643",
+      "name": "ネクロハウンド",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3642/#f3643",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "魔族"
+    },
+    {
+      "id": "3651",
+      "name": "ニギミタマ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3650/#f3651",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "3655",
       "name": "Mオラゴン",
       "attribute": "火",
@@ -2211,61 +2266,6 @@
         "超マインスイーパー",
         "連撃キラー 条件: 神以外が2体以上／合計ラック100以上"
       ]
-    },
-    {
-      "id": "4350",
-      "name": "ニクレンジャーオラゴン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4349/#f4350",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "4353",
-      "name": "ティルナノーグ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4352/#f4353",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖精"
-    },
-    {
-      "id": "4354",
-      "name": "ジバニャン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4354/#f4354",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4355",
-      "name": "フユニャン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4355/#f4355",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖怪"
-    },
-    {
-      "id": "4356",
-      "name": "コマさん",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4356/#f4356",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "妖怪"
     }
   ]
 }
