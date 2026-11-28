@@ -2,6 +2,39 @@
   "version": 1,
   "characters": [
     {
+      "id": "1833",
+      "name": "ベガ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1437/#f1833",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ファイター"
+    },
+    {
+      "id": "1836",
+      "name": "ケン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1834/#f1836",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ファイター"
+    },
+    {
+      "id": "1838",
+      "name": "レインボーミカ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1837/#f1838",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ファイター"
+    },
+    {
       "id": "1840",
       "name": "キャミィ",
       "attribute": "木",
@@ -1313,6 +1346,30 @@
       "race": "魔人"
     },
     {
+      "id": "2209",
+      "name": "星海の機巧戦姫 ナナミ",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア",
+        "SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2209.webp",
+      "source": "https://game.technophere.com/monst/char/326/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "超強ブレス （水） 副友情 中距離拡散弾9 （闇）",
+      "ss": "ふれた敵すべてを、ふっとばす 16+4ターン",
+      "rarity": 6,
+      "hp": 18873,
+      "attack": 17904,
+      "speed": 374,
+      "gaugeAbilities": [
+        "光属性キラー"
+      ]
+    },
+    {
       "id": "2210",
       "name": "漆黒の蝕 トータル・エクリプス",
       "attribute": "闇",
@@ -2220,50 +2277,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "獣"
-    },
-    {
-      "id": "2517",
-      "name": "スフィンクス",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2515/#f2517",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "2519",
-      "name": "ファラオ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2518/#f2519",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "2521",
-      "name": "コノハナサクヤヒメX",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2520/#f2521",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2523",
-      "name": "水ドラえもん",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2522/#f2523",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "ロボット"
     }
   ]
 }

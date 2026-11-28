@@ -2,6 +2,48 @@
   "version": 1,
   "characters": [
     {
+      "id": "1152",
+      "name": "獣撃機動兵 ナナミ",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/1152.webp",
+      "source": "https://game.technophere.com/monst/char/326/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "ホーミング18 （水） 副友情 短距離拡散弾9 （闇）",
+      "ss": "ふれた敵すべてを、ふっとばす 24ターン",
+      "rarity": 6,
+      "hp": 19419,
+      "attack": 21892,
+      "speed": 324.67
+    },
+    {
+      "id": "1159",
+      "name": "豆の木ジャック",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1158/#f1159",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "1164",
+      "name": "幸福の王子",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1163/#f1164",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
       "id": "1169",
       "name": "マンマハーハ",
       "attribute": "火",
@@ -2288,39 +2330,6 @@
       "abilities": [],
       "source": "https://game.technophere.com/monst/char/1422/#f1832",
       "evolution": "神化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ファイター"
-    },
-    {
-      "id": "1833",
-      "name": "ベガ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1437/#f1833",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ファイター"
-    },
-    {
-      "id": "1836",
-      "name": "ケン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1834/#f1836",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ファイター"
-    },
-    {
-      "id": "1838",
-      "name": "レインボーミカ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1837/#f1838",
-      "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
       "race": "ファイター"

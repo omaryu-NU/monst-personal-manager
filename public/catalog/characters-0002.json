@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "476",
+      "name": "浦島太郎",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/475/#f476",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "478",
+      "name": "一寸法師",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/477/#f478",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
       "id": "480",
       "name": "ぶんぶく茶釜",
       "attribute": "光",
@@ -2269,28 +2291,6 @@
       "type": "貫通",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "1159",
-      "name": "豆の木ジャック",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1158/#f1159",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "1164",
-      "name": "幸福の王子",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1163/#f1164",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
     }
   ]
 }

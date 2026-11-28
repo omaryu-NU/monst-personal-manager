@@ -2,6 +2,105 @@
   "version": 1,
   "characters": [
     {
+      "id": "6979",
+      "name": "ポルコ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6978/#f6979",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "巨人"
+    },
+    {
+      "id": "6981",
+      "name": "無垢の巨人",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6980/#f6981",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "巨人"
+    },
+    {
+      "id": "6983",
+      "name": "ラーラ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6982/#f6983",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "巨人"
+    },
+    {
+      "id": "6984",
+      "name": "幼馴染",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6984/#f6984",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6985",
+      "name": "オニャンコポン",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6985/#f6985",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6986",
+      "name": "ベルフェゴール",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/623/#f6986",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "6987",
+      "name": "ワタツミ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3950/#f6987",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "神"
+    },
+    {
+      "id": "6988",
+      "name": "カエサル",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4364/#f6988",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "6990",
+      "name": "ワルプルギス",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2572/#f6990",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
       "id": "6991",
       "name": "ベテルギウス",
       "attribute": "木",
@@ -2116,121 +2215,6 @@
       "type": "反射",
       "style": "超砲撃",
       "race": "妖精"
-    },
-    {
-      "id": "7313",
-      "name": "ハレルヤ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5033/#f7313",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7314",
-      "name": "神威",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1745/#f7314",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7315",
-      "name": "ヤタガラス",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1908/#f7315",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超スピード",
-      "race": "神"
-    },
-    {
-      "id": "7316",
-      "name": "閻魔",
-      "attribute": "闇",
-      "abilities": [
-        "アンチ重力バリア",
-        "超マインスイーパーL",
-        "アンチ減速壁",
-        "超SSターンアクセル"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7316.webp",
-      "source": "https://game.technophere.com/monst/char/5093/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "魔王",
-      "friendship": "超強グリッターボール （闇） 副友情 攻防アップ （無）",
-      "ss": "自身を一定期間バブリー状態にする 16+8ターン",
-      "rarity": 6,
-      "hp": 14546,
-      "attack": 36932,
-      "speed": 370.33,
-      "gaugeAbilities": [
-        "アンチブロック",
-        "ソウルスティールL ダッシュM"
-      ]
-    },
-    {
-      "id": "7317",
-      "name": "普賢＆文殊",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/3956/#f7317",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "神"
-    },
-    {
-      "id": "7318",
-      "name": "モンタナ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/352/#f7318",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ユニオン"
-    },
-    {
-      "id": "7319",
-      "name": "柴大寿",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7319/#f7319",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7320",
-      "name": "柴八戒",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7320/#f7320",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "7321",
-      "name": "ナナミ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/326/#f7321",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超スピード",
-      "race": "ロボット"
     }
   ]
 }

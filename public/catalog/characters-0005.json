@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "2517",
+      "name": "スフィンクス",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2515/#f2517",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "2519",
+      "name": "ファラオ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2518/#f2519",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "神"
+    },
+    {
+      "id": "2521",
+      "name": "コノハナサクヤヒメX",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2520/#f2521",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "亜人"
+    },
+    {
+      "id": "2523",
+      "name": "水ドラえもん",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2522/#f2523",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
       "id": "2525",
       "name": "木のび太",
       "attribute": "木",
@@ -3514,26 +3558,92 @@
       ]
     },
     {
+      "id": "2778",
+      "name": "スカー",
+      "attribute": "火",
+      "abilities": [
+        "アンチワープ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2778.webp",
+      "source": "https://game.technophere.com/monst/char/2778/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "フレア （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 5,
+      "hp": 13203,
+      "attack": 15436,
+      "speed": 243.77
+    },
+    {
       "id": "2779",
       "name": "スカー",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2778/#f2779",
+      "abilities": [
+        "アンチワープ",
+        "カウンターキラー（ラック）"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2779.webp",
+      "source": "https://game.technophere.com/monst/char/2778/",
       "evolution": "進化",
       "type": "貫通",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "超絶フレア （無）",
+      "ss": "ふれた最初の敵を攻撃し、破壊の右手で追い討ち 19ターン",
+      "rarity": 6,
+      "hp": 18106,
+      "attack": 17931,
+      "speed": 228,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "アンチ減速壁"
+      ]
+    },
+    {
+      "id": "2780",
+      "name": "ラスト",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2780.webp",
+      "source": "https://game.technophere.com/monst/char/2780/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "バランス",
+      "friendship": "超強貫通拡散弾L2 （水）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 6881,
+      "attack": 9085,
+      "speed": 265.6
     },
     {
       "id": "2781",
       "name": "ラスト",
       "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2780/#f2781",
+      "abilities": [
+        "アンチ重力バリア",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2781.webp",
+      "source": "https://game.technophere.com/monst/char/2780/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "ホムンクルス"
+      "race": "ホムンクルス",
+      "friendship": "超絶貫通拡散弾EL3 （水）",
+      "ss": "狙った方向に、刃に変えた指先を伸ばして攻撃 12ターン",
+      "rarity": 5,
+      "hp": 11925,
+      "attack": 11204,
+      "speed": 265.47,
+      "gaugeAbilities": [
+        "ソウルスティール"
+      ]
     },
     {
       "id": "2783",
@@ -3756,72 +3866,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "亜人"
-    },
-    {
-      "id": "2858",
-      "name": "クシナダ廻",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/686/#f2858",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "2860",
-      "name": "マリーダ（ストア）",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1410/#f2860",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "2862",
-      "name": "ブルーベリー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2861/#f2862",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "妖精"
-    },
-    {
-      "id": "2876",
-      "name": "ヴリトラ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2874/#f2876",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "神"
-    },
-    {
-      "id": "2878",
-      "name": "ナーガ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2877/#f2878",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "2880",
-      "name": "ピシャーチャ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2879/#f2880",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔族"
     }
   ]
 }

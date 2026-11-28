@@ -2,6 +2,137 @@
   "version": 1,
   "characters": [
     {
+      "id": "7313",
+      "name": "ハレルヤ",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5033/#f7313",
+      "evolution": "獣神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7314",
+      "name": "神威",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1745/#f7314",
+      "evolution": "獣神化・改",
+      "type": "貫通",
+      "style": "超バランス",
+      "race": "聖騎士"
+    },
+    {
+      "id": "7315",
+      "name": "ヤタガラス",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1908/#f7315",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超スピード",
+      "race": "神"
+    },
+    {
+      "id": "7316",
+      "name": "閻魔",
+      "attribute": "闇",
+      "abilities": [
+        "アンチ重力バリア",
+        "超マインスイーパーL",
+        "アンチ減速壁",
+        "超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7316.webp",
+      "source": "https://game.technophere.com/monst/char/5093/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "魔王",
+      "friendship": "超強グリッターボール （闇） 副友情 攻防アップ （無）",
+      "ss": "自身を一定期間バブリー状態にする 16+8ターン",
+      "rarity": 6,
+      "hp": 14546,
+      "attack": 36932,
+      "speed": 370.33,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "ソウルスティールL ダッシュM"
+      ]
+    },
+    {
+      "id": "7317",
+      "name": "普賢＆文殊",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/3956/#f7317",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "神"
+    },
+    {
+      "id": "7318",
+      "name": "モンタナ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/352/#f7318",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ユニオン"
+    },
+    {
+      "id": "7319",
+      "name": "柴大寿",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7319/#f7319",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "7320",
+      "name": "柴八戒",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7320/#f7320",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "7321",
+      "name": "ナナミ",
+      "attribute": "水",
+      "abilities": [
+        "超アンチ重力バリア",
+        "飛行",
+        "ダブルブレイカー 超SSターンアクセル"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7321.webp",
+      "source": "https://game.technophere.com/monst/char/326/",
+      "evolution": "真獣神化",
+      "type": "貫通",
+      "style": "超スピード",
+      "race": "ロボット",
+      "friendship": "轟絶ブレス （水） 副友情 超絶中距離毒拡散弾9 （無）",
+      "ss": "スピードとパワーがアップ＆ふれた敵をふっとばす 16+8ターン",
+      "rarity": 6,
+      "hp": 20810,
+      "attack": 19467,
+      "speed": 422.17,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ魔法陣",
+        "ファーストキラー"
+      ]
+    },
+    {
       "id": "7322",
       "name": "ストライク",
       "attribute": "光",
@@ -3310,128 +3441,6 @@
       "gaugeAbilities": [
         "アンチブロック"
       ]
-    },
-    {
-      "id": "7597",
-      "name": "小久豪カンジ",
-      "attribute": "水",
-      "abilities": [
-        "アンチワープ"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7597.webp",
-      "source": "https://game.technophere.com/monst/char/7597/",
-      "evolution": "進化前",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "超強防御ダウンブラスト （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 5,
-      "hp": 22524,
-      "attack": 26199,
-      "speed": 203.43
-    },
-    {
-      "id": "7598",
-      "name": "小久豪カンジ",
-      "attribute": "水",
-      "abilities": [
-        "アンチワープ",
-        "アンチ転送壁",
-        "ビットンブレイカー"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7598.webp",
-      "source": "https://game.technophere.com/monst/char/7597/",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "超強防御ダウンブラスト （無）",
-      "ss": "ふれた最初の敵を乱打し、ふっとばす＆HPを回復 16ターン",
-      "rarity": 6,
-      "hp": 19400,
-      "attack": 23430,
-      "speed": 226.43,
-      "gaugeAbilities": [
-        "機鉱封じL"
-      ]
-    },
-    {
-      "id": "7600",
-      "name": "オウンギャック",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7599/#f7600",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "鳥"
-    },
-    {
-      "id": "7603",
-      "name": "シャルスタ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7601/#f7603",
-      "evolution": "神化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7604",
-      "name": "アユタヤ",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/4930/#f7604",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "コスモ"
-    },
-    {
-      "id": "7606",
-      "name": "アジテーター",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7605/#f7606",
-      "evolution": "真獣神化",
-      "type": "貫通",
-      "style": "超バランス",
-      "race": "幻妖"
-    },
-    {
-      "id": "7609",
-      "name": "ゲキリン",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7607/#f7609",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "ドラゴン"
-    },
-    {
-      "id": "7610",
-      "name": "ルビー",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1686/#f7610",
-      "evolution": "獣神化・改",
-      "type": "貫通",
-      "style": "超砲撃",
-      "race": "聖騎士"
-    },
-    {
-      "id": "7611",
-      "name": "マモン",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1807/#f7611",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超パワー",
-      "race": "魔王"
     }
   ]
 }

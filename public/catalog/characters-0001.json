@@ -2873,6 +2873,46 @@
       "speed": 377.57
     },
     {
+      "id": "326",
+      "name": "水輝ナナミ",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/326.webp",
+      "source": "https://game.technophere.com/monst/char/326/",
+      "evolution": "進化前",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "クロスレーザーM （水）",
+      "ss": "ふれた最初の敵を乱打し、水の武具で追い討ち 15ターン",
+      "rarity": 5,
+      "hp": 11577,
+      "attack": 14837,
+      "speed": 292.97
+    },
+    {
+      "id": "327",
+      "name": "水輝ナナミ 【流武】",
+      "attribute": "水",
+      "abilities": [
+        "アンチ重力バリア"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/327.webp",
+      "source": "https://game.technophere.com/monst/char/326/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "ロボット",
+      "friendship": "クロスレーザーL （水）",
+      "ss": "狙った方向に、全武器を一斉掃射 20ターン",
+      "rarity": 6,
+      "hp": 18927,
+      "attack": 21338,
+      "speed": 180.37
+    },
+    {
       "id": "329",
       "name": "フウカ",
       "attribute": "木",
@@ -3405,28 +3445,6 @@
       "evolution": "神化",
       "type": "反射",
       "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "476",
-      "name": "浦島太郎",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/475/#f476",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "478",
-      "name": "一寸法師",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/477/#f478",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
       "race": "亜人"
     }
   ]
