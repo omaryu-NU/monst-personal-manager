@@ -2,6 +2,86 @@
   "version": 1,
   "characters": [
     {
+      "id": "7612",
+      "name": "クララミス",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7327/#f7612",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "パワー",
+      "race": "神"
+    },
+    {
+      "id": "7614",
+      "name": "新門紅丸",
+      "attribute": "火",
+      "abilities": [
+        "超アンチワープ",
+        "超アンチ減速壁",
+        "アンチ転送壁",
+        "木属性キラー 毒無効 バブリーモード"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7614.webp",
+      "source": "https://game.technophere.com/monst/char/7613/",
+      "evolution": "獣神化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "亜人",
+      "friendship": "クイックチャージショット （火） 副友情 ランページウォールボム （無）",
+      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を纏で攻撃し、紅月で追撃 16+8ターン",
+      "rarity": 6,
+      "hp": 18372,
+      "attack": 31063,
+      "speed": 360.67
+    },
+    {
+      "id": "7615",
+      "name": "茉希尾瀬",
+      "attribute": "水",
+      "abilities": [
+        "アンチ魔法陣"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7615.webp",
+      "source": "https://game.technophere.com/monst/char/7615/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "超強シャイニングピラー （無）",
+      "ss": "スピードがアップ 12ターン",
+      "rarity": 4,
+      "hp": 8639,
+      "attack": 17086,
+      "speed": 185.47
+    },
+    {
+      "id": "7616",
+      "name": "茉希尾瀬",
+      "attribute": "水",
+      "abilities": [
+        "アンチウィンド",
+        "アンチ魔法陣",
+        "バイタルキラー 友情ブースト"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7616.webp",
+      "source": "https://game.technophere.com/monst/char/7615/",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人",
+      "friendship": "超強シャイニングピラー （無）",
+      "ss": "スピードとパワーがアップ＆近くの敵に双式浮遊ユニット\"鉄梟\"が突撃 12ターン",
+      "rarity": 5,
+      "hp": 14974,
+      "attack": 21853,
+      "speed": 217.5,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "超アンチ減速壁"
+      ]
+    },
+    {
       "id": "7617",
       "name": "環古達",
       "attribute": "木",
@@ -51,12 +131,28 @@
       "id": "7620",
       "name": "アーサー",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7619/#f7620",
+      "abilities": [
+        "超アンチ重力バリア",
+        "アンチウィンド",
+        "アンチ減速壁",
+        "ファーストキラー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7620.webp",
+      "source": "https://game.technophere.com/monst/char/7619/",
       "evolution": "獣神化",
       "type": "貫通",
       "style": "スピード",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "貫通ターゲットロックオン衝撃波8 （光） 副友情 超絶破裂斬撃弾 （光）",
+      "ss": "スピードとパワーがアップ＆停止後に紫電一閃で攻撃 20+8ターン",
+      "rarity": 6,
+      "hp": 18405,
+      "attack": 22246,
+      "speed": 418.47,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "SSターン短縮"
+      ]
     },
     {
       "id": "7622",
@@ -2244,50 +2340,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "獣"
-    },
-    {
-      "id": "7956",
-      "name": "赤岩牙二郎",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7955/#f7956",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "7957",
-      "name": "ビリーザキッド",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1312/#f7957",
-      "evolution": "獣神化・改",
-      "type": "反射",
-      "style": "超砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "7958",
-      "name": "ネッテキシ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7958/#f7958",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "魔人"
-    },
-    {
-      "id": "7959",
-      "name": "グランギニョル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7959/#f7959",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "魔王"
     }
   ]
 }

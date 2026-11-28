@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1169",
+      "name": "マンマハーハ",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1168/#f1169",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "パワー",
+      "race": "亜人"
+    },
+    {
+      "id": "1171",
+      "name": "ダギー",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1170/#f1171",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "獣"
+    },
+    {
       "id": "1173",
       "name": "ドンキー",
       "attribute": "木",
@@ -2301,28 +2323,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "砲撃",
-      "race": "ファイター"
-    },
-    {
-      "id": "1840",
-      "name": "キャミィ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1839/#f1840",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ファイター"
-    },
-    {
-      "id": "1842",
-      "name": "ダルシム",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1841/#f1842",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
       "race": "ファイター"
     }
   ]

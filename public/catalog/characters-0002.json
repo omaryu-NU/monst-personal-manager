@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "480",
+      "name": "ぶんぶく茶釜",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/479/#f480",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ロボット"
+    },
+    {
+      "id": "482",
+      "name": "かぐや姫",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/481/#f482",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "483",
       "name": "ラスカル",
       "attribute": "光",
@@ -2269,28 +2291,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "鉱物"
-    },
-    {
-      "id": "1169",
-      "name": "マンマハーハ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1168/#f1169",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人"
-    },
-    {
-      "id": "1171",
-      "name": "ダギー",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/1170/#f1171",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "獣"
     }
   ]
 }

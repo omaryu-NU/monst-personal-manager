@@ -2,6 +2,65 @@
   "version": 1,
   "characters": [
     {
+      "id": "7322",
+      "name": "ストライク",
+      "attribute": "光",
+      "abilities": [
+        "超アンチダメージウォール",
+        "超マインスイーパーM",
+        "カウンターキラー 闇属性耐性 超レーザーストップ"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7322.webp",
+      "source": "https://game.technophere.com/monst/char/197/",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神",
+      "friendship": "超強8方向レーザーEL （光） 副友情 ハイエナジーサークル （光）",
+      "ss": "スピードとパワーがアップ＆ブロックを無効化する 8+8ターン",
+      "rarity": 6,
+      "hp": 24076,
+      "attack": 24814,
+      "speed": 330.47,
+      "gaugeAbilities": [
+        "アンチワープ",
+        "アンチ減速壁"
+      ]
+    },
+    {
+      "id": "7323",
+      "name": "ロキ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/574/#f7323",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超砲撃",
+      "race": "神"
+    },
+    {
+      "id": "7324",
+      "name": "アメノウズメ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1911/#f7324",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "7326",
+      "name": "ロール",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/7325/#f7326",
+      "evolution": "神化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
       "id": "7329",
       "name": "パズル",
       "attribute": "火",
@@ -3373,86 +3432,6 @@
       "type": "反射",
       "style": "超パワー",
       "race": "魔王"
-    },
-    {
-      "id": "7612",
-      "name": "クララミス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/7327/#f7612",
-      "evolution": "神化",
-      "type": "貫通",
-      "style": "パワー",
-      "race": "神"
-    },
-    {
-      "id": "7614",
-      "name": "新門紅丸",
-      "attribute": "火",
-      "abilities": [
-        "超アンチワープ",
-        "超アンチ減速壁",
-        "アンチ転送壁",
-        "木属性キラー 毒無効 バブリーモード"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7614.webp",
-      "source": "https://game.technophere.com/monst/char/7613/",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人",
-      "friendship": "クイックチャージショット （火） 副友情 ランページウォールボム （無）",
-      "ss": "スピードとパワーがアップ＆停止後に最初にふれた敵を纏で攻撃し、紅月で追撃 16+8ターン",
-      "rarity": 6,
-      "hp": 18372,
-      "attack": 31063,
-      "speed": 360.67
-    },
-    {
-      "id": "7615",
-      "name": "茉希尾瀬",
-      "attribute": "水",
-      "abilities": [
-        "アンチ魔法陣"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7615.webp",
-      "source": "https://game.technophere.com/monst/char/7615/",
-      "evolution": "進化前",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "超強シャイニングピラー （無）",
-      "ss": "スピードがアップ 12ターン",
-      "rarity": 4,
-      "hp": 8639,
-      "attack": 17086,
-      "speed": 185.47
-    },
-    {
-      "id": "7616",
-      "name": "茉希尾瀬",
-      "attribute": "水",
-      "abilities": [
-        "アンチウィンド",
-        "アンチ魔法陣",
-        "バイタルキラー 友情ブースト"
-      ],
-      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/7616.webp",
-      "source": "https://game.technophere.com/monst/char/7615/",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "亜人",
-      "friendship": "超強シャイニングピラー （無）",
-      "ss": "スピードとパワーがアップ＆近くの敵に双式浮遊ユニット\"鉄梟\"が突撃 12ターン",
-      "rarity": 5,
-      "hp": 14974,
-      "attack": 21853,
-      "speed": 217.5,
-      "gaugeAbilities": [
-        "アンチワープ",
-        "超アンチ減速壁"
-      ]
     }
   ]
 }

@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "1840",
+      "name": "キャミィ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1839/#f1840",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ファイター"
+    },
+    {
+      "id": "1842",
+      "name": "ダルシム",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/1841/#f1842",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "ファイター"
+    },
+    {
       "id": "1844",
       "name": "ザンギエフ",
       "attribute": "闇",
@@ -2242,28 +2264,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ロボット"
-    },
-    {
-      "id": "2525",
-      "name": "木のび太",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2524/#f2525",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "亜人"
-    },
-    {
-      "id": "2527",
-      "name": "ブリザーガ",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2526/#f2527",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "鉱物"
     }
   ]
 }

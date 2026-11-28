@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "5312",
+      "name": "雨取千佳",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5311/#f5312",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "ボーダー隊員"
+    },
+    {
+      "id": "5316",
+      "name": "ランバネイン",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5315/#f5316",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "近界民"
+    },
+    {
+      "id": "5318",
+      "name": "ハイレイン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5317/#f5318",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "近界民"
+    },
+    {
+      "id": "5320",
+      "name": "ヴィザ",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/5319/#f5320",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "近界民"
+    },
+    {
       "id": "5324",
       "name": "エネドラ",
       "attribute": "闇",
@@ -2221,50 +2265,6 @@
       "type": "反射",
       "style": "スピード",
       "race": "魔人"
-    },
-    {
-      "id": "5824",
-      "name": "クルシュ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5823/#f5824",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5828",
-      "name": "ベアトリス",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5827/#f5828",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
-      "race": "妖精"
-    },
-    {
-      "id": "5830",
-      "name": "メィリィ",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5829/#f5830",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "亜人"
-    },
-    {
-      "id": "5832",
-      "name": "エルザ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5831/#f5832",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "亜人"
     }
   ]
 }

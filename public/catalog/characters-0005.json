@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "2525",
+      "name": "木のび太",
+      "attribute": "木",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2524/#f2525",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
+      "id": "2527",
+      "name": "ブリザーガ",
+      "attribute": "闇",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2526/#f2527",
+      "evolution": "進化",
+      "type": "反射",
+      "style": "バランス",
+      "race": "鉱物"
+    },
+    {
       "id": "2539",
       "name": "クリーモン",
       "attribute": "水",
@@ -3472,12 +3494,24 @@
       "id": "2777",
       "name": "ウィンリィ",
       "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2777/#f2777",
+      "abilities": [
+        "マインスイーパー"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/2777.webp",
+      "source": "https://game.technophere.com/monst/char/2777/",
       "evolution": "進化",
       "type": "反射",
       "style": "バランス",
-      "race": "亜人"
+      "race": "亜人",
+      "friendship": "十字レーザーM （光）",
+      "ss": "ふれた敵のレーザーバリアを3ターン消滅させる 18ターン",
+      "rarity": 5,
+      "hp": 12935,
+      "attack": 9019,
+      "speed": 218.17,
+      "gaugeAbilities": [
+        "アンチブロック"
+      ]
     },
     {
       "id": "2779",
@@ -3788,28 +3822,6 @@
       "type": "反射",
       "style": "バランス",
       "race": "魔族"
-    },
-    {
-      "id": "2885",
-      "name": "ディアンヌ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2884/#f2885",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "パワー",
-      "race": "巨人"
-    },
-    {
-      "id": "2889",
-      "name": "ゴウセル",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/2888/#f2889",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "人形"
     }
   ]
 }

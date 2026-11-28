@@ -2791,26 +2791,86 @@
       "speed": 338.63
     },
     {
+      "id": "321",
+      "name": "イナリ",
+      "attribute": "闇",
+      "abilities": [
+        "魔王キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/321.webp",
+      "source": "https://game.technophere.com/monst/char/321/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "神",
+      "friendship": "大々爆発 （無）",
+      "ss": "触れた敵全員に、妖狐の波動で追撃 26ターン",
+      "rarity": 5,
+      "hp": 14553,
+      "attack": 14471,
+      "speed": 355.17
+    },
+    {
       "id": "322",
       "name": "イナリ",
       "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/321/#f322",
+      "abilities": [
+        "魔王キラーL"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/322.webp",
+      "source": "https://game.technophere.com/monst/char/321/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "神"
+      "race": "神",
+      "friendship": "超爆発 （無）",
+      "ss": "触れた敵全員に、黒妖狐の波動で猛追撃 30ターン",
+      "rarity": 6,
+      "hp": 18768,
+      "attack": 18888,
+      "speed": 338
+    },
+    {
+      "id": "324",
+      "name": "不知火カリン",
+      "attribute": "火",
+      "abilities": [
+        "飛行",
+        "アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/324.webp",
+      "source": "https://game.technophere.com/monst/char/324/",
+      "evolution": "進化前",
+      "type": "反射",
+      "style": "スピード",
+      "race": "ロボット",
+      "friendship": "バーティカルレーザーM （火）",
+      "ss": "火の武具の力で、スピードが大アップ 12ターン",
+      "rarity": 4,
+      "hp": 6624,
+      "attack": 9861,
+      "speed": 278.2
     },
     {
       "id": "325",
       "name": "カリン",
       "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/324/#f325",
+      "abilities": [
+        "飛行",
+        "超アンチダメージウォール"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/325.webp",
+      "source": "https://game.technophere.com/monst/char/324/",
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ロボット"
+      "race": "ロボット",
+      "friendship": "全敵貫通ロックオン衝撃波3 （火）",
+      "ss": "燃える超銃の力で、壁に触れる毎に自身のパワーがアップ 22ターン",
+      "rarity": 5,
+      "hp": 11591,
+      "attack": 13139,
+      "speed": 377.57
     },
     {
       "id": "329",
@@ -3367,28 +3427,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "亜人"
-    },
-    {
-      "id": "480",
-      "name": "ぶんぶく茶釜",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/479/#f480",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "482",
-      "name": "かぐや姫",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/481/#f482",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
       "race": "亜人"
     }
   ]

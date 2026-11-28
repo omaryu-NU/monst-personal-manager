@@ -2,6 +2,28 @@
   "version": 1,
   "characters": [
     {
+      "id": "4921",
+      "name": "ユージオ＆キリト",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2962/#f4921",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "4934",
+      "name": "キャスケイト",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/4932/#f4934",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "亜人"
+    },
+    {
       "id": "4936",
       "name": "チューストン",
       "attribute": "光",
@@ -3284,6 +3306,52 @@
       ]
     },
     {
+      "id": "5255",
+      "name": "賀正の聖剣 エクスカリバー",
+      "attribute": "火",
+      "abilities": [
+        "アンチ魔法陣",
+        "超SSターンアクセル プロテクション"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5255.webp",
+      "source": "https://game.technophere.com/monst/char/5255/",
+      "evolution": "進化",
+      "type": "貫通",
+      "style": "スピード",
+      "race": "聖騎士",
+      "friendship": "全敵ロックオンレーザーEL （火）",
+      "ss": "HPを消費しパワーがアップ＆DW、バリア、ワープ、地雷を無効化 12ターン",
+      "rarity": 6,
+      "hp": 16463,
+      "attack": 22323,
+      "speed": 438.73,
+      "gaugeAbilities": [
+        "アンチブロック",
+        "全属性キラー 底力"
+      ]
+    },
+    {
+      "id": "5256",
+      "name": "新たなる年の聖剣 エクスカリバー",
+      "attribute": "火",
+      "abilities": [
+        "超アンチワープ",
+        "バリア SSターン短縮"
+      ],
+      "image": "https://game.technophere.com/monst/wp-content/uploads/monst-lab/icon/5256.webp",
+      "source": "https://game.technophere.com/monst/char/5255/",
+      "evolution": "神化",
+      "type": "反射",
+      "style": "砲撃",
+      "race": "聖騎士",
+      "friendship": "オートジャベリン （火） 副友情 放電 （無）",
+      "ss": "壁にふれる毎にパワーがアップ＆味方を動かし敵へ撃ちこむ 25ターン",
+      "rarity": 6,
+      "hp": 18937,
+      "attack": 26564,
+      "speed": 304.73
+    },
+    {
       "id": "5263",
       "name": "ジャスティス",
       "attribute": "光",
@@ -3436,50 +3504,6 @@
       "type": "貫通",
       "style": "バランス",
       "race": "ボーダー隊員"
-    },
-    {
-      "id": "5312",
-      "name": "雨取千佳",
-      "attribute": "光",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5311/#f5312",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "ボーダー隊員"
-    },
-    {
-      "id": "5316",
-      "name": "ランバネイン",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5315/#f5316",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "砲撃",
-      "race": "近界民"
-    },
-    {
-      "id": "5318",
-      "name": "ハイレイン",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5317/#f5318",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "近界民"
-    },
-    {
-      "id": "5320",
-      "name": "ヴィザ",
-      "attribute": "木",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/5319/#f5320",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "バランス",
-      "race": "近界民"
     }
   ]
 }

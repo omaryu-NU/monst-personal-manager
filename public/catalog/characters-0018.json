@@ -2,6 +2,50 @@
   "version": 1,
   "characters": [
     {
+      "id": "8282",
+      "name": "アンデルセン",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/2251/#f8282",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "亜人"
+    },
+    {
+      "id": "8283",
+      "name": "ラー",
+      "attribute": "光",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/597/#f8283",
+      "evolution": "真獣神化",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "神"
+    },
+    {
+      "id": "8284",
+      "name": "ベニマル",
+      "attribute": "火",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6875/#f8284",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔族"
+    },
+    {
+      "id": "8285",
+      "name": "リムル",
+      "attribute": "水",
+      "abilities": [],
+      "source": "https://game.technophere.com/monst/char/6877/#f8285",
+      "evolution": "獣神化・改",
+      "type": "反射",
+      "style": "超バランス",
+      "race": "魔王"
+    },
+    {
       "id": "8286",
       "name": "シオン",
       "attribute": "闇",
@@ -2276,50 +2320,6 @@
       "evolution": "進化",
       "type": "反射",
       "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8593",
-      "name": "ニャアン",
-      "attribute": "闇",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8592/#f8593",
-      "evolution": "獣神化",
-      "type": "貫通",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8594",
-      "name": "シャア",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8594/#f8594",
-      "evolution": "獣神化",
-      "type": "反射",
-      "style": "スピード",
-      "race": "ロボット"
-    },
-    {
-      "id": "8595",
-      "name": "ザク",
-      "attribute": "火",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8595/#f8595",
-      "evolution": "進化",
-      "type": "反射",
-      "style": "バランス",
-      "race": "ロボット"
-    },
-    {
-      "id": "8596",
-      "name": "ゲーツキャパ",
-      "attribute": "水",
-      "abilities": [],
-      "source": "https://game.technophere.com/monst/char/8596/#f8596",
-      "evolution": "進化",
-      "type": "貫通",
-      "style": "砲撃",
       "race": "ロボット"
     }
   ]
